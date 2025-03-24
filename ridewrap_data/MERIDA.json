@@ -1,0 +1,1964 @@
+[
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 600",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 800",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "10K",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "XT",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "3000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "TR 8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "TR 5000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "400",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "500",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "700",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "900",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "775",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "875",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "675",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "400",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 600",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 800",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.TRAIL",
+    "sub_model": "600",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.TRAIL",
+    "sub_model": "500",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.TRAIL",
+    "sub_model": "400",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.TRAIL",
+    "sub_model": "200",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.TRAIL",
+    "sub_model": "700",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "400",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "500",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "700",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "900",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400 EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "475",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "475 EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "575",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400 SE",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "775",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "5000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "9000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "875",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "675",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "400",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY SL",
+    "sub_model": "6000",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY SL",
+    "sub_model": "8000",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY SL",
+    "sub_model": "10K",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "8000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "7000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "6000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "RC 9000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "RC XT",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "RC 5000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "RC 10K",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "5000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "XT",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "NINETY-SIX",
+    "sub_model": "9000",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "800",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "600",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 600",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 800",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-TWENTY",
+    "sub_model": "700",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-TWENTY",
+    "sub_model": "600",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-TWENTY",
+    "sub_model": "400",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-TWENTY",
+    "sub_model": "RC 300",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "10K",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "XT",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "3000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "TR 8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "BIG.NINE",
+    "sub_model": "TR 5000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "400",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "500",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "700",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "900",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400 EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "475",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "475 EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "575",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "EQ",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-FORTY",
+    "sub_model": "400 SE",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2020,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "9000",
+    "year_from": 2020,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2020,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "5000",
+    "year_from": 2020,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "775",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "5000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "9000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "875",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "675",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "400",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 600",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 800",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "400",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "500",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "700",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-EIGHTY",
+    "sub_model": "900",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "775",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "975 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "500 SE",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "5000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "9000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "875",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "675",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "575",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "400",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "10k",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-FORTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "400",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "500",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "700",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 600",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 400",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "FR 800",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "6000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "8000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "10K",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "ONE-SIXTY",
+    "sub_model": "7000",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

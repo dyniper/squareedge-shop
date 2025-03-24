@@ -1,0 +1,2330 @@
+[
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "750",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "RX",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "RR",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "R",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "SE",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Factor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "24\"",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR 29",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "750",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "RX",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "RR",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "R",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "SE",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "XR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dusk",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dusk",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dusk",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Play",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "26\"",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC RR",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Factor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "26\"",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze",
+    "sub_model": "Base Model",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR 29",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "RX",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "RR",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "R",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chrono Carbon",
+    "sub_model": "SE",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Dune",
+    "sub_model": "XR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC RR",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "DC",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "RR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Podium Carbon",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze",
+    "sub_model": "Base Model",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR 29",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "RX",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "XR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R 29",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Foxy Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "R",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Neat",
+    "sub_model": "RR SL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "29",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Raze Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR 29",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "R",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy Carbon",
+    "sub_model": "RR",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Sly",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Alloy"
+  }
+]

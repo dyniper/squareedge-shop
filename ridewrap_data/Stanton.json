@@ -1,0 +1,54 @@
+[
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER FS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "16.5",
+    "frame_material": "Titanium"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER",
+    "sub_model": "Taiwan 4130",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "16.5",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER",
+    "sub_model": "UK 631",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "16.5",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER",
+    "sub_model": "UK 631",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "18",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER",
+    "sub_model": "Taiwan 4130",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "18",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER FS",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "18",
+    "frame_material": "Steel"
+  }
+]

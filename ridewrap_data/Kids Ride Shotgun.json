@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Kids Ride Shotgun",
+    "model": "Dirt Hero",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "12",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kids Ride Shotgun",
+    "model": "Dirt Hero",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "14",
+    "frame_material": "Alloy"
+  }
+]

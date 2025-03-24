@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Ari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wire Peak 2.0",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Delano Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Superior Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Superior Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Ari",
+    "model": "Kings Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "La Sal Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Delano Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ari",
+    "model": "Kings Peak",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

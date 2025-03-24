@@ -1,0 +1,137 @@
+[
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "E-Sommet",
+    "sub_model": "VRX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "E-Sommet",
+    "sub_model": "VRS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "E-Sommet",
+    "sub_model": "VR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Mythique",
+    "sub_model": "VRX",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Mythique",
+    "sub_model": "VRS",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Mythique",
+    "sub_model": "VR",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Vitus",
+    "model": "Rapide FS",
+    "sub_model": "CRS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

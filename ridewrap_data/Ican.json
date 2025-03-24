@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Ican",
+    "model": "P9",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Ican",
+    "model": "SNO4",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "20",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "100",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZHT-5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "100",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZHT-5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "100",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

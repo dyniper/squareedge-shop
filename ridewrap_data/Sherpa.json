@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Sherpa",
+    "model": "Everest",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sherpa",
+    "model": "Everest",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  }
+]

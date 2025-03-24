@@ -1,0 +1,128 @@
+[
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
+    "sub_model": "1",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.150",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.150",
+    "sub_model": "2",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.150",
+    "sub_model": "1",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.130",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.130",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.130",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.130",
+    "sub_model": "1",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon"
+  }
+]

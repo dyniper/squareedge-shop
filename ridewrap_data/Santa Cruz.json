@@ -1,0 +1,1666 @@
+[
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "TR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "XC",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "TR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "XC",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bullit",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower LT",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Jackal",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "TR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "XC",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bullit",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower LT",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Jackal",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "TR",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Blur",
+    "sub_model": "XC",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bullit",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Highball",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower LT",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Vala CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bronson CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Bullit",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler MX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Heckler SL",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower C",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower CC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Hightower LT",
+    "year_from": 2016,
+    "year_to": 2019,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Megatower",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Nomad",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Tallboy",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "V10",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  }
+]

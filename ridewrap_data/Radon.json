@@ -1,0 +1,209 @@
+[
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "16",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "16",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "16",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "8.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "9.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "10.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "9.0",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0 HD",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "8.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "9.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 HD Supreme 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "8.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "9.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 HD Supreme 625",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

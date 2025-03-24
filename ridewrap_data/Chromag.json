@@ -1,0 +1,116 @@
+[
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "G2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Minor Threat",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Surface Voyager",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Signature",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "Long",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Darco",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Darco",
+    "sub_model": "G2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "G2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Darco",
+    "sub_model": "G2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Darco",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chromag",
+    "model": "Lowdown",
+    "sub_model": "G2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Steel"
+  }
+]

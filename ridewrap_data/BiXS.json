@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "160",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "260",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Peak",
+    "sub_model": "140",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Peak",
+    "sub_model": "240",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Peak",
+    "sub_model": "340",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

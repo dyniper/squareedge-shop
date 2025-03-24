@@ -1,0 +1,1174 @@
+[
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "Short",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator CX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "EP8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "PT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "sub_model": "UDH",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "TransAM",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "Long",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator CX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator SX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "EP8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "PT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "sub_model": "UDH",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "TransAM",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2015,
+    "year_to": 2017,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "X-Long",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator CX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator SX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "EP8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "PT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "sub_model": "UDH",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "TransAM",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Vanquish",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Patrol",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator CX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "EP8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Repeater",
+    "sub_model": "PT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "sub_model": "UDH",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "TransAM",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Relay",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transition",
+    "model": "Ripcord",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Transition",
+    "model": "Ripcord",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  }
+]

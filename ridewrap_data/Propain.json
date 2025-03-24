@@ -1,0 +1,840 @@
+[
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "Mullet Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "29 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "27.5 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 AL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Hugene",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Sresh CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "Mullet Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "29 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "27.5 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 AL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Hugene",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Sresh CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "Mullet Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "29 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "27.5 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 AL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Hugene",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Sresh CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "Mullet Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "29 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano",
+    "sub_model": "27.5 Configuration",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 AL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 2 CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Hugene",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Rage",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Spindrift",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Sresh CF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Tyee",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Propain",
+    "model": "Trickshot",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Trickshot",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Frechdax",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Yuma",
+    "sub_model": "24",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Propain",
+    "model": "Yuma",
+    "sub_model": "26",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  }
+]

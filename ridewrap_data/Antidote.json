@@ -1,0 +1,66 @@
+[
+  {
+    "brand": "Antidote",
+    "model": "Carbonjack",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Darkmatter",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Woodsprite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Carbonjack",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Darkmatter",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Woodsprite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Carbonjack",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Antidote",
+    "model": "Darkmatter",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Nicolai",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nicolai",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nicolai",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  }
+]

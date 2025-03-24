@@ -1,0 +1,202 @@
+[
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Wayward",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Titanium"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

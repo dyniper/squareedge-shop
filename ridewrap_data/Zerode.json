@@ -1,0 +1,398 @@
+[
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Enduro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S(420)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Voyager",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S(420)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Delux",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S(420)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S(420)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S(420)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Signature",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M(445)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Standard",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Perfromance",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Enduro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M(445)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M(445)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Performance",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "G3",
+    "sub_model": "Origin",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "Medium",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Zerode",
+    "model": "G3",
+    "sub_model": "Full Build",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "Medium",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Delux",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M(445)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Voyager",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M(445)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Standard",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Signature",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "445",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Voyager",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha Mullet",
+    "sub_model": "Delux",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Delux",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Standard",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Performance",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Signature",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Origin",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Voyager",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Delux",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Origin",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Voyager",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Enduro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Perfromance",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L(475)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Signature",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Standard",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Standard",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Signature",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Taniwha",
+    "sub_model": "Performance",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "475",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Voyager",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Origin",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Delux",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Signature",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Performance",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Zerode",
+    "model": "Katipo",
+    "sub_model": "Standard",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL(505)",
+    "frame_material": "Carbon"
+  }
+]

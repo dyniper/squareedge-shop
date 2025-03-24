@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "Kellys",
+    "model": "Theos",
+    "sub_model": "F90",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Kellys",
+    "model": "Theos",
+    "sub_model": "F70",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Kellys",
+    "model": "Theos",
+    "sub_model": "F50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

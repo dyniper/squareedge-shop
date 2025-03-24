@@ -1,0 +1,281 @@
+[
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Factory",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Factory",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Burn",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Ikki",
+    "sub_model": "Factory",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Unno",
+    "model": "Dash",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon"
+  }
+]

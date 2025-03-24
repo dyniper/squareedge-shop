@@ -1,0 +1,19 @@
+[
+  {
+    "brand": "Sonder",
+    "model": "Broken Road Pinion",
+    "sub_model": "Pinion",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Titanium"
+  },
+  {
+    "brand": "Sonder",
+    "model": "Evol",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

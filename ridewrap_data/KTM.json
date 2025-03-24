@@ -1,0 +1,659 @@
+[
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7971",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7972",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7973",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Exonic",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Prowler",
+    "sub_model": "Master",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Prowler",
+    "sub_model": "Exonic",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Prime",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Master",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Exonic",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7971",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7972",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7973",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Exonic",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Prime",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Glorious",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Myroon",
+    "sub_model": "Exonic",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Prowler",
+    "sub_model": "Master",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Prowler",
+    "sub_model": "Exonic",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Elite",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Glorious",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Elite",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7971",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7972",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "7973",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Kapoho",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "771",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "771 Glorious",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "772",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "772 Glorious",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Exonic",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Prestige",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Master",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Prowler",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Exonic",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Prime",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Master",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

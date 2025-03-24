@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Bergamont",
+    "model": "E-Trailster",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Trailster",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  }
+]

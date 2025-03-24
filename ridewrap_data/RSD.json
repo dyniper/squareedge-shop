@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "RSD",
+    "model": "Middlechild",
+    "sub_model": "V2 Cr-Mo",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "RSD",
+    "model": "Sergeant",
+    "sub_model": "V5 AL",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "RSD",
+    "model": "RS-291",
+    "sub_model": "Cr-Mo",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XO",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle GX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle NX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle NX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XO",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle GX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle XO",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle GX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Borealis",
+    "model": "Crestone",
+    "sub_model": "Eagle NX",
+    "year_from": 2016,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

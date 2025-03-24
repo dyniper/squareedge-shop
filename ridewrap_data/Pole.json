@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Pole",
+    "model": "Evolink",
+    "sub_model": "158",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Pole",
+    "model": "Evolink",
+    "sub_model": "140",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  }
+]

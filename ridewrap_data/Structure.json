@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Structure",
+    "model": "SCW1",
+    "sub_model": "Janus",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "G2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Structure",
+    "model": "SCW1",
+    "sub_model": "Foundation",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "G2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Structure",
+    "model": "SCW1",
+    "sub_model": "Janus",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "G3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Structure",
+    "model": "SCW1",
+    "sub_model": "Foundation",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "G3",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "Stevens",
+    "model": "E-Inception",
+    "sub_model": "AM 8.7.1 GTF",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Stevens",
+    "model": "E-Inception",
+    "sub_model": "ED 8.7.1 GTF",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Stevens",
+    "model": "E-Inception",
+    "sub_model": "AM 9.7.1 GTF",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "brand": "Esker",
+    "model": "Hayduke",
+    "sub_model": "Ti",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Titanium"
+  },
+  {
+    "brand": "Esker",
+    "model": "Hayduke",
+    "sub_model": "Steel",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Esker",
+    "model": "Rowl",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon"
+  }
+]

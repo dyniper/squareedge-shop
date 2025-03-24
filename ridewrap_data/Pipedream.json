@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Pipedream",
+    "model": "Sirius",
+    "sub_model": "S5",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Longish",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "Moxie",
+    "sub_model": "Mx3",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Longish",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "Sirius",
+    "sub_model": "S5",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Long",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "The Full Moxie",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Long",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "Moxie",
+    "sub_model": "Mx3",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Long",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "Sirius",
+    "sub_model": "S5",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Longer",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "Moxie",
+    "sub_model": "Mx3",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Longer",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Pipedream",
+    "model": "The Full Moxie",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "Longer",
+    "frame_material": "Steel"
+  }
+]

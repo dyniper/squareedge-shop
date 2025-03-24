@@ -1,0 +1,34 @@
+[
+  {
+    "brand": "GeoMetron",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "Longer",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GeoMetron",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "Longest",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GeoMetron",
+    "model": "G1",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GeoMetron",
+    "model": "G1",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "Extra Longest",
+    "frame_material": "Alloy"
+  }
+]

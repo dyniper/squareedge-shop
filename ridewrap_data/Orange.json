@@ -1,0 +1,1217 @@
+[
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "RS",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "RS",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Chassis",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Base",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro-Line",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "SE",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "RS",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "327",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "RS",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Chassis",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Charger",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Clockwork",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Clockwork",
+    "sub_model": "Base",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "R",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Crush",
+    "sub_model": "Base",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Five Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro-Line",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "XTR",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "RS",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Alpine Evo",
+    "sub_model": "Chassis",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Pro-Line",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Orange",
+    "model": "Phase MX",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

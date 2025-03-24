@@ -1,0 +1,101 @@
+[
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "180",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Featherweight",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "175",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "190",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "190",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "TARVO",
+    "sub_model": "V2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "185",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Superduty",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "185",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Featherweight",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "185",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "TARVO",
+    "sub_model": "V2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "195",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "200",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "200",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Superduty",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "195",
+    "frame_material": "Carbon"
+  }
+]

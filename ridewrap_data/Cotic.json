@@ -1,0 +1,210 @@
+[
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "C1",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "C2",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "RocketMAX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "C2",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFeMax",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "C3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "C3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "RocketMAX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "C3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFeMax",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFeMax",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "SolarisMAX",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFe",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "C4",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "C4",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "C4",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "RocketMAX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "C4",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "RocketMAX",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "C5",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "SolarisMAX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "C5",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Rocket",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFeMax",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "C5",
+    "frame_material": "Steel"
+  }
+]

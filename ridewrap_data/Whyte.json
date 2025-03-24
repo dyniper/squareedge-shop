@@ -1,0 +1,767 @@
+[
+  {
+    "brand": "Whyte",
+    "model": "901",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "901",
+    "sub_model": "V4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "140 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 RSX",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVo Stag Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS Trail",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 S",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 RS",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "909",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "909",
+    "sub_model": "V4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V1 S",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V1 RS",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 RS",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "V3 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "140 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 RSX",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVo Stag Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS Trail",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 S",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 RS",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160",
+    "sub_model": "RS",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160 V3",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160 V3",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "629",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "629",
+    "sub_model": "V4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "905",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "905",
+    "sub_model": "V4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "909",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "909",
+    "sub_model": "V4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-150",
+    "sub_model": "V2 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-150",
+    "sub_model": "V2 RS",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 RS",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "RSX",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "V2 S",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "V2 RS",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "Works MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "S MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "RSX MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "140 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "150 RSX",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVo Stag Works",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "ELyte",
+    "sub_model": "EVO RS Trail",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 S",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 RS",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 Works",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "G-180",
+    "sub_model": "V1 RS",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-140",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160 V3",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-160 V3",
+    "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-150",
+    "sub_model": "V2 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-150",
+    "sub_model": "V2 RS",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 S",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-160",
+    "sub_model": "V2 RS",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "Works MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "S MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Whyte",
+    "model": "E-180",
+    "sub_model": "RSX MX",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Felt",
+    "model": "Compulsion",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Felt",
+    "model": "Compulsion",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

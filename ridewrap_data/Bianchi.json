@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "Bianchi",
+    "model": "e-Omnia FX",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Bianchi",
+    "model": "Methanalo CV FS",
+    "sub_model": "9.1",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "19",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Bianchi",
+    "model": "Methanalo CV FS",
+    "sub_model": "9.2",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "19",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Bianchi",
+    "model": "Methanalo CV FS",
+    "sub_model": "9.3",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "19",
+    "frame_material": "Carbon"
+  }
+]

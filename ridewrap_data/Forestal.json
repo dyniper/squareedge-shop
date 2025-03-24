@@ -1,0 +1,53 @@
+[
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Pedal assisted",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cyon",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Hydra",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Pedal assisted",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cyon",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Pedal assisted",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

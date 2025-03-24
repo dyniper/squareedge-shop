@@ -1,0 +1,588 @@
+[
+  {
+    "brand": "Nukeproof",
+    "model": "Cub Scout",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "20",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "297",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "290",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "297",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "290",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Frame Only",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Frame Only",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "V3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "V3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Solum",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "Regular",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "297",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "290",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Frame Only",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Frame Only",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "V3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "297",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "290",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2020,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Megawatt",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "Frame Only",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "V3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Scout",
+    "sub_model": "V3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Giga",
+    "sub_model": "290",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  }
+]

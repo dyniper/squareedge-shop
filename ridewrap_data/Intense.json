@@ -1,0 +1,1613 @@
+[
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "XC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M1",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "M16",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "S",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Fro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "XC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Factory",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Expert",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Pro",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Elite",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M1",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "M16",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "S",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Fro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "S",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Factory",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "XC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Factory",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Expert",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Pro",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Elite",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "DJ",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "M1",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "M16",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "FRO",
+    "year_from": 2019,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "S",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Fro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Factory",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "XC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "Trail",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Factory",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Expert",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Pro",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Carbine",
+    "sub_model": "Elite",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M1",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "M16",
+    "year_from": 2018,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "M29",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Elite",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Foundation",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Factory",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "S",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Primer",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper",
+    "sub_model": "XC Fro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Sniper T",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Factory",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Fox Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tracer",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "951",
+    "sub_model": "E-Xplore",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "DVO Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "DVO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "DVO Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "S",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "DVO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "MX Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Alloy"
+  }
+]

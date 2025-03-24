@@ -1,0 +1,83 @@
+[
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "16 29",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "16 MX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "18 MX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "15 29",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "16 29",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "15 29",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "18 MX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "16 MX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Kavenz",
+    "model": "VHP",
+    "sub_model": "V7",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

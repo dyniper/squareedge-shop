@@ -1,0 +1,281 @@
+[
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "2.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Trail",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "2.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Light Trail",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECA",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Light Trail",
+    "sub_model": "2.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Enduro",
+    "sub_model": "2.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GasGas",
+    "model": "G Trail",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "4",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "SM",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "4",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "4",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "ECC",
+    "sub_model": "4",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GasGas",
+    "model": "MXC",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "LXL",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "brand": "Niner",
+    "model": "WFO e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "RKT 9 RDO",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9 RDO",
+    "year_from": 2018,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "SIR 9",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "RKT 9 RDO",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Niner",
+    "model": "RKT 9 RDO",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

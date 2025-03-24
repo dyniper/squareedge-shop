@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Transalpes",
+    "model": "C2",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transalpes",
+    "model": "C2",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Transalpes",
+    "model": "E1",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

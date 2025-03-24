@@ -1,0 +1,934 @@
+[
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force Current",
+    "sub_model": "E-AMP",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force Current",
+    "sub_model": "E-AMP",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Rigid",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Sport",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "ST Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar",
+    "sub_model": "LT Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar",
+    "sub_model": "LT Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "ST Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar",
+    "year_from": 2018,
+    "year_to": 2018,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar",
+    "sub_model": "LT Expert",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar",
+    "sub_model": "LT Elite",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Force",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Carbon Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Carbon Expert",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Carbon Elite",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Sport",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "ST Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "GT",
+    "model": "Stomper",
+    "sub_model": "FS Ace",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  }
+]

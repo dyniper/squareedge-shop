@@ -1,0 +1,376 @@
+[
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Bearpaw Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Kingpin Deluxe Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Kingpin Deluxe Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Horsethief",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Spearfish",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Bearpaw Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Kingpin Deluxe Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "HeyDay!",
+    "sub_model": "C Deore 12",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "HeyDay!",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Horsethief",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Mukluk",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Rangefinder",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Spearfish",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Timberjack",
+    "sub_model": "AL",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Bearpaw Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Kingpin Deluxe Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "HeyDay!",
+    "sub_model": "C Deore 12",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "HeyDay!",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Horsethief",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Mukluk",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Rangefinder",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Rustler",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Spearfish",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Bearpaw Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Beargrease",
+    "sub_model": "Kingpin Deluxe Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Cassidy",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Horsethief",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Mukluk",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Rangefinder",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Spearfish",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

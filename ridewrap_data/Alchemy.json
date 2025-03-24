@@ -1,0 +1,215 @@
+[
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "120",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "125",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "140",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos UDH",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos UDH",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "120",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "125",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "140",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos UDH",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "120",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 150",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "MX 135",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "140",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Alchemy",
+    "model": "Arktos",
+    "sub_model": "125",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "brand": "Sunn",
+    "model": "Prim",
+    "sub_model": "S2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Prim",
+    "sub_model": "S1",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Prim",
+    "sub_model": "Finest",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EL Finest",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EL S1",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EL S2",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EN Factory",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EN Finest",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Sunn",
+    "model": "Kern",
+    "sub_model": "EN S1",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

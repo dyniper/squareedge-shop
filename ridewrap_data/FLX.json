@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "FLX",
+    "model": "The Weapon",
+    "sub_model": "Weapon X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLX",
+    "model": "The Weapon",
+    "sub_model": "Weapon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  }
+]

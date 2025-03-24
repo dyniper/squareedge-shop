@@ -1,0 +1,653 @@
+[
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Renegade",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Renegade",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pistola",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Renegade",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Frameset",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Mx Rally 29/27.5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "2",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Renegade",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Renegade",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pedalhead",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pedalhead",
+    "sub_model": "Rally",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pedalhead",
+    "sub_model": "Ride",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Mx Rally 29/27.5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Renegade",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Renegade",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon"
+  }
+]

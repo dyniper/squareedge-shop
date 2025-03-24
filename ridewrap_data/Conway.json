@@ -1,0 +1,134 @@
+[
+  {
+    "brand": "Conway",
+    "model": "eWME",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "WME",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "5.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "4.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "3.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "2.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "SUV",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "eWME",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "RYVON",
+    "sub_model": "ST",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Conway",
+    "model": "RYVON",
+    "sub_model": "LT",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "5.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "4.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "3.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "2.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "SUV",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  }
+]

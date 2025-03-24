@@ -1,0 +1,335 @@
+[
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Drive",
+    "sub_model": "LT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Drive",
+    "sub_model": "MT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "MT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "LT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Drive",
+    "sub_model": "MT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Drive",
+    "sub_model": "LT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "LT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "MT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "LT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Haste",
+    "sub_model": "MT",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "ST Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "LT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Comp",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Advanced",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Eminent",
+    "model": "Onset",
+    "sub_model": "MT Pro",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

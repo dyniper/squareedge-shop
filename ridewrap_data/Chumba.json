@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Chumba",
+    "model": "Sendero",
+    "sub_model": "Steel",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Chumba",
+    "model": "Stella",
+    "sub_model": "Ti",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Titanium"
+  }
+]

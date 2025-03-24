@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 9.9",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "9.5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 9.2",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 9.0",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "8.5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "8.0",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 7.5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "7.0",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 6.5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "BH Bikes",
+    "model": "Lynx Race",
+    "sub_model": "LT 6.0",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  }
+]

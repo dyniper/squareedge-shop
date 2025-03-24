@@ -1,0 +1,749 @@
+[
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "5",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "HardSeven",
+    "sub_model": "4",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "HardSeven",
+    "sub_model": "5",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 10",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF SE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Trekking",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Trekking",
+    "sub_model": "7",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "SE",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "6",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "7",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "3",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "5",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "10",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 9",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 11",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF SE",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF12",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 10",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF SE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "8 Freeride",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "SE",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "6",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "7",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "3",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "5",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "10",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 8",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 9",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 11",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF SE",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF12",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "ALLTRACK",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "ALLTRACK",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "ALLTRACK",
+    "sub_model": "7",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "5",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "9",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "5",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllTrail",
+    "sub_model": "6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Hybe",
+    "sub_model": "9",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Hybe",
+    "sub_model": "11",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 10",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF SE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Nduro",
+    "sub_model": "8 Freeride",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "XDURO Nduro",
+    "sub_model": "5.0",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "XDURO Nduro",
+    "sub_model": "8.0",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "XDURO Nduro",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "10",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "3",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 6",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF12",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 7",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 10",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF 11",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Lyke",
+    "sub_model": "CF SE",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

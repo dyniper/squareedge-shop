@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Surly",
+    "model": "Karate Monkey",
+    "sub_model": "Suspension Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Surly",
+    "model": "Karate Monkey",
+    "sub_model": "Suspension Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Surly",
+    "model": "Krampus",
+    "sub_model": "Suspension Fork",
+    "year_from": 2017,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Surly",
+    "model": "Karate Monkey",
+    "sub_model": "Rigid Fork",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Surly",
+    "model": "Krampus",
+    "sub_model": "Suspension Fork",
+    "year_from": 2017,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Surly",
+    "model": "Krampus",
+    "sub_model": "Rigid Fork",
+    "year_from": 2017,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  }
+]

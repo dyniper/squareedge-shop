@@ -1,0 +1,3722 @@
+[
+  {
+    "brand": "Cube",
+    "model": "AMS Hybrid One44 C:68X",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "S(15)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "S(15)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "S(15)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S(15)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S(15)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "EX",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ONE 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "S(16)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One22",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One22",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Hybrid One44 C:68X",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS One11 C:68X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Zero99 C:68X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Analog",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:62",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:68X",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Kathmandu Hybrid",
+    "sub_model": "750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(54)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Kathmandu Hybrid",
+    "sub_model": "625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(54)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "EXC 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SL 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 120 HPC",
+    "sub_model": "EX",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ONE 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro  625",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPA",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLT 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X TM 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLX 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M(18)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One77",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One22",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One22",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Acid",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "EX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "PRO",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Hybrid One44 C:68X",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS One11 C:68X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Zero99 C:68X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:62",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:68X",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "One",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SLX",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "EXC 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SL 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L(19)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 140 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 140 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ONE 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro  625",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLT 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X TM 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLX 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L(20)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One77",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Hybrid One44 C:68X",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS One11 C:68X",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "EXC 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SL 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 150 C:68/62",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 170",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 120",
+    "sub_model": "ONE 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro  625",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Actionteam 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "TM 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid 160 HPC",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLT 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X TM 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One55",
+    "sub_model": "C:68X SLX 750",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL(22)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One77",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One55",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "C:68X TM",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SLT",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15 HPC",
+    "sub_model": "SL",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "ABS 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 750 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 500 Allroad",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 500",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "EXC 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SL 750",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL(23)",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX  800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Alloy"
+  }
+]

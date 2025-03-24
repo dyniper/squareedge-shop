@@ -1,0 +1,272 @@
+[
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "2.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "6.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "8.70",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "9.50",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "6.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "8.70",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "9.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc",
+    "sub_model": "EVO:X",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "2.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "6.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "8.70",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "9.50",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "6.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "8.70",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "9.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc",
+    "sub_model": "EVO:X",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "2.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "6.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "8.70",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "9.50",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "6.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "8.70",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "9.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "2.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "6.10",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "8.70",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "sub_model": "9.50",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "6.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "8.70",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc6",
+    "sub_model": "9.50",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]

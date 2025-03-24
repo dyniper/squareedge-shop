@@ -1,0 +1,110 @@
+[
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "4C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "5C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "4C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "5C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "1",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "2",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "3",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "4C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "5C",
+    "year_from": 2018,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "1",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "2",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Diamondback",
+    "model": "Release",
+    "sub_model": "3",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

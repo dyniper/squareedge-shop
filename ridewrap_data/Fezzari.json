@@ -1,0 +1,445 @@
+[
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite Race",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Team",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Delano Peak",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite Race",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Team",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Timp Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wiki / Abajo/ Cascade",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite  Race",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite Race",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Team",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Timp Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Elite Race",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Team",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "La Sal Peak",
+    "sub_model": "Frameset",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Timp Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy"
+  }
+]

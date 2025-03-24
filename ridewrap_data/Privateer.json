@@ -1,0 +1,162 @@
+[
+  {
+    "brand": "Privateer",
+    "model": "E-161",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "P1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P1",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "E-161",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "P2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P2",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P3",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P3",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P3",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "E-161",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "P3",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P3",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P4",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P4",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "161",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "P4",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "141",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "P4",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Privateer",
+    "model": "E-161",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "P4",
+    "frame_material": "Alloy"
+  }
+]

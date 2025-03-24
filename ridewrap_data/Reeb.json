@@ -1,0 +1,45 @@
+[
+  {
+    "brand": "Reeb",
+    "model": "SST",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Steel"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel Mullet",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Short Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SST",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Steel"
+  }
+]

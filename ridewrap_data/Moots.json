@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Moots",
+    "model": "Womble",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Titanium"
+  },
+  {
+    "brand": "Moots",
+    "model": "Womble",
+    "sub_model": "AXS",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Titanium"
+  }
+]

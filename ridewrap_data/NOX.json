@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "NOX",
+    "model": "Hybrid",
+    "sub_model": "ALL-MTN 5.9 (Sachs)",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "NOX",
+    "model": "Hybrid",
+    "sub_model": "ENDURO 7.1 (Brose)",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy"
+  }
+]

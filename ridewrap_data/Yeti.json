@@ -1,0 +1,883 @@
+[
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T4",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "Frameset",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB135",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XS",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "160E",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ARC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T4",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "Frameset",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB100",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Flat Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Ribbed Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB130",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB135",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB150",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB160",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB6",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "S",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "160E",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ARC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T5",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T4",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "Frameset",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB100",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Flat Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Ribbed Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB130",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB135",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB150",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB160",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB6",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "160E",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ARC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T5",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T4",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "Frameset",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB100",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Flat Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Ribbed Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB130",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB135",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB150",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB160",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5+",
+    "year_from": 2018,
+    "year_to": 2018,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB6",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "160E",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ARC",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T5",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "C3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T2",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T3",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T4",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "Frameset",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB100",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Flat Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB115",
+    "sub_model": "Ribbed Chainstay Guard",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB130",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB135",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB150",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB160",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB165",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB6",
+    "year_from": 2017,
+    "year_to": 2018,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB120",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB140",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Yeti",
+    "model": "SB160",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  }
+]

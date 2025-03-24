@@ -1,0 +1,74 @@
+[
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon Pro",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon Pro",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon Pro",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon Pro",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XXL",
+    "frame_material": "Carbon"
+  }
+]

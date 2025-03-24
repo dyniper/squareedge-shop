@@ -1,0 +1,19 @@
+[
+  {
+    "brand": "Spawn",
+    "model": "Rokk",
+    "sub_model": "24/26",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  },
+  {
+    "brand": "Spawn",
+    "model": "Yama Jama",
+    "year_from": 2019,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy"
+  }
+]

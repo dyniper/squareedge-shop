@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CL Mk1",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk2",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon"
+  }
+]
