@@ -5,7 +5,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Reeb",
@@ -14,7 +15,8 @@
     "year_from": 2022,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Reeb",
@@ -23,7 +25,8 @@
     "year_from": 2022,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Reeb",
@@ -32,7 +35,8 @@
     "year_from": 2022,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Reeb",
@@ -40,6 +44,7 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   }
 ]

@@ -6,7 +6,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Longish",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -15,7 +16,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Longish",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -24,7 +26,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Long",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -32,7 +35,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Long",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Pipedream",
@@ -41,7 +45,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Long",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -50,7 +55,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Longer",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -59,7 +65,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Longer",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Pipedream",
@@ -67,6 +74,7 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "Longer",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   }
 ]

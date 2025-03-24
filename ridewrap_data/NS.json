@@ -6,7 +6,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -14,7 +15,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "NS",
@@ -23,7 +25,8 @@
     "year_from": 2020,
     "year_to": 2024,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "NS",
@@ -32,7 +35,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -41,7 +45,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -50,7 +55,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -59,7 +65,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "NS",
@@ -68,7 +75,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -76,7 +84,8 @@
     "year_from": 2019,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "NS",
@@ -85,7 +94,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "NS",
@@ -93,6 +103,7 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "ONESIZE",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   }
 ]

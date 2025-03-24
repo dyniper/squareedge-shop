@@ -5,6 +5,7 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   }
 ]

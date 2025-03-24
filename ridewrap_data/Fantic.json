@@ -6,7 +6,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Fantic",
@@ -15,7 +16,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Fantic",
@@ -24,7 +26,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Fantic",
@@ -33,7 +36,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Fantic",
@@ -42,7 +46,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Fantic",
@@ -51,6 +56,7 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

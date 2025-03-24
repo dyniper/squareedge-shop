@@ -5,7 +5,8 @@
     "year_from": 2018,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Ican",
@@ -13,6 +14,7 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "20",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26/27"
   }
 ]

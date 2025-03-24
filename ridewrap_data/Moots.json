@@ -6,7 +6,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Titanium"
+    "frame_material": "Titanium",
+    "wheel_size": "29"
   },
   {
     "brand": "Moots",
@@ -15,6 +16,7 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Titanium"
+    "frame_material": "Titanium",
+    "wheel_size": "29"
   }
 ]

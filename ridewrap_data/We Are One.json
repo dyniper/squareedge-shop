@@ -6,7 +6,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -15,7 +16,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -24,7 +26,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -33,7 +36,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -42,7 +46,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -51,7 +56,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M/SZ1",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -60,7 +66,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -69,7 +76,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -78,7 +86,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -87,7 +96,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -96,7 +106,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -105,7 +116,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L/SZ2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -114,7 +126,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -123,7 +136,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -132,7 +146,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "We Are One",
@@ -141,7 +156,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -150,7 +166,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "We Are One",
@@ -159,6 +176,7 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL/SZ3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   }
 ]

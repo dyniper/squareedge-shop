@@ -5,7 +5,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Prime",
@@ -13,6 +14,7 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   }
 ]

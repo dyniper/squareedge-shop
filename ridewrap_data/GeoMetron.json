@@ -5,7 +5,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "Longer",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "GeoMetron",
@@ -13,7 +14,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "Longest",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "GeoMetron",
@@ -21,7 +23,8 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "GeoMetron",
@@ -29,6 +32,7 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "Extra Longest",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

@@ -5,7 +5,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -13,7 +14,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -21,7 +23,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -29,7 +32,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -37,7 +41,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -45,7 +50,8 @@
     "year_from": 2018,
     "year_to": 2021,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -53,7 +59,8 @@
     "year_from": 2021,
     "year_to": 2022,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -61,7 +68,8 @@
     "year_from": 2019,
     "year_to": 2020,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -69,7 +77,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -77,7 +86,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -85,7 +95,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -93,7 +104,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -101,7 +113,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -109,7 +122,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -117,7 +131,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -125,7 +140,8 @@
     "year_from": 2019,
     "year_to": 2020,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -133,7 +149,8 @@
     "year_from": 2021,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -141,7 +158,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -149,7 +167,8 @@
     "year_from": 2018,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -157,7 +176,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -165,7 +185,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -173,7 +194,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -181,7 +203,8 @@
     "year_from": 2018,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -189,7 +212,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -197,7 +221,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -205,7 +230,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -213,7 +239,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -221,7 +248,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -229,7 +257,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -237,7 +266,8 @@
     "year_from": 2019,
     "year_to": 2020,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -245,7 +275,8 @@
     "year_from": 2021,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -253,7 +284,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Juliana",
@@ -261,7 +293,8 @@
     "year_from": 2017,
     "year_to": 2018,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -269,7 +302,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -277,7 +311,8 @@
     "year_from": 2019,
     "year_to": 2019,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -285,7 +320,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -293,7 +329,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -301,7 +338,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -309,7 +347,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -317,7 +356,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -325,7 +365,8 @@
     "year_from": 2018,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -333,7 +374,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -341,7 +383,8 @@
     "year_from": 2020,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -349,7 +392,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Juliana",
@@ -357,7 +401,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Juliana",
@@ -365,6 +410,7 @@
     "year_from": 2018,
     "year_to": 2021,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   }
 ]

@@ -6,7 +6,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "ARC8",
@@ -15,7 +16,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "ARC8",
@@ -23,7 +25,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -32,7 +35,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "ARC8",
@@ -41,7 +45,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "ARC8",
@@ -50,7 +55,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -59,7 +65,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -67,7 +74,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -75,7 +83,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -84,7 +93,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -93,7 +103,8 @@
     "year_from": 2019,
     "year_to": 2024,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -101,7 +112,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "ARC8",
@@ -110,7 +122,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "ARC8",
@@ -119,6 +132,7 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   }
 ]

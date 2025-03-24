@@ -5,7 +5,8 @@
     "year_from": 2020,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Sherpa",
@@ -13,6 +14,7 @@
     "year_from": 2020,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   }
 ]

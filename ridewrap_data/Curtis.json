@@ -5,6 +5,7 @@
     "year_from": 2017,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "27"
   }
 ]

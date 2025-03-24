@@ -5,7 +5,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Felt",
@@ -13,6 +14,7 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   }
 ]

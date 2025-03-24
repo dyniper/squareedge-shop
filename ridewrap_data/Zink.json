@@ -5,6 +5,7 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

@@ -6,7 +6,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -14,7 +15,8 @@
     "year_from": 2021,
     "year_to": 2022,
     "size": "S2",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "Chromag",
@@ -23,7 +25,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -31,7 +34,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -39,7 +43,8 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "Long",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "Chromag",
@@ -48,7 +53,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -57,7 +63,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -66,7 +73,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -75,7 +83,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -84,7 +93,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "ML",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -93,7 +103,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "ML",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -102,7 +113,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "ML",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Chromag",
@@ -111,6 +123,7 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "ML",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   }
 ]

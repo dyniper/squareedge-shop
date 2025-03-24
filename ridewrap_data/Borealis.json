@@ -6,7 +6,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -15,7 +16,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -24,7 +26,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -33,7 +36,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -42,7 +46,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -51,7 +56,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -60,7 +66,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -69,7 +76,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -78,7 +86,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -87,7 +96,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -96,7 +106,8 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   },
   {
     "brand": "Borealis",
@@ -105,6 +116,7 @@
     "year_from": 2016,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "26"
   }
 ]

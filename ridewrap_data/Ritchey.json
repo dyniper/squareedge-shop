@@ -6,7 +6,8 @@
     "year_from": 2019,
     "year_to": 2025,
     "size": "20.5",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   },
   {
     "brand": "Ritchey",
@@ -15,6 +16,7 @@
     "year_from": 2019,
     "year_to": 2025,
     "size": "20.5",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
   }
 ]

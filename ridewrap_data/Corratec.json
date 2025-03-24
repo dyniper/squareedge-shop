@@ -6,7 +6,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "47",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Corratec",
@@ -15,7 +16,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "47",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Corratec",
@@ -24,7 +26,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "47",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Corratec",
@@ -33,6 +36,7 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "47",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

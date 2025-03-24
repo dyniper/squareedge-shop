@@ -6,7 +6,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -15,7 +16,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -24,7 +26,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -33,7 +36,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -42,7 +46,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -51,7 +56,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -60,7 +66,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -69,7 +76,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Kavenz",
@@ -78,6 +86,7 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

@@ -6,7 +6,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Production Privee",
@@ -15,7 +16,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Production Privee",
@@ -24,7 +26,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Production Privee",
@@ -33,7 +36,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   },
   {
     "brand": "Production Privee",
@@ -42,6 +46,7 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "29"
   }
 ]

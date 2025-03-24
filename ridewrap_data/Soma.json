@@ -6,6 +6,7 @@
     "year_from": 2018,
     "year_to": 2025,
     "size": "51",
-    "frame_material": "Steel"
+    "frame_material": "Steel",
+    "wheel_size": "700/650"
   }
 ]

@@ -6,7 +6,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L(20)",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Stevens",
@@ -15,7 +16,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L(20)",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Stevens",
@@ -24,6 +26,7 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "L(20)",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   }
 ]

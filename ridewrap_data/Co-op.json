@@ -6,6 +6,7 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XS",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   }
 ]

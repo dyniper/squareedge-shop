@@ -6,7 +6,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -15,7 +16,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -24,7 +26,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -33,7 +36,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -42,7 +46,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -51,7 +56,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -60,7 +66,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -69,7 +76,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -78,7 +86,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -87,7 +96,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -96,7 +106,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -105,7 +116,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -114,7 +126,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -123,7 +136,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -132,7 +146,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -141,7 +156,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -150,7 +166,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -159,7 +176,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -168,7 +186,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -177,7 +196,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -186,7 +206,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -195,7 +216,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -204,7 +226,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -213,7 +236,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -222,7 +246,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -231,7 +256,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -240,7 +266,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -249,7 +276,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -258,7 +286,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -267,7 +296,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -276,7 +306,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -285,7 +316,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -294,7 +326,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -303,7 +336,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -312,7 +346,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -321,7 +356,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -330,7 +366,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -339,7 +376,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -348,7 +386,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -357,7 +396,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -366,7 +406,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -374,7 +415,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -383,7 +425,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "GT",
@@ -392,7 +435,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -401,7 +445,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -410,7 +455,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -419,7 +465,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -428,7 +475,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -437,7 +485,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -446,7 +495,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -455,7 +505,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -464,7 +515,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -473,7 +525,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -482,7 +535,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -491,7 +545,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -500,7 +555,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -509,7 +565,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -518,7 +575,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -527,7 +585,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -536,7 +595,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -545,7 +605,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -554,7 +615,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -563,7 +625,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -572,7 +635,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -581,7 +645,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -590,7 +655,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -599,7 +665,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -608,7 +675,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -617,7 +685,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -626,7 +695,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -634,7 +704,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -643,7 +714,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "GT",
@@ -652,7 +724,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "GT",
@@ -661,7 +734,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -670,7 +744,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -679,7 +754,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -688,7 +764,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -696,7 +773,8 @@
     "year_from": 2018,
     "year_to": 2018,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -705,7 +783,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -714,7 +793,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -723,7 +803,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -732,7 +813,8 @@
     "year_from": 2019,
     "year_to": 2021,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "GT",
@@ -741,7 +823,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -750,7 +833,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -759,7 +843,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -768,7 +853,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -777,7 +863,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -786,7 +873,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -795,7 +883,8 @@
     "year_from": 2022,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -804,7 +893,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -813,7 +903,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -822,7 +913,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -831,7 +923,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -839,7 +932,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -848,7 +942,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -857,7 +952,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -866,7 +962,8 @@
     "year_from": 2019,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -875,7 +972,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -884,7 +982,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -893,7 +992,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -902,7 +1002,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -911,7 +1012,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -920,7 +1022,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "GT",
@@ -929,6 +1032,7 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "ONESIZE",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   }
 ]

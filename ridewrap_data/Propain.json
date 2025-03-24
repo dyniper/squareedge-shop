@@ -5,7 +5,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XS",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -13,7 +14,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XS",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -22,7 +24,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -31,7 +34,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -40,7 +44,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -48,7 +53,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -56,7 +62,8 @@
     "year_from": 2023,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -64,7 +71,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -72,7 +80,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -80,7 +89,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -88,7 +98,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -96,7 +107,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -104,7 +116,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -112,7 +125,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -120,7 +134,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -128,7 +143,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -136,7 +152,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -144,7 +161,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "S",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -153,7 +171,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -162,7 +181,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -171,7 +191,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -179,7 +200,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -187,7 +209,8 @@
     "year_from": 2023,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -195,7 +218,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -203,7 +227,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -211,7 +236,8 @@
     "year_from": 2021,
     "year_to": 2024,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -219,7 +245,8 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -227,7 +254,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -235,7 +263,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -243,7 +272,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -251,7 +281,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -259,7 +290,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -267,7 +299,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -275,7 +308,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -283,7 +317,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -291,7 +326,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -299,7 +335,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -307,7 +344,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -315,7 +353,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -323,7 +362,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -331,7 +371,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -339,7 +380,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -347,7 +389,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -355,7 +398,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -363,7 +407,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -371,7 +416,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -379,7 +425,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -387,7 +434,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "M",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -396,7 +444,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -405,7 +454,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -414,7 +464,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -422,7 +473,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -430,7 +482,8 @@
     "year_from": 2023,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -438,7 +491,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -446,7 +500,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -454,7 +509,8 @@
     "year_from": 2021,
     "year_to": 2024,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -462,7 +518,8 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -470,7 +527,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -478,7 +536,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -486,7 +545,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -494,7 +554,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -502,7 +563,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -510,7 +572,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -518,7 +581,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -526,7 +590,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -534,7 +599,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -542,7 +608,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -550,7 +617,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -558,7 +626,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -566,7 +635,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Propain",
@@ -574,7 +644,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -582,7 +653,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -590,7 +662,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -598,7 +671,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -606,7 +680,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -614,7 +689,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "L",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -623,7 +699,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -632,7 +709,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -641,7 +719,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -649,7 +728,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -657,7 +737,8 @@
     "year_from": 2023,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -665,7 +746,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -673,7 +755,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -681,7 +764,8 @@
     "year_from": 2021,
     "year_to": 2024,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -689,7 +773,8 @@
     "year_from": 2025,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -697,7 +782,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -705,7 +791,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -713,7 +800,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -721,7 +809,8 @@
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -729,7 +818,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -737,7 +827,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -745,7 +836,8 @@
     "year_from": 2024,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Propain",
@@ -753,7 +845,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -761,7 +854,8 @@
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -769,7 +863,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -777,7 +872,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Propain",
@@ -785,7 +881,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -793,7 +890,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "XL",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Propain",
@@ -801,7 +899,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "SM",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "Propain",
@@ -809,7 +908,8 @@
     "year_from": 2022,
     "year_to": 2025,
     "size": "LXL",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "Propain",
@@ -817,7 +917,8 @@
     "year_from": 2023,
     "year_to": 2025,
     "size": "ONESIZE",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "20"
   },
   {
     "brand": "Propain",
@@ -826,7 +927,8 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "ONESIZE",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "24/26"
   },
   {
     "brand": "Propain",
@@ -835,6 +937,7 @@
     "year_from": 2021,
     "year_to": 2025,
     "size": "ONESIZE",
-    "frame_material": "Alloy"
+    "frame_material": "Alloy",
+    "wheel_size": "24/26"
   }
 ]

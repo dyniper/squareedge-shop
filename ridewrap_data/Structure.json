@@ -6,7 +6,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "G2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Structure",
@@ -15,7 +16,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "G2",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Structure",
@@ -24,7 +26,8 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "G3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Structure",
@@ -33,6 +36,7 @@
     "year_from": 2020,
     "year_to": 2025,
     "size": "G3",
-    "frame_material": "Carbon"
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   }
 ]
