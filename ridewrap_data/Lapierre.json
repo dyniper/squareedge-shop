@@ -4,7 +4,7 @@
     "model": "XR",
     "sub_model": "7.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "XR",
     "sub_model": "5.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +24,7 @@
     "model": "XR",
     "sub_model": "9.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -53,6 +53,46 @@
     "brand": "Lapierre",
     "model": "XRM",
     "sub_model": "75th",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "9.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "7.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "10.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "SE",
     "year_from": 2022,
     "year_to": 2024,
     "size": "S",
@@ -98,6 +138,56 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "9.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "7.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "10.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "4.6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "5.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Lapierre",
@@ -214,7 +304,7 @@
     "model": "Overvolt AM",
     "sub_model": "8.6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -224,7 +314,7 @@
     "model": "Overvolt AM",
     "sub_model": "7.6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -234,7 +324,7 @@
     "model": "Overvolt AM",
     "sub_model": "6.6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -244,7 +334,7 @@
     "model": "Overvolt AM",
     "sub_model": "5.6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -254,7 +344,7 @@
     "model": "Overvolt AM",
     "sub_model": "6.7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -264,7 +354,7 @@
     "model": "Overvolt AM",
     "sub_model": "8.7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -274,7 +364,7 @@
     "model": "Overvolt AM",
     "sub_model": "7.7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -284,7 +374,7 @@
     "model": "Overvolt AM",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -344,7 +434,7 @@
     "model": "XR",
     "sub_model": "7.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -354,7 +444,7 @@
     "model": "XR",
     "sub_model": "5.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -364,7 +454,7 @@
     "model": "XR",
     "sub_model": "9.9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -393,6 +483,46 @@
     "brand": "Lapierre",
     "model": "XRM",
     "sub_model": "75th",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "9.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "7.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "10.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "SE",
     "year_from": 2022,
     "year_to": 2024,
     "size": "L",
@@ -443,7 +573,7 @@
     "brand": "Lapierre",
     "model": "Zesty CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -502,6 +632,46 @@
     "brand": "Lapierre",
     "model": "XRM",
     "sub_model": "75th",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "9.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "7.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "10.9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "XRM",
+    "sub_model": "SE",
     "year_from": 2022,
     "year_to": 2024,
     "size": "XL",

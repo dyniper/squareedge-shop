@@ -4,7 +4,7 @@
     "model": "Status 2",
     "sub_model": "140 ZERO",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S0",
     "frame_material": "Alloy",
     "wheel_size": "26/27"
@@ -13,7 +13,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -23,7 +23,7 @@
     "model": "Epic",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -33,7 +33,7 @@
     "model": "Epic",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -43,7 +43,7 @@
     "model": "Epic",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -53,7 +53,7 @@
     "model": "Epic",
     "sub_model": "S-Works",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -63,7 +63,7 @@
     "model": "Epic",
     "sub_model": "S-Works Speed Of Light Collection",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -73,7 +73,77 @@
     "model": "Epic",
     "sub_model": "Pro LTD",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Pro Frameset",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Comp",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -133,7 +203,7 @@
     "model": "Epic World Cup",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -143,7 +213,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -153,7 +223,7 @@
     "model": "Epic World Cup",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -163,7 +233,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -173,7 +243,7 @@
     "model": "Epic World Cup",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -203,7 +273,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -213,7 +283,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -223,7 +293,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -233,7 +303,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -243,7 +313,7 @@
     "model": "Rockhopper",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -253,7 +323,7 @@
     "model": "Status 2",
     "sub_model": "170 ZERO",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S0",
     "frame_material": "Alloy",
     "wheel_size": "26/27"
@@ -443,7 +513,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -453,7 +523,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -463,7 +533,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -473,7 +543,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -483,7 +573,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -493,7 +583,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -503,7 +593,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -681,7 +781,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S1",
@@ -711,6 +841,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Base Model",
     "year_from": 2021,
     "year_to": 2025,
@@ -722,6 +872,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S1",
@@ -750,6 +920,66 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
@@ -763,7 +993,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -773,7 +1013,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -783,7 +1033,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -793,7 +1053,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -803,7 +1073,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -813,7 +1093,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -822,7 +1112,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -831,7 +1121,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -871,7 +1161,7 @@
     "model": "Epic",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -881,7 +1171,7 @@
     "model": "Epic",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -891,7 +1181,7 @@
     "model": "Epic",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -901,7 +1191,7 @@
     "model": "Epic",
     "sub_model": "S-Works",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -911,7 +1201,7 @@
     "model": "Epic",
     "sub_model": "S-Works Speed Of Light Collection",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -921,7 +1211,7 @@
     "model": "Epic",
     "sub_model": "Pro LTD",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -931,7 +1221,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -941,7 +1231,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -951,7 +1241,7 @@
     "model": "Epic 8",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -961,7 +1251,7 @@
     "model": "Epic 8",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -971,7 +1261,7 @@
     "model": "Epic 8",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -981,7 +1271,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -991,7 +1281,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1001,7 +1291,17 @@
     "model": "Epic 8",
     "sub_model": "EVO Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1061,7 +1361,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1071,7 +1371,7 @@
     "model": "Epic Hardtail",
     "sub_model": "S-Works",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1081,7 +1381,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1091,7 +1391,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1101,7 +1401,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1111,7 +1411,7 @@
     "model": "Epic World Cup",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1121,7 +1421,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1131,7 +1431,7 @@
     "model": "Epic World Cup",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1141,7 +1441,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1151,7 +1451,7 @@
     "model": "Epic World Cup",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1190,8 +1490,48 @@
     "brand": "Specialized",
     "model": "Rockhopper",
     "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Rockhopper",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Rockhopper",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Rockhopper",
+    "sub_model": "Sport",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Rockhopper",
+    "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1201,7 +1541,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1211,7 +1551,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1221,7 +1561,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1231,7 +1571,7 @@
     "model": "Rockhopper",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1241,7 +1581,7 @@
     "model": "Status",
     "sub_model": "160",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1251,7 +1591,7 @@
     "model": "Status",
     "sub_model": "140",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1261,7 +1601,7 @@
     "model": "Status 2",
     "sub_model": "140",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1271,7 +1611,7 @@
     "model": "Status 2",
     "sub_model": "170",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1281,7 +1621,7 @@
     "model": "Status 2",
     "sub_model": "170 DH",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1561,7 +1901,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Comp Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1571,7 +1911,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1581,7 +1921,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1591,7 +1931,17 @@
     "model": "Stumpjumper",
     "sub_model": "15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "15 Comp Alloy EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1601,7 +1951,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1611,7 +1961,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1621,7 +1971,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1631,7 +1981,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1641,7 +2011,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1651,7 +2021,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1661,7 +2031,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1838,6 +2218,26 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2019,
@@ -1859,7 +2259,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S2",
@@ -1889,6 +2319,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2025,
@@ -1909,7 +2359,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S2",
@@ -1938,6 +2418,166 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
@@ -1950,6 +2590,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2022,
     "size": "S",
@@ -1979,6 +2639,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo SL",
+    "sub_model": "Founders",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
     "year_to": 2022,
@@ -1991,7 +2671,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2001,7 +2691,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2011,7 +2711,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2021,7 +2731,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2031,7 +2751,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2041,7 +2771,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2051,7 +2791,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2061,7 +2811,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2071,7 +2831,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2081,7 +2851,17 @@
     "model": "Turbo Tero",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2091,7 +2871,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2101,7 +2891,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0 Step-Through",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2111,7 +2911,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 Step-Through EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 Step-Through EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2121,7 +2931,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 6.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 6.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2131,7 +2951,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 5.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 5.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2141,16 +2971,146 @@
     "model": "Turbo Tero",
     "sub_model": "X 4.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 4.0",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2159,7 +3119,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2169,7 +3129,7 @@
     "model": "Demo",
     "sub_model": "Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2179,7 +3139,7 @@
     "model": "Demo",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2197,6 +3157,16 @@
   {
     "brand": "Specialized",
     "model": "Enduro",
+    "sub_model": "Elite",
+    "year_from": 2017,
+    "year_to": 2017,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Enduro",
     "sub_model": "S-Works",
     "year_from": 2017,
     "year_to": 2017,
@@ -2359,7 +3329,7 @@
     "model": "Enduro",
     "sub_model": "Comp",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2369,7 +3339,7 @@
     "model": "Enduro",
     "sub_model": "Elite",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2379,7 +3349,7 @@
     "model": "Enduro",
     "sub_model": "Expert",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2389,7 +3359,7 @@
     "model": "Enduro",
     "sub_model": "Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2399,7 +3369,17 @@
     "model": "Enduro",
     "sub_model": "LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Enduro",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2409,7 +3389,7 @@
     "model": "Enduro",
     "sub_model": "S-Works",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2419,7 +3399,7 @@
     "model": "Enduro",
     "sub_model": "S-Works LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2429,7 +3409,7 @@
     "model": "Enduro",
     "sub_model": "S-Works Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2469,7 +3449,7 @@
     "model": "Epic",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2479,7 +3459,7 @@
     "model": "Epic",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2489,7 +3469,7 @@
     "model": "Epic",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2499,7 +3479,7 @@
     "model": "Epic",
     "sub_model": "S-Works",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2509,7 +3489,7 @@
     "model": "Epic",
     "sub_model": "S-Works Speed Of Light Collection",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2519,7 +3499,7 @@
     "model": "Epic",
     "sub_model": "Pro LTD",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2529,7 +3509,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2539,7 +3519,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2549,7 +3529,7 @@
     "model": "Epic 8",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2559,7 +3539,7 @@
     "model": "Epic 8",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2569,7 +3549,7 @@
     "model": "Epic 8",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2579,7 +3559,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2589,7 +3569,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2599,7 +3579,17 @@
     "model": "Epic 8",
     "sub_model": "EVO Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2659,7 +3649,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2669,7 +3659,7 @@
     "model": "Epic Hardtail",
     "sub_model": "S-Works",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2679,7 +3669,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2689,7 +3679,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2699,7 +3689,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2709,7 +3699,7 @@
     "model": "Epic World Cup",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2719,7 +3709,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2729,7 +3719,7 @@
     "model": "Epic World Cup",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2739,7 +3729,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2749,7 +3739,7 @@
     "model": "Epic World Cup",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2789,7 +3779,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2799,7 +3789,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2809,7 +3799,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2819,7 +3809,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2829,7 +3819,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2839,7 +3829,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2849,7 +3839,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2859,7 +3849,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2869,7 +3859,7 @@
     "model": "Rockhopper",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2879,7 +3869,7 @@
     "model": "Status",
     "sub_model": "160",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2889,8 +3879,18 @@
     "model": "Status",
     "sub_model": "140",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Status 2",
+    "sub_model": "140",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
@@ -2899,7 +3899,7 @@
     "model": "Status 2",
     "sub_model": "170",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2909,7 +3909,7 @@
     "model": "Status 2",
     "sub_model": "170 DH",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3209,7 +4209,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Comp Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -3219,7 +4219,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -3229,7 +4229,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -3239,7 +4239,17 @@
     "model": "Stumpjumper",
     "sub_model": "15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "15 Comp Alloy EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -3249,7 +4259,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3259,7 +4269,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3269,7 +4279,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3279,7 +4289,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3289,7 +4319,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3299,7 +4329,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3309,7 +4339,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3547,7 +4587,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
     "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2024,
     "size": "S2",
@@ -3577,7 +4647,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo SL",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
     "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Frameset",
     "year_from": 2021,
     "year_to": 2023,
     "size": "S2",
@@ -3606,10 +4706,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3619,7 +4739,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3629,7 +4759,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3639,7 +4779,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works Frame",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works Frame",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3649,7 +4799,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Ohlins Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Ohlins Coil",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3658,6 +4818,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2019,
     "year_to": 2021,
     "size": "M",
@@ -3687,6 +4867,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2019,
     "year_to": 2021,
@@ -3708,6 +4908,36 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "S-Works",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S3",
@@ -3737,6 +4967,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2025,
@@ -3757,7 +5007,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S3",
@@ -3786,6 +5066,166 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
@@ -3798,6 +5238,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2022,
     "size": "M",
@@ -3827,6 +5287,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo SL",
+    "sub_model": "Founders",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
     "year_to": 2022,
@@ -3839,7 +5319,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3849,7 +5339,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3859,7 +5359,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3869,7 +5379,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3879,7 +5399,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3889,7 +5419,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3899,7 +5439,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3909,7 +5459,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3919,7 +5479,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3929,7 +5499,17 @@
     "model": "Turbo Tero",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3939,7 +5519,57 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 Step-Through EQ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 Step-Through EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3949,7 +5579,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 6.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 6.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3959,7 +5599,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 5.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 5.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3969,17 +5619,157 @@
     "model": "Turbo Tero",
     "sub_model": "X 4.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 4.0",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Vado SL",
     "sub_model": "5.0 EQ Step-Through",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0 EQ Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -3989,7 +5779,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -3999,7 +5799,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -4009,7 +5819,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "5.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -4019,7 +5839,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -4028,7 +5858,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4037,7 +5867,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4047,7 +5877,7 @@
     "model": "Demo",
     "sub_model": "Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4057,7 +5887,7 @@
     "model": "Demo",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4065,6 +5895,7 @@
   {
     "brand": "Specialized",
     "model": "Demo 8",
+    "sub_model": "Alloy",
     "year_from": 2017,
     "year_to": 2019,
     "size": "Long",
@@ -4256,7 +6087,7 @@
     "model": "Enduro",
     "sub_model": "Comp",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4266,7 +6097,7 @@
     "model": "Enduro",
     "sub_model": "Elite",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4276,7 +6107,7 @@
     "model": "Enduro",
     "sub_model": "Expert",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4286,7 +6117,7 @@
     "model": "Enduro",
     "sub_model": "Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4296,7 +6127,17 @@
     "model": "Enduro",
     "sub_model": "LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Enduro",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4306,7 +6147,7 @@
     "model": "Enduro",
     "sub_model": "S-Works",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4316,7 +6157,7 @@
     "model": "Enduro",
     "sub_model": "S-Works LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4326,7 +6167,7 @@
     "model": "Enduro",
     "sub_model": "S-Works Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4366,7 +6207,7 @@
     "model": "Epic",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4376,7 +6217,7 @@
     "model": "Epic",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4386,7 +6227,7 @@
     "model": "Epic",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4396,7 +6237,7 @@
     "model": "Epic",
     "sub_model": "S-Works",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4406,7 +6247,7 @@
     "model": "Epic",
     "sub_model": "S-Works Speed Of Light Collection",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4416,7 +6257,7 @@
     "model": "Epic",
     "sub_model": "Pro LTD",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4426,7 +6267,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4436,7 +6277,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4446,7 +6287,7 @@
     "model": "Epic 8",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4456,7 +6297,7 @@
     "model": "Epic 8",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4466,7 +6307,7 @@
     "model": "Epic 8",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4476,7 +6317,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4486,7 +6327,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4496,7 +6337,17 @@
     "model": "Epic 8",
     "sub_model": "EVO Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4556,7 +6407,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4566,7 +6417,7 @@
     "model": "Epic Hardtail",
     "sub_model": "S-Works",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4576,7 +6427,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4586,7 +6437,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4596,7 +6447,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4606,7 +6457,7 @@
     "model": "Epic World Cup",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4616,7 +6467,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4626,7 +6477,7 @@
     "model": "Epic World Cup",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4636,7 +6487,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4646,7 +6497,7 @@
     "model": "Epic World Cup",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4686,7 +6537,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4696,7 +6547,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4706,7 +6557,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4716,7 +6567,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4726,7 +6577,7 @@
     "model": "Status",
     "sub_model": "160",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4736,7 +6587,7 @@
     "model": "Status",
     "sub_model": "140",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4746,7 +6597,7 @@
     "model": "Status 2",
     "sub_model": "140",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4756,7 +6607,7 @@
     "model": "Status 2",
     "sub_model": "170",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4766,7 +6617,7 @@
     "model": "Status 2",
     "sub_model": "170 DH",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5056,7 +6907,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Comp Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -5066,7 +6917,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -5076,7 +6927,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -5086,7 +6937,17 @@
     "model": "Stumpjumper",
     "sub_model": "15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "15 Comp Alloy EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -5096,7 +6957,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5106,7 +6967,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5116,7 +6977,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5126,7 +6987,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5136,7 +7017,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5146,7 +7027,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5156,7 +7037,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -5384,7 +7275,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
     "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2024,
     "size": "S3",
@@ -5414,7 +7335,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo SL",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
     "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Frameset",
     "year_from": 2021,
     "year_to": 2023,
     "size": "S3",
@@ -5443,10 +7394,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -5456,7 +7427,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -5466,7 +7447,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -5476,7 +7467,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works Frame",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works Frame",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -5486,7 +7487,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Ohlins Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Ohlins Coil",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -5495,6 +7506,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2019,
     "year_to": 2021,
     "size": "L",
@@ -5524,6 +7555,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2019,
     "year_to": 2021,
@@ -5545,6 +7596,36 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "S-Works",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S4",
@@ -5574,6 +7655,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2025,
@@ -5594,7 +7695,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S4",
@@ -5623,6 +7754,166 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
@@ -5635,6 +7926,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2022,
     "size": "L",
@@ -5664,6 +7975,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo SL",
+    "sub_model": "Founders",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
     "year_to": 2022,
@@ -5676,7 +8007,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5686,7 +8027,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5696,7 +8047,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5706,7 +8067,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5716,7 +8087,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5726,7 +8107,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -5736,7 +8127,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5746,7 +8147,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5756,7 +8167,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5766,7 +8187,17 @@
     "model": "Turbo Tero",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5776,7 +8207,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5786,7 +8227,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0 Step-Through",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5796,7 +8247,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 Step-Through EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 Step-Through EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5806,7 +8267,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 6.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 6.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5816,7 +8287,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 5.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 5.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5826,17 +8307,157 @@
     "model": "Turbo Tero",
     "sub_model": "X 4.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 4.0",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0 Step-Through",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Vado SL",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -5846,7 +8467,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -5856,7 +8487,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "5.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -5866,7 +8507,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -5875,7 +8526,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5884,7 +8535,7 @@
     "brand": "Specialized",
     "model": "Chisel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -5894,7 +8545,7 @@
     "model": "Demo",
     "sub_model": "Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5904,7 +8555,7 @@
     "model": "Demo",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -5912,6 +8563,7 @@
   {
     "brand": "Specialized",
     "model": "Demo 8",
+    "sub_model": "Alloy",
     "year_from": 2017,
     "year_to": 2019,
     "size": "Extra Long",
@@ -6003,7 +8655,7 @@
     "model": "Enduro",
     "sub_model": "Comp",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6013,7 +8665,7 @@
     "model": "Enduro",
     "sub_model": "Elite",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6023,7 +8675,7 @@
     "model": "Enduro",
     "sub_model": "Expert",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6033,7 +8685,7 @@
     "model": "Enduro",
     "sub_model": "Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6043,7 +8695,17 @@
     "model": "Enduro",
     "sub_model": "LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Enduro",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6053,7 +8715,7 @@
     "model": "Enduro",
     "sub_model": "S-Works",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6063,7 +8725,7 @@
     "model": "Enduro",
     "sub_model": "S-Works LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6073,7 +8735,7 @@
     "model": "Enduro",
     "sub_model": "S-Works Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6083,7 +8745,7 @@
     "model": "Epic",
     "sub_model": "Expert",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6093,7 +8755,7 @@
     "model": "Epic",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6103,7 +8765,7 @@
     "model": "Epic",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6113,7 +8775,7 @@
     "model": "Epic",
     "sub_model": "S-Works",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6123,7 +8785,7 @@
     "model": "Epic",
     "sub_model": "S-Works Speed Of Light Collection",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6133,7 +8795,7 @@
     "model": "Epic",
     "sub_model": "Pro LTD",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6143,7 +8805,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6153,7 +8815,7 @@
     "model": "Epic 8",
     "sub_model": "S-Works LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6163,7 +8825,7 @@
     "model": "Epic 8",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6173,7 +8835,7 @@
     "model": "Epic 8",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6183,7 +8845,7 @@
     "model": "Epic 8",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6193,7 +8855,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6203,7 +8865,7 @@
     "model": "Epic 8",
     "sub_model": "EVO Pro Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6213,7 +8875,17 @@
     "model": "Epic 8",
     "sub_model": "EVO Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic 8",
+    "sub_model": "EVO Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6273,7 +8945,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6283,7 +8955,7 @@
     "model": "Epic Hardtail",
     "sub_model": "S-Works",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6293,7 +8965,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6303,7 +8975,7 @@
     "model": "Epic Hardtail",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6313,7 +8985,57 @@
     "model": "Epic Hardtail",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic Hardtail",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic Hardtail",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic Hardtail",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic Hardtail",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Epic Hardtail",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6323,7 +9045,7 @@
     "model": "Epic World Cup",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6333,7 +9055,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6343,7 +9065,7 @@
     "model": "Epic World Cup",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6353,7 +9075,7 @@
     "model": "Epic World Cup",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6363,7 +9085,7 @@
     "model": "Epic World Cup",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -6393,7 +9115,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -6403,7 +9125,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -6413,7 +9135,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -6423,7 +9145,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -6433,7 +9155,7 @@
     "model": "Status",
     "sub_model": "160",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -6443,8 +9165,28 @@
     "model": "Status",
     "sub_model": "140",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Status 2",
+    "sub_model": "170",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Status 2",
+    "sub_model": "170 DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
@@ -6733,7 +9475,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Comp Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -6743,7 +9485,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -6753,7 +9495,7 @@
     "model": "Stumpjumper",
     "sub_model": "15 Alloy",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -6763,7 +9505,17 @@
     "model": "Stumpjumper",
     "sub_model": "15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "15 Comp Alloy EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -6773,7 +9525,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6783,7 +9535,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6793,7 +9545,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6803,7 +9555,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6813,7 +9585,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6823,7 +9595,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -6833,7 +9605,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7011,7 +9793,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo",
+    "sub_model": "Expert",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
     "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2024,
     "size": "S4",
@@ -7041,7 +9853,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo SL",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
     "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Frameset",
     "year_from": 2021,
     "year_to": 2023,
     "size": "S4",
@@ -7070,10 +9912,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7083,7 +9945,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7093,7 +9965,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7103,7 +9985,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works Frame",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works Frame",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7113,7 +10005,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Ohlins Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Ohlins Coil",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7122,6 +10024,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2019,
     "year_to": 2021,
     "size": "XL",
@@ -7151,6 +10073,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2019,
     "year_to": 2021,
@@ -7172,6 +10114,36 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "S-Works",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S5",
@@ -7201,6 +10173,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2025,
@@ -7221,7 +10213,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S5",
@@ -7250,6 +10272,166 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
@@ -7262,6 +10444,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2022,
     "size": "XL",
@@ -7291,6 +10493,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo SL",
+    "sub_model": "Founders",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2020,
     "year_to": 2022,
@@ -7303,7 +10525,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7313,7 +10545,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7323,7 +10565,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7333,7 +10585,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7343,7 +10605,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7353,7 +10625,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -7363,7 +10645,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -7373,7 +10665,17 @@
     "model": "Turbo Tero",
     "sub_model": "3.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7383,7 +10685,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7393,7 +10705,17 @@
     "model": "Turbo Tero",
     "sub_model": "5.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7403,7 +10725,17 @@
     "model": "Turbo Tero",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7413,7 +10745,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 6.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 6.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -7423,7 +10765,17 @@
     "model": "Turbo Tero",
     "sub_model": "X 5.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 5.0",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -7433,17 +10785,97 @@
     "model": "Turbo Tero",
     "sub_model": "X 4.0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Tero",
+    "sub_model": "X 4.0",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "3.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado",
+    "sub_model": "5.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "650"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Vado SL",
     "sub_model": "4.0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -7453,7 +10885,17 @@
     "model": "Turbo Vado SL",
     "sub_model": "4.0 EQ",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0 EQ",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "700"
@@ -7543,7 +10985,7 @@
     "model": "Enduro",
     "sub_model": "Comp",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7553,7 +10995,7 @@
     "model": "Enduro",
     "sub_model": "Elite",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7563,7 +11005,7 @@
     "model": "Enduro",
     "sub_model": "Expert",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7573,7 +11015,7 @@
     "model": "Enduro",
     "sub_model": "Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7583,7 +11025,17 @@
     "model": "Enduro",
     "sub_model": "LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Enduro",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7593,7 +11045,7 @@
     "model": "Enduro",
     "sub_model": "S-Works",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7603,7 +11055,7 @@
     "model": "Enduro",
     "sub_model": "S-Works LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7613,7 +11065,7 @@
     "model": "Enduro",
     "sub_model": "S-Works Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -7623,7 +11075,7 @@
     "model": "Rockhopper",
     "sub_model": "Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7633,7 +11085,7 @@
     "model": "Rockhopper",
     "sub_model": "Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7643,7 +11095,7 @@
     "model": "Rockhopper",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7653,7 +11105,7 @@
     "model": "Rockhopper",
     "sub_model": "Sport",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -7663,7 +11115,7 @@
     "model": "Status",
     "sub_model": "160",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -7673,7 +11125,7 @@
     "model": "Status",
     "sub_model": "140",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -7803,7 +11255,7 @@
     "model": "Stumpjumper",
     "sub_model": "Comp 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7813,7 +11265,7 @@
     "model": "Stumpjumper",
     "sub_model": "Expert 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7823,7 +11275,7 @@
     "model": "Stumpjumper",
     "sub_model": "Pro 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7833,7 +11285,27 @@
     "model": "Stumpjumper",
     "sub_model": "Ohlins Coil 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Expert 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "Pro 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7843,7 +11315,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7853,7 +11325,7 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -7863,7 +11335,17 @@
     "model": "Stumpjumper",
     "sub_model": "S-Works 15 Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Stumpjumper",
+    "sub_model": "S-Works 15 EVO",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -8041,6 +11523,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo",
     "sub_model": "Expert",
     "year_from": 2020,
     "year_to": 2024,
@@ -8052,6 +11554,26 @@
     "brand": "Specialized",
     "model": "Turbo Kenevo SL",
     "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Expert",
     "year_from": 2021,
     "year_to": 2023,
     "size": "S5",
@@ -8081,6 +11603,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Kenevo SL",
+    "sub_model": "Frameset",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2023,
@@ -8093,7 +11635,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -8103,7 +11655,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Expert",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Expert",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -8113,7 +11675,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Comp",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Comp",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -8123,7 +11695,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "S-Works Frame",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "S-Works Frame",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -8133,7 +11715,17 @@
     "model": "Turbo Kenevo SL 2",
     "sub_model": "Ohlins Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Kenevo SL 2",
+    "sub_model": "Ohlins Coil",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -8142,6 +11734,26 @@
     "brand": "Specialized",
     "model": "Turbo Levo",
     "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
     "year_from": 2021,
     "year_to": 2025,
     "size": "S6",
@@ -8171,6 +11783,26 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
     "year_from": 2021,
     "year_to": 2025,
@@ -8191,7 +11823,37 @@
   {
     "brand": "Specialized",
     "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
     "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
     "year_from": 2022,
     "year_to": 2025,
     "size": "S6",
@@ -8220,10 +11882,170 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Öhlins Coil LTD",
+    "year_from": 2022,
+    "year_to": 2025,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Expert",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "Comp",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo SL",
     "sub_model": "S-Works LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works LTD",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8233,7 +12055,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "S-Works",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "S-Works",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8243,7 +12075,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8253,7 +12095,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8263,7 +12115,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Expert",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Expert",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8273,7 +12135,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Ohlins",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Ohlins",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -8281,8 +12153,17 @@
   {
     "brand": "Specialized",
     "model": "Hotwalk",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Hotwalk",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Carbon",
     "wheel_size": "Kids"
@@ -8291,7 +12172,7 @@
     "brand": "Specialized",
     "model": "P.1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20"
@@ -8300,7 +12181,7 @@
     "brand": "Specialized",
     "model": "P.2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -8319,7 +12200,7 @@
     "brand": "Specialized",
     "model": "P.3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -8328,7 +12209,7 @@
     "brand": "Specialized",
     "model": "P.4",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -8337,7 +12218,7 @@
     "brand": "Specialized",
     "model": "Riprock",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20"
@@ -8346,7 +12227,7 @@
     "brand": "Specialized",
     "model": "Riprock",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -8356,7 +12237,17 @@
     "model": "Turbo Levo SL",
     "sub_model": "Kids",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo SL",
+    "sub_model": "Kids",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"

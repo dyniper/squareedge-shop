@@ -1,27 +1,29 @@
 [
   {
     "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Druid E",
+    "sub_model": "Core",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Lite",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -29,29 +31,11 @@
   {
     "brand": "Forbidden",
     "model": "Dreadnought",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
-    "year_to": 2025,
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Forbidden",
@@ -66,7 +50,7 @@
     "brand": "Forbidden",
     "model": "Dreadnought",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -75,16 +59,34 @@
     "brand": "Forbidden",
     "model": "Druid",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2025,
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Supernought",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -94,9 +96,36 @@
     "model": "Dreadnought",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "M",
+    "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Forbidden",
@@ -109,9 +138,20 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Druid E",
+    "sub_model": "Core",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Lite",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -127,18 +167,9 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S2",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
     "model": "Dreadnought",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -147,7 +178,7 @@
     "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -156,7 +187,7 @@
     "brand": "Forbidden",
     "model": "Dreadnought",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -174,43 +205,54 @@
     "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Druid E",
+    "sub_model": "Lite",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Core",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -235,33 +277,6 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2019,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Forbidden",
     "model": "Dreadnought",
     "year_from": 2023,
     "year_to": 2023,
@@ -273,35 +288,17 @@
     "brand": "Forbidden",
     "model": "Druid",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S4",
+    "year_to": 2026,
+    "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
     "brand": "Forbidden",
     "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
     "year_from": 2019,
     "year_to": 2022,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S4",
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -309,8 +306,8 @@
     "brand": "Forbidden",
     "model": "Druid",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S4",
+    "year_to": 2026,
+    "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -318,7 +315,26 @@
     "brand": "Forbidden",
     "model": "Dreadnought",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Core",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -327,17 +343,8 @@
     "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -352,10 +359,83 @@
   },
   {
     "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
     "model": "Supernought",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Lite",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   }

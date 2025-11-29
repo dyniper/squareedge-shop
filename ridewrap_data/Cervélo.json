@@ -4,7 +4,27 @@
     "model": "ZFS-5",
     "sub_model": "100",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "120",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cervélo",
+    "model": "ZFS-5",
+    "sub_model": "100",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +34,7 @@
     "model": "ZFS-5",
     "sub_model": "120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -23,7 +43,7 @@
     "brand": "Cervélo",
     "model": "ZHT-5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -33,7 +53,7 @@
     "model": "ZFS-5",
     "sub_model": "100",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -43,7 +63,7 @@
     "model": "ZFS-5",
     "sub_model": "120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -52,7 +72,7 @@
     "brand": "Cervélo",
     "model": "ZHT-5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -62,7 +82,7 @@
     "model": "ZFS-5",
     "sub_model": "100",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -72,7 +92,7 @@
     "model": "ZFS-5",
     "sub_model": "120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

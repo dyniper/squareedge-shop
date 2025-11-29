@@ -3,7 +3,7 @@
     "brand": "Crestline",
     "model": "LS160",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -12,16 +12,7 @@
     "brand": "Crestline",
     "model": "S180",
     "year_from": 2025,
-    "year_to": 2025,
-    "size": "RH-2",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 180",
-    "year_from": 2024,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "RH-2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -30,16 +21,7 @@
     "brand": "Crestline",
     "model": "RS Signature Frameset",
     "year_from": 2025,
-    "year_to": 2025,
-    "size": "RH-2",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 50/75 EEB",
-    "year_from": 2023,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "RH-2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -55,9 +37,36 @@
   },
   {
     "brand": "Crestline",
+    "model": "RS 50/75 EEB",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "RH-2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS 180",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "RH-2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS 75/50 EEB",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "RH-3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Crestline",
     "model": "S180",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -66,7 +75,7 @@
     "brand": "Crestline",
     "model": "LS160",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -75,16 +84,25 @@
     "brand": "Crestline",
     "model": "S180",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS Spectre Edition",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "RH2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Crestline",
     "model": "RS Signature Frameset",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -93,61 +111,7 @@
     "brand": "Crestline",
     "model": "RS Signature Frameset",
     "year_from": 2025,
-    "year_to": 2025,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 75/50 EEB",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 75/50 EEB",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 50/75 EEB",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 50/75 EEB",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 180",
-    "year_from": 2024,
-    "year_to": 2024,
-    "size": "RH-3",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Crestline",
-    "model": "RS 180",
-    "year_from": 2024,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -156,17 +120,53 @@
     "brand": "Crestline",
     "model": "LS160",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Crestline",
+    "model": "RS 75/50 EEB",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "RH-3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
     "model": "RS 50/75 EEB",
     "year_from": 2023,
     "year_to": 2023,
-    "size": "RH-4",
+    "size": "RH-3",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS 180",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "RH-3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS 50/75 EEB",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "RH-3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS 180",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "RH-3",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -181,39 +181,66 @@
   },
   {
     "brand": "Crestline",
-    "model": "RS Signature Frameset",
-    "year_from": 2025,
-    "year_to": 2025,
+    "model": "RS 50/75 EEB",
+    "year_from": 2023,
+    "year_to": 2023,
     "size": "RH-4",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Crestline",
-    "model": "RS 180",
-    "year_from": 2024,
-    "year_to": 2024,
+    "model": "LS160",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "RH-4",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS Signature Frameset",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "RH-4",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS Spectre Edition",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "RH3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Crestline",
     "model": "S180",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "RH-4",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Crestline",
-    "model": "LS160",
-    "year_from": 2025,
-    "year_to": 2025,
+    "model": "RS 180",
+    "year_from": 2024,
+    "year_to": 2024,
     "size": "RH-4",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Crestline",
+    "model": "RS Spectre Edition",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "RH4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Crestline",

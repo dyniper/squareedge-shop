@@ -3,7 +3,7 @@
     "brand": "Nukeproof",
     "model": "Cub Scout",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "20",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -12,7 +12,7 @@
     "brand": "Nukeproof",
     "model": "Giga",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -22,7 +22,7 @@
     "model": "Giga",
     "sub_model": "297",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -32,7 +32,7 @@
     "model": "Giga",
     "sub_model": "290",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -41,7 +41,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -50,7 +50,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -59,7 +59,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -77,7 +77,7 @@
     "brand": "Nukeproof",
     "model": "Giga",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -87,7 +87,7 @@
     "model": "Giga",
     "sub_model": "297",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -97,7 +97,7 @@
     "model": "Giga",
     "sub_model": "290",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -106,7 +106,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -115,7 +115,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -124,7 +124,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -133,7 +133,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -142,7 +142,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -151,7 +151,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -169,7 +169,7 @@
     "brand": "Nukeproof",
     "model": "Megawatt",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -178,7 +178,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -187,7 +187,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -277,7 +277,7 @@
     "model": "Scout",
     "sub_model": "V3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -287,7 +287,7 @@
     "model": "Scout",
     "sub_model": "V3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -296,7 +296,7 @@
     "brand": "Nukeproof",
     "model": "Solum",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -305,7 +305,7 @@
     "brand": "Nukeproof",
     "model": "Giga",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -315,7 +315,7 @@
     "model": "Giga",
     "sub_model": "297",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -325,7 +325,7 @@
     "model": "Giga",
     "sub_model": "290",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -343,7 +343,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -352,7 +352,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -370,7 +370,7 @@
     "brand": "Nukeproof",
     "model": "Megawatt",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -379,7 +379,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -388,7 +388,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -478,7 +478,7 @@
     "model": "Scout",
     "sub_model": "V3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -488,7 +488,7 @@
     "model": "Giga",
     "sub_model": "297",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -498,7 +498,7 @@
     "model": "Giga",
     "sub_model": "290",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -516,7 +516,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -525,7 +525,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -534,7 +534,7 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -552,7 +552,7 @@
     "brand": "Nukeproof",
     "model": "Megawatt",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -561,7 +561,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -570,7 +570,7 @@
     "brand": "Nukeproof",
     "model": "Reactor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -620,7 +620,7 @@
     "model": "Scout",
     "sub_model": "V3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -630,7 +630,7 @@
     "model": "Scout",
     "sub_model": "V3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -640,7 +640,7 @@
     "model": "Giga",
     "sub_model": "290",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -649,9 +649,19 @@
     "brand": "Nukeproof",
     "model": "Mega",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Dissent",
+    "sub_model": "297",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   }
 ]

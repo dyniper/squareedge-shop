@@ -104,7 +104,7 @@
     "model": "Laufey",
     "sub_model": "H-LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -114,7 +114,7 @@
     "model": "Laufey",
     "sub_model": "H10",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -124,7 +124,7 @@
     "model": "Laufey",
     "sub_model": "H30",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -514,7 +514,7 @@
     "model": "Oiz",
     "sub_model": "H10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -524,7 +524,7 @@
     "model": "Oiz",
     "sub_model": "H20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -534,7 +534,7 @@
     "model": "Oiz",
     "sub_model": "H30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -544,8 +544,8 @@
     "model": "Oiz",
     "sub_model": "M10",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -554,8 +554,8 @@
     "model": "Oiz",
     "sub_model": "M11",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -564,8 +564,8 @@
     "model": "Oiz",
     "sub_model": "M20",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -574,8 +574,8 @@
     "model": "Oiz",
     "sub_model": "M30",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -584,8 +584,8 @@
     "model": "Oiz",
     "sub_model": "M21",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -594,8 +594,8 @@
     "model": "Oiz",
     "sub_model": "M LTD",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -604,8 +604,8 @@
     "model": "Oiz",
     "sub_model": "M Team",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -614,8 +614,8 @@
     "model": "Oiz",
     "sub_model": "M Pro",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -624,8 +624,58 @@
     "model": "Oiz",
     "sub_model": "OMX Frame",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
+    "year_to": 2026,
+    "size": "SMALL with 2 Downtube Bottle Cage Bosses",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Oiz",
+    "sub_model": "M10",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "SMALL with 3 Downtube Bottle Cage Bosses",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Oiz",
+    "sub_model": "M11",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "SMALL with 3 Downtube Bottle Cage Bosses",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Oiz",
+    "sub_model": "M20",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "SMALL with 3 Downtube Bottle Cage Bosses",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Oiz",
+    "sub_model": "M21",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "SMALL with 3 Downtube Bottle Cage Bosses",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Oiz",
+    "sub_model": "M30",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "SMALL with 3 Downtube Bottle Cage Bosses",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -634,7 +684,7 @@
     "model": "Rallon",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -644,7 +694,7 @@
     "model": "Rallon",
     "sub_model": "M20",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -654,7 +704,7 @@
     "model": "Rallon",
     "sub_model": "M10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -664,7 +714,7 @@
     "model": "Rallon",
     "sub_model": "M-Team",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -674,7 +724,7 @@
     "model": "Rallon",
     "sub_model": "M-LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -684,7 +734,7 @@
     "model": "Rallon",
     "sub_model": "M11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -814,7 +864,7 @@
     "model": "Rise",
     "sub_model": "LT H10",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -824,7 +874,7 @@
     "model": "Rise",
     "sub_model": "LT H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -834,7 +884,7 @@
     "model": "Rise",
     "sub_model": "SL H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -844,7 +894,7 @@
     "model": "Rise",
     "sub_model": "SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -854,7 +904,7 @@
     "model": "Rise",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -972,49 +1022,169 @@
   {
     "brand": "Orbea",
     "model": "Wild",
+    "sub_model": "H10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
     "sub_model": "M-LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-Team",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Alma",
     "sub_model": "H10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1024,7 +1194,7 @@
     "model": "Alma",
     "sub_model": "H20",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1034,7 +1204,7 @@
     "model": "Alma",
     "sub_model": "H30",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1044,7 +1214,7 @@
     "model": "Alma",
     "sub_model": "H50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1054,7 +1224,7 @@
     "model": "Alma",
     "sub_model": "H11",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1211,6 +1381,56 @@
   },
   {
     "brand": "Orbea",
+    "model": "Alma",
+    "sub_model": "M LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Alma",
+    "sub_model": "M Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Alma",
+    "sub_model": "M Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Alma",
+    "sub_model": "M20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Alma",
+    "sub_model": "M30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
     "model": "Laufey",
     "sub_model": "H LTD",
     "year_from": 2020,
@@ -1244,7 +1464,7 @@
     "model": "Laufey",
     "sub_model": "H-LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1254,7 +1474,7 @@
     "model": "Laufey",
     "sub_model": "H10",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1264,7 +1484,7 @@
     "model": "Laufey",
     "sub_model": "H30",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1654,7 +1874,7 @@
     "model": "Oiz",
     "sub_model": "H10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1664,7 +1884,7 @@
     "model": "Oiz",
     "sub_model": "H20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1674,7 +1894,7 @@
     "model": "Oiz",
     "sub_model": "H30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1684,7 +1904,7 @@
     "model": "Oiz",
     "sub_model": "M10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1694,7 +1914,7 @@
     "model": "Oiz",
     "sub_model": "M11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1704,7 +1924,7 @@
     "model": "Oiz",
     "sub_model": "M20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1714,7 +1934,7 @@
     "model": "Oiz",
     "sub_model": "M30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1724,7 +1944,7 @@
     "model": "Oiz",
     "sub_model": "M21",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1734,7 +1954,7 @@
     "model": "Oiz",
     "sub_model": "M LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1744,7 +1964,7 @@
     "model": "Oiz",
     "sub_model": "M Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1754,7 +1974,7 @@
     "model": "Oiz",
     "sub_model": "M Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1764,7 +1984,7 @@
     "model": "Oiz",
     "sub_model": "OMX Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1774,7 +1994,7 @@
     "model": "Onna",
     "sub_model": "10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1784,7 +2004,7 @@
     "model": "Onna",
     "sub_model": "20",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1794,7 +2014,7 @@
     "model": "Onna",
     "sub_model": "30",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1804,7 +2024,7 @@
     "model": "Onna",
     "sub_model": "40",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1814,7 +2034,7 @@
     "model": "Onna",
     "sub_model": "50",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1824,7 +2044,7 @@
     "model": "Rallon",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1834,7 +2054,7 @@
     "model": "Rallon",
     "sub_model": "M20",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1844,7 +2064,7 @@
     "model": "Rallon",
     "sub_model": "M10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1854,7 +2074,7 @@
     "model": "Rallon",
     "sub_model": "M-Team",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1864,7 +2084,7 @@
     "model": "Rallon",
     "sub_model": "M-LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1874,10 +2094,110 @@
     "model": "Rallon",
     "sub_model": "M11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "Enduro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-TEAM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-TEAM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "ENDURO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Orbea",
@@ -2004,7 +2324,7 @@
     "model": "Rise",
     "sub_model": "LT H10",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2014,7 +2334,7 @@
     "model": "Rise",
     "sub_model": "LT H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2024,7 +2344,7 @@
     "model": "Rise",
     "sub_model": "SL H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2034,7 +2354,7 @@
     "model": "Rise",
     "sub_model": "SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2044,7 +2364,7 @@
     "model": "Rise",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2075,6 +2395,26 @@
     "sub_model": "40",
     "year_from": 2022,
     "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Urrun",
+    "sub_model": "10",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Urrun",
+    "sub_model": "20",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2164,87 +2504,127 @@
     "model": "Wild",
     "sub_model": "H10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H30",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-Team",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Alma",
     "sub_model": "H10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2254,7 +2634,7 @@
     "model": "Alma",
     "sub_model": "H20",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2264,7 +2644,7 @@
     "model": "Alma",
     "sub_model": "H30",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2274,7 +2654,7 @@
     "model": "Alma",
     "sub_model": "H50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2284,7 +2664,7 @@
     "model": "Alma",
     "sub_model": "H11",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2571,6 +2951,36 @@
   },
   {
     "brand": "Orbea",
+    "model": "Laufey",
+    "sub_model": "H-LTD",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Laufey",
+    "sub_model": "H10",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Laufey",
+    "sub_model": "H30",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
     "model": "Occam",
     "sub_model": "H10",
     "year_from": 2020,
@@ -2954,7 +3364,7 @@
     "model": "Oiz",
     "sub_model": "H10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2964,7 +3374,7 @@
     "model": "Oiz",
     "sub_model": "H20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2974,7 +3384,7 @@
     "model": "Oiz",
     "sub_model": "H30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2984,7 +3394,7 @@
     "model": "Oiz",
     "sub_model": "M10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2994,7 +3404,7 @@
     "model": "Oiz",
     "sub_model": "M11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3004,7 +3414,7 @@
     "model": "Oiz",
     "sub_model": "M20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3014,7 +3424,7 @@
     "model": "Oiz",
     "sub_model": "M30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3024,7 +3434,7 @@
     "model": "Oiz",
     "sub_model": "M21",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3034,7 +3444,7 @@
     "model": "Oiz",
     "sub_model": "M LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3044,7 +3454,7 @@
     "model": "Oiz",
     "sub_model": "M Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3054,7 +3464,7 @@
     "model": "Oiz",
     "sub_model": "M Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3064,7 +3474,7 @@
     "model": "Oiz",
     "sub_model": "OMX Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3124,7 +3534,7 @@
     "model": "Rallon",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3134,7 +3544,7 @@
     "model": "Rallon",
     "sub_model": "M20",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3144,7 +3554,7 @@
     "model": "Rallon",
     "sub_model": "M10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3154,7 +3564,7 @@
     "model": "Rallon",
     "sub_model": "M-Team",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3164,7 +3574,7 @@
     "model": "Rallon",
     "sub_model": "M-LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3174,10 +3584,110 @@
     "model": "Rallon",
     "sub_model": "M11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "Enduro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-TEAM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-TEAM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "ENDURO",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Orbea",
@@ -3304,7 +3814,7 @@
     "model": "Rise",
     "sub_model": "LT H10",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3314,7 +3824,7 @@
     "model": "Rise",
     "sub_model": "LT H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3324,7 +3834,7 @@
     "model": "Rise",
     "sub_model": "SL H20",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3334,7 +3844,7 @@
     "model": "Rise",
     "sub_model": "SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3344,7 +3854,7 @@
     "model": "Rise",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3464,80 +3974,160 @@
     "model": "Wild",
     "sub_model": "H10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H30",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-Team",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
@@ -3624,7 +4214,7 @@
     "model": "Alma",
     "sub_model": "H10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3634,7 +4224,7 @@
     "model": "Alma",
     "sub_model": "H20",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3644,7 +4234,7 @@
     "model": "Alma",
     "sub_model": "H30",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3654,7 +4244,7 @@
     "model": "Alma",
     "sub_model": "H50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3664,7 +4254,7 @@
     "model": "Alma",
     "sub_model": "H11",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3877,6 +4467,56 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Occam",
+    "sub_model": "SL H10",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Occam",
+    "sub_model": "SL H20",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Occam",
+    "sub_model": "SL H30",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Occam",
+    "sub_model": "LT H20",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Occam",
+    "sub_model": "LT H30",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -4104,7 +4744,7 @@
     "model": "Oiz",
     "sub_model": "H10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4114,7 +4754,7 @@
     "model": "Oiz",
     "sub_model": "H20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4124,7 +4764,7 @@
     "model": "Oiz",
     "sub_model": "H30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -4134,7 +4774,7 @@
     "model": "Oiz",
     "sub_model": "M10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4144,7 +4784,7 @@
     "model": "Oiz",
     "sub_model": "M11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4154,7 +4794,7 @@
     "model": "Oiz",
     "sub_model": "M20",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4164,7 +4804,7 @@
     "model": "Oiz",
     "sub_model": "M30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4174,7 +4814,7 @@
     "model": "Oiz",
     "sub_model": "M21",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4184,7 +4824,7 @@
     "model": "Oiz",
     "sub_model": "M LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4194,7 +4834,7 @@
     "model": "Oiz",
     "sub_model": "M Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4204,7 +4844,7 @@
     "model": "Oiz",
     "sub_model": "M Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4214,7 +4854,7 @@
     "model": "Oiz",
     "sub_model": "OMX Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4274,7 +4914,7 @@
     "model": "Rallon",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4284,7 +4924,7 @@
     "model": "Rallon",
     "sub_model": "M20",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4294,7 +4934,7 @@
     "model": "Rallon",
     "sub_model": "M10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4304,7 +4944,7 @@
     "model": "Rallon",
     "sub_model": "M-Team",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4314,7 +4954,7 @@
     "model": "Rallon",
     "sub_model": "M-LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4324,10 +4964,60 @@
     "model": "Rallon",
     "sub_model": "M11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "Enduro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "E-TEAM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rallon",
+    "sub_model": "DH",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Orbea",
@@ -4452,9 +5142,39 @@
   {
     "brand": "Orbea",
     "model": "Rise",
+    "sub_model": "LT H10",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rise",
+    "sub_model": "LT H20",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rise",
+    "sub_model": "SL H20",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Rise",
     "sub_model": "SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4464,7 +5184,7 @@
     "model": "Rise",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4554,80 +5274,160 @@
     "model": "Wild",
     "sub_model": "H10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "ST H30",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-LTD",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M-Team",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H20",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "ST H30",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orbea",
+    "model": "Wild",
+    "sub_model": "M-Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M10",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
     "model": "Wild",
     "sub_model": "M20",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Orbea",
@@ -4844,7 +5644,7 @@
     "model": "Laufey",
     "sub_model": "H10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -4854,7 +5654,7 @@
     "model": "Laufey",
     "sub_model": "H20",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -4864,7 +5664,7 @@
     "model": "Laufey",
     "sub_model": "H30",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -4874,7 +5674,7 @@
     "model": "Laufey",
     "sub_model": "H10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4884,7 +5684,7 @@
     "model": "Laufey",
     "sub_model": "H20",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27"

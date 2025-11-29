@@ -4,7 +4,7 @@
     "model": "Arrival",
     "sub_model": "130",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M/SZ1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -14,7 +14,7 @@
     "model": "Arrival",
     "sub_model": "152",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M/SZ1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -54,7 +54,7 @@
     "model": "Arrival",
     "sub_model": "170",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M/SZ1",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -74,7 +74,7 @@
     "model": "Arrival",
     "sub_model": "130",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L/SZ2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -84,7 +84,7 @@
     "model": "Arrival",
     "sub_model": "152",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L/SZ2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -94,7 +94,7 @@
     "model": "Arrival",
     "sub_model": "170",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L/SZ2",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -154,7 +154,7 @@
     "model": "Arrival",
     "sub_model": "170",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL/SZ3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -164,7 +164,7 @@
     "model": "Arrival",
     "sub_model": "152",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL/SZ3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -174,7 +174,7 @@
     "model": "Arrival",
     "sub_model": "130",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL/SZ3",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"

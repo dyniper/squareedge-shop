@@ -3,16 +3,34 @@
     "brand": "Conway",
     "model": "eWME",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
     "brand": "Conway",
+    "model": "RLC",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Conway",
+    "model": "RLC FS",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Conway",
     "model": "WME",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -22,7 +40,7 @@
     "model": "XYRON S",
     "sub_model": "5.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -32,7 +50,7 @@
     "model": "XYRON S",
     "sub_model": "4.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -42,7 +60,7 @@
     "model": "XYRON S",
     "sub_model": "3.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -52,7 +70,7 @@
     "model": "XYRON S",
     "sub_model": "2.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -62,7 +80,7 @@
     "model": "XYRON S",
     "sub_model": "SUV",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -71,7 +89,7 @@
     "brand": "Conway",
     "model": "eWME",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -81,7 +99,7 @@
     "model": "RYVON",
     "sub_model": "ST",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -91,7 +109,7 @@
     "model": "RYVON",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -101,7 +119,7 @@
     "model": "XYRON S",
     "sub_model": "5.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -111,7 +129,7 @@
     "model": "XYRON S",
     "sub_model": "4.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -121,7 +139,7 @@
     "model": "XYRON S",
     "sub_model": "3.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -131,7 +149,7 @@
     "model": "XYRON S",
     "sub_model": "2.9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -141,9 +159,19 @@
     "model": "XYRON S",
     "sub_model": "SUV",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Conway",
+    "model": "XYRON S",
+    "sub_model": "7.9 Carbon / Alu",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
     "wheel_size": "29"
   }
 ]

@@ -7,5 +7,14 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC529",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29"
   }
 ]

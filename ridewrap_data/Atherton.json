@@ -1,99 +1,49 @@
 [
   {
     "brand": "Atherton",
-    "model": "AM.170M",
-    "sub_model": "Frame",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.200M",
-    "sub_model": "Frame",
-    "year_from": 2022,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.200M",
-    "sub_model": "2",
-    "year_from": 2022,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.200M",
+    "model": "S.200",
     "sub_model": "1",
-    "year_from": 2022,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "8",
+    "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Atherton",
-    "model": "AM.170M",
+    "model": "S.200",
+    "sub_model": "2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "8",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "S.200",
     "sub_model": "3",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "8",
+    "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Atherton",
-    "model": "AM.170M",
-    "sub_model": "2",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.170M",
-    "sub_model": "1",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.150",
+    "model": "S.200",
     "sub_model": "Frame",
-    "year_from": 2020,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "8",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Atherton",
-    "model": "AM.150",
-    "sub_model": "2",
-    "year_from": 2020,
-    "year_to": 2023,
-    "size": "All Sizes",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Atherton",
-    "model": "AM.150",
+    "model": "AM.130",
     "sub_model": "1",
-    "year_from": 2020,
+    "year_from": 2022,
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
@@ -102,7 +52,7 @@
   {
     "brand": "Atherton",
     "model": "AM.130",
-    "sub_model": "Frame",
+    "sub_model": "2",
     "year_from": 2022,
     "year_to": 2023,
     "size": "All Sizes",
@@ -122,7 +72,7 @@
   {
     "brand": "Atherton",
     "model": "AM.130",
-    "sub_model": "2",
+    "sub_model": "Frame",
     "year_from": 2022,
     "year_to": 2023,
     "size": "All Sizes",
@@ -131,12 +81,102 @@
   },
   {
     "brand": "Atherton",
-    "model": "AM.130",
+    "model": "AM.150",
+    "sub_model": "1",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.150",
+    "sub_model": "2",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.150",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "Frame",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.170M",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
     "sub_model": "1",
     "year_from": 2022,
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
+    "sub_model": "2",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200M",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   }
 ]

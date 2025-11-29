@@ -2,10 +2,10 @@
   {
     "brand": "Forestal",
     "model": "Siryon",
-    "sub_model": "Pedal assisted",
-    "year_from": 2020,
-    "year_to": 2025,
-    "size": "M",
+    "sub_model": "Non-assisted",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "SM",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -13,7 +13,17 @@
     "brand": "Forestal",
     "model": "Cyon",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Pedal Assisted",
+    "year_from": 2020,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -22,7 +32,7 @@
     "brand": "Forestal",
     "model": "Hydra",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -30,9 +40,29 @@
   {
     "brand": "Forestal",
     "model": "Siryon",
-    "sub_model": "Pedal assisted",
+    "sub_model": "Pedal Assisted",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cygnus",
+    "sub_model": "Non-assisted",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forestal",
+    "model": "E-Cygnus",
+    "sub_model": "Pedal Assisted",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -41,17 +71,26 @@
     "brand": "Forestal",
     "model": "Cyon",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Forestal",
+    "model": "Hydra",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Forestal",
     "model": "Siryon",
-    "sub_model": "Pedal assisted",
+    "sub_model": "Pedal Assisted",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

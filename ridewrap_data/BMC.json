@@ -64,7 +64,7 @@
     "model": "Fourstroke",
     "sub_model": "01 LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +74,7 @@
     "model": "Fourstroke",
     "sub_model": "01 FRS",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -84,7 +84,7 @@
     "model": "Fourstroke",
     "sub_model": "01 One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -94,7 +94,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -104,7 +104,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -114,7 +114,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -124,7 +124,7 @@
     "model": "Fourstroke",
     "sub_model": "LT LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +134,7 @@
     "model": "Fourstroke",
     "sub_model": "LT One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +144,7 @@
     "model": "Fourstroke",
     "sub_model": "LT Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -154,7 +154,7 @@
     "model": "Fourstroke",
     "sub_model": "One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -164,7 +164,7 @@
     "model": "Fourstroke",
     "sub_model": "Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -174,7 +174,7 @@
     "model": "Fourstroke",
     "sub_model": "Three",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -184,7 +184,47 @@
     "model": "Fourstroke",
     "sub_model": "Four",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT Three",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -194,7 +234,7 @@
     "model": "Twostroke",
     "sub_model": "AL One",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -204,7 +244,7 @@
     "model": "Twostroke",
     "sub_model": "AL Two",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -214,7 +254,7 @@
     "model": "Twostroke",
     "sub_model": "Al Three",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -224,7 +264,7 @@
     "model": "Twostroke",
     "sub_model": "AL Four",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -234,7 +274,7 @@
     "model": "Twostroke",
     "sub_model": "AL Five",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -244,7 +284,7 @@
     "model": "Twostroke",
     "sub_model": "AL Six",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -314,7 +354,7 @@
     "model": "Fourstroke",
     "sub_model": "01 LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -324,7 +364,7 @@
     "model": "Fourstroke",
     "sub_model": "01 FRS",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,7 +374,7 @@
     "model": "Fourstroke",
     "sub_model": "01 One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -344,7 +384,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -354,7 +394,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -364,7 +404,7 @@
     "model": "Fourstroke",
     "sub_model": "01 Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -374,7 +414,7 @@
     "model": "Fourstroke",
     "sub_model": "LT LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -384,7 +424,7 @@
     "model": "Fourstroke",
     "sub_model": "LT One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -394,7 +434,7 @@
     "model": "Fourstroke",
     "sub_model": "LT Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -404,7 +444,7 @@
     "model": "Fourstroke",
     "sub_model": "One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -414,7 +454,7 @@
     "model": "Fourstroke",
     "sub_model": "Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -424,7 +464,7 @@
     "model": "Fourstroke",
     "sub_model": "Three",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -434,7 +474,7 @@
     "model": "Fourstroke",
     "sub_model": "Four",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -444,7 +484,7 @@
     "model": "Fourstroke AMP",
     "sub_model": "LT LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -454,7 +494,7 @@
     "model": "Fourstroke AMP",
     "sub_model": "LT One",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -464,7 +504,7 @@
     "model": "Fourstroke AMP",
     "sub_model": "LT Two",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -474,7 +514,7 @@
     "model": "Fourstroke AMP",
     "sub_model": "LT Three",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -484,7 +524,7 @@
     "model": "Twostroke",
     "sub_model": "AL One",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -494,7 +534,7 @@
     "model": "Twostroke",
     "sub_model": "AL Two",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -504,7 +544,7 @@
     "model": "Twostroke",
     "sub_model": "Al Three",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -514,7 +554,7 @@
     "model": "Twostroke",
     "sub_model": "AL Four",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -524,7 +564,7 @@
     "model": "Twostroke",
     "sub_model": "AL Five",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -534,9 +574,179 @@
     "model": "Twostroke",
     "sub_model": "AL Six",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 FRS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Team",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "LT LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "LT One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "LT Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "Three",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "Four",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke AMP",
+    "sub_model": "LT Three",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
@@ -544,7 +754,7 @@
     "model": "Twostroke",
     "sub_model": "01 One",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -554,7 +764,7 @@
     "model": "Twostroke",
     "sub_model": "01 Two",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -564,7 +774,7 @@
     "model": "Twostroke",
     "sub_model": "01 Three",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -574,7 +784,7 @@
     "model": "Twostroke",
     "sub_model": "01 Four",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -584,7 +794,7 @@
     "model": "Twostroke",
     "sub_model": "01 Five",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -594,9 +804,69 @@
     "model": "Twostroke",
     "sub_model": "01 FRS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "AL One",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "AL Two",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "Al Three",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "AL Four",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "AL Five",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BMC",
+    "model": "Twostroke",
+    "sub_model": "AL Six",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   }
 ]

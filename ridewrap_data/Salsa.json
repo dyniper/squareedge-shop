@@ -4,7 +4,7 @@
     "model": "Beargrease",
     "sub_model": "Bearpaw Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -14,7 +14,7 @@
     "model": "Beargrease",
     "sub_model": "Kingpin Deluxe Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -24,7 +24,7 @@
     "model": "Beargrease",
     "sub_model": "Kingpin Deluxe Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -33,7 +33,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -42,7 +42,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -51,7 +51,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -60,7 +60,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -69,7 +69,7 @@
     "brand": "Salsa",
     "model": "Horsethief",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -78,7 +78,7 @@
     "brand": "Salsa",
     "model": "Spearfish",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -88,7 +88,7 @@
     "model": "Beargrease",
     "sub_model": "Bearpaw Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -98,7 +98,7 @@
     "model": "Beargrease",
     "sub_model": "Kingpin Deluxe Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -107,7 +107,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -116,7 +116,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -125,7 +125,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -134,7 +134,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +144,7 @@
     "model": "HeyDay!",
     "sub_model": "C Deore 12",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -154,7 +154,7 @@
     "model": "HeyDay!",
     "sub_model": "Frame",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -163,7 +163,7 @@
     "brand": "Salsa",
     "model": "Horsethief",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -172,7 +172,7 @@
     "brand": "Salsa",
     "model": "Mukluk",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -181,7 +181,7 @@
     "brand": "Salsa",
     "model": "Rangefinder",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+"
@@ -190,7 +190,7 @@
     "brand": "Salsa",
     "model": "Spearfish",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -200,7 +200,7 @@
     "model": "Timberjack",
     "sub_model": "AL",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+"
@@ -210,7 +210,7 @@
     "model": "Beargrease",
     "sub_model": "Bearpaw Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -220,7 +220,7 @@
     "model": "Beargrease",
     "sub_model": "Kingpin Deluxe Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -229,7 +229,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -238,16 +238,36 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Salsa",
+    "model": "Blackthorn",
+    "sub_model": "125 C",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Blackthorn",
+    "sub_model": "145 C",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -256,7 +276,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -266,7 +286,7 @@
     "model": "HeyDay!",
     "sub_model": "C Deore 12",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -276,7 +296,7 @@
     "model": "HeyDay!",
     "sub_model": "Frame",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -285,7 +305,7 @@
     "brand": "Salsa",
     "model": "Horsethief",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -294,7 +314,7 @@
     "brand": "Salsa",
     "model": "Mukluk",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -303,7 +323,7 @@
     "brand": "Salsa",
     "model": "Rangefinder",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29/27+"
@@ -312,7 +332,7 @@
     "brand": "Salsa",
     "model": "Rustler",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -321,17 +341,26 @@
     "brand": "Salsa",
     "model": "Spearfish",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
   },
   {
     "brand": "Salsa",
+    "model": "Tributary",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Salsa",
     "model": "Beargrease",
     "sub_model": "Bearpaw Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -341,7 +370,7 @@
     "model": "Beargrease",
     "sub_model": "Kingpin Deluxe Fork",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -350,7 +379,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -359,7 +388,7 @@
     "brand": "Salsa",
     "model": "Blackthorn",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -368,7 +397,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -377,7 +406,7 @@
     "brand": "Salsa",
     "model": "Cassidy",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -386,7 +415,7 @@
     "brand": "Salsa",
     "model": "Horsethief",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"
@@ -395,7 +424,7 @@
     "brand": "Salsa",
     "model": "Mukluk",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "26"
@@ -404,7 +433,7 @@
     "brand": "Salsa",
     "model": "Rangefinder",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29/27+"
@@ -413,7 +442,7 @@
     "brand": "Salsa",
     "model": "Spearfish",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29/27+"

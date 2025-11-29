@@ -1,9 +1,19 @@
 [
   {
     "brand": "Wilier",
+    "model": "Urta",
+    "sub_model": "Max SLR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Wilier",
     "model": "Urta Hybrid",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"

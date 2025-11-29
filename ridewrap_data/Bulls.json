@@ -4,7 +4,7 @@
     "model": "Sonic EVO",
     "sub_model": "AM-SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(44)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "Sonic EVO",
     "sub_model": "EN-SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(44)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -31,10 +31,30 @@
   },
   {
     "brand": "Bulls",
+    "model": "Vuca EVO",
+    "sub_model": "AM 1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Vuca EVO",
+    "sub_model": "AM 2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Bulls",
     "model": "Sonic EVO",
     "sub_model": "AM-SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(48)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +64,7 @@
     "model": "Sonic EVO",
     "sub_model": "EN-SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(48)",
     "frame_material": "Carbon",
     "wheel_size": "29"

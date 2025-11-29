@@ -104,7 +104,7 @@
     "model": "Force",
     "sub_model": "Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -114,7 +114,7 @@
     "model": "Force",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -124,7 +124,7 @@
     "model": "Force",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +134,7 @@
     "model": "Force",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -207,6 +207,66 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "ST Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "eForce",
+    "sub_model": "AMP+",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "eForce",
+    "sub_model": "Current",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -304,7 +364,7 @@
     "model": "Force",
     "sub_model": "Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -314,7 +374,7 @@
     "model": "Force",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -324,7 +384,7 @@
     "model": "Force",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,7 +394,7 @@
     "model": "Force",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -412,8 +472,29 @@
   {
     "brand": "GT",
     "model": "Fury",
+    "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -423,7 +504,7 @@
     "model": "La Bomba",
     "sub_model": "Rigid",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -453,7 +534,7 @@
     "model": "Sensor",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -463,7 +544,7 @@
     "model": "Sensor",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -473,7 +554,7 @@
     "model": "Sensor",
     "sub_model": "ST Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -483,7 +564,7 @@
     "model": "Sensor",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -493,7 +574,7 @@
     "model": "Zaskar",
     "sub_model": "LT Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -503,8 +584,28 @@
     "model": "Zaskar",
     "sub_model": "LT Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "eForce",
+    "sub_model": "AMP+",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "eForce",
+    "sub_model": "Current",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
   },
@@ -603,7 +704,7 @@
     "model": "Force",
     "sub_model": "Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -613,7 +714,7 @@
     "model": "Force",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -623,7 +724,7 @@
     "model": "Force",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -633,7 +734,7 @@
     "model": "Force",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -701,8 +802,29 @@
   {
     "brand": "GT",
     "model": "Fury",
+    "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -712,7 +834,7 @@
     "model": "La Bomba",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -722,7 +844,7 @@
     "model": "La Bomba",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -732,7 +854,7 @@
     "model": "Sensor",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -742,7 +864,7 @@
     "model": "Sensor",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -752,7 +874,7 @@
     "model": "Sensor",
     "sub_model": "ST Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -762,7 +884,7 @@
     "model": "Sensor",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -781,7 +903,7 @@
     "model": "Zaskar",
     "sub_model": "LT Expert",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -791,7 +913,7 @@
     "model": "Zaskar",
     "sub_model": "LT Elite",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -891,7 +1013,7 @@
     "model": "Force",
     "sub_model": "Frame",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -901,7 +1023,7 @@
     "model": "Force",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -911,7 +1033,7 @@
     "model": "Force",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -921,7 +1043,7 @@
     "model": "Force",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -929,8 +1051,29 @@
   {
     "brand": "GT",
     "model": "Fury",
+    "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "GT",
+    "model": "Fury",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -970,7 +1113,7 @@
     "model": "Sensor",
     "sub_model": "Sport",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -980,7 +1123,7 @@
     "model": "Sensor",
     "sub_model": "Comp",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -990,7 +1133,7 @@
     "model": "Sensor",
     "sub_model": "Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1000,7 +1143,7 @@
     "model": "Sensor",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1010,7 +1153,7 @@
     "model": "Sensor",
     "sub_model": "ST Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1020,7 +1163,7 @@
     "model": "Sensor",
     "sub_model": "Pro LE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1030,7 +1173,7 @@
     "model": "Stomper",
     "sub_model": "FS Ace",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"

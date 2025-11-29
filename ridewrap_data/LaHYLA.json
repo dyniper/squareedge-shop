@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "LaHYLA",
+    "model": "Drew",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Carbon",
+    "wheel_size": "24"
+  },
+  {
+    "brand": "LaHYLA",
+    "model": "Drew Mullet",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Carbon",
+    "wheel_size": "24/26"
+  }
+]

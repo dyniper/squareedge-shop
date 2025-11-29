@@ -2,9 +2,19 @@
   {
     "brand": "Yeti",
     "model": "ASR",
+    "sub_model": "T5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
     "sub_model": "C2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +24,7 @@
     "model": "ASR",
     "sub_model": "C3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +34,7 @@
     "model": "ASR",
     "sub_model": "T2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +44,7 @@
     "model": "ASR",
     "sub_model": "T3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +54,7 @@
     "model": "ASR",
     "sub_model": "T4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -54,7 +64,7 @@
     "model": "ASR",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -63,7 +73,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -72,7 +82,7 @@
     "brand": "Yeti",
     "model": "SB135",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -81,7 +91,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -99,7 +109,7 @@
     "brand": "Yeti",
     "model": "160E",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -108,7 +118,17 @@
     "brand": "Yeti",
     "model": "ARC",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "ASR",
+    "sub_model": "T5",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -118,7 +138,7 @@
     "model": "ASR",
     "sub_model": "C2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -128,7 +148,7 @@
     "model": "ASR",
     "sub_model": "C3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -138,7 +158,7 @@
     "model": "ASR",
     "sub_model": "T2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -148,7 +168,7 @@
     "model": "ASR",
     "sub_model": "T3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -158,7 +178,7 @@
     "model": "ASR",
     "sub_model": "T4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -168,10 +188,28 @@
     "model": "ASR",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "LTe",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "MTe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Yeti",
@@ -187,7 +225,7 @@
     "model": "SB115",
     "sub_model": "Flat Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -197,7 +235,7 @@
     "model": "SB115",
     "sub_model": "Ribbed Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -206,7 +244,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -224,7 +262,7 @@
     "brand": "Yeti",
     "model": "SB135",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -233,7 +271,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -242,7 +280,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -260,7 +298,7 @@
     "brand": "Yeti",
     "model": "SB160",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -269,7 +307,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -278,7 +316,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -305,7 +343,7 @@
     "brand": "Yeti",
     "model": "160E",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -314,7 +352,7 @@
     "brand": "Yeti",
     "model": "ARC",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -324,7 +362,7 @@
     "model": "ASR",
     "sub_model": "T5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,7 +372,7 @@
     "model": "ASR",
     "sub_model": "C2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -344,7 +382,7 @@
     "model": "ASR",
     "sub_model": "C3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -354,7 +392,7 @@
     "model": "ASR",
     "sub_model": "T2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -364,7 +402,7 @@
     "model": "ASR",
     "sub_model": "T3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -374,7 +412,7 @@
     "model": "ASR",
     "sub_model": "T4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -384,10 +422,28 @@
     "model": "ASR",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "LTe",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "MTe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Yeti",
@@ -403,7 +459,7 @@
     "model": "SB115",
     "sub_model": "Flat Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -413,7 +469,7 @@
     "model": "SB115",
     "sub_model": "Ribbed Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -422,7 +478,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -440,7 +496,7 @@
     "brand": "Yeti",
     "model": "SB135",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -449,7 +505,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -458,7 +514,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -476,7 +532,7 @@
     "brand": "Yeti",
     "model": "SB160",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -485,7 +541,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -494,7 +550,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -521,7 +577,7 @@
     "brand": "Yeti",
     "model": "160E",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -530,7 +586,7 @@
     "brand": "Yeti",
     "model": "ARC",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -540,7 +596,7 @@
     "model": "ASR",
     "sub_model": "T5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -550,7 +606,7 @@
     "model": "ASR",
     "sub_model": "C2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -560,7 +616,7 @@
     "model": "ASR",
     "sub_model": "C3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -570,7 +626,7 @@
     "model": "ASR",
     "sub_model": "T2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -580,7 +636,7 @@
     "model": "ASR",
     "sub_model": "T3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -590,7 +646,7 @@
     "model": "ASR",
     "sub_model": "T4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -600,10 +656,28 @@
     "model": "ASR",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "LTe",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "MTe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Yeti",
@@ -619,7 +693,7 @@
     "model": "SB115",
     "sub_model": "Flat Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -629,7 +703,7 @@
     "model": "SB115",
     "sub_model": "Ribbed Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -638,7 +712,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -656,7 +730,7 @@
     "brand": "Yeti",
     "model": "SB135",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -665,7 +739,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -674,7 +748,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -692,7 +766,7 @@
     "brand": "Yeti",
     "model": "SB160",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -701,7 +775,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -710,7 +784,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -746,7 +820,7 @@
     "brand": "Yeti",
     "model": "160E",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -755,7 +829,7 @@
     "brand": "Yeti",
     "model": "ARC",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -765,7 +839,7 @@
     "model": "ASR",
     "sub_model": "T5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -775,7 +849,7 @@
     "model": "ASR",
     "sub_model": "C2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -785,7 +859,7 @@
     "model": "ASR",
     "sub_model": "C3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -795,7 +869,7 @@
     "model": "ASR",
     "sub_model": "T2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -805,7 +879,7 @@
     "model": "ASR",
     "sub_model": "T3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -815,7 +889,7 @@
     "model": "ASR",
     "sub_model": "T4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -825,10 +899,28 @@
     "model": "ASR",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "LTe",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Yeti",
+    "model": "MTe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Yeti",
@@ -844,7 +936,7 @@
     "model": "SB115",
     "sub_model": "Flat Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -854,7 +946,7 @@
     "model": "SB115",
     "sub_model": "Ribbed Chainstay Guard",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -863,7 +955,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -881,7 +973,7 @@
     "brand": "Yeti",
     "model": "SB135",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -890,7 +982,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -899,7 +991,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -917,7 +1009,7 @@
     "brand": "Yeti",
     "model": "SB160",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -926,7 +1018,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -935,7 +1027,7 @@
     "brand": "Yeti",
     "model": "SB165",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -962,7 +1054,7 @@
     "brand": "Yeti",
     "model": "SB120",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -971,7 +1063,7 @@
     "brand": "Yeti",
     "model": "SB140",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -980,7 +1072,7 @@
     "brand": "Yeti",
     "model": "SB160",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"

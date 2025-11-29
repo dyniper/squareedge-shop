@@ -4,7 +4,37 @@
     "model": "Lane",
     "sub_model": "160",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "260",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "X",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "BiXS",
+    "model": "Lane",
+    "sub_model": "160",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +44,7 @@
     "model": "Lane",
     "sub_model": "260",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +54,7 @@
     "model": "Lane",
     "sub_model": "X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +64,7 @@
     "model": "Peak",
     "sub_model": "140",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +74,7 @@
     "model": "Peak",
     "sub_model": "240",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -54,7 +84,7 @@
     "model": "Peak",
     "sub_model": "340",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"

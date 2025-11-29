@@ -4,7 +4,7 @@
     "model": "Sirius",
     "sub_model": "S5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Longish",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -14,7 +14,7 @@
     "model": "Moxie",
     "sub_model": "Mx3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Longish",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -24,7 +24,7 @@
     "model": "Sirius",
     "sub_model": "S5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -33,7 +33,7 @@
     "brand": "Pipedream",
     "model": "The Full Moxie",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29"
@@ -43,7 +43,7 @@
     "model": "Moxie",
     "sub_model": "Mx3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -53,7 +53,7 @@
     "model": "Sirius",
     "sub_model": "S5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -63,7 +63,7 @@
     "model": "Moxie",
     "sub_model": "Mx3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -72,7 +72,7 @@
     "brand": "Pipedream",
     "model": "The Full Moxie",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29"

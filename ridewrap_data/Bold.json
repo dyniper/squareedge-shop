@@ -4,7 +4,7 @@
     "model": "Linkin",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "Linkin",
     "sub_model": "LT",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +24,7 @@
     "model": "Linkin",
     "sub_model": "135 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +34,7 @@
     "model": "Linkin",
     "sub_model": "150 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +44,7 @@
     "model": "Linkin",
     "sub_model": "135 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -54,7 +54,7 @@
     "model": "Linkin",
     "sub_model": "150 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -64,7 +64,7 @@
     "model": "Linkin",
     "sub_model": "LT",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +74,7 @@
     "model": "Unplugged",
     "sub_model": "Pro TR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -84,7 +84,7 @@
     "model": "Unplugged",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -94,7 +94,7 @@
     "model": "Unplugged",
     "sub_model": "Ultimate",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -104,7 +104,7 @@
     "model": "Unplugged",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -114,7 +114,7 @@
     "model": "Linkin",
     "sub_model": "150 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -124,7 +124,7 @@
     "model": "Linkin",
     "sub_model": "135 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +134,7 @@
     "model": "Linkin",
     "sub_model": "150 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +144,7 @@
     "model": "Linkin",
     "sub_model": "135 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -154,7 +154,7 @@
     "model": "Linkin",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -164,7 +164,7 @@
     "model": "Unplugged",
     "sub_model": "Pro TR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -174,7 +174,7 @@
     "model": "Unplugged",
     "sub_model": "Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -184,7 +184,7 @@
     "model": "Unplugged",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -194,7 +194,7 @@
     "model": "Unplugged",
     "sub_model": "Ultimate",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -204,7 +204,7 @@
     "model": "Linkin",
     "sub_model": "135 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -214,7 +214,7 @@
     "model": "Linkin",
     "sub_model": "150 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -224,7 +224,7 @@
     "model": "Linkin",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -234,7 +234,7 @@
     "model": "Linkin",
     "sub_model": "LT",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -244,7 +244,7 @@
     "model": "Linkin",
     "sub_model": "135 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -254,7 +254,7 @@
     "model": "Linkin",
     "sub_model": "150 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -264,7 +264,7 @@
     "model": "Linkin",
     "sub_model": "Frameset",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -274,7 +274,7 @@
     "model": "Linkin",
     "sub_model": "LT",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -284,7 +284,7 @@
     "model": "Linkin",
     "sub_model": "135 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -294,7 +294,7 @@
     "model": "Linkin",
     "sub_model": "150 Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -304,7 +304,7 @@
     "model": "Linkin",
     "sub_model": "135 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -314,7 +314,7 @@
     "model": "Linkin",
     "sub_model": "150 Ultimate",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

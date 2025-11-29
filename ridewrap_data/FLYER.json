@@ -41,10 +41,19 @@
   },
   {
     "brand": "FLYER",
+    "model": "Uproc X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "FLYER",
     "model": "Uproc6",
     "sub_model": "6.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -54,7 +63,7 @@
     "model": "Uproc6",
     "sub_model": "8.70",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -64,17 +73,16 @@
     "model": "Uproc6",
     "sub_model": "9.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
     "brand": "FLYER",
-    "model": "Uproc",
-    "sub_model": "EVO:X",
+    "model": "Uproc EVO:X",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -124,7 +132,7 @@
     "model": "Uproc6",
     "sub_model": "6.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -134,7 +142,7 @@
     "model": "Uproc6",
     "sub_model": "8.70",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -144,17 +152,16 @@
     "model": "Uproc6",
     "sub_model": "9.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
     "brand": "FLYER",
-    "model": "Uproc",
-    "sub_model": "EVO:X",
+    "model": "Uproc EVO:X",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -204,7 +211,7 @@
     "model": "Uproc6",
     "sub_model": "6.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -214,7 +221,7 @@
     "model": "Uproc6",
     "sub_model": "8.70",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -224,7 +231,7 @@
     "model": "Uproc6",
     "sub_model": "9.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -274,7 +281,7 @@
     "model": "Uproc6",
     "sub_model": "6.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -284,7 +291,7 @@
     "model": "Uproc6",
     "sub_model": "8.70",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -294,7 +301,7 @@
     "model": "Uproc6",
     "sub_model": "9.50",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"

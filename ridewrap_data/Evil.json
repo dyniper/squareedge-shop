@@ -1,12 +1,43 @@
 [
   {
     "brand": "Evil",
-    "model": "Offering",
-    "year_from": 2019,
-    "year_to": 2020,
+    "model": "Wreckoning",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Following",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "LB",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Evil",
@@ -20,23 +51,13 @@
   },
   {
     "brand": "Evil",
-    "model": "Offering",
+    "model": "Insurgent",
     "sub_model": "LS",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Following",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Evil",
@@ -51,9 +72,8 @@
   {
     "brand": "Evil",
     "model": "Offering",
-    "sub_model": "V2",
-    "year_from": 2021,
-    "year_to": 2022,
+    "year_from": 2019,
+    "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -62,26 +82,44 @@
     "brand": "Evil",
     "model": "Faction II",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "26"
   },
   {
     "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "LB",
-    "year_from": 2018,
-    "year_to": 2019,
+    "model": "Offering",
+    "sub_model": "V2",
+    "year_from": 2021,
+    "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "LB",
-    "year_from": 2019,
+    "model": "Offering",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Epocalypse",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Calling",
+    "year_from": 2017,
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
@@ -89,9 +127,10 @@
   },
   {
     "brand": "Evil",
-    "model": "Epocalypse",
-    "year_from": 2022,
-    "year_to": 2025,
+    "model": "Wreckoning",
+    "sub_model": "LB",
+    "year_from": 2018,
+    "year_to": 2019,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -109,64 +148,6 @@
   {
     "brand": "Evil",
     "model": "Insurgent",
-    "sub_model": "V3",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Calling",
-    "year_from": 2017,
-    "year_to": 2021,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "V3",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Calling",
-    "year_from": 2017,
-    "year_to": 2021,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
     "sub_model": "LB",
     "year_from": 2019,
     "year_to": 2021,
@@ -176,9 +157,48 @@
   },
   {
     "brand": "Evil",
-    "model": "Offering",
-    "sub_model": "V2",
+    "model": "Calling",
+    "year_from": 2017,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "V3",
     "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Wreckoning",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Wreckoning",
+    "sub_model": "V3",
+    "year_from": 2020,
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
@@ -195,20 +215,20 @@
   },
   {
     "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Offering",
+    "sub_model": "V2",
+    "year_from": 2021,
+    "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "29"
   },
   {
     "brand": "Evil",
-    "model": "Following",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Wreckoning",
+    "sub_model": "LB",
+    "year_from": 2018,
+    "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -225,10 +245,9 @@
   },
   {
     "brand": "Evil",
-    "model": "Following",
-    "sub_model": "V3",
-    "year_from": 2020,
-    "year_to": 2022,
+    "model": "Epocalypse",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -236,19 +255,9 @@
   {
     "brand": "Evil",
     "model": "Following",
-    "sub_model": "MB",
-    "year_from": 2017,
-    "year_to": 2019,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "LB",
-    "year_from": 2018,
-    "year_to": 2019,
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -257,14 +266,14 @@
     "brand": "Evil",
     "model": "Faction II",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "26"
   },
   {
     "brand": "Evil",
-    "model": "Wreckoning",
+    "model": "Following",
     "sub_model": "V3",
     "year_from": 2020,
     "year_to": 2022,
@@ -274,30 +283,11 @@
   },
   {
     "brand": "Evil",
-    "model": "Epocalypse",
-    "year_from": 2022,
-    "year_to": 2025,
+    "model": "Following",
+    "sub_model": "MB",
+    "year_from": 2017,
+    "year_to": 2019,
     "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Offering",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -313,117 +303,9 @@
   },
   {
     "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "V3",
-    "year_from": 2020,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Offering",
-    "sub_model": "V2",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Wreckoning",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Offering",
-    "year_from": 2019,
-    "year_to": 2020,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "V3",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Calling",
-    "year_from": 2017,
-    "year_to": 2021,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "LB",
-    "year_from": 2019,
-    "year_to": 2021,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Evil",
-    "model": "Following",
-    "sub_model": "LS",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
     "model": "Epocalypse",
     "year_from": 2022,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Following",
-    "sub_model": "V3",
-    "year_from": 2020,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Following",
-    "sub_model": "MB",
-    "year_from": 2017,
-    "year_to": 2019,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -432,18 +314,67 @@
     "brand": "Evil",
     "model": "Faction II",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "26"
   },
   {
     "brand": "Evil",
-    "model": "Wreckoning",
+    "model": "Offering",
     "sub_model": "LS",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "XL",
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Wreckoning",
+    "sub_model": "V3",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Following",
+    "sub_model": "MB",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Offering",
+    "sub_model": "V2",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Following",
+    "sub_model": "V3",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -452,8 +383,38 @@
     "model": "Insurgent",
     "sub_model": "LS",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "XL",
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Wreckoning",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Following",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
@@ -462,7 +423,17 @@
     "model": "Calling",
     "year_from": 2017,
     "year_to": 2021,
-    "size": "XL",
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "LB",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
   },
@@ -478,12 +449,12 @@
   },
   {
     "brand": "Evil",
-    "model": "Epocalypse",
-    "year_from": 2022,
-    "year_to": 2025,
+    "model": "Calling",
+    "year_from": 2017,
+    "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "27"
   },
   {
     "brand": "Evil",
@@ -497,10 +468,19 @@
   },
   {
     "brand": "Evil",
-    "model": "Following",
-    "sub_model": "MB",
-    "year_from": 2017,
-    "year_to": 2019,
+    "model": "Wreckoning",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Epocalypse",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -511,16 +491,6 @@
     "sub_model": "LS",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Following",
-    "sub_model": "V3",
-    "year_from": 2020,
-    "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -537,10 +507,49 @@
   },
   {
     "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
     "model": "Following",
+    "sub_model": "MB",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
     "sub_model": "LS",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Insurgent",
+    "sub_model": "V3",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Evil",
+    "model": "Following",
+    "sub_model": "V3",
+    "year_from": 2020,
+    "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -557,21 +566,12 @@
   },
   {
     "brand": "Evil",
-    "model": "Offering",
-    "year_from": 2019,
-    "year_to": 2020,
+    "model": "Following",
+    "sub_model": "LS",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
-  },
-  {
-    "brand": "Evil",
-    "model": "Insurgent",
-    "sub_model": "V3",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29"
   }
 ]

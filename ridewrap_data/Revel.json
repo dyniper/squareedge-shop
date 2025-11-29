@@ -10,6 +10,42 @@
   },
   {
     "brand": "Revel",
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Revel",
     "model": "Rail",
     "year_from": 2020,
     "year_to": 2024,
@@ -19,9 +55,18 @@
   },
   {
     "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2022,
-    "year_to": 2025,
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal SL",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -30,25 +75,7 @@
     "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2020,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -64,9 +91,54 @@
   },
   {
     "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal SL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -82,18 +154,9 @@
   },
   {
     "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Revel",
     "model": "Rail",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -109,27 +172,45 @@
   },
   {
     "brand": "Revel",
+    "model": "Rascal SL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2020,
-    "year_to": 2023,
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -146,8 +227,26 @@
   {
     "brand": "Revel",
     "model": "Rail",
-    "year_from": 2022,
-    "year_to": 2025,
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -157,7 +256,7 @@
     "model": "Rail",
     "year_from": 2020,
     "year_to": 2024,
-    "size": "L",
+    "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
   },
@@ -165,25 +264,16 @@
     "brand": "Revel",
     "model": "Wayward",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Titanium",
     "wheel_size": "29"
   },
   {
     "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2020,
+    "model": "Ranger",
+    "year_from": 2023,
     "year_to": 2024,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2022,
-    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -192,10 +282,37 @@
     "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal SL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Revel",
@@ -208,9 +325,18 @@
   },
   {
     "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2025,
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -218,9 +344,18 @@
   {
     "brand": "Revel",
     "model": "Rascal",
-    "year_from": 2020,
-    "year_to": 2023,
-    "size": "XL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal SL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   }

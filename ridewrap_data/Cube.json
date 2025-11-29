@@ -1,9 +1,49 @@
 [
   {
     "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "EX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
     "model": "AMS Hybrid One44 C:68X",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -43,7 +83,7 @@
     "model": "Reaction Hybrid Performance",
     "sub_model": "Allroad",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -53,7 +93,7 @@
     "model": "Reaction Hybrid Performance",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -313,7 +353,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -323,7 +363,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -333,7 +373,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -343,7 +383,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "ABS 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -353,7 +393,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -363,7 +403,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -373,7 +413,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -383,7 +423,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -393,7 +433,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -440,10 +480,30 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One77",
+    "sub_model": "HPC",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo One22",
     "sub_model": "Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -453,7 +513,7 @@
     "model": "Stereo One22",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -463,7 +523,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -473,7 +533,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -483,7 +543,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -493,7 +553,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -503,7 +563,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -513,7 +573,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -523,7 +583,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -533,7 +593,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -542,7 +602,7 @@
     "brand": "Cube",
     "model": "AMS Hybrid One44 C:68X",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -551,7 +611,7 @@
     "brand": "Cube",
     "model": "AMS One11 C:68X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -560,7 +620,7 @@
     "brand": "Cube",
     "model": "AMS Zero99 C:68X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -579,7 +639,7 @@
     "model": "Attention",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -589,7 +649,7 @@
     "model": "Attention",
     "sub_model": "SLX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -599,7 +659,7 @@
     "model": "Attention",
     "sub_model": "SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -644,6 +704,26 @@
   },
   {
     "brand": "Cube",
+    "model": "Phenix C:68X",
+    "sub_model": "SLT",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Phenix C:68X",
+    "sub_model": "SLX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
     "model": "Reaction C:62",
     "sub_model": "SL",
     "year_from": 2021,
@@ -897,7 +977,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLT 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -907,7 +987,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -917,7 +997,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -927,7 +1007,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -937,7 +1017,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -947,7 +1027,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -957,7 +1037,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -967,7 +1047,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -977,7 +1057,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -987,7 +1067,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1297,7 +1377,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1307,7 +1387,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1317,7 +1397,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1327,7 +1407,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "ABS 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1337,7 +1417,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1347,7 +1427,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1357,7 +1437,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1367,7 +1447,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1377,7 +1457,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1387,7 +1467,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1397,7 +1477,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1407,7 +1487,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1417,7 +1497,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1427,7 +1507,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1437,7 +1517,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1447,7 +1527,7 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPA",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1457,7 +1537,7 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1467,7 +1547,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLT 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1477,7 +1557,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X TM 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1487,7 +1567,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLX 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1497,7 +1577,7 @@
     "model": "Stereo Hybrid One77",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1507,7 +1587,7 @@
     "model": "Stereo One22",
     "sub_model": "Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1517,7 +1597,7 @@
     "model": "Stereo One22",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1527,7 +1607,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1537,7 +1617,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1547,7 +1627,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1557,7 +1637,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1567,7 +1647,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1577,7 +1657,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1587,7 +1667,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1597,7 +1677,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1607,7 +1687,7 @@
     "model": "Stereo One77",
     "sub_model": "Race",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1617,7 +1697,7 @@
     "model": "Stereo One77",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1627,7 +1707,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1637,7 +1717,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1647,10 +1727,30 @@
     "model": "Stereo One77",
     "sub_model": "C:68X TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(17)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Cube",
+    "model": "TWO15",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(17)",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Cube",
@@ -1686,7 +1786,7 @@
     "model": "AIM",
     "sub_model": "SLX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1696,7 +1796,7 @@
     "model": "AIM",
     "sub_model": "EX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1706,7 +1806,7 @@
     "model": "AIM",
     "sub_model": "PRO",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1716,7 +1816,7 @@
     "model": "AIM",
     "sub_model": "Race",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1726,7 +1826,7 @@
     "model": "AIM",
     "sub_model": "Allroad",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1735,7 +1835,7 @@
     "brand": "Cube",
     "model": "AMS Hybrid One44 C:68X",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1744,7 +1844,7 @@
     "brand": "Cube",
     "model": "AMS One11 C:68X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1753,7 +1853,7 @@
     "brand": "Cube",
     "model": "AMS Zero99 C:68X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1763,7 +1863,7 @@
     "model": "Attention",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1773,7 +1873,7 @@
     "model": "Attention",
     "sub_model": "SLX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1783,7 +1883,7 @@
     "model": "Attention",
     "sub_model": "SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1871,7 +1971,7 @@
     "model": "Reaction C:62",
     "sub_model": "Race",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1881,7 +1981,7 @@
     "model": "Reaction C:62",
     "sub_model": "Pro",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1891,7 +1991,7 @@
     "model": "Reaction C:62",
     "sub_model": "SLX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1901,7 +2001,7 @@
     "model": "Reaction C:62",
     "sub_model": "One",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2121,7 +2221,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLT 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2131,7 +2231,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2141,7 +2241,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2151,7 +2251,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2161,7 +2261,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2171,7 +2271,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2181,7 +2281,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2191,7 +2291,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2201,7 +2301,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2211,7 +2311,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2221,7 +2321,7 @@
     "model": "Reaction Hybrid Performance",
     "sub_model": "Allroad",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2231,7 +2331,7 @@
     "model": "Reaction Hybrid Performance",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2551,7 +2651,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2561,7 +2661,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2571,7 +2671,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2581,7 +2681,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "ABS 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2591,7 +2691,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2601,7 +2701,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2611,7 +2711,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2621,7 +2721,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2631,7 +2731,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2681,7 +2781,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2691,7 +2791,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2701,7 +2801,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2711,7 +2811,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2721,7 +2821,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2731,7 +2831,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -2739,9 +2839,19 @@
   {
     "brand": "Cube",
     "model": "Stereo Hybrid One44",
+    "sub_model": "HPA",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2751,7 +2861,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLT 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2761,7 +2871,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X TM 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2771,7 +2881,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLX 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2781,7 +2891,7 @@
     "model": "Stereo Hybrid One77",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2791,7 +2901,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2801,7 +2911,7 @@
     "model": "Stereo One44",
     "sub_model": "C:62 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2811,7 +2921,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2821,7 +2931,7 @@
     "model": "Stereo One44",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2831,7 +2941,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2841,7 +2951,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2851,7 +2961,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2861,7 +2971,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2871,7 +2981,7 @@
     "model": "Stereo One77",
     "sub_model": "Race",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2881,7 +2991,7 @@
     "model": "Stereo One77",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2891,7 +3001,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2901,7 +3011,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2911,7 +3021,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2938,9 +3048,59 @@
   },
   {
     "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "EX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "PRO",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
     "model": "AMS Hybrid One44 C:68X",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2949,8 +3109,78 @@
     "brand": "Cube",
     "model": "AMS One11 C:68X",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -3139,7 +3369,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLT 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3149,7 +3379,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3159,7 +3389,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3169,7 +3399,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3179,7 +3409,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3189,7 +3419,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3199,7 +3429,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3209,7 +3439,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3219,7 +3449,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3229,7 +3459,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3509,7 +3739,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3519,7 +3749,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3529,7 +3759,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3539,7 +3769,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "ABS 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3549,7 +3779,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3559,7 +3789,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3569,7 +3799,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3579,7 +3809,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3589,7 +3819,7 @@
     "model": "Stereo Hybrid 140 HPC",
     "sub_model": "Pro 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3639,7 +3869,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3649,7 +3879,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3659,7 +3889,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "TM 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3669,7 +3899,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLX 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3679,7 +3909,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 750",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3689,7 +3919,7 @@
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Race 625",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3699,7 +3929,7 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3709,7 +3939,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLT 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3719,7 +3949,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X TM 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3729,7 +3959,7 @@
     "model": "Stereo Hybrid One55",
     "sub_model": "C:68X SLX 750",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3739,17 +3969,57 @@
     "model": "Stereo Hybrid One77",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
     "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:62 Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLX",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One44",
+    "sub_model": "C:68X SLT",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo One55",
     "sub_model": "C:62 SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3759,7 +4029,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3769,7 +4039,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3779,7 +4049,7 @@
     "model": "Stereo One55",
     "sub_model": "C:62 Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3789,7 +4059,7 @@
     "model": "Stereo One77",
     "sub_model": "Race",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3799,7 +4069,7 @@
     "model": "Stereo One77",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3809,7 +4079,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3819,7 +4089,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X SLX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3829,7 +4099,7 @@
     "model": "Stereo One77",
     "sub_model": "C:68X TM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4039,7 +4309,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLT 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4049,7 +4319,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4059,7 +4329,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "SLX  800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4069,7 +4339,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4079,7 +4349,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Race 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4089,7 +4359,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800 Allroad",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4099,7 +4369,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4109,7 +4379,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "Pro 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4119,7 +4389,7 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 800",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -4129,9 +4399,39 @@
     "model": "Reaction Hybrid",
     "sub_model": "One 600",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Cube",
+    "model": "Acid",
+    "sub_model": "240 Disc",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 240",
+    "sub_model": "ONE",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo 240",
+    "sub_model": "PRO",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24"
   }
 ]

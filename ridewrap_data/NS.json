@@ -4,19 +4,10 @@
     "model": "E-Fine",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
-  },
-  {
-    "brand": "NS",
-    "model": "Fuzz",
-    "year_from": 2020,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
   },
   {
     "brand": "NS",
@@ -33,7 +24,7 @@
     "model": "Define",
     "sub_model": "AL 170",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -43,7 +34,7 @@
     "model": "E-Fine",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -53,10 +44,19 @@
     "model": "E-Fine",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "NS",
+    "model": "Fuzz",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "NS",
@@ -70,10 +70,30 @@
   },
   {
     "brand": "NS",
+    "model": "Define",
+    "sub_model": "AL 170",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "NS",
+    "model": "Define",
+    "sub_model": "AL 150",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "NS",
     "model": "E-Fine",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -82,26 +102,16 @@
     "brand": "NS",
     "model": "Fuzz",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
     "brand": "NS",
-    "model": "Define",
-    "sub_model": "AL 170",
-    "year_from": 2021,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "NS",
     "model": "Decade",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"

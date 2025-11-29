@@ -12,7 +12,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -21,7 +21,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -30,7 +30,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -39,7 +39,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -48,7 +48,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -57,7 +57,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -84,7 +84,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -93,7 +93,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -111,7 +111,16 @@
     "brand": "Transition",
     "model": "Regulator CX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator SX",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -120,7 +129,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -129,7 +138,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -138,7 +147,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -147,7 +156,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -157,7 +166,7 @@
     "model": "Repeater",
     "sub_model": "EP8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -167,7 +176,7 @@
     "model": "Repeater",
     "sub_model": "PT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -176,7 +185,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -185,7 +194,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -194,7 +203,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -230,7 +239,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -239,7 +248,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -266,7 +275,7 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -275,7 +284,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -284,7 +293,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -293,7 +302,7 @@
     "brand": "Transition",
     "model": "Spur",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -303,7 +312,7 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -321,7 +330,7 @@
     "brand": "Transition",
     "model": "TR11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -330,10 +339,19 @@
     "brand": "Transition",
     "model": "TransAM",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Transition",
+    "model": "Bottlerocket",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Transition",
@@ -357,7 +375,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -366,7 +384,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -384,7 +402,7 @@
     "brand": "Transition",
     "model": "Regulator CX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -393,7 +411,7 @@
     "brand": "Transition",
     "model": "Regulator SX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -402,7 +420,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -411,7 +429,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -420,7 +438,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -429,7 +447,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -439,7 +457,7 @@
     "model": "Repeater",
     "sub_model": "EP8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -449,7 +467,7 @@
     "model": "Repeater",
     "sub_model": "PT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -467,7 +485,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -476,7 +494,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -521,7 +539,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -530,7 +548,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -557,7 +575,7 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -566,7 +584,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -575,7 +593,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -584,7 +602,7 @@
     "brand": "Transition",
     "model": "Spur",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -594,7 +612,7 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -612,7 +630,16 @@
     "brand": "Transition",
     "model": "TR11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -621,7 +648,7 @@
     "brand": "Transition",
     "model": "TransAM",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29"
@@ -657,7 +684,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -666,7 +693,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -684,7 +711,7 @@
     "brand": "Transition",
     "model": "Regulator CX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -693,7 +720,7 @@
     "brand": "Transition",
     "model": "Regulator SX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -702,7 +729,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -711,7 +738,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -720,7 +747,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -729,7 +756,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -739,7 +766,7 @@
     "model": "Repeater",
     "sub_model": "EP8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -749,7 +776,7 @@
     "model": "Repeater",
     "sub_model": "PT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -758,7 +785,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -767,7 +794,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -812,7 +839,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -821,7 +848,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -848,7 +875,7 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -857,7 +884,7 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -866,7 +893,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -875,7 +902,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -884,7 +911,7 @@
     "brand": "Transition",
     "model": "Spur",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -894,7 +921,7 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -912,7 +939,7 @@
     "brand": "Transition",
     "model": "TR11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -921,7 +948,7 @@
     "brand": "Transition",
     "model": "TransAM",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29"
@@ -957,7 +984,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -966,7 +993,7 @@
     "brand": "Transition",
     "model": "Patrol",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -975,7 +1002,16 @@
     "brand": "Transition",
     "model": "Regulator CX",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Transition",
+    "model": "Regulator SX",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -984,7 +1020,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -993,7 +1029,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1002,7 +1038,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1011,7 +1047,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1021,7 +1057,7 @@
     "model": "Repeater",
     "sub_model": "EP8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1031,7 +1067,7 @@
     "model": "Repeater",
     "sub_model": "PT",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1040,7 +1076,7 @@
     "brand": "Transition",
     "model": "Scout",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1085,7 +1121,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1094,7 +1130,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1121,7 +1157,7 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1130,7 +1166,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1139,7 +1175,7 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1148,7 +1184,7 @@
     "brand": "Transition",
     "model": "Spur",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1158,7 +1194,7 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1176,7 +1212,7 @@
     "brand": "Transition",
     "model": "TR11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1185,7 +1221,7 @@
     "brand": "Transition",
     "model": "TransAM",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29"
@@ -1194,7 +1230,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1203,7 +1239,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1212,7 +1248,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1221,7 +1257,7 @@
     "brand": "Transition",
     "model": "Relay",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1257,7 +1293,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -1266,7 +1302,7 @@
     "brand": "Transition",
     "model": "Sentinel",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1275,16 +1311,16 @@
     "brand": "Transition",
     "model": "Smuggler",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Transition",
-    "model": "Spire",
-    "year_from": 2021,
-    "year_to": 2025,
+    "model": "Smuggler",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1293,10 +1329,28 @@
     "brand": "Transition",
     "model": "Spire",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spire",
+    "year_from": 2021,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Transition",
+    "model": "Bandit",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "20"
   },
   {
     "brand": "Transition",
@@ -1311,7 +1365,7 @@
     "brand": "Transition",
     "model": "Ripcord",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"

@@ -1,10 +1,40 @@
 [
   {
     "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC4",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
     "model": "Mountain Cross",
     "sub_model": "MC6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -14,7 +44,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -24,7 +54,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -32,9 +62,19 @@
   {
     "brand": "Husqvarna",
     "model": "Hard Cross",
+    "sub_model": "LE",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Hard Cross",
     "sub_model": "HC5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -44,7 +84,7 @@
     "model": "Hard Cross",
     "sub_model": "HC4",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -54,7 +94,7 @@
     "model": "Hard Cross",
     "sub_model": "HC3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -64,7 +104,7 @@
     "model": "Hard Cross",
     "sub_model": "HC2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -74,7 +114,7 @@
     "model": "Hard Cross",
     "sub_model": "HC1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -134,7 +174,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -144,7 +184,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -154,7 +194,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -164,7 +204,7 @@
     "model": "Hard Cross",
     "sub_model": "HC5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -174,7 +214,7 @@
     "model": "Hard Cross",
     "sub_model": "HC4",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -184,7 +224,7 @@
     "model": "Hard Cross",
     "sub_model": "HC3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -194,7 +234,7 @@
     "model": "Hard Cross",
     "sub_model": "HC2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -204,9 +244,39 @@
     "model": "Hard Cross",
     "sub_model": "HC1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Husqvarna",
+    "model": "Light Cross",
+    "sub_model": "LC4",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
     "wheel_size": "27/29"
   },
   {
@@ -214,7 +284,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -224,7 +294,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -234,7 +304,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -244,7 +314,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -254,7 +324,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -264,7 +334,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -274,7 +344,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -284,7 +354,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -294,7 +364,7 @@
     "model": "Mountain Cross",
     "sub_model": "MC4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"

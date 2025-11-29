@@ -4,7 +4,7 @@
     "model": "Extra",
     "sub_model": "Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -14,7 +14,7 @@
     "model": "Extra",
     "sub_model": "Air",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -23,7 +23,7 @@
     "brand": "ARC8",
     "model": "Evolve FS",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -33,7 +33,7 @@
     "model": "Extra",
     "sub_model": "Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -43,7 +43,7 @@
     "model": "Extra",
     "sub_model": "Air",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -70,9 +70,9 @@
   },
   {
     "brand": "ARC8",
-    "model": "Essential",
-    "year_from": 2022,
-    "year_to": 2025,
+    "model": "Evolve HT",
+    "year_from": 2019,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -81,7 +81,16 @@
     "brand": "ARC8",
     "model": "Essential",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "ARC8",
+    "model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -110,7 +119,7 @@
     "brand": "ARC8",
     "model": "Evolve FS",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -120,7 +129,7 @@
     "model": "Extra",
     "sub_model": "Air",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -130,7 +139,7 @@
     "model": "Extra",
     "sub_model": "Coil",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"

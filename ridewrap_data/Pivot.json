@@ -1,9 +1,18 @@
 [
   {
     "brand": "Pivot",
+    "model": "Firebird",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Pivot",
     "model": "LES SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -21,7 +30,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -30,7 +39,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -57,7 +66,7 @@
     "brand": "Pivot",
     "model": "Mach 6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -66,10 +75,19 @@
     "brand": "Pivot",
     "model": "Shadowcat",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle SL-AM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -93,7 +111,7 @@
     "brand": "Pivot",
     "model": "Switchblade",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -112,7 +130,7 @@
     "model": "Trailcat",
     "sub_model": "SL",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -122,7 +140,7 @@
     "model": "Trailcat",
     "sub_model": "LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -149,10 +167,19 @@
     "brand": "Pivot",
     "model": "Firebird",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Firebird",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -163,6 +190,15 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Pivot",
+    "model": "LES SL",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Pivot",
@@ -186,7 +222,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -195,7 +231,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -222,7 +258,7 @@
     "brand": "Pivot",
     "model": "Mach 6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -249,7 +285,7 @@
     "brand": "Pivot",
     "model": "Phoenix",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -258,7 +294,7 @@
     "brand": "Pivot",
     "model": "Shadowcat",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -276,7 +312,16 @@
     "brand": "Pivot",
     "model": "Shuttle AM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle AM",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -294,7 +339,7 @@
     "brand": "Pivot",
     "model": "Shuttle LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -303,10 +348,19 @@
     "brand": "Pivot",
     "model": "Shuttle SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle SL-AM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -330,7 +384,7 @@
     "brand": "Pivot",
     "model": "Switchblade",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -346,6 +400,26 @@
   },
   {
     "brand": "Pivot",
+    "model": "Trailcat",
+    "sub_model": "SL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Trailcat",
+    "sub_model": "LT",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Pivot",
     "model": "Firebird",
     "year_from": 2018,
     "year_to": 2021,
@@ -357,16 +431,25 @@
     "brand": "Pivot",
     "model": "Firebird",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Pivot",
+    "model": "Firebird",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Pivot",
     "model": "LES SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -384,7 +467,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -393,7 +476,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -411,7 +494,7 @@
     "brand": "Pivot",
     "model": "Mach 6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -438,7 +521,7 @@
     "brand": "Pivot",
     "model": "Phoenix",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -447,7 +530,7 @@
     "brand": "Pivot",
     "model": "Shadowcat",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -465,7 +548,16 @@
     "brand": "Pivot",
     "model": "Shuttle AM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle AM",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -483,7 +575,7 @@
     "brand": "Pivot",
     "model": "Shuttle LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -492,10 +584,19 @@
     "brand": "Pivot",
     "model": "Shuttle SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle SL-AM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -528,7 +629,7 @@
     "brand": "Pivot",
     "model": "Switchblade",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -556,7 +657,7 @@
     "model": "Trailcat",
     "sub_model": "SL",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -566,7 +667,7 @@
     "model": "Trailcat",
     "sub_model": "LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -593,16 +694,25 @@
     "brand": "Pivot",
     "model": "Firebird",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Pivot",
+    "model": "Firebird",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Pivot",
     "model": "LES SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -629,7 +739,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -638,7 +748,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -656,7 +766,7 @@
     "brand": "Pivot",
     "model": "Mach 6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -683,7 +793,7 @@
     "brand": "Pivot",
     "model": "Phoenix",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -692,7 +802,7 @@
     "brand": "Pivot",
     "model": "Shadowcat",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -719,7 +829,16 @@
     "brand": "Pivot",
     "model": "Shuttle AM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle AM",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -737,7 +856,7 @@
     "brand": "Pivot",
     "model": "Shuttle LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -746,10 +865,19 @@
     "brand": "Pivot",
     "model": "Shuttle SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle SL-AM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -782,7 +910,7 @@
     "brand": "Pivot",
     "model": "Switchblade",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -810,7 +938,7 @@
     "model": "Trailcat",
     "sub_model": "SL",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -820,7 +948,7 @@
     "model": "Trailcat",
     "sub_model": "LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -838,16 +966,25 @@
     "brand": "Pivot",
     "model": "Firebird",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Pivot",
+    "model": "Firebird",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Pivot",
     "model": "LES SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -865,7 +1002,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -874,7 +1011,7 @@
     "brand": "Pivot",
     "model": "Mach 4 SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -892,7 +1029,7 @@
     "brand": "Pivot",
     "model": "Phoenix",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -910,7 +1047,16 @@
     "brand": "Pivot",
     "model": "Shuttle AM",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle AM",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -928,7 +1074,7 @@
     "brand": "Pivot",
     "model": "Shuttle LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -937,10 +1083,19 @@
     "brand": "Pivot",
     "model": "Shuttle SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Pivot",
+    "model": "Shuttle SL-AM",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Pivot",
@@ -964,7 +1119,7 @@
     "brand": "Pivot",
     "model": "Switchblade",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -992,7 +1147,7 @@
     "model": "Trailcat",
     "sub_model": "SL",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1002,7 +1157,7 @@
     "model": "Trailcat",
     "sub_model": "LT",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1011,7 +1166,7 @@
     "brand": "Pivot",
     "model": "Point",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Steel",
     "wheel_size": "26"

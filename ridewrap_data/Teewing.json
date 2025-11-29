@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "XT",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  }
+]

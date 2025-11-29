@@ -31,6 +31,26 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Chaser",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Chrono Carbon",
     "sub_model": "RR",
     "year_from": 2019,
@@ -201,10 +221,79 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Play",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "24",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids"
+  },
+  {
+    "brand": "Mondraker",
     "model": "F-Podium",
     "sub_model": "RR SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -214,7 +303,7 @@
     "model": "F-Podium",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -224,7 +313,7 @@
     "model": "F-Podium",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -234,7 +323,17 @@
     "model": "F-Podium",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -243,7 +342,7 @@
     "brand": "Mondraker",
     "model": "Factor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "24\"",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -273,7 +372,7 @@
     "model": "Foxy Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -283,7 +382,7 @@
     "model": "Foxy Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -293,7 +392,7 @@
     "model": "Foxy Carbon",
     "sub_model": "XR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -303,7 +402,7 @@
     "model": "Neat",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -313,7 +412,7 @@
     "model": "Neat",
     "sub_model": "RR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -323,9 +422,69 @@
     "model": "Neat",
     "sub_model": "RR SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R G4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "RX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "G4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -333,7 +492,7 @@
     "model": "Raze Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -343,7 +502,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -353,7 +512,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -363,7 +522,7 @@
     "model": "Sly",
     "sub_model": "R",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -373,7 +532,7 @@
     "model": "Sly",
     "sub_model": "RR",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -410,6 +569,56 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "R MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "S MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "SE MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Summum Carbon",
     "sub_model": "RR",
     "year_from": 2022,
@@ -433,7 +642,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -443,7 +652,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "RR",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -612,6 +821,46 @@
     "brand": "Mondraker",
     "model": "Crafty Carbon",
     "sub_model": "RR SL",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
     "year_from": 2023,
     "year_to": 2024,
     "size": "M",
@@ -670,10 +919,100 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Crusher",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -683,7 +1022,7 @@
     "model": "Crusher",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -693,7 +1032,7 @@
     "model": "Crusher",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -703,7 +1042,7 @@
     "model": "Dune",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -713,7 +1052,7 @@
     "model": "Dune",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -723,7 +1062,7 @@
     "model": "Dune",
     "sub_model": "XR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -769,10 +1108,19 @@
   },
   {
     "brand": "Mondraker",
+    "model": "F-Play",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "26",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids"
+  },
+  {
+    "brand": "Mondraker",
     "model": "F-Podium",
     "sub_model": "RR SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -782,7 +1130,7 @@
     "model": "F-Podium",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -792,7 +1140,7 @@
     "model": "F-Podium",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -802,7 +1150,17 @@
     "model": "F-Podium",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -869,9 +1227,18 @@
   },
   {
     "brand": "Mondraker",
+    "model": "F-Trick",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "26\"",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Factor",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "26\"",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -901,7 +1268,7 @@
     "model": "Foxy",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -911,7 +1278,7 @@
     "model": "Foxy",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -951,7 +1318,7 @@
     "model": "Foxy Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -961,7 +1328,7 @@
     "model": "Foxy Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -971,7 +1338,7 @@
     "model": "Foxy Carbon",
     "sub_model": "XR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1028,10 +1395,40 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Neat",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1041,7 +1438,7 @@
     "model": "Neat",
     "sub_model": "RR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1051,7 +1448,7 @@
     "model": "Neat",
     "sub_model": "RR SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1061,7 +1458,7 @@
     "model": "Podium Carbon",
     "sub_model": "RR SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1071,7 +1468,7 @@
     "model": "Podium Carbon",
     "sub_model": "RR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1081,7 +1478,7 @@
     "model": "Podium Carbon",
     "sub_model": "R",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1091,7 +1488,7 @@
     "model": "Podium Carbon",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1128,10 +1525,40 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R G4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "RX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Raze",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1141,7 +1568,7 @@
     "model": "Raze",
     "sub_model": "Base Model",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1151,7 +1578,7 @@
     "model": "Raze Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1161,7 +1588,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1171,7 +1598,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1181,7 +1608,7 @@
     "model": "Sly",
     "sub_model": "R",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1191,7 +1618,7 @@
     "model": "Sly",
     "sub_model": "RR",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1231,7 +1658,7 @@
     "model": "Summum",
     "sub_model": "MX",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1241,7 +1668,37 @@
     "model": "Summum",
     "sub_model": "R MX",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "S MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "SE MX",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1271,7 +1728,7 @@
     "model": "Superfoxy",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1281,7 +1738,17 @@
     "model": "Superfoxy",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "XR",
+    "year_from": 2020,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1291,7 +1758,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1301,7 +1768,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "RR",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1558,10 +2025,100 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Dune",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1571,7 +2128,7 @@
     "model": "Dune",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1581,7 +2138,7 @@
     "model": "Dune",
     "sub_model": "XR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1591,7 +2148,7 @@
     "model": "F-Podium",
     "sub_model": "RR SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1601,7 +2158,7 @@
     "model": "F-Podium",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1611,7 +2168,7 @@
     "model": "F-Podium",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1621,7 +2178,17 @@
     "model": "F-Podium",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1711,7 +2278,7 @@
     "model": "Foxy",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1721,7 +2288,7 @@
     "model": "Foxy",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1761,7 +2328,7 @@
     "model": "Foxy Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1771,7 +2338,7 @@
     "model": "Foxy Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1781,7 +2348,7 @@
     "model": "Foxy Carbon",
     "sub_model": "XR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1838,10 +2405,40 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Neat",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1851,7 +2448,7 @@
     "model": "Neat",
     "sub_model": "RR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1861,7 +2458,7 @@
     "model": "Neat",
     "sub_model": "RR SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1871,7 +2468,7 @@
     "model": "Podium Carbon",
     "sub_model": "RR SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1881,7 +2478,7 @@
     "model": "Podium Carbon",
     "sub_model": "RR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1891,7 +2488,7 @@
     "model": "Podium Carbon",
     "sub_model": "R",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1901,7 +2498,7 @@
     "model": "Podium Carbon",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1938,10 +2535,40 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R G4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "RX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Raze",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1951,7 +2578,7 @@
     "model": "Raze",
     "sub_model": "Base Model",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1961,7 +2588,7 @@
     "model": "Raze Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1971,7 +2598,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1981,7 +2608,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1991,7 +2618,7 @@
     "model": "Sly",
     "sub_model": "R",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2001,7 +2628,7 @@
     "model": "Sly",
     "sub_model": "RR",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2041,7 +2668,7 @@
     "model": "Summum",
     "sub_model": "MX",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2051,7 +2678,37 @@
     "model": "Summum",
     "sub_model": "R MX",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "RR MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "S MX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Summum",
+    "sub_model": "SE MX",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2081,7 +2738,7 @@
     "model": "Superfoxy",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2091,7 +2748,17 @@
     "model": "Superfoxy",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "XR",
+    "year_from": 2020,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2101,7 +2768,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2111,7 +2778,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "RR",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2248,10 +2915,90 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "R",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "RR",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crusher",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "F-Podium",
     "sub_model": "RR SL",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2261,7 +3008,7 @@
     "model": "F-Podium",
     "sub_model": "RR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2271,7 +3018,7 @@
     "model": "F-Podium",
     "sub_model": "R",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2281,7 +3028,17 @@
     "model": "F-Podium",
     "sub_model": "Base Model",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "F-Podium",
+    "sub_model": "RS",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2341,7 +3098,7 @@
     "model": "Foxy Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2351,7 +3108,7 @@
     "model": "Foxy Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2361,17 +3118,37 @@
     "model": "Foxy Carbon",
     "sub_model": "XR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Neat",
     "sub_model": "R",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2381,7 +3158,7 @@
     "model": "Neat",
     "sub_model": "RR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2391,7 +3168,7 @@
     "model": "Neat",
     "sub_model": "RR SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2428,10 +3205,40 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R G4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Prime",
+    "sub_model": "RX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Raze Carbon",
     "sub_model": "R",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2441,7 +3248,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2451,7 +3258,7 @@
     "model": "Raze Carbon",
     "sub_model": "RR SL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2511,7 +3318,7 @@
     "model": "Superfoxy",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2521,7 +3328,17 @@
     "model": "Superfoxy",
     "sub_model": "Base Model",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Superfoxy",
+    "sub_model": "XR",
+    "year_from": 2020,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2531,7 +3348,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "R",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2541,7 +3358,7 @@
     "model": "Superfoxy Carbon",
     "sub_model": "RR",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2568,10 +3385,130 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "RR S",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Crafty Carbon",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Level",
+    "sub_model": "RR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Sly",
     "sub_model": "R",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2581,7 +3518,7 @@
     "model": "Sly",
     "sub_model": "RR",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29"

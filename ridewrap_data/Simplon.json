@@ -3,7 +3,7 @@
     "brand": "Simplon",
     "model": "Rapcon",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -12,7 +12,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax Pinion",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -21,7 +21,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax TQ",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -41,7 +41,7 @@
     "model": "Cirex",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -51,7 +51,7 @@
     "model": "Cirex",
     "sub_model": "SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -60,7 +60,7 @@
     "brand": "Simplon",
     "model": "Rapcon",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -78,7 +78,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax CX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -87,7 +87,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax Pinion",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -96,7 +96,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax TQ",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -106,7 +106,7 @@
     "model": "Cirex",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -116,7 +116,7 @@
     "model": "Cirex",
     "sub_model": "SL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -125,7 +125,7 @@
     "brand": "Simplon",
     "model": "Rapcon",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -143,7 +143,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax CX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -152,7 +152,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax Pinion",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -161,7 +161,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax TQ",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -191,7 +191,7 @@
     "model": "Stomp Pmax",
     "sub_model": "Chain drive",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -201,7 +201,7 @@
     "model": "Stomp Pmax",
     "sub_model": "Belt drive",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -219,7 +219,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax CX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -228,7 +228,7 @@
     "brand": "Simplon",
     "model": "Rapcon Pmax TQ",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -237,7 +237,7 @@
     "brand": "Simplon",
     "model": "Steamer Pmax",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -247,7 +247,7 @@
     "model": "Stomp Pmax",
     "sub_model": "Chain drive",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

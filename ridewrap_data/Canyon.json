@@ -54,7 +54,7 @@
     "model": "Neuron",
     "sub_model": "AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -64,7 +64,7 @@
     "model": "Neuron",
     "sub_model": "AL WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -74,7 +74,7 @@
     "model": "Neuron",
     "sub_model": "CF",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -84,7 +84,7 @@
     "model": "Neuron",
     "sub_model": "CF WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -94,7 +94,7 @@
     "model": "Neuron",
     "sub_model": "CF SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -104,7 +104,7 @@
     "model": "Spectral",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -124,7 +124,7 @@
     "model": "Spectral",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -134,7 +134,7 @@
     "model": "Spectral",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -174,7 +174,7 @@
     "model": "Grand Canyon:ON",
     "sub_model": "7",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -184,7 +184,7 @@
     "model": "Grand Canyon:ON",
     "sub_model": "8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -194,7 +194,7 @@
     "model": "Grand Canyon:ON",
     "sub_model": "9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -204,7 +204,7 @@
     "model": "Lux Trail",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -214,7 +214,7 @@
     "model": "Lux Trail",
     "sub_model": "CFR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -264,7 +264,7 @@
     "model": "Neuron",
     "sub_model": "CF",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -274,7 +274,7 @@
     "model": "Neuron",
     "sub_model": "CF WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -284,7 +284,7 @@
     "model": "Neuron",
     "sub_model": "CF SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -294,7 +294,7 @@
     "model": "Neuron:ON",
     "sub_model": "WMN",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -304,7 +304,7 @@
     "model": "Neuron:ON",
     "sub_model": "Unisex",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -314,7 +314,7 @@
     "model": "Neuron:ON",
     "sub_model": "AL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -324,7 +324,7 @@
     "model": "Neuron:ONfly",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,10 +334,20 @@
     "model": "Neuron:ONfly",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Sender",
+    "sub_model": "CF",
+    "year_from": 2017,
+    "year_to": 2020,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Canyon",
@@ -354,7 +364,17 @@
     "model": "Sender",
     "sub_model": "CFR Mullet",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Sender",
+    "sub_model": "CFR",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -414,7 +434,7 @@
     "model": "Spectral",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -424,7 +444,7 @@
     "model": "Spectral",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -474,7 +494,7 @@
     "model": "Spectral:ON",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -484,7 +504,7 @@
     "model": "Spectral:ON",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -493,7 +513,7 @@
     "brand": "Canyon",
     "model": "Spectral:ONfly",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -503,7 +523,7 @@
     "model": "Stitched",
     "sub_model": "360",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -533,7 +553,7 @@
     "model": "Strive",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -543,7 +563,7 @@
     "model": "Strive",
     "sub_model": "CFR Underdog",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -553,7 +573,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR Underdog",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -563,7 +583,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -573,7 +593,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -593,7 +613,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -613,7 +633,7 @@
     "model": "Torque",
     "sub_model": "Mullet CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -623,10 +643,30 @@
     "model": "Torque",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Torque",
+    "sub_model": "AL",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Torque",
+    "sub_model": "DH CLLCTV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Canyon",
@@ -663,7 +703,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -673,7 +713,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -683,7 +723,7 @@
     "model": "Torque:ON",
     "sub_model": "CF Roczen",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -723,7 +763,7 @@
     "model": "Grand Canyon",
     "sub_model": "5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -733,7 +773,7 @@
     "model": "Grand Canyon",
     "sub_model": "6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -743,7 +783,7 @@
     "model": "Grand Canyon",
     "sub_model": "7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -753,7 +793,7 @@
     "model": "Grand Canyon",
     "sub_model": "8",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -763,7 +803,7 @@
     "model": "Grand Canyon",
     "sub_model": "9",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -803,7 +843,7 @@
     "model": "Lux Trail",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -813,7 +853,7 @@
     "model": "Lux Trail",
     "sub_model": "CFR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -823,7 +863,7 @@
     "model": "Lux World Cup",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -833,7 +873,7 @@
     "model": "Lux World Cup",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -893,7 +933,7 @@
     "model": "Neuron",
     "sub_model": "AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -903,7 +943,7 @@
     "model": "Neuron",
     "sub_model": "AL WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -913,7 +953,7 @@
     "model": "Neuron",
     "sub_model": "CF",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -923,7 +963,7 @@
     "model": "Neuron",
     "sub_model": "CF WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -933,7 +973,7 @@
     "model": "Neuron",
     "sub_model": "CF SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -943,7 +983,7 @@
     "model": "Neuron:ON",
     "sub_model": "Unisex",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -953,7 +993,7 @@
     "model": "Neuron:ON",
     "sub_model": "WMN",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -963,7 +1003,7 @@
     "model": "Neuron:ON",
     "sub_model": "AL",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -973,7 +1013,7 @@
     "model": "Neuron:ONfly",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -983,7 +1023,7 @@
     "model": "Neuron:ONfly",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1013,7 +1053,7 @@
     "model": "Sender",
     "sub_model": "CFR Mullet",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1023,10 +1063,20 @@
     "model": "Sender",
     "sub_model": "CFR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Sender",
+    "sub_model": "CFR",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Canyon",
@@ -1073,7 +1123,7 @@
     "model": "Spectral",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1113,7 +1163,7 @@
     "model": "Spectral",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1123,7 +1173,7 @@
     "model": "Spectral",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1133,7 +1183,7 @@
     "model": "Spectral",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1183,7 +1233,7 @@
     "model": "Spectral:ON",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1193,7 +1243,7 @@
     "model": "Spectral:ON",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1202,10 +1252,19 @@
     "brand": "Canyon",
     "model": "Spectral:ONfly",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Stoic",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Canyon",
@@ -1232,7 +1291,7 @@
     "model": "Strive",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1242,7 +1301,7 @@
     "model": "Strive",
     "sub_model": "CFR Underdog",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1252,7 +1311,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR Underdog",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1262,7 +1321,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1272,7 +1331,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1302,7 +1361,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1312,7 +1371,7 @@
     "model": "Torque",
     "sub_model": "Mullet CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1332,7 +1391,7 @@
     "model": "Torque",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1342,7 +1401,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1352,7 +1411,7 @@
     "model": "Torque",
     "sub_model": "DH CLLCTV",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1392,7 +1451,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1402,7 +1461,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1412,10 +1471,20 @@
     "model": "Torque:ON",
     "sub_model": "CF Roczen",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Exceed",
+    "sub_model": "CF",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
   },
   {
     "brand": "Canyon",
@@ -1452,7 +1521,7 @@
     "model": "Lux Trail",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1462,7 +1531,7 @@
     "model": "Lux Trail",
     "sub_model": "CFR",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1472,7 +1541,7 @@
     "model": "Lux World Cup",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1482,7 +1551,7 @@
     "model": "Lux World Cup",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1512,7 +1581,7 @@
     "model": "Neuron",
     "sub_model": "CF",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1522,7 +1591,7 @@
     "model": "Neuron",
     "sub_model": "CF WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1532,7 +1601,7 @@
     "model": "Neuron",
     "sub_model": "CF SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1542,7 +1611,7 @@
     "model": "Neuron:ON",
     "sub_model": "CF7",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1552,7 +1621,7 @@
     "model": "Neuron:ON",
     "sub_model": "CF8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1562,7 +1631,7 @@
     "model": "Neuron:ON",
     "sub_model": "CF9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1592,7 +1661,7 @@
     "model": "Sender",
     "sub_model": "CFR Mullet",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1602,10 +1671,20 @@
     "model": "Sender",
     "sub_model": "CFR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Sender",
+    "sub_model": "CFR",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Canyon",
@@ -1662,7 +1741,7 @@
     "model": "Spectral",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1672,7 +1751,7 @@
     "model": "Spectral",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1682,10 +1761,20 @@
     "model": "Spectral",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Spectral",
+    "sub_model": "AL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Canyon",
@@ -1732,7 +1821,7 @@
     "model": "Spectral:ON",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1742,7 +1831,7 @@
     "model": "Spectral:ON",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1752,7 +1841,7 @@
     "model": "Stitched",
     "sub_model": "360",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -1761,7 +1850,7 @@
     "brand": "Canyon",
     "model": "Stoic",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1791,7 +1880,7 @@
     "model": "Strive",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1801,7 +1890,7 @@
     "model": "Strive",
     "sub_model": "CFR Underdog",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1811,7 +1900,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR Underdog",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1821,7 +1910,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1831,7 +1920,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1861,7 +1950,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1869,9 +1958,19 @@
   {
     "brand": "Canyon",
     "model": "Torque",
+    "sub_model": "CF",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Torque",
     "sub_model": "Mullet CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1891,7 +1990,7 @@
     "model": "Torque",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1901,7 +2000,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1911,7 +2010,7 @@
     "model": "Torque",
     "sub_model": "DH CLLCTV",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1951,7 +2050,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1961,7 +2060,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1971,7 +2070,7 @@
     "model": "Torque:ON",
     "sub_model": "CF Roczen",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2051,7 +2150,7 @@
     "model": "Neuron",
     "sub_model": "CF",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2061,7 +2160,7 @@
     "model": "Neuron",
     "sub_model": "CF WMN",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2071,7 +2170,7 @@
     "model": "Neuron",
     "sub_model": "CF SL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2091,7 +2190,7 @@
     "model": "Sender",
     "sub_model": "CFR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2141,7 +2240,7 @@
     "model": "Spectral",
     "sub_model": "AL",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2151,7 +2250,7 @@
     "model": "Spectral",
     "sub_model": "CF",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2161,7 +2260,7 @@
     "model": "Spectral",
     "sub_model": "CF LTD",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2201,7 +2300,7 @@
     "model": "Spectral:ON",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2211,7 +2310,16 @@
     "model": "Spectral:ON",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Canyon",
+    "model": "Spectral:ONfly",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2241,7 +2349,7 @@
     "model": "Strive",
     "sub_model": "CFR",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2251,7 +2359,7 @@
     "model": "Strive",
     "sub_model": "CFR Underdog",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2261,7 +2369,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR Underdog",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2271,7 +2379,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2281,7 +2389,7 @@
     "model": "Strive:ON",
     "sub_model": "CFR LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2291,7 +2399,7 @@
     "model": "Torque",
     "sub_model": "Mullet CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2311,7 +2419,7 @@
     "model": "Torque",
     "sub_model": "CF",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2321,7 +2429,7 @@
     "model": "Torque",
     "sub_model": "AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2331,7 +2439,7 @@
     "model": "Torque",
     "sub_model": "DH CLLCTV",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2371,7 +2479,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 8",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2381,7 +2489,7 @@
     "model": "Torque:ON",
     "sub_model": "CF 9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2391,7 +2499,7 @@
     "model": "Torque:ON",
     "sub_model": "CF Roczen",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"

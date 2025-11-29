@@ -4,7 +4,7 @@
     "model": "Middlechild",
     "sub_model": "V2 Cr-Mo",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
@@ -14,7 +14,7 @@
     "model": "Sergeant",
     "sub_model": "V5 AL",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -24,7 +24,7 @@
     "model": "RS-291",
     "sub_model": "Cr-Mo",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29"

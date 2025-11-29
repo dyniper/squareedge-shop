@@ -4,7 +4,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7971",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -14,7 +14,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7972",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -24,7 +24,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7973",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -34,7 +34,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Prestige",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -44,7 +44,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Master",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -54,7 +54,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Elite",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -134,7 +134,7 @@
     "model": "Prowler",
     "sub_model": "Master",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +144,7 @@
     "model": "Prowler",
     "sub_model": "Exonic",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -212,9 +212,59 @@
   {
     "brand": "KTM",
     "model": "Scarp",
+    "sub_model": "Elite",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "Glorious",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Elite",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
+    "sub_model": "MT Pro",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Scarp",
     "sub_model": "Prime",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -224,7 +274,7 @@
     "model": "Scarp",
     "sub_model": "Master",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -234,9 +284,49 @@
     "model": "Scarp",
     "sub_model": "Exonic",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Chacana",
+    "sub_model": "791",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Chacana",
+    "sub_model": "792",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Chacana",
+    "sub_model": "LFC",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Chacana",
+    "sub_model": "591",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -244,7 +334,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7971",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -254,7 +344,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7972",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -264,7 +354,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7973",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -284,7 +374,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Prestige",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -294,7 +384,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Master",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -304,10 +394,50 @@
     "model": "Macina Kapoho",
     "sub_model": "Elite",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "771",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "771 Glorious",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "772",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Lycan",
+    "sub_model": "772 Glorious",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "KTM",
@@ -361,10 +491,110 @@
   },
   {
     "brand": "KTM",
+    "model": "Macina Scarp SX",
+    "sub_model": "Exonic",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Scarp SX",
+    "sub_model": "Prime",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Scarp SX",
+    "sub_model": "Master",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Scarp SX",
+    "sub_model": "Elite",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "691",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "791",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "792",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "792 Glorious",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "793",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Macina Team",
+    "sub_model": "LFC",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
     "model": "Myroon",
     "sub_model": "Prime",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -374,7 +604,7 @@
     "model": "Myroon",
     "sub_model": "Glorious",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -384,7 +614,7 @@
     "model": "Myroon",
     "sub_model": "Master",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -394,7 +624,7 @@
     "model": "Myroon",
     "sub_model": "Exonic",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -404,7 +634,7 @@
     "model": "Prowler",
     "sub_model": "Master",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -414,7 +644,7 @@
     "model": "Prowler",
     "sub_model": "Exonic",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -534,7 +764,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7971",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -544,7 +774,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7972",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -554,7 +784,7 @@
     "model": "Macina Kapoho",
     "sub_model": "7973",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -564,7 +794,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Prestige",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -574,7 +804,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Master",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -584,7 +814,7 @@
     "model": "Macina Kapoho",
     "sub_model": "Elite",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -594,7 +824,7 @@
     "model": "Macina Lycan",
     "sub_model": "771",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -604,7 +834,7 @@
     "model": "Macina Lycan",
     "sub_model": "771 Glorious",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -614,7 +844,7 @@
     "model": "Macina Lycan",
     "sub_model": "772",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -624,7 +854,7 @@
     "model": "Macina Lycan",
     "sub_model": "772 Glorious",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -727,6 +957,26 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Ultra",
+    "sub_model": "1964 Pro 29",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "KTM",
+    "model": "Ultra",
+    "sub_model": "1964 Comp 29",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   }
 ]

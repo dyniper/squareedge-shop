@@ -4,7 +4,7 @@
     "model": "PL",
     "sub_model": "Carbon",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -14,7 +14,7 @@
     "model": "PL",
     "sub_model": "Carbon Pro",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -24,7 +24,7 @@
     "model": "PL",
     "sub_model": "Carbon",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -34,7 +34,7 @@
     "model": "PL",
     "sub_model": "Carbon Pro",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -44,7 +44,7 @@
     "model": "PL",
     "sub_model": "Carbon",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -54,7 +54,7 @@
     "model": "PL",
     "sub_model": "Carbon Pro",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -64,7 +64,7 @@
     "model": "PL",
     "sub_model": "Carbon",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -74,7 +74,7 @@
     "model": "PL",
     "sub_model": "Carbon Pro",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"

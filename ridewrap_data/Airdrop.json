@@ -1,10 +1,70 @@
 [
   {
     "brand": "Airdrop",
+    "model": "Edit 275",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Luxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Deluxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
     "model": "Edit MX",
     "sub_model": "Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Stealth",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -51,6 +111,36 @@
   },
   {
     "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Core",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Works",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Frame",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
     "model": "Slacker",
     "sub_model": "Luxe",
     "year_from": 2023,
@@ -78,36 +168,6 @@
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Frame",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S1",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Deluxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S1",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Luxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S1",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
@@ -124,7 +184,7 @@
     "model": "Slacker",
     "sub_model": "Luxe",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -134,7 +194,7 @@
     "model": "Slacker",
     "sub_model": "Deluxe",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -144,7 +204,27 @@
     "model": "Slacker",
     "sub_model": "Park",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Works",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -154,147 +234,47 @@
     "model": "Edit 275",
     "sub_model": "Frame",
     "year_from": 2024,
-    "year_to": 2025,
-    "size": "S1",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Works",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S1",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Fade",
-    "sub_model": "Luxe",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "Regular",
-    "frame_material": "Alloy",
-    "wheel_size": "26"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Fade",
-    "sub_model": "Works",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "Regular",
-    "frame_material": "Alloy",
-    "wheel_size": "26"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Fade",
-    "sub_model": "Deluxe",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "Regular",
-    "frame_material": "Alloy",
-    "wheel_size": "26"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Luxe",
-    "year_from": 2023,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27"
   },
   {
     "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Deluxe",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S2",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Park",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S2",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Works",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S2",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
+    "model": "Edit MX",
     "sub_model": "Luxe",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
-    "model": "Slacker",
+    "model": "Edit MX",
     "sub_model": "Deluxe",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Park",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S2",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
+    "model": "Edit MX",
     "sub_model": "Works",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
-    "model": "Edit 275",
+    "model": "Edit MX",
     "sub_model": "Frame",
     "year_from": 2024,
-    "year_to": 2025,
-    "size": "S2",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Luxe",
-    "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -302,9 +282,9 @@
   {
     "brand": "Airdrop",
     "model": "Edit MX",
-    "sub_model": "Deluxe",
+    "sub_model": "Stealth",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -312,9 +292,9 @@
   {
     "brand": "Airdrop",
     "model": "Edit MX",
-    "sub_model": "Works",
+    "sub_model": "Core",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -341,13 +321,13 @@
   },
   {
     "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Frame",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S2",
+    "model": "Edit V4",
+    "sub_model": "Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27"
   },
   {
     "brand": "Airdrop",
@@ -361,201 +341,261 @@
   },
   {
     "brand": "Airdrop",
-    "model": "Edit V4",
-    "sub_model": "Works",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Deluxe",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
+    "model": "Fade",
     "sub_model": "Luxe",
     "year_from": 2023,
-    "year_to": 2023,
-    "size": "S3",
+    "year_to": 2026,
+    "size": "Regular",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "26"
   },
   {
     "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Park",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Works",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit V4",
-    "sub_model": "Works",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit V4",
+    "model": "Fade",
     "sub_model": "Deluxe",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "L",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Regular",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "26"
   },
   {
     "brand": "Airdrop",
-    "model": "Edit V4",
-    "sub_model": "Luxe",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Luxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Deluxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
-    "sub_model": "Park",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Slacker",
+    "model": "Fade",
     "sub_model": "Works",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Regular",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "26"
   },
   {
     "brand": "Airdrop",
-    "model": "Edit MX",
+    "model": "Fade",
+    "sub_model": "Core",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Regular",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Core",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Works",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
     "sub_model": "Frame",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Works",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Deluxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Luxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S3",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Fade",
+    "model": "Slacker",
     "sub_model": "Luxe",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "Long",
+    "year_to": 2023,
+    "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "27"
   },
   {
     "brand": "Airdrop",
-    "model": "Fade",
+    "model": "Slacker",
     "sub_model": "Deluxe",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "Long",
+    "year_to": 2023,
+    "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "27"
   },
   {
     "brand": "Airdrop",
-    "model": "Fade",
+    "model": "Slacker",
+    "sub_model": "Park",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
     "sub_model": "Works",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "Long",
+    "year_to": 2023,
+    "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Luxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Deluxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Park",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Works",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Airdrop",
     "model": "Edit 275",
     "sub_model": "Frame",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Luxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Deluxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Works",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Stealth",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit V4",
+    "sub_model": "Luxe",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit V4",
+    "sub_model": "Deluxe",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit V4",
+    "sub_model": "Works",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
   },
@@ -568,6 +608,46 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Fade",
+    "sub_model": "Luxe",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Fade",
+    "sub_model": "Deluxe",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Fade",
+    "sub_model": "Works",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Fade",
+    "sub_model": "Core",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
   },
   {
     "brand": "Airdrop",
@@ -611,8 +691,208 @@
   },
   {
     "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Core",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Works",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Frame",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Luxe",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Deluxe",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Park",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Works",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Luxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Deluxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Park",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Works",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Slacker",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Luxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Deluxe",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Works",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Stealth",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit MX",
+    "sub_model": "Core",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit V4",
+    "sub_model": "Luxe",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
     "model": "Edit V4",
     "sub_model": "Deluxe",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Edit V4",
+    "sub_model": "Works",
     "year_from": 2021,
     "year_to": 2023,
     "size": "XL",
@@ -628,66 +908,6 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit V4",
-    "sub_model": "Works",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit V4",
-    "sub_model": "Luxe",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "27"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Luxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S4",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Deluxe",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S4",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Works",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S4",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Airdrop",
-    "model": "Edit MX",
-    "sub_model": "Frame",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "S4",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
   },
   {
     "brand": "Airdrop",
@@ -728,5 +948,35 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Core",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Works",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Airdrop",
+    "model": "Filter MX",
+    "sub_model": "Frame",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   }
 ]

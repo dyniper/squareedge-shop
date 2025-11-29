@@ -1,40 +1,160 @@
 [
   {
     "brand": "Moustache",
+    "model": "Clutch",
+    "sub_model": "SUV 150.7 EQ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Clutch",
+    "sub_model": "160.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Clutch",
+    "sub_model": "160.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Clutch",
+    "sub_model": "160.9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.9 Launch Edition",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
     "model": "Samedi 27",
     "sub_model": "Xroad FS 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 27",
     "sub_model": "Xroad FS 5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 27",
     "sub_model": "Xroad FS 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 27",
+    "sub_model": "Xroad FS 6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 29",
     "sub_model": "Trail 5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -44,7 +164,7 @@
     "model": "Samedi 29",
     "sub_model": "Trail 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -54,7 +174,7 @@
     "model": "Samedi 29",
     "sub_model": "Trail 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -64,7 +184,7 @@
     "model": "Samedi 29",
     "sub_model": "Trail 11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -74,7 +194,7 @@
     "model": "Samedi 29",
     "sub_model": "Trail 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -84,8 +204,108 @@
     "model": "Samedi 29",
     "sub_model": "Trail LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 150.2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 150.4",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "150.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Game",
+    "sub_model": "160.9 Launch Edition",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
   },
@@ -94,37 +314,47 @@
     "model": "Samedi 27",
     "sub_model": "Xroad FS 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 27",
     "sub_model": "Xroad FS 5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 27",
     "sub_model": "Xroad FS 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 27",
+    "sub_model": "Xroad FS 6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
   },
   {
     "brand": "Moustache",
     "model": "Samedi 29",
     "sub_model": "Game 4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -134,7 +364,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -144,7 +374,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -154,7 +384,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -164,7 +394,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -174,7 +404,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -184,7 +414,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -194,7 +424,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -204,7 +434,7 @@
     "model": "Samedi 29",
     "sub_model": "Game 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -214,7 +444,7 @@
     "model": "Samedi 29",
     "sub_model": "Game LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"

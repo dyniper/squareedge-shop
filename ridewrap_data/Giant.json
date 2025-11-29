@@ -4,7 +4,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -14,7 +14,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -24,7 +24,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -34,7 +34,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -91,7 +91,7 @@
     "model": "Reign",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -101,7 +101,27 @@
     "model": "Reign",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SX",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -120,7 +140,7 @@
     "model": "Reign Advanced",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -130,7 +150,7 @@
     "model": "Reign Advanced",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -140,7 +160,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -150,7 +170,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -160,7 +180,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -358,7 +378,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -368,7 +388,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -378,7 +398,7 @@
     "model": "Trance",
     "sub_model": "3",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -428,7 +448,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -438,7 +458,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -457,7 +477,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -467,7 +487,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -477,7 +497,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -547,7 +567,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -557,7 +577,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -567,7 +587,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -577,7 +597,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -596,7 +616,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -606,7 +626,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -616,7 +636,17 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Trance X Advanced Pro",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -626,7 +656,7 @@
     "model": "Trance X E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -636,7 +666,7 @@
     "model": "Trance X E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -646,7 +676,7 @@
     "model": "Trance X E+",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -665,7 +695,7 @@
     "model": "XTC Advanced",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -675,7 +705,7 @@
     "model": "XTC Advanced",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -685,7 +715,7 @@
     "model": "XTC Advanced",
     "sub_model": "3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -695,7 +725,7 @@
     "model": "XTC Advanced",
     "sub_model": "SL 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -705,7 +735,7 @@
     "model": "XTC Advanced",
     "sub_model": "1.5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -814,7 +844,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -824,7 +854,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -834,7 +864,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -844,7 +874,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -854,7 +884,7 @@
     "model": "Fathom E+ Pro",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -864,7 +894,7 @@
     "model": "Fathom E+ Pro",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -930,7 +960,7 @@
     "model": "Reign",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -940,7 +970,27 @@
     "model": "Reign",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SX",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -959,7 +1009,7 @@
     "model": "Reign Advanced",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -969,7 +1019,7 @@
     "model": "Reign Advanced",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -979,7 +1029,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -989,7 +1039,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -999,7 +1049,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1083,15 +1133,6 @@
   },
   {
     "brand": "Giant",
-    "model": "Reign SX",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Giant",
     "model": "Stance",
     "sub_model": "Base Model",
     "year_from": 2020,
@@ -1155,7 +1196,7 @@
     "model": "Stance E+",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1165,7 +1206,7 @@
     "model": "Stance E+",
     "sub_model": "0 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1175,7 +1216,7 @@
     "model": "Stance E+",
     "sub_model": "1 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1185,7 +1226,7 @@
     "model": "Stance E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1195,7 +1236,7 @@
     "model": "Stance E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1205,7 +1246,7 @@
     "model": "Stance E+",
     "sub_model": "2 625",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1215,7 +1256,7 @@
     "model": "Stance E+",
     "sub_model": "EX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1325,7 +1366,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1335,7 +1376,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1345,7 +1386,7 @@
     "model": "Trance",
     "sub_model": "3",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1395,7 +1436,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1405,7 +1446,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1463,7 +1504,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1473,7 +1514,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1483,7 +1524,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1553,7 +1594,7 @@
     "model": "Trance X Advanced",
     "sub_model": "0",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1563,7 +1604,7 @@
     "model": "Trance X Advanced",
     "sub_model": "1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1573,7 +1614,7 @@
     "model": "Trance X Advanced",
     "sub_model": "2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1583,7 +1624,7 @@
     "model": "Trance X Advanced",
     "sub_model": "3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1593,7 +1634,7 @@
     "model": "Trance X Advanced",
     "sub_model": "Frameset",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1603,7 +1644,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1613,7 +1654,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1623,7 +1664,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1633,7 +1674,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1643,7 +1684,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1653,7 +1694,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1663,7 +1704,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1673,7 +1714,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1692,7 +1733,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1702,7 +1743,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1712,7 +1753,17 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Trance X Advanced Pro",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1721,7 +1772,7 @@
     "brand": "Giant",
     "model": "Trance X Advanced SX",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1731,7 +1782,7 @@
     "model": "Trance X E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1741,7 +1792,7 @@
     "model": "Trance X E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1751,7 +1802,7 @@
     "model": "Trance X E+",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1767,10 +1818,19 @@
   },
   {
     "brand": "Giant",
+    "model": "Trance X SX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Giant",
     "model": "XTC Advanced",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1780,7 +1840,7 @@
     "model": "XTC Advanced",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1790,7 +1850,7 @@
     "model": "XTC Advanced",
     "sub_model": "3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1800,7 +1860,7 @@
     "model": "XTC Advanced",
     "sub_model": "SL 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1810,7 +1870,7 @@
     "model": "XTC Advanced",
     "sub_model": "1.5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1820,7 +1880,7 @@
     "model": "XTC SLR",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1830,7 +1890,7 @@
     "model": "XTC SLR",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1980,7 +2040,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1990,7 +2050,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2086,7 +2146,7 @@
     "model": "Reign",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -2096,7 +2156,27 @@
     "model": "Reign",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SX",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -2115,7 +2195,7 @@
     "model": "Reign Advanced",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2125,7 +2205,7 @@
     "model": "Reign Advanced",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2135,7 +2215,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2145,7 +2225,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2155,7 +2235,7 @@
     "model": "Reign Advanced",
     "sub_model": "Pro 2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -2236,15 +2316,6 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
-  },
-  {
-    "brand": "Giant",
-    "model": "Reign SX",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
   },
   {
     "brand": "Giant",
@@ -2341,7 +2412,7 @@
     "model": "Stance E+",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2351,7 +2422,7 @@
     "model": "Stance E+",
     "sub_model": "0 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2361,7 +2432,7 @@
     "model": "Stance E+",
     "sub_model": "1 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2371,7 +2442,7 @@
     "model": "Stance E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2381,7 +2452,7 @@
     "model": "Stance E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2391,7 +2462,7 @@
     "model": "Stance E+",
     "sub_model": "2 625",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2401,7 +2472,7 @@
     "model": "Stance E+",
     "sub_model": "EX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2410,7 +2481,7 @@
     "brand": "Giant",
     "model": "STP",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Large",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -2520,7 +2591,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2530,7 +2601,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2540,7 +2611,7 @@
     "model": "Trance",
     "sub_model": "3",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2550,7 +2621,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2560,7 +2631,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2618,7 +2689,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2628,7 +2699,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2638,7 +2709,7 @@
     "model": "Trance Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2708,7 +2779,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2718,7 +2789,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2728,7 +2799,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2738,7 +2809,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2748,7 +2819,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2758,7 +2829,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2768,7 +2839,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2778,7 +2849,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2797,7 +2868,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2807,7 +2878,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2817,7 +2888,17 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Trance X Advanced Pro",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2827,7 +2908,7 @@
     "model": "Trance X E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2837,7 +2918,7 @@
     "model": "Trance X E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2847,7 +2928,7 @@
     "model": "Trance X E+",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2866,7 +2947,7 @@
     "model": "XTC Advanced",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2876,7 +2957,7 @@
     "model": "XTC Advanced",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2886,7 +2967,7 @@
     "model": "XTC Advanced",
     "sub_model": "3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2896,7 +2977,7 @@
     "model": "XTC Advanced",
     "sub_model": "SL 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2906,7 +2987,7 @@
     "model": "XTC Advanced",
     "sub_model": "1.5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2916,7 +2997,7 @@
     "model": "XTC SLR",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2926,7 +3007,7 @@
     "model": "XTC SLR",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3026,7 +3107,7 @@
     "model": "Fathom",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3036,7 +3117,7 @@
     "model": "Fathom",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3099,6 +3180,46 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Reign",
+    "sub_model": "SX",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
   },
   {
     "brand": "Giant",
@@ -3242,7 +3363,7 @@
     "model": "Stance E+",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3252,7 +3373,7 @@
     "model": "Stance E+",
     "sub_model": "0 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3262,7 +3383,7 @@
     "model": "Stance E+",
     "sub_model": "1 Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3272,7 +3393,7 @@
     "model": "Stance E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3282,7 +3403,7 @@
     "model": "Stance E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3292,7 +3413,7 @@
     "model": "Stance E+",
     "sub_model": "2 625",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3302,7 +3423,7 @@
     "model": "Stance E+",
     "sub_model": "EX",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3312,7 +3433,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3322,7 +3443,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3401,7 +3522,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3411,7 +3532,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "0",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3421,7 +3542,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3431,7 +3552,7 @@
     "model": "Trance X Advanced E+",
     "sub_model": "LTD",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3439,9 +3560,19 @@
   {
     "brand": "Giant",
     "model": "Trance X Advanced E+ Elite",
+    "sub_model": "3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Trance X Advanced E+ Elite",
     "sub_model": "0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3451,7 +3582,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3461,7 +3592,7 @@
     "model": "Trance X Advanced E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3480,7 +3611,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3490,7 +3621,7 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3500,7 +3631,17 @@
     "model": "Trance X Advanced Pro",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Giant",
+    "model": "Trance X Advanced Pro",
+    "sub_model": "SE",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3510,7 +3651,7 @@
     "model": "Trance X E+",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3520,7 +3661,7 @@
     "model": "Trance X E+",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3530,7 +3671,7 @@
     "model": "Trance X E+",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3548,7 +3689,7 @@
     "brand": "Giant",
     "model": "Glory Advanced",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "SM",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3557,7 +3698,7 @@
     "brand": "Giant",
     "model": "Glory Advanced",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -3566,16 +3707,34 @@
     "brand": "Giant",
     "model": "Glory Advanced",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "LXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
   },
   {
     "brand": "Giant",
+    "model": "Faith",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24"
+  },
+  {
+    "brand": "Giant",
+    "model": "Faith",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "26/27"
+  },
+  {
+    "brand": "Giant",
     "model": "STP",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24"
@@ -3584,7 +3743,7 @@
     "brand": "Giant",
     "model": "Trance JR",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"

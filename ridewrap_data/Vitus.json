@@ -4,7 +4,7 @@
     "model": "Rapide FS",
     "sub_model": "CRX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "Rapide FS",
     "sub_model": "CR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +24,7 @@
     "model": "Rapide FS",
     "sub_model": "CRS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +34,7 @@
     "model": "Rapide FS",
     "sub_model": "CRX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +44,7 @@
     "model": "Rapide FS",
     "sub_model": "CR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -54,7 +54,7 @@
     "model": "Rapide FS",
     "sub_model": "CRS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -64,7 +64,7 @@
     "model": "E-Sommet",
     "sub_model": "VRX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -74,7 +74,7 @@
     "model": "E-Sommet",
     "sub_model": "VRS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -84,7 +84,7 @@
     "model": "E-Sommet",
     "sub_model": "VR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -94,7 +94,7 @@
     "model": "Mythique",
     "sub_model": "VRX",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -104,7 +104,7 @@
     "model": "Mythique",
     "sub_model": "VRS",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -114,7 +114,7 @@
     "model": "Mythique",
     "sub_model": "VR",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -124,7 +124,7 @@
     "model": "Rapide FS",
     "sub_model": "CRX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +134,7 @@
     "model": "Rapide FS",
     "sub_model": "CR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +144,7 @@
     "model": "Rapide FS",
     "sub_model": "CRS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"

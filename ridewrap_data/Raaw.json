@@ -4,7 +4,7 @@
     "model": "Jibb",
     "sub_model": "V1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -34,8 +34,28 @@
     "model": "Jibb",
     "sub_model": "V2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V2.2",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
   },
@@ -44,7 +64,7 @@
     "model": "Jibb",
     "sub_model": "V1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -62,18 +82,9 @@
   {
     "brand": "Raaw",
     "model": "Yalla",
+    "sub_model": "V1",
     "year_from": 2023,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V2.2",
-    "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -83,36 +94,17 @@
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
-    "year_to": 2025,
-    "size": "L",
+    "year_to": 2026,
+    "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
   },
   {
     "brand": "Raaw",
     "model": "Yalla",
-    "year_from": 2023,
-    "year_to": 2025,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V3",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
     "sub_model": "V1",
-    "year_from": 2021,
-    "year_to": 2025,
+    "year_from": 2023,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -122,7 +114,7 @@
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -153,6 +145,16 @@
     "sub_model": "V1",
     "year_from": 2018,
     "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V1",
+    "year_from": 2021,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"

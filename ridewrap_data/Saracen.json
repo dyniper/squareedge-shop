@@ -4,7 +4,7 @@
     "model": "Ariel",
     "sub_model": "60",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -14,7 +14,7 @@
     "model": "Ariel",
     "sub_model": "60 Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -24,7 +24,7 @@
     "model": "Ariel",
     "sub_model": "60 Elite",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -34,7 +34,7 @@
     "model": "Ariel",
     "sub_model": "60 X Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -44,7 +44,7 @@
     "model": "Myst",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -54,7 +54,7 @@
     "model": "Myst",
     "sub_model": "Team",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -64,10 +64,40 @@
     "model": "Myst",
     "sub_model": "X Frameset",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Saracen",
+    "model": "Myst",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Saracen",
+    "model": "Myst",
+    "sub_model": "Team",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Saracen",
+    "model": "Myst",
+    "sub_model": "X",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
   },
   {
     "brand": "Saracen",

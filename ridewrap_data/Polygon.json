@@ -1,10 +1,30 @@
 [
   {
     "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
     "model": "Siskiu",
     "sub_model": "T7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -14,7 +34,7 @@
     "model": "Siskiu",
     "sub_model": "T8",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -24,7 +44,7 @@
     "model": "Siskiu",
     "sub_model": "T6E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -34,7 +54,7 @@
     "model": "Siskiu",
     "sub_model": "T7E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -44,7 +64,7 @@
     "model": "Collosus",
     "sub_model": "N9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -54,7 +74,7 @@
     "model": "Collosus",
     "sub_model": "N8E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -64,7 +84,27 @@
     "model": "Collosus",
     "sub_model": "N8XE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH9",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -72,9 +112,19 @@
   {
     "brand": "Polygon",
     "model": "Siskiu",
+    "sub_model": "N9",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Siskiu",
     "sub_model": "T7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -84,7 +134,7 @@
     "model": "Siskiu",
     "sub_model": "T8",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -94,7 +144,7 @@
     "model": "Siskiu",
     "sub_model": "T8",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -104,7 +154,7 @@
     "model": "Siskiu",
     "sub_model": "T7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -114,7 +164,7 @@
     "model": "Siskiu",
     "sub_model": "D7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -124,7 +174,7 @@
     "model": "Siskiu",
     "sub_model": "D6",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -134,7 +184,7 @@
     "model": "Siskiu",
     "sub_model": "DSE",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -144,7 +194,7 @@
     "model": "Siskiu",
     "sub_model": "T6E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -154,7 +204,7 @@
     "model": "Siskiu",
     "sub_model": "T7E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -164,7 +214,7 @@
     "model": "Syncline",
     "sub_model": "C2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -174,7 +224,7 @@
     "model": "Syncline",
     "sub_model": "C3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -184,7 +234,7 @@
     "model": "Syncline",
     "sub_model": "C5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -194,7 +244,7 @@
     "model": "Xtrada",
     "sub_model": "7",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -204,7 +254,7 @@
     "model": "Xtrada",
     "sub_model": "6",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -214,7 +264,7 @@
     "model": "Xtrada",
     "sub_model": "5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -224,7 +274,7 @@
     "model": "Collosus",
     "sub_model": "N9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -234,7 +284,7 @@
     "model": "Collosus",
     "sub_model": "N8E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -244,7 +294,27 @@
     "model": "Collosus",
     "sub_model": "N8XE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH9",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -274,7 +344,7 @@
     "model": "Siskiu",
     "sub_model": "T8",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -284,7 +354,7 @@
     "model": "Siskiu",
     "sub_model": "T7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -294,7 +364,7 @@
     "model": "Siskiu",
     "sub_model": "D7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -304,7 +374,7 @@
     "model": "Siskiu",
     "sub_model": "D6",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -314,7 +384,7 @@
     "model": "Siskiu",
     "sub_model": "DSE",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -324,7 +394,7 @@
     "model": "Syncline",
     "sub_model": "C2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,7 +404,7 @@
     "model": "Syncline",
     "sub_model": "C3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -344,7 +414,7 @@
     "model": "Syncline",
     "sub_model": "C5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -354,7 +424,7 @@
     "model": "Collosus",
     "sub_model": "N8E",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -364,7 +434,27 @@
     "model": "Collosus",
     "sub_model": "N8XE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Polygon",
+    "model": "Collosus",
+    "sub_model": "DH9",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -374,7 +464,7 @@
     "model": "Siskiu",
     "sub_model": "T8",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -384,7 +474,7 @@
     "model": "Siskiu",
     "sub_model": "T7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -404,7 +494,7 @@
     "model": "Trid",
     "sub_model": "ZZ",
     "year_from": 2018,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -414,7 +504,7 @@
     "model": "Trid",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26"

@@ -4,7 +4,7 @@
     "model": "Capra",
     "sub_model": "Launch Edition",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -14,7 +14,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -24,7 +24,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -34,7 +34,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -44,7 +44,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -54,7 +54,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -64,7 +64,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +74,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -84,7 +84,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -94,7 +94,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -104,7 +104,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -114,7 +114,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -124,7 +124,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -134,7 +134,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -144,7 +144,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -154,9 +154,39 @@
     "model": "Capra",
     "sub_model": "Uncaged 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
@@ -344,7 +374,7 @@
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -354,7 +384,7 @@
     "model": "Izzo",
     "sub_model": "Pro Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -364,7 +394,7 @@
     "model": "Izzo",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -374,7 +404,7 @@
     "model": "Izzo",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -384,7 +414,7 @@
     "model": "Izzo",
     "sub_model": "Blaze",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -394,7 +424,7 @@
     "model": "Izzo",
     "sub_model": "Core 3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -404,7 +434,7 @@
     "model": "Izzo",
     "sub_model": "Core 4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -414,7 +444,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -424,7 +454,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 11",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -434,7 +464,7 @@
     "model": "Izzo",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -444,7 +474,7 @@
     "model": "Izzo",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -594,7 +624,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -604,7 +634,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -614,7 +644,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -624,7 +654,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -634,7 +664,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -644,7 +674,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -654,7 +684,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 14",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -664,7 +694,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -683,7 +713,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 24",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "24",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -693,7 +723,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 26",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "24",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -703,7 +733,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 27",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "24",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -713,7 +743,7 @@
     "model": "Tues",
     "sub_model": "Comp",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -723,7 +753,7 @@
     "model": "Tues",
     "sub_model": "Base",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -733,7 +763,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -743,7 +773,7 @@
     "model": "Tues",
     "sub_model": "Uncaged 11",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -753,7 +783,7 @@
     "model": "Tues",
     "sub_model": "Core 1",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -763,7 +793,7 @@
     "model": "Tues",
     "sub_model": "Pro",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -773,7 +803,7 @@
     "model": "Tues",
     "sub_model": "Pro Race",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -783,7 +813,7 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -953,7 +983,7 @@
     "model": "Capra",
     "sub_model": "Launch Edition",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -963,7 +993,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -973,7 +1003,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -983,7 +1013,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -993,7 +1023,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1003,7 +1033,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1013,7 +1043,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1023,7 +1053,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1033,7 +1063,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1043,7 +1073,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1063,7 +1093,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1073,7 +1103,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1083,7 +1113,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1093,7 +1123,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1103,7 +1133,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1113,7 +1143,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1123,7 +1153,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1133,7 +1163,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1143,7 +1173,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1153,9 +1183,69 @@
     "model": "Capra",
     "sub_model": "Uncaged 12",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -1343,7 +1433,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1353,7 +1443,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1363,7 +1453,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1373,7 +1463,7 @@
     "model": "Dirt Love",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Steel",
     "wheel_size": "26"
@@ -1383,7 +1473,7 @@
     "model": "Dirt Love",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Steel",
     "wheel_size": "26"
@@ -1393,7 +1483,7 @@
     "model": "Dirt Love",
     "sub_model": "ST",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Steel",
     "wheel_size": "26"
@@ -1403,7 +1493,7 @@
     "model": "Dirt Love",
     "sub_model": "Core 1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -1413,7 +1503,17 @@
     "model": "Dirt Love",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "Regular",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "YT",
+    "model": "Dirt Love",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -1423,7 +1523,7 @@
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1433,7 +1533,7 @@
     "model": "Izzo",
     "sub_model": "Pro Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1443,7 +1543,7 @@
     "model": "Izzo",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1453,7 +1553,7 @@
     "model": "Izzo",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1463,7 +1563,7 @@
     "model": "Izzo",
     "sub_model": "Blaze",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1473,7 +1573,7 @@
     "model": "Izzo",
     "sub_model": "Core 3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1483,7 +1583,7 @@
     "model": "Izzo",
     "sub_model": "Core 4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1493,7 +1593,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1503,7 +1603,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 11",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1513,7 +1613,7 @@
     "model": "Izzo",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1523,7 +1623,7 @@
     "model": "Izzo",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1662,7 +1762,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 13",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1672,7 +1772,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1682,7 +1782,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1692,7 +1792,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1702,7 +1802,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1712,7 +1812,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1722,7 +1822,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1732,7 +1832,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 14",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1742,7 +1842,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1752,7 +1852,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 24",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "26",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -1762,7 +1862,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 26",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "26",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -1772,7 +1872,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 27",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "26",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -1782,7 +1882,7 @@
     "model": "Tues",
     "sub_model": "Comp",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1792,7 +1892,7 @@
     "model": "Tues",
     "sub_model": "Base",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1802,7 +1902,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1812,7 +1912,7 @@
     "model": "Tues",
     "sub_model": "Uncaged 11",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1822,7 +1922,7 @@
     "model": "Tues",
     "sub_model": "Core 1",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1832,7 +1932,7 @@
     "model": "Tues",
     "sub_model": "Pro",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1842,7 +1942,7 @@
     "model": "Tues",
     "sub_model": "Pro Race",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1852,7 +1952,7 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -1892,7 +1992,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1902,7 +2002,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1912,7 +2022,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1922,7 +2032,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2092,7 +2212,7 @@
     "model": "Capra",
     "sub_model": "Launch Edition",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2102,7 +2222,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2112,7 +2232,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2122,7 +2242,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2132,7 +2252,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2142,7 +2262,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2152,7 +2272,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2162,7 +2282,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2172,7 +2292,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2182,7 +2302,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2202,7 +2322,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2212,7 +2332,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2222,7 +2342,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2232,7 +2352,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2242,7 +2362,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2252,7 +2372,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2262,7 +2382,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2272,7 +2392,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2282,7 +2402,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2292,9 +2412,69 @@
     "model": "Capra",
     "sub_model": "Uncaged 12",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -2479,10 +2659,50 @@
   },
   {
     "brand": "YT",
+    "model": "Decoy",
+    "sub_model": "Core 4",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy",
+    "sub_model": "Core 3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy",
+    "sub_model": "Core 2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy",
+    "sub_model": "Core 1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
     "model": "Decoy SN",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2492,7 +2712,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2502,7 +2722,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -2512,7 +2732,7 @@
     "model": "Dirt Love",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "26"
@@ -2522,7 +2742,7 @@
     "model": "Dirt Love",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "26"
@@ -2532,9 +2752,39 @@
     "model": "Dirt Love",
     "sub_model": "ST",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "YT",
+    "model": "Dirt Love",
+    "sub_model": "Core 1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "YT",
+    "model": "Dirt Love",
+    "sub_model": "Core 2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
+    "wheel_size": "26"
+  },
+  {
+    "brand": "YT",
+    "model": "Dirt Love",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Alloy",
     "wheel_size": "26"
   },
   {
@@ -2542,7 +2792,7 @@
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2552,7 +2802,7 @@
     "model": "Izzo",
     "sub_model": "Pro Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2562,7 +2812,7 @@
     "model": "Izzo",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2572,7 +2822,7 @@
     "model": "Izzo",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2582,7 +2832,7 @@
     "model": "Izzo",
     "sub_model": "Blaze",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2592,7 +2842,7 @@
     "model": "Izzo",
     "sub_model": "Core 3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2602,7 +2852,7 @@
     "model": "Izzo",
     "sub_model": "Core 4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2612,7 +2862,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2622,7 +2872,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 11",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2632,7 +2882,7 @@
     "model": "Izzo",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2642,7 +2892,7 @@
     "model": "Izzo",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2822,7 +3072,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 13",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -2832,7 +3082,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2842,7 +3092,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2852,7 +3102,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -2862,7 +3112,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2872,7 +3122,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2882,7 +3132,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2892,7 +3142,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 14",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2902,7 +3152,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -2930,7 +3180,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 24",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "27",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -2940,7 +3190,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 26",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "27",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -2950,7 +3200,7 @@
     "model": "Jeffsy Primus",
     "sub_model": "JP 27",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "27",
     "frame_material": "Alloy",
     "wheel_size": "Kids"
@@ -2960,7 +3210,7 @@
     "model": "Tues",
     "sub_model": "Comp",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2970,7 +3220,7 @@
     "model": "Tues",
     "sub_model": "Base",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2980,7 +3230,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -2990,7 +3240,7 @@
     "model": "Tues",
     "sub_model": "Uncaged 11",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -3000,7 +3250,7 @@
     "model": "Tues",
     "sub_model": "Core 1",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -3010,7 +3260,7 @@
     "model": "Tues",
     "sub_model": "Pro",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3020,7 +3270,7 @@
     "model": "Tues",
     "sub_model": "Pro Race",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3030,7 +3280,7 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -3070,7 +3320,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3080,7 +3330,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3090,7 +3350,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3100,7 +3360,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3270,7 +3540,7 @@
     "model": "Capra",
     "sub_model": "Launch Edition",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3280,7 +3550,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3290,7 +3560,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3300,7 +3570,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3310,7 +3580,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3320,7 +3590,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3330,7 +3600,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3340,7 +3610,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3350,7 +3620,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3360,7 +3630,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3370,7 +3640,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3380,7 +3650,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3390,7 +3660,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3400,7 +3670,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3410,7 +3680,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -3420,7 +3690,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3430,7 +3700,7 @@
     "model": "Capra",
     "sub_model": "Core 1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3440,7 +3710,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3450,7 +3720,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3460,9 +3730,69 @@
     "model": "Capra",
     "sub_model": "Uncaged 12",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
@@ -3650,7 +3980,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3660,7 +3990,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3670,7 +4000,7 @@
     "model": "Decoy SN",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -3680,7 +4010,7 @@
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3690,7 +4020,7 @@
     "model": "Izzo",
     "sub_model": "Pro Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3700,7 +4030,7 @@
     "model": "Izzo",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3710,7 +4040,7 @@
     "model": "Izzo",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3720,7 +4050,7 @@
     "model": "Izzo",
     "sub_model": "Blaze",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3730,7 +4060,7 @@
     "model": "Izzo",
     "sub_model": "Core 3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3740,7 +4070,7 @@
     "model": "Izzo",
     "sub_model": "Core 4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3750,7 +4080,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3760,7 +4090,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 11",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3770,7 +4100,7 @@
     "model": "Izzo",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3780,7 +4110,7 @@
     "model": "Izzo",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3910,7 +4240,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3920,7 +4250,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3930,7 +4260,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -3940,7 +4270,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3950,7 +4280,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3960,7 +4290,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3970,7 +4300,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 14",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3980,7 +4310,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -3990,7 +4320,7 @@
     "model": "Tues",
     "sub_model": "Comp",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4000,7 +4330,7 @@
     "model": "Tues",
     "sub_model": "Base",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4010,7 +4340,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4020,7 +4350,7 @@
     "model": "Tues",
     "sub_model": "Uncaged 11",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4030,7 +4360,7 @@
     "model": "Tues",
     "sub_model": "Core 1",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4040,7 +4370,7 @@
     "model": "Tues",
     "sub_model": "Pro",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -4050,7 +4380,7 @@
     "model": "Tues",
     "sub_model": "Pro Race",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -4060,7 +4390,7 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -4100,7 +4430,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4110,7 +4440,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4120,7 +4460,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4130,7 +4470,17 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4260,7 +4610,7 @@
     "model": "Capra",
     "sub_model": "Launch Edition",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4270,7 +4620,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4280,7 +4630,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4290,7 +4640,7 @@
     "model": "Capra",
     "sub_model": "Uncaged 10",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4300,7 +4650,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4310,7 +4660,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -4320,7 +4670,7 @@
     "model": "Capra",
     "sub_model": "Core 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4330,7 +4680,7 @@
     "model": "Capra",
     "sub_model": "Core 4",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4340,7 +4690,7 @@
     "model": "Capra",
     "sub_model": "Core 5",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4350,7 +4700,7 @@
     "model": "Capra",
     "sub_model": "Core 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4367,6 +4717,146 @@
   },
   {
     "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Uncaged 9",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Uncaged 10",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
+    "model": "Capra",
+    "sub_model": "Core 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "YT",
     "model": "Decoy",
     "sub_model": "Elite",
     "year_from": 2019,
@@ -4500,7 +4990,7 @@
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4510,7 +5000,7 @@
     "model": "Izzo",
     "sub_model": "Pro Race",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4520,7 +5010,7 @@
     "model": "Izzo",
     "sub_model": "Pro",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4530,7 +5020,7 @@
     "model": "Izzo",
     "sub_model": "Comp",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4540,7 +5030,7 @@
     "model": "Izzo",
     "sub_model": "Blaze",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4550,7 +5040,7 @@
     "model": "Izzo",
     "sub_model": "Core 3",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4560,7 +5050,7 @@
     "model": "Izzo",
     "sub_model": "Core 4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4570,7 +5060,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 7",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4580,7 +5070,7 @@
     "model": "Izzo",
     "sub_model": "Uncaged 11",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4590,7 +5080,7 @@
     "model": "Izzo",
     "sub_model": "Core 2",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4600,7 +5090,7 @@
     "model": "Izzo",
     "sub_model": "Core 1",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4760,7 +5250,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 4",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4770,7 +5260,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 5",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4780,7 +5270,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 3",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4790,7 +5280,7 @@
     "model": "Jeffsy",
     "sub_model": "Uncaged 14",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4800,7 +5290,7 @@
     "model": "Jeffsy",
     "sub_model": "Core 2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -4819,7 +5309,7 @@
     "model": "Tues",
     "sub_model": "Comp",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4829,7 +5319,7 @@
     "model": "Tues",
     "sub_model": "Base",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4839,7 +5329,7 @@
     "model": "Tues",
     "sub_model": "Core 2",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4849,7 +5339,7 @@
     "model": "Tues",
     "sub_model": "Uncaged 11",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4859,7 +5349,7 @@
     "model": "Tues",
     "sub_model": "Core 1",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -4869,7 +5359,7 @@
     "model": "Tues",
     "sub_model": "Pro",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -4879,7 +5369,7 @@
     "model": "Tues",
     "sub_model": "Pro Race",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27"
@@ -4889,7 +5379,7 @@
     "model": "Tues",
     "sub_model": "Core 4",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27"

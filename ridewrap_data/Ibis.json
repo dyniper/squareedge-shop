@@ -10,6 +10,15 @@
   },
   {
     "brand": "Ibis",
+    "model": "DV9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
     "model": "Exie",
     "sub_model": "Made in the USA with headtube badge",
     "year_from": 2022,
@@ -23,7 +32,7 @@
     "model": "Exie",
     "sub_model": "Exie for All",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -33,7 +42,7 @@
     "model": "Exie",
     "sub_model": "Made in the USA Painted headtube badge",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -42,7 +51,7 @@
     "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "1",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -85,6 +94,15 @@
   },
   {
     "brand": "Ibis",
+    "model": "Oso",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2019,
     "year_to": 2022,
@@ -105,7 +123,7 @@
     "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "1 (S)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -150,7 +168,7 @@
     "brand": "Ibis",
     "model": "Ripmo",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "1 (S)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -175,6 +193,15 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2019,
     "year_to": 2021,
@@ -186,7 +213,7 @@
     "brand": "Ibis",
     "model": "DV9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -206,7 +233,7 @@
     "model": "Exie",
     "sub_model": "Exie for All",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -216,7 +243,7 @@
     "model": "Exie",
     "sub_model": "Made in the USA Painted headtube badge",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -225,7 +252,7 @@
     "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -270,7 +297,7 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -297,7 +324,7 @@
     "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "2 (M)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -360,7 +387,7 @@
     "brand": "Ibis",
     "model": "Ripmo",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "2 (M)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -385,6 +412,15 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2019,
     "year_to": 2021,
@@ -396,7 +432,7 @@
     "brand": "Ibis",
     "model": "DV9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -416,7 +452,7 @@
     "model": "Exie",
     "sub_model": "Exie for All",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -426,7 +462,7 @@
     "model": "Exie",
     "sub_model": "Made in the USA Painted headtube badge",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -435,7 +471,7 @@
     "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -471,7 +507,7 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -498,7 +534,7 @@
     "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "3 (XM)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -517,6 +553,15 @@
     "model": "Ripley AF",
     "year_from": 2023,
     "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2024,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -552,7 +597,7 @@
     "brand": "Ibis",
     "model": "Ripmo",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "3 (XM)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -577,9 +622,18 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -599,7 +653,7 @@
     "model": "Exie",
     "sub_model": "Exie for All",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -609,7 +663,7 @@
     "model": "Exie",
     "sub_model": "Made in the USA Painted headtube badge",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -618,7 +672,7 @@
     "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "4",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -654,7 +708,7 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -681,7 +735,7 @@
     "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "4 (L)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -735,7 +789,7 @@
     "brand": "Ibis",
     "model": "Ripmo",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "4 (L)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -760,9 +814,18 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2024,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "5",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -771,7 +834,7 @@
     "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "5 (XL)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -780,9 +843,18 @@
     "brand": "Ibis",
     "model": "Ripmo",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "5 (XL)",
     "frame_material": "Carbon",
+    "wheel_size": "MX/29"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Extra Medium",
+    "frame_material": "Alloy",
     "wheel_size": "MX/29"
   }
 ]

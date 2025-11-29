@@ -3,7 +3,16 @@
     "brand": "Pinarello",
     "model": "Dogma XC",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pinarello",
+    "model": "XC",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -12,8 +21,35 @@
     "brand": "Pinarello",
     "model": "Dogma XC",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pinarello",
+    "model": "XC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pinarello",
+    "model": "Dogma XC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Pinarello",
+    "model": "XC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
   }

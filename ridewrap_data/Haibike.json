@@ -1,10 +1,30 @@
 [
   {
     "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 11 TRN/IQ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 10 TRN",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
     "model": "AllTrail",
     "sub_model": "5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -14,7 +34,7 @@
     "model": "AllTrail",
     "sub_model": "4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -24,7 +44,7 @@
     "model": "AllTrail",
     "sub_model": "6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -34,7 +54,7 @@
     "model": "HardSeven",
     "sub_model": "4",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -44,7 +64,7 @@
     "model": "HardSeven",
     "sub_model": "5",
     "year_from": 2020,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -54,7 +74,7 @@
     "model": "Lyke",
     "sub_model": "CF 10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -64,7 +84,7 @@
     "model": "Lyke",
     "sub_model": "CF 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +94,7 @@
     "model": "Lyke",
     "sub_model": "CF SE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -84,7 +104,7 @@
     "model": "Trekking",
     "sub_model": "5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -94,10 +114,30 @@
     "model": "Trekking",
     "sub_model": "7",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Adventr FS",
+    "sub_model": "9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "Adventr FS",
+    "sub_model": "10",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Haibike",
@@ -154,7 +194,7 @@
     "model": "AllMtn",
     "sub_model": "10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -164,7 +204,7 @@
     "model": "AllMtn",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -174,7 +214,7 @@
     "model": "AllMtn",
     "sub_model": "4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -184,7 +224,7 @@
     "model": "AllMtn",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -194,7 +234,7 @@
     "model": "AllMtn",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -204,7 +244,7 @@
     "model": "AllMtn",
     "sub_model": "CF 8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -214,7 +254,7 @@
     "model": "AllMtn",
     "sub_model": "CF 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -224,7 +264,7 @@
     "model": "AllMtn",
     "sub_model": "CF 11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -234,7 +274,7 @@
     "model": "AllMtn",
     "sub_model": "CF SE",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -244,7 +284,7 @@
     "model": "AllMtn",
     "sub_model": "CF 6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -254,7 +294,7 @@
     "model": "AllMtn",
     "sub_model": "CF12",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -264,7 +304,27 @@
     "model": "AllMtn",
     "sub_model": "CF 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 11 TRN/IQ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 10 TRN",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -274,7 +334,7 @@
     "model": "Lyke",
     "sub_model": "CF 10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -284,7 +344,7 @@
     "model": "Lyke",
     "sub_model": "CF 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -294,7 +354,7 @@
     "model": "Lyke",
     "sub_model": "CF SE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -304,7 +364,7 @@
     "model": "Nduro",
     "sub_model": "6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -314,7 +374,7 @@
     "model": "Nduro",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -324,7 +384,7 @@
     "model": "Nduro",
     "sub_model": "8 Freeride",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -384,7 +444,7 @@
     "model": "AllMtn",
     "sub_model": "10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -394,7 +454,7 @@
     "model": "AllMtn",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -404,7 +464,7 @@
     "model": "AllMtn",
     "sub_model": "4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -414,7 +474,7 @@
     "model": "AllMtn",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -424,7 +484,7 @@
     "model": "AllMtn",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -434,7 +494,7 @@
     "model": "AllMtn",
     "sub_model": "CF 8",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -444,7 +504,7 @@
     "model": "AllMtn",
     "sub_model": "CF 9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -454,7 +514,7 @@
     "model": "AllMtn",
     "sub_model": "CF 11",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -464,7 +524,7 @@
     "model": "AllMtn",
     "sub_model": "CF SE",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -474,7 +534,7 @@
     "model": "AllMtn",
     "sub_model": "CF 6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -484,7 +544,7 @@
     "model": "AllMtn",
     "sub_model": "CF12",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -494,7 +554,37 @@
     "model": "AllMtn",
     "sub_model": "CF 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L (46)",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 11 TRN/IQ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Haibike",
+    "model": "AllMtn",
+    "sub_model": "CF 10 TRN",
+    "year_from": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -504,7 +594,7 @@
     "model": "ALLTRACK",
     "sub_model": "5",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -514,7 +604,7 @@
     "model": "ALLTRACK",
     "sub_model": "6",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -524,7 +614,7 @@
     "model": "ALLTRACK",
     "sub_model": "7",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -534,7 +624,7 @@
     "model": "AllTrail",
     "sub_model": "5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -544,7 +634,7 @@
     "model": "AllTrail",
     "sub_model": "4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -554,7 +644,7 @@
     "model": "AllTrail",
     "sub_model": "6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -564,7 +654,7 @@
     "model": "AllTrail",
     "sub_model": "9",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -574,7 +664,7 @@
     "model": "AllTrail",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -584,7 +674,7 @@
     "model": "AllTrail",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -594,7 +684,7 @@
     "model": "AllTrail",
     "sub_model": "5",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -604,7 +694,7 @@
     "model": "AllTrail",
     "sub_model": "6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -614,7 +704,7 @@
     "model": "Hybe",
     "sub_model": "9",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -624,7 +714,7 @@
     "model": "Hybe",
     "sub_model": "11",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -634,7 +724,7 @@
     "model": "Lyke",
     "sub_model": "CF 10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -644,7 +734,7 @@
     "model": "Lyke",
     "sub_model": "CF 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -654,7 +744,7 @@
     "model": "Lyke",
     "sub_model": "CF SE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -664,7 +754,7 @@
     "model": "Nduro",
     "sub_model": "6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -674,7 +764,7 @@
     "model": "Nduro",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -684,7 +774,7 @@
     "model": "Nduro",
     "sub_model": "8 Freeride",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -724,7 +814,7 @@
     "model": "AllMtn",
     "sub_model": "10",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -734,7 +824,7 @@
     "model": "AllMtn",
     "sub_model": "7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -744,7 +834,7 @@
     "model": "AllMtn",
     "sub_model": "4",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -754,7 +844,7 @@
     "model": "AllMtn",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -764,7 +854,7 @@
     "model": "AllMtn",
     "sub_model": "3",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -774,7 +864,7 @@
     "model": "AllMtn",
     "sub_model": "CF 6",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -784,7 +874,7 @@
     "model": "AllMtn",
     "sub_model": "CF12",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -794,7 +884,7 @@
     "model": "AllMtn",
     "sub_model": "CF 7",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -804,7 +894,7 @@
     "model": "Lyke",
     "sub_model": "CF 10",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -814,7 +904,7 @@
     "model": "Lyke",
     "sub_model": "CF 11",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -824,7 +914,7 @@
     "model": "Lyke",
     "sub_model": "CF SE",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

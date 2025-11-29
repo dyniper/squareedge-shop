@@ -4,7 +4,7 @@
     "model": "Rampage",
     "sub_model": "Sport",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "XEF",
     "sub_model": "1.9 Factory",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -24,7 +24,7 @@
     "model": "Rampage",
     "sub_model": "Race",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +34,7 @@
     "model": "Rampage",
     "sub_model": "Factory",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +44,7 @@
     "model": "XEF",
     "sub_model": "1.9 Fantic Racing",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -54,7 +54,7 @@
     "model": "XEF",
     "sub_model": "1.8 Sport",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"

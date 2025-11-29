@@ -4,7 +4,7 @@
     "model": "4060",
     "sub_model": "Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -14,7 +14,7 @@
     "model": "4060",
     "sub_model": "LTD Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -24,7 +24,7 @@
     "model": "4060",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -34,7 +34,7 @@
     "model": "4060",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -44,7 +44,7 @@
     "model": "4060 Z",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -54,8 +54,98 @@
     "model": "4060 Z",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "GX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "NX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "X01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "FRS",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "6080 Z",
+    "sub_model": "LT",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "GX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "NX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "X01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "FRS",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -64,7 +154,7 @@
     "model": "4060 Z",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +164,7 @@
     "model": "4060 Z",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -84,7 +174,7 @@
     "model": "4060",
     "sub_model": "Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -94,7 +184,7 @@
     "model": "4060",
     "sub_model": "LTD Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -104,7 +194,7 @@
     "model": "4060",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -114,7 +204,7 @@
     "model": "4060",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -124,7 +214,7 @@
     "model": "4060",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +224,37 @@
     "model": "4060 Z",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "FRS",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "X01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "NX",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +264,7 @@
     "model": "4060",
     "sub_model": "Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -154,7 +274,7 @@
     "model": "4060",
     "sub_model": "LTD Frameset",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -164,7 +284,17 @@
     "model": "4060",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "GX",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -174,7 +304,7 @@
     "model": "4060 Z",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -184,17 +314,27 @@
     "model": "6080 Z",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
   },
   {
     "brand": "Scor",
+    "model": "4060",
+    "sub_model": "Frameset",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
     "model": "6080 Z",
     "sub_model": "LT",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -204,7 +344,7 @@
     "model": "4060 Z",
     "sub_model": "LT",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -214,8 +354,118 @@
     "model": "4060 Z",
     "sub_model": "ST",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "4060",
+    "sub_model": "LTD Frameset",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "4060",
+    "sub_model": "ST",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "4060",
+    "sub_model": "LT",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "GX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "NX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "X01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "FRS",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "GX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "NX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "X01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Scor",
+    "model": "2030",
+    "sub_model": "FRS",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ML",
     "frame_material": "Carbon",
     "wheel_size": "29"
   }

@@ -30,7 +30,7 @@
     "brand": "Banshee",
     "model": "Enigma",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -48,7 +48,7 @@
     "brand": "Banshee",
     "model": "Titan V3.2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -57,7 +57,7 @@
     "brand": "Banshee",
     "model": "AMP",
     "year_from": 2019,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "Regular",
     "frame_material": "Alloy",
     "wheel_size": "26"
@@ -84,7 +84,7 @@
     "brand": "Banshee",
     "model": "Titan V3.2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -93,7 +93,7 @@
     "brand": "Banshee",
     "model": "Legend",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -102,7 +102,7 @@
     "brand": "Banshee",
     "model": "Legend",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -111,7 +111,7 @@
     "brand": "Banshee",
     "model": "Enigma",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -147,7 +147,7 @@
     "brand": "Banshee",
     "model": "Legend",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -156,7 +156,7 @@
     "brand": "Banshee",
     "model": "Legend",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29"

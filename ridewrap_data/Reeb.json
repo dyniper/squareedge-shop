@@ -3,7 +3,7 @@
     "brand": "Reeb",
     "model": "SST",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29"
@@ -40,9 +40,18 @@
   },
   {
     "brand": "Reeb",
+    "model": "ReDikyelous",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Reeb",
     "model": "SST",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29"

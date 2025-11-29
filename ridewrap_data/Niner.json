@@ -1,82 +1,46 @@
 [
   {
     "brand": "Niner",
-    "model": "WFO e9",
-    "year_from": 2021,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Niner",
     "model": "RIP e9",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
     "brand": "Niner",
-    "model": "JET 9 RDO",
-    "year_from": 2021,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "WFO 9 RDO",
-    "year_from": 2022,
-    "year_to": 2025,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "WFO 9 RDO",
-    "year_from": 2022,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "WFO e9",
-    "year_from": 2021,
-    "year_to": 2025,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Niner",
-    "model": "RKT 9 RDO",
+    "model": "SIR 9",
     "year_from": 2018,
-    "year_to": 2022,
-    "size": "M",
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
     "brand": "Niner",
-    "model": "RIP e9",
+    "model": "WFO e9",
     "year_from": 2021,
-    "year_to": 2025,
-    "size": "M",
+    "year_to": 2024,
+    "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "27/29"
   },
   {
     "brand": "Niner",
     "model": "JET 9 RDO",
     "year_from": 2021,
-    "year_to": 2025,
-    "size": "M",
+    "year_to": 2026,
+    "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
   },
@@ -88,15 +52,6 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
   },
   {
     "brand": "Niner",
@@ -109,19 +64,10 @@
   },
   {
     "brand": "Niner",
-    "model": "WFO 9 RDO",
-    "year_from": 2022,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
     "model": "SIR 9",
     "year_from": 2018,
-    "year_to": 2025,
-    "size": "L",
+    "year_to": 2026,
+    "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+"
   },
@@ -129,19 +75,136 @@
     "brand": "Niner",
     "model": "JET 9 RDO",
     "year_from": 2021,
-    "year_to": 2025,
-    "size": "L",
+    "year_to": 2026,
+    "size": "M",
     "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RKT 9 RDO",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
     "wheel_size": "29"
   },
   {
     "brand": "Niner",
     "model": "WFO e9",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Niner",
+    "model": "SIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO e9",
+    "year_from": 2021,
+    "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   },
   {
     "brand": "Niner",
@@ -154,57 +217,12 @@
   },
   {
     "brand": "Niner",
-    "model": "AIR 9",
-    "year_from": 2018,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29/27+"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP e9",
-    "year_from": 2021,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
     "model": "RKT 9 RDO",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2024,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27"
   },
   {
     "brand": "Niner",
@@ -219,7 +237,7 @@
     "brand": "Niner",
     "model": "JET 9 RDO",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"

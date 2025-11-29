@@ -4,7 +4,7 @@
     "model": "Embolden",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -14,7 +14,7 @@
     "model": "Embolden",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -24,7 +24,7 @@
     "model": "Embolden",
     "sub_model": "Base Model",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -54,7 +54,7 @@
     "model": "Embolden E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -64,7 +64,7 @@
     "model": "Embolden E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -74,7 +74,7 @@
     "model": "Embolden E+",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -122,7 +122,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27+"
@@ -132,7 +132,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27+"
@@ -142,7 +142,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27+"
@@ -152,7 +152,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -162,7 +162,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -172,7 +172,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -191,7 +191,7 @@
     "model": "Embolden",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -201,7 +201,7 @@
     "model": "Embolden",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -211,7 +211,7 @@
     "model": "Embolden",
     "sub_model": "Base Model",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -241,7 +241,7 @@
     "model": "Embolden E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -251,7 +251,7 @@
     "model": "Embolden E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -261,7 +261,7 @@
     "model": "Embolden E+",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -319,7 +319,7 @@
     "model": "Intrigue",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -329,7 +329,7 @@
     "model": "Intrigue",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -359,7 +359,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -369,7 +369,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 0",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -379,7 +379,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -389,7 +389,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -399,7 +399,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -429,7 +429,7 @@
     "model": "Intrigue LT",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -439,7 +439,7 @@
     "model": "Intrigue LT",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -449,7 +449,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -459,7 +459,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -469,7 +469,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -479,7 +479,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -489,7 +489,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -499,7 +499,7 @@
     "model": "Intrigue X",
     "sub_model": "1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -509,7 +509,7 @@
     "model": "Intrigue X",
     "sub_model": "2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29"
@@ -519,7 +519,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -529,7 +529,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -539,7 +539,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -549,7 +549,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -559,7 +559,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -569,7 +569,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -579,7 +579,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "0",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -589,7 +589,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -599,7 +599,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -789,7 +789,7 @@
     "model": "Embolden",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -799,7 +799,7 @@
     "model": "Embolden",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -809,7 +809,7 @@
     "model": "Embolden",
     "sub_model": "Base Model",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -839,7 +839,7 @@
     "model": "Embolden E+",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -849,7 +849,7 @@
     "model": "Embolden E+",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -859,7 +859,7 @@
     "model": "Embolden E+",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -917,7 +917,7 @@
     "model": "Intrigue",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -927,7 +927,7 @@
     "model": "Intrigue",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -957,7 +957,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -967,7 +967,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 0",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -977,7 +977,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -987,7 +987,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -997,7 +997,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1007,7 +1007,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1017,7 +1017,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1027,7 +1027,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 0",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1037,7 +1037,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1047,7 +1047,7 @@
     "model": "Intrigue LT Advanced",
     "sub_model": "Pro 2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1057,7 +1057,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1067,7 +1067,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1077,7 +1077,7 @@
     "model": "Intrigue X - E+",
     "sub_model": "3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1087,7 +1087,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1097,7 +1097,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1107,7 +1107,7 @@
     "model": "Intrigue X Advance E+ Elite",
     "sub_model": "3",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29"
@@ -1117,7 +1117,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "0",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1127,7 +1127,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1137,7 +1137,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1217,7 +1217,7 @@
     "model": "Vall E+",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1227,7 +1227,7 @@
     "model": "Vall E+",
     "sub_model": "2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1237,7 +1237,7 @@
     "model": "Vall E+",
     "sub_model": "EX",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1276,7 +1276,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1286,7 +1286,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 0",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1296,7 +1296,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 1",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1306,7 +1306,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 2",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1316,7 +1316,7 @@
     "model": "Intrigue Advanced",
     "sub_model": "Pro 3",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -1326,7 +1326,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "0",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1336,7 +1336,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "1",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"
@@ -1346,7 +1346,7 @@
     "model": "Intrigue X Advanced",
     "sub_model": "2",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29"

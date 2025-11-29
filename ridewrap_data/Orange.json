@@ -4,7 +4,7 @@
     "model": "Five Evo",
     "sub_model": "XTR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -14,7 +14,7 @@
     "model": "Five Evo",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -24,7 +24,7 @@
     "model": "Five Evo",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -34,7 +34,7 @@
     "model": "Five Evo",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -44,7 +44,7 @@
     "model": "Five Evo",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -54,10 +54,70 @@
     "model": "Five Evo",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orange",
@@ -154,7 +214,7 @@
     "model": "Alpine Evo",
     "sub_model": "S",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -164,7 +224,7 @@
     "model": "Alpine Evo",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -174,7 +234,7 @@
     "model": "Alpine Evo",
     "sub_model": "SE",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -184,7 +244,7 @@
     "model": "Alpine Evo",
     "sub_model": "RS",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -194,7 +254,7 @@
     "model": "Alpine Evo",
     "sub_model": "Factory",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -204,7 +264,7 @@
     "model": "Alpine Evo",
     "sub_model": "Chassis",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -214,7 +274,7 @@
     "model": "Charger",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -224,7 +284,7 @@
     "model": "Charger",
     "sub_model": "RS",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -234,7 +294,7 @@
     "model": "Charger",
     "sub_model": "Factory",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -244,7 +304,7 @@
     "model": "Charger",
     "sub_model": "S",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -284,7 +344,7 @@
     "model": "Crush",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -294,7 +354,7 @@
     "model": "Crush",
     "sub_model": "Comp",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -304,7 +364,7 @@
     "model": "Crush",
     "sub_model": "Frame",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -314,7 +374,7 @@
     "model": "Crush",
     "sub_model": "Base",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -324,7 +384,7 @@
     "model": "Phase",
     "sub_model": "S",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -334,7 +394,7 @@
     "model": "Phase",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -344,7 +404,7 @@
     "model": "Phase",
     "sub_model": "RS",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -354,7 +414,7 @@
     "model": "Phase",
     "sub_model": "Factory",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -364,7 +424,7 @@
     "model": "Phase MX",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -374,7 +434,7 @@
     "model": "Phase MX",
     "sub_model": "Pro-Line",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -384,7 +444,7 @@
     "model": "Phase MX",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -394,7 +454,7 @@
     "model": "Phase MX",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -404,7 +464,7 @@
     "model": "Phase MX",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -464,7 +524,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -474,7 +534,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -484,7 +544,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -494,7 +554,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -504,7 +564,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -514,7 +574,7 @@
     "model": "Stage 6 Evo",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -524,7 +584,7 @@
     "model": "Stage Evo",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -534,7 +594,7 @@
     "model": "Stage Evo",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -544,7 +604,7 @@
     "model": "Stage Evo",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -554,7 +614,7 @@
     "model": "Stage Evo",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -564,10 +624,40 @@
     "model": "Stage Evo",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orange",
@@ -624,7 +714,7 @@
     "model": "Switch 7",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -634,7 +724,7 @@
     "model": "Switch 7",
     "sub_model": "Factory",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -644,7 +734,7 @@
     "model": "Switch 7",
     "sub_model": "Frame",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -744,7 +834,7 @@
     "model": "Alpine Evo",
     "sub_model": "S",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -754,7 +844,7 @@
     "model": "Alpine Evo",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -764,7 +854,7 @@
     "model": "Alpine Evo",
     "sub_model": "SE",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -774,7 +864,7 @@
     "model": "Alpine Evo",
     "sub_model": "RS",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -784,7 +874,7 @@
     "model": "Alpine Evo",
     "sub_model": "Factory",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -794,7 +884,7 @@
     "model": "Alpine Evo",
     "sub_model": "Chassis",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -804,7 +894,7 @@
     "model": "Charger",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -814,7 +904,7 @@
     "model": "Charger",
     "sub_model": "RS",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -824,7 +914,7 @@
     "model": "Charger",
     "sub_model": "Factory",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -834,7 +924,7 @@
     "model": "Charger",
     "sub_model": "S",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -844,7 +934,7 @@
     "model": "Clockwork",
     "sub_model": "Comp",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -854,7 +944,7 @@
     "model": "Clockwork",
     "sub_model": "Base",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -904,7 +994,7 @@
     "model": "Crush",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -914,7 +1004,7 @@
     "model": "Crush",
     "sub_model": "Comp",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -924,7 +1014,7 @@
     "model": "Crush",
     "sub_model": "Frame",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -934,7 +1024,7 @@
     "model": "Crush",
     "sub_model": "Base",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -944,7 +1034,7 @@
     "model": "Five Evo",
     "sub_model": "XTR",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -954,7 +1044,7 @@
     "model": "Five Evo",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -964,7 +1054,7 @@
     "model": "Five Evo",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -974,7 +1064,7 @@
     "model": "Five Evo",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -984,7 +1074,7 @@
     "model": "Five Evo",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -994,17 +1084,47 @@
     "model": "Five Evo",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
   },
   {
     "brand": "Orange",
+    "model": "Patriot",
+    "sub_model": "LE",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Patriot",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Patriot",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
     "model": "Phase",
     "sub_model": "S",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1014,7 +1134,7 @@
     "model": "Phase",
     "sub_model": "Pro",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1024,7 +1144,7 @@
     "model": "Phase",
     "sub_model": "RS",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1034,7 +1154,7 @@
     "model": "Phase",
     "sub_model": "Factory",
     "year_from": 2024,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1044,7 +1164,7 @@
     "model": "Phase MX",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1054,7 +1174,7 @@
     "model": "Phase MX",
     "sub_model": "Pro-Line",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1064,7 +1184,7 @@
     "model": "Phase MX",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1074,7 +1194,7 @@
     "model": "Phase MX",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1084,7 +1204,7 @@
     "model": "Phase MX",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1135,6 +1255,36 @@
     "sub_model": "Frame",
     "year_from": 2021,
     "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 7",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 7",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 7",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1144,7 +1294,7 @@
     "model": "Stage Evo",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1154,7 +1304,7 @@
     "model": "Stage Evo",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1164,7 +1314,7 @@
     "model": "Stage Evo",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1174,7 +1324,7 @@
     "model": "Stage Evo",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -1184,10 +1334,40 @@
     "model": "Stage Evo",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
   },
   {
     "brand": "Orange",
@@ -1235,6 +1415,76 @@
     "sub_model": "Frame",
     "year_from": 2021,
     "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "LE",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 6",
+    "sub_model": "Factory",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Factory",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Switch 7",
+    "sub_model": "Frame",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1244,7 +1494,7 @@
     "model": "Alpine Evo",
     "sub_model": "S",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1254,7 +1504,7 @@
     "model": "Alpine Evo",
     "sub_model": "Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1264,7 +1514,7 @@
     "model": "Alpine Evo",
     "sub_model": "SE",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1274,7 +1524,7 @@
     "model": "Alpine Evo",
     "sub_model": "RS",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1284,7 +1534,7 @@
     "model": "Alpine Evo",
     "sub_model": "Factory",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1294,7 +1544,7 @@
     "model": "Alpine Evo",
     "sub_model": "Chassis",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27"
@@ -1304,7 +1554,7 @@
     "model": "Phase MX",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1314,7 +1564,7 @@
     "model": "Phase MX",
     "sub_model": "Pro-Line",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1324,7 +1574,7 @@
     "model": "Phase MX",
     "sub_model": "RS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1334,7 +1584,7 @@
     "model": "Phase MX",
     "sub_model": "Factory",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -1344,9 +1594,69 @@
     "model": "Phase MX",
     "sub_model": "AXS",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "SE",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "RS",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Factory",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "AXS",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Orange",
+    "model": "Stage 6 Evo",
+    "sub_model": "Frame",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29"
   }
 ]

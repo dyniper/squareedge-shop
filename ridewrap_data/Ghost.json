@@ -4,8 +4,38 @@
     "model": "Riot",
     "sub_model": "Youth Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "EN Full Party",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "EN Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "EN Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27"
   },
@@ -54,7 +84,7 @@
     "model": "Lector FS",
     "sub_model": "Advanced",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -64,7 +94,7 @@
     "model": "Lector FS",
     "sub_model": "Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -74,7 +104,7 @@
     "model": "Lector FS",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -84,7 +114,7 @@
     "model": "Lector FS",
     "sub_model": "Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -94,7 +124,7 @@
     "model": "Lector FS",
     "sub_model": "World Cup",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -104,7 +134,7 @@
     "model": "Path RIOT",
     "sub_model": "Advanced",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -114,7 +144,7 @@
     "model": "Path RIOT",
     "sub_model": "Full Party",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -124,7 +154,7 @@
     "model": "Path RIOT",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -134,7 +164,7 @@
     "model": "Path RIOT",
     "sub_model": "LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -144,7 +174,7 @@
     "model": "Path RIOT",
     "sub_model": "30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -152,9 +182,39 @@
   {
     "brand": "Ghost",
     "model": "e-ASX",
+    "sub_model": "130 Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
     "sub_model": "160 Universal",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -164,7 +224,7 @@
     "model": "e-ASX",
     "sub_model": "160 Advanced",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29"
@@ -174,7 +234,7 @@
     "model": "e-Riot",
     "sub_model": "EN Full Party",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -184,7 +244,7 @@
     "model": "e-Riot",
     "sub_model": "EN Universal",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -194,7 +254,7 @@
     "model": "e-Riot",
     "sub_model": "EN Pro",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -204,7 +264,7 @@
     "model": "Lector FS",
     "sub_model": "Advanced",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -214,7 +274,7 @@
     "model": "Lector FS",
     "sub_model": "Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -224,7 +284,7 @@
     "model": "Lector FS",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -234,7 +294,7 @@
     "model": "Lector FS",
     "sub_model": "Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -244,7 +304,7 @@
     "model": "Lector FS",
     "sub_model": "World Cup",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -254,7 +314,7 @@
     "model": "Lector SF",
     "sub_model": "Advanced",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -264,7 +324,7 @@
     "model": "Lector SF",
     "sub_model": "Essential",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -274,7 +334,7 @@
     "model": "Lector SF",
     "sub_model": "World cup replica",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -284,7 +344,7 @@
     "model": "Lector SF",
     "sub_model": "Universal",
     "year_from": 2022,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -294,7 +354,7 @@
     "model": "Path RIOT",
     "sub_model": "Advanced",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -304,7 +364,7 @@
     "model": "Path RIOT",
     "sub_model": "Full Party",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -314,7 +374,7 @@
     "model": "Path RIOT",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -324,7 +384,7 @@
     "model": "Path RIOT",
     "sub_model": "LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -334,7 +394,7 @@
     "model": "Path RIOT",
     "sub_model": "30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -344,7 +404,7 @@
     "model": "Riot",
     "sub_model": "EN Full Party",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -354,7 +414,7 @@
     "model": "Riot",
     "sub_model": "EN Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -364,7 +424,7 @@
     "model": "Riot",
     "sub_model": "EN Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -374,7 +434,7 @@
     "model": "Riot",
     "sub_model": "AM Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -384,7 +444,7 @@
     "model": "Riot",
     "sub_model": "AM Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -394,9 +454,49 @@
     "model": "Riot",
     "sub_model": "AM Full Party",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "AM Full Party",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "AM Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "TRAIL Full Party",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "TRAIL Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
     "wheel_size": "29"
   },
   {
@@ -407,26 +507,6 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29"
-  },
-  {
-    "brand": "Ghost",
-    "model": "e-ASX",
-    "sub_model": "160 Universal",
-    "year_from": 2022,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
-  },
-  {
-    "brand": "Ghost",
-    "model": "e-ASX",
-    "sub_model": "160 Advanced",
-    "year_from": 2022,
-    "year_to": 2025,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29"
   },
   {
     "brand": "Ghost",
@@ -473,7 +553,7 @@
     "model": "Lector FS",
     "sub_model": "Advanced",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -483,7 +563,7 @@
     "model": "Lector FS",
     "sub_model": "Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -493,7 +573,7 @@
     "model": "Lector FS",
     "sub_model": "Pro",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -503,7 +583,7 @@
     "model": "Lector FS",
     "sub_model": "Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -513,7 +593,47 @@
     "model": "Lector FS",
     "sub_model": "World Cup",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "World cup replica",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -523,7 +643,7 @@
     "model": "Path RIOT",
     "sub_model": "Advanced",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -533,7 +653,7 @@
     "model": "Path RIOT",
     "sub_model": "Full Party",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -543,7 +663,7 @@
     "model": "Path RIOT",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -553,7 +673,7 @@
     "model": "Path RIOT",
     "sub_model": "LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -563,7 +683,7 @@
     "model": "Path RIOT",
     "sub_model": "30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -573,7 +693,7 @@
     "model": "Riot",
     "sub_model": "EN Full Party",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -583,7 +703,7 @@
     "model": "Riot",
     "sub_model": "EN Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -593,7 +713,7 @@
     "model": "Riot",
     "sub_model": "EN Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -603,7 +723,7 @@
     "model": "Riot",
     "sub_model": "AM Essential",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -613,7 +733,7 @@
     "model": "Riot",
     "sub_model": "AM Universal",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -623,7 +743,7 @@
     "model": "Riot",
     "sub_model": "AM Full Party",
     "year_from": 2021,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29"
@@ -642,7 +762,7 @@
     "model": "Path RIOT",
     "sub_model": "Advanced",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -652,7 +772,7 @@
     "model": "Path RIOT",
     "sub_model": "Full Party",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -662,7 +782,7 @@
     "model": "Path RIOT",
     "sub_model": "Pro",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -672,7 +792,7 @@
     "model": "Path RIOT",
     "sub_model": "LTD",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
@@ -682,7 +802,7 @@
     "model": "Path RIOT",
     "sub_model": "30",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29"
