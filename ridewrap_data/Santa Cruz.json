@@ -6,7 +6,8 @@
     "year_to": 2022,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -15,7 +16,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -24,7 +26,8 @@
     "year_to": 2021,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -33,7 +36,8 @@
     "year_to": 2022,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -42,7 +46,8 @@
     "year_to": 2024,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -51,7 +56,8 @@
     "year_to": 2020,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -60,7 +66,8 @@
     "year_to": 2022,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -69,7 +76,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -78,7 +86,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -87,7 +96,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -96,7 +106,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -106,7 +117,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -116,7 +128,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -125,7 +138,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -134,7 +148,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -143,7 +158,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -152,7 +168,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -162,7 +179,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -172,7 +190,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -182,7 +201,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -192,7 +212,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -201,7 +222,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -210,7 +232,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -219,7 +242,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -228,7 +252,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -237,7 +262,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -246,7 +272,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -255,7 +282,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -264,7 +292,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -273,7 +302,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -282,7 +312,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -291,7 +322,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -300,7 +332,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -310,7 +343,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -320,7 +354,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -329,7 +364,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -338,7 +374,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -347,7 +384,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -356,7 +394,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -365,7 +404,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -374,7 +414,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -383,7 +424,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -392,7 +434,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -401,7 +444,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -410,7 +454,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -419,7 +464,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -429,7 +475,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -439,7 +486,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -449,7 +497,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -458,7 +507,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -467,7 +517,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -476,7 +527,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -485,7 +537,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -495,7 +548,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -505,7 +559,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -514,7 +569,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -523,7 +579,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -532,7 +589,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -541,7 +599,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -551,7 +610,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -561,7 +621,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -570,7 +631,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -580,7 +642,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -590,7 +653,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -599,7 +663,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -608,7 +673,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -617,7 +683,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -626,7 +693,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -635,7 +703,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -644,7 +713,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -653,7 +723,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -662,7 +733,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -671,7 +743,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -680,7 +753,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -689,7 +763,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -698,7 +773,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -707,7 +783,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -716,7 +793,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -725,7 +803,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -735,7 +814,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -745,7 +825,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -754,7 +835,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -763,7 +845,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -772,7 +855,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -781,7 +865,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -790,7 +875,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -799,7 +885,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -808,7 +895,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -817,7 +905,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -826,7 +915,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -835,7 +925,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -844,7 +935,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -853,7 +945,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -862,7 +955,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -871,7 +965,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -880,7 +975,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -889,7 +985,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -899,7 +996,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -909,7 +1007,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -919,7 +1018,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -928,7 +1028,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -937,7 +1038,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -946,7 +1048,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -955,7 +1058,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -965,7 +1069,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -975,7 +1080,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -984,7 +1090,8 @@
     "year_to": 2018,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -993,7 +1100,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1002,7 +1110,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1011,7 +1120,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1020,7 +1130,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1030,7 +1141,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1040,7 +1152,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1049,7 +1162,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1059,7 +1173,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1069,7 +1184,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1078,7 +1194,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1087,7 +1204,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1096,7 +1214,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1105,7 +1224,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1114,7 +1234,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1123,7 +1244,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1132,7 +1254,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1141,7 +1264,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1150,7 +1274,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1159,7 +1284,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1168,7 +1294,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1177,7 +1304,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1186,7 +1314,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1195,7 +1324,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1204,7 +1334,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1214,7 +1345,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1224,7 +1356,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1233,7 +1366,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1242,7 +1376,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1251,7 +1386,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1260,7 +1396,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1269,7 +1406,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1278,7 +1416,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1287,7 +1426,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1296,7 +1436,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1305,7 +1446,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1314,7 +1456,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1323,7 +1466,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1332,7 +1476,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1341,7 +1486,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1350,7 +1496,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1359,7 +1506,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1368,7 +1516,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1378,7 +1527,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1388,7 +1538,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1398,7 +1549,18 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "5010",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Santa Cruz",
@@ -1407,7 +1569,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1416,7 +1579,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1426,7 +1590,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1436,7 +1601,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1445,7 +1611,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1454,7 +1621,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1463,7 +1631,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1472,7 +1641,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1482,7 +1652,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1492,7 +1663,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1501,7 +1673,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1511,7 +1684,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1521,7 +1695,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1530,7 +1705,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1539,7 +1715,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1548,7 +1725,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1557,7 +1735,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1566,7 +1745,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1575,7 +1755,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1584,7 +1765,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1593,7 +1775,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1602,7 +1785,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1611,7 +1795,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1620,7 +1805,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1629,7 +1815,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1638,7 +1825,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1647,7 +1835,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1657,7 +1846,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1667,7 +1857,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1676,7 +1867,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1685,7 +1877,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1694,7 +1887,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1703,7 +1897,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1712,7 +1907,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1721,7 +1917,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1730,7 +1927,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1739,7 +1937,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1748,7 +1947,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1757,7 +1957,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1766,7 +1967,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1775,7 +1977,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1784,7 +1987,8 @@
     "year_to": 2018,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1793,7 +1997,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1802,7 +2007,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1811,7 +2017,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1821,7 +2028,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1831,7 +2039,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1841,7 +2050,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1850,7 +2060,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1860,7 +2071,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1870,7 +2082,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1879,7 +2092,8 @@
     "year_to": 2024,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1889,7 +2103,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1899,7 +2114,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1908,7 +2124,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1917,7 +2134,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1926,7 +2144,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1935,7 +2154,8 @@
     "year_to": 2019,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1944,7 +2164,8 @@
     "year_to": 2021,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1953,7 +2174,8 @@
     "year_to": 2022,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1962,7 +2184,8 @@
     "year_to": 2024,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1972,7 +2195,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1982,7 +2206,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -1991,7 +2216,8 @@
     "year_to": 2019,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2000,7 +2226,8 @@
     "year_to": 2021,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2009,7 +2236,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2018,7 +2246,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2027,7 +2256,8 @@
     "year_to": 2022,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2036,7 +2266,8 @@
     "year_to": 2023,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2045,7 +2276,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2054,7 +2286,8 @@
     "year_to": 2018,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2064,7 +2297,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Santa Cruz",
@@ -2074,6 +2308,7 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   }
 ]

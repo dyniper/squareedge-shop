@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -17,7 +18,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -27,7 +29,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -37,7 +40,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -47,7 +51,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -57,7 +62,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -67,7 +73,8 @@
     "year_to": 2019,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -76,7 +83,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -85,7 +93,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -95,7 +104,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -105,7 +115,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -114,7 +125,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -123,7 +135,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -133,7 +146,8 @@
     "year_to": 2019,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -143,7 +157,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -153,7 +168,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -162,7 +178,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -172,7 +189,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -182,7 +200,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -192,7 +211,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -202,7 +222,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -211,7 +232,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -221,7 +243,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -231,7 +254,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -241,7 +265,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -250,7 +275,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -260,7 +286,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -269,7 +296,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -279,7 +307,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -289,7 +318,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -299,7 +329,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -308,7 +339,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -317,7 +349,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -327,7 +360,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -337,7 +371,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -347,7 +382,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -357,7 +393,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -366,7 +403,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -376,7 +414,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -386,7 +425,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -396,7 +436,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -406,7 +447,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -416,7 +458,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -425,7 +468,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -435,7 +479,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -445,7 +490,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -454,7 +500,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -464,7 +511,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -474,7 +522,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -483,7 +532,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -493,7 +543,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -503,7 +554,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -512,7 +564,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -522,7 +575,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -532,7 +586,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -542,7 +597,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -552,7 +608,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -562,7 +619,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Evil",
@@ -572,6 +630,7 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

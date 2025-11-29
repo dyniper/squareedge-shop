@@ -1,13 +1,142 @@
 [
   {
     "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "170",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Featherweight",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "165",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Superduty",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "165",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "170",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "COAL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "165",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "GLEN",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "165",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "170",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "170",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "TARVO",
+    "sub_model": "V2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "165",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "GLEN",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "175",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
     "model": "ASCO",
     "sub_model": "Featherweight",
     "year_from": 2022,
     "year_to": 2026,
     "size": "180",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "COAL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "175",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "TARVO",
+    "sub_model": "V2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "175",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -17,7 +146,73 @@
     "year_to": 2026,
     "size": "175",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "180",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Superduty",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "175",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "180",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Superduty",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "180",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "190",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "GLEN",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "185",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -27,7 +222,8 @@
     "year_to": 2026,
     "size": "190",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "LAST",
@@ -37,7 +233,8 @@
     "year_to": 2026,
     "size": "190",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "LAST",
@@ -47,7 +244,18 @@
     "year_to": 2026,
     "size": "185",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "COAL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "185",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -57,7 +265,19 @@
     "year_to": 2026,
     "size": "185",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "190",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -67,7 +287,19 @@
     "year_to": 2026,
     "size": "185",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "ASCO",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "200",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -77,7 +309,18 @@
     "year_to": 2026,
     "size": "195",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "GLEN",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "195",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -87,7 +330,29 @@
     "year_to": 2026,
     "size": "200",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "CELOS",
+    "sub_model": "Featherweight",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "200",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LAST",
+    "model": "COAL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "195",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "LAST",
@@ -97,7 +362,8 @@
     "year_to": 2026,
     "size": "200",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "LAST",
@@ -107,6 +373,18 @@
     "year_to": 2026,
     "size": "195",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LAST",
+    "model": "CINTO",
+    "sub_model": "Featherweight",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "195",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

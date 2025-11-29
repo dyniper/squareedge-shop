@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "R1 (S)",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -17,7 +18,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -27,7 +29,41 @@
     "year_to": 2026,
     "size": "R2 (M)",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aeris",
+    "sub_model": "AM9 V3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bird",
+    "model": "Zero",
+    "sub_model": "29",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bird",
+    "model": "Zero",
+    "sub_model": "AM",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -36,7 +72,19 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aether",
+    "sub_model": "9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -46,7 +94,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -56,7 +105,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -66,7 +116,8 @@
     "year_to": 2026,
     "size": "R3 (ML)",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -76,7 +127,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -86,7 +138,8 @@
     "year_to": 2026,
     "size": "R4 (L)",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -96,7 +149,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aeris",
+    "sub_model": "AM9 V3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -106,7 +171,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aether",
+    "sub_model": "9C",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -116,7 +193,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -126,7 +204,18 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Forge",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -136,7 +225,8 @@
     "year_to": 2026,
     "size": "R5 (XL)",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -146,7 +236,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -155,7 +246,19 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aeris",
+    "sub_model": "AM9 V3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -165,7 +268,19 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aether",
+    "sub_model": "9C",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -175,7 +290,19 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Aether",
+    "sub_model": "9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -184,7 +311,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -194,7 +322,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -204,7 +333,19 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bird",
+    "model": "Zero",
+    "sub_model": "AM",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Bird",
@@ -214,7 +355,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -224,7 +366,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Bird",
@@ -234,6 +377,7 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

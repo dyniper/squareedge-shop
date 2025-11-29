@@ -1,0 +1,34 @@
+[
+  {
+    "brand": "Haro",
+    "model": "Saguaro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Haro",
+    "model": "Steel Reserve",
+    "sub_model": "1.2",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Haro",
+    "model": "Steel Reserve",
+    "sub_model": "1.1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "Long",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  }
+]

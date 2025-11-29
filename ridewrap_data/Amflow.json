@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -17,7 +18,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -27,7 +29,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -37,7 +40,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -47,7 +51,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -57,7 +62,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -67,7 +73,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Amflow",
@@ -77,6 +84,7 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   }
 ]

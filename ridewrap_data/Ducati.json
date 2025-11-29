@@ -1,12 +1,23 @@
 [
   {
     "brand": "Ducati",
+    "model": "TK-01RR",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ducati",
     "model": "MIG-S",
     "year_from": 2021,
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ducati",
@@ -15,7 +26,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ducati",
@@ -24,6 +36,7 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   }
 ]

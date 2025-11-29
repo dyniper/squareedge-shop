@@ -6,7 +6,8 @@
     "year_to": 2020,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -15,7 +16,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -24,7 +26,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -33,7 +36,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -42,7 +46,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -51,7 +56,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -60,7 +66,18 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -69,7 +86,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -78,7 +96,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -87,7 +106,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -96,7 +116,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -105,7 +126,8 @@
     "year_to": 2025,
     "size": "Short",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -114,7 +136,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -123,7 +146,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -132,7 +156,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -141,7 +166,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -150,7 +176,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -159,7 +186,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -169,7 +197,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -179,7 +208,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -188,7 +218,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -197,7 +228,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -206,7 +238,18 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Sentinel",
+    "year_from": 2018,
+    "year_to": 2019,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -215,7 +258,8 @@
     "year_to": 2019,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -224,7 +268,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -233,7 +278,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -242,7 +288,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -251,7 +298,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -260,7 +308,8 @@
     "year_to": 2020,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -269,7 +318,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -278,7 +328,18 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -287,7 +348,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -296,7 +358,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -305,7 +368,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -315,7 +379,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -324,7 +389,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -333,7 +399,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -342,7 +409,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -351,7 +419,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -360,7 +429,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -369,7 +439,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -378,7 +449,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -387,7 +459,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -396,7 +469,8 @@
     "year_to": 2025,
     "size": "Long",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -405,7 +479,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -414,7 +489,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -423,7 +499,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -432,7 +509,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -441,7 +519,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -450,7 +529,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -460,7 +540,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -470,7 +551,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -479,7 +561,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -488,7 +571,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -497,7 +581,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Scout",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -506,7 +601,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -515,7 +611,8 @@
     "year_to": 2019,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -524,7 +621,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -533,7 +631,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -542,7 +641,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -551,7 +651,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -560,7 +661,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -569,7 +671,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -578,7 +681,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -587,7 +701,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -596,7 +711,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -605,7 +721,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -615,7 +732,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -624,7 +742,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -633,7 +752,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -642,7 +762,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -651,7 +772,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -660,7 +782,8 @@
     "year_to": 2017,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -669,7 +792,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -678,7 +802,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -687,7 +812,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -696,7 +822,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -705,7 +832,8 @@
     "year_to": 2025,
     "size": "X-Long",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -714,7 +842,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -723,7 +852,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -732,7 +862,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -741,7 +872,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -750,7 +882,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -759,7 +892,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -769,7 +903,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -779,7 +914,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -788,7 +924,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -797,7 +934,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -806,7 +944,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -815,7 +954,8 @@
     "year_to": 2019,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -824,7 +964,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -833,7 +974,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -842,7 +984,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -851,7 +994,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -860,7 +1004,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -869,7 +1014,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -878,7 +1024,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -887,7 +1034,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -896,7 +1044,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -905,7 +1054,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -914,7 +1064,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -924,7 +1075,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -933,7 +1085,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -942,7 +1095,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -951,7 +1105,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -960,7 +1115,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -969,7 +1125,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -978,7 +1135,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -987,7 +1145,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -996,7 +1155,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1005,7 +1165,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1014,7 +1175,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1023,7 +1185,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1032,7 +1195,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1041,7 +1205,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1050,7 +1215,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1060,7 +1226,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1070,7 +1237,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1079,7 +1247,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1088,7 +1257,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1097,7 +1267,8 @@
     "year_to": 2019,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1106,7 +1277,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1115,7 +1287,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1124,7 +1297,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1133,7 +1307,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1142,7 +1317,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1151,7 +1327,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1160,7 +1337,18 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -1169,7 +1357,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1178,7 +1367,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1187,7 +1377,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1197,7 +1388,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1206,7 +1398,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1215,7 +1408,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1224,7 +1418,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1233,7 +1428,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1242,7 +1438,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1251,7 +1448,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1260,7 +1458,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1269,7 +1468,8 @@
     "year_to": 2019,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1278,7 +1478,8 @@
     "year_to": 2024,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1287,7 +1488,8 @@
     "year_to": 2024,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1296,7 +1498,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1305,7 +1508,18 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Transition",
+    "model": "Smuggler",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Transition",
@@ -1314,7 +1528,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1323,7 +1538,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1332,7 +1548,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1341,7 +1558,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1350,7 +1568,8 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "20"
+    "wheel_size": "20",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1359,7 +1578,8 @@
     "year_to": 2024,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   },
   {
     "brand": "Transition",
@@ -1368,6 +1588,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   }
 ]

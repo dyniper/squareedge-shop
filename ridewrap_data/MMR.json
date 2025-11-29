@@ -6,7 +6,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "MMR",
@@ -15,7 +16,30 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "MMR",
+    "model": "Rakish",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "MMR",
+    "model": "Rakish",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "MMR",
@@ -24,6 +48,7 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

@@ -1,13 +1,44 @@
 [
   {
     "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc SL:X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
     "model": "Uproc X",
     "sub_model": "2.10",
     "year_from": 2022,
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -17,7 +48,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -27,7 +59,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -37,7 +70,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -46,7 +80,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -56,7 +91,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -66,7 +102,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -76,7 +113,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -85,7 +123,28 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc SL:X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -95,7 +154,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -105,7 +165,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -115,7 +176,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -125,7 +187,18 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -135,7 +208,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -145,7 +219,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -155,7 +230,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -164,7 +240,28 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc SL:X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -174,7 +271,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -184,7 +282,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -194,7 +293,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -204,7 +304,18 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -214,7 +325,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -224,7 +336,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -234,7 +347,38 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc EVO:X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc SL:X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -244,7 +388,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -254,7 +399,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -264,7 +410,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -274,7 +421,18 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "FLYER",
+    "model": "Uproc X",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "FLYER",
@@ -284,7 +442,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -294,7 +453,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "FLYER",
@@ -304,6 +464,7 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   }
 ]

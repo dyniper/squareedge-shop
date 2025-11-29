@@ -1,13 +1,47 @@
 [
   {
     "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Sport",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
     "model": "Force",
     "sub_model": "Elite",
     "year_from": 2019,
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -17,7 +51,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -27,7 +62,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -37,7 +73,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -47,7 +84,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -57,7 +95,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -67,7 +106,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -77,7 +117,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -87,7 +128,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -97,7 +139,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -107,7 +150,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -117,7 +161,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -127,7 +172,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -137,7 +183,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -147,7 +194,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -157,7 +205,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -167,7 +216,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -177,7 +227,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -187,7 +238,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -197,7 +249,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -207,7 +260,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -217,7 +271,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -227,7 +282,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -237,7 +293,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -247,7 +304,51 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Zaskar FS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Sport",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -257,7 +358,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -267,7 +369,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -277,7 +380,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -287,7 +391,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -297,7 +402,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -307,7 +413,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -317,7 +424,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -327,7 +435,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -337,7 +446,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -347,7 +457,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -357,7 +468,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -367,7 +479,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -377,7 +490,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -387,7 +501,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -397,7 +512,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -407,7 +523,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -417,7 +534,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -427,7 +545,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -437,7 +556,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -447,7 +567,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -457,7 +578,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -467,7 +589,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -477,7 +600,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -487,7 +611,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -497,7 +622,30 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -507,7 +655,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -517,7 +666,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -527,7 +677,30 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Sport",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -537,7 +710,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -547,7 +721,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -557,7 +732,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -567,7 +743,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -577,7 +754,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -587,7 +765,41 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Sport",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -597,7 +809,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -607,7 +820,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -617,7 +831,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -627,7 +842,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -637,7 +853,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -647,7 +864,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -657,7 +875,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -667,7 +886,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -677,7 +897,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -687,7 +908,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -697,7 +919,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -707,7 +930,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -717,7 +941,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -727,7 +952,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -737,7 +963,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Force Current",
+    "sub_model": "E-AMP",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -747,7 +985,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -757,7 +996,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -767,7 +1007,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -777,7 +1018,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -787,7 +1029,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -797,7 +1040,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -807,7 +1051,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -817,7 +1062,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -827,7 +1073,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -837,7 +1084,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -847,7 +1095,41 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "La Bomba",
+    "sub_model": "Rigid",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Sport",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Sensor",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -857,7 +1139,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -867,7 +1150,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -877,7 +1161,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -887,7 +1172,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -896,7 +1182,8 @@
     "year_to": 2018,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -906,7 +1193,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -916,7 +1204,41 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "GT",
+    "model": "Avalanche",
+    "sub_model": "Sport",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -926,7 +1248,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -936,7 +1259,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -946,7 +1270,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -956,7 +1281,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -966,7 +1292,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -976,7 +1303,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -986,7 +1314,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -996,7 +1325,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1006,7 +1336,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1016,7 +1347,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1026,7 +1358,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1036,7 +1369,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1046,7 +1380,19 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "GT",
+    "model": "Force Current",
+    "sub_model": "E-AMP",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "GT",
@@ -1056,7 +1402,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1066,7 +1413,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1076,7 +1424,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1086,7 +1435,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1096,7 +1446,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1106,7 +1457,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1116,7 +1468,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1126,7 +1479,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1136,7 +1490,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1146,7 +1501,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1156,7 +1512,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1166,7 +1523,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "GT",
@@ -1176,6 +1534,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   }
 ]

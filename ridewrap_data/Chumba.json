@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Chumba",
@@ -17,6 +18,7 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Titanium",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   }
 ]

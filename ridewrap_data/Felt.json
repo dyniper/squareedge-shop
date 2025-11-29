@@ -6,7 +6,18 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Felt",
+    "model": "Doctrine",
+    "year_from": 2018,
+    "year_to": 2020,
+    "size": "L(20)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Felt",
@@ -15,6 +26,7 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   }
 ]

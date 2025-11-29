@@ -1,0 +1,12 @@
+[
+  {
+    "brand": "Brother",
+    "model": "Big Bro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  }
+]

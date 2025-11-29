@@ -7,6 +7,38 @@
     "year_to": 2026,
     "size": "51",
     "frame_material": "Steel",
-    "wheel_size": "700/650"
+    "wheel_size": "700/650",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Soma",
+    "model": "B-Side Standard",
+    "year_from": 2016,
+    "year_to": 2018,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Soma",
+    "model": "Double Cross",
+    "sub_model": "Disc",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "58",
+    "frame_material": "Steel",
+    "wheel_size": "700/650",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Soma",
+    "model": "Juice",
+    "year_from": 2012,
+    "year_to": 2014,
+    "size": "17.5",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

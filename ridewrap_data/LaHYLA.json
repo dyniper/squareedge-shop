@@ -6,7 +6,8 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Carbon",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   },
   {
     "brand": "LaHYLA",
@@ -15,6 +16,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Carbon",
-    "wheel_size": "24/26"
+    "wheel_size": "24/26",
+    "design_status": "Designed"
   }
 ]

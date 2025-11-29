@@ -5,9 +5,21 @@
     "sub_model": "Base Model",
     "year_from": 2019,
     "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Nicolai",
+    "model": "G1",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Nicolai",
@@ -17,7 +29,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Nicolai",
+    "model": "G1",
+    "sub_model": "Base Model",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Nicolai",
@@ -27,6 +51,7 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   }
 ]

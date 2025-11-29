@@ -7,7 +7,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Pole",
@@ -17,6 +18,18 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Pole",
+    "model": "Evolink",
+    "sub_model": "1.4",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "K4",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

@@ -1,13 +1,45 @@
 [
   {
     "brand": "Kona",
+    "model": "Cinder Cone",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Fire Mountain",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "24",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
     "model": "Process 134",
     "sub_model": "DL",
     "year_from": 2020,
     "year_to": 2023,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -17,7 +49,8 @@
     "year_to": 2023,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -27,7 +60,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -37,7 +71,28 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Cinder Cone",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Fire Mountain",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -47,7 +102,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -57,7 +113,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -67,7 +124,41 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Hei Hei",
+    "sub_model": "CR",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "Base model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -77,7 +168,50 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "ST Frame",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Kahuna",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Lava Dome",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Mahuna",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -87,7 +221,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -97,7 +232,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -107,7 +243,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -117,7 +254,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -127,7 +265,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -137,7 +276,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -147,7 +287,30 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 134",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 134",
+    "sub_model": "DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -157,7 +320,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -167,7 +331,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -177,7 +342,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -187,7 +353,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -197,7 +364,30 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "Base Model",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -207,7 +397,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -217,7 +408,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -227,7 +419,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -237,7 +430,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -247,7 +441,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -257,7 +452,8 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -266,7 +462,52 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit X",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit X",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -276,7 +517,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -286,7 +528,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Cinder Cone",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -295,7 +548,19 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Hei Hei",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -305,7 +570,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -315,7 +581,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -325,7 +592,30 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "Base model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -335,7 +625,40 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "ST Frame",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Kahuna",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Lava Dome",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -344,7 +667,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -353,7 +677,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -362,7 +687,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -372,7 +698,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -382,7 +709,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -392,7 +720,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -402,7 +731,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -412,7 +742,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -422,7 +753,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -432,7 +764,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -442,7 +775,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -452,7 +786,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -462,7 +797,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -472,7 +808,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -482,7 +819,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -492,7 +830,8 @@
     "year_to": 2018,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -502,7 +841,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -512,7 +852,8 @@
     "year_to": 2018,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -522,7 +863,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -532,7 +874,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -542,7 +885,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -552,7 +896,8 @@
     "year_to": 2020,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -562,7 +907,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -572,7 +918,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -582,7 +929,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -592,7 +940,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -602,7 +951,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -612,7 +962,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -622,7 +973,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -632,7 +984,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -642,7 +995,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -652,7 +1006,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -662,7 +1017,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -672,7 +1028,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -682,7 +1049,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -692,7 +1060,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -701,7 +1070,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -711,7 +1081,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -721,7 +1092,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -731,7 +1103,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -741,7 +1114,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -751,7 +1125,50 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Big Honzo",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Big Honzo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Cinder Cone",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Fire Mountain",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -761,7 +1178,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -771,7 +1189,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -781,7 +1200,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -791,7 +1211,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -801,7 +1222,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -811,7 +1233,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -821,7 +1244,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -831,7 +1255,50 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "ST Frame",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Kahuna",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Lava Dome",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Mahuna",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -840,7 +1307,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -849,7 +1317,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -859,7 +1328,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -869,7 +1339,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -879,7 +1350,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -889,7 +1361,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -899,7 +1372,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -909,7 +1383,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -919,7 +1394,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -929,7 +1405,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -939,7 +1416,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -949,7 +1427,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -959,7 +1438,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -969,7 +1449,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -979,7 +1460,8 @@
     "year_to": 2018,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -989,7 +1471,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -999,7 +1482,8 @@
     "year_to": 2018,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1009,7 +1493,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1019,7 +1504,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1029,7 +1515,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1039,7 +1526,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1049,7 +1537,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1059,7 +1548,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1069,7 +1559,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1079,7 +1570,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1089,7 +1581,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1099,7 +1592,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1109,7 +1603,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1119,7 +1614,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1129,7 +1625,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1139,7 +1636,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1149,7 +1647,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1159,7 +1658,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1168,7 +1668,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1178,7 +1679,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1188,7 +1690,103 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Shonky",
+    "year_from": 2015,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Big Honzo",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Big Honzo",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Cinder Cone",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "El Kahuna",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "El Kahuna",
+    "sub_model": "SUV",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Fire Mountain",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Hei Hei",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -1198,7 +1796,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1208,7 +1807,30 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "Base model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Honzo",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -1218,7 +1840,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1228,7 +1851,39 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Kahuna",
+    "sub_model": "Base Model",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Lava Dome",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Mahuna",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -1238,7 +1893,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1248,7 +1904,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1258,7 +1915,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1268,7 +1926,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1278,7 +1937,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1288,7 +1948,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1298,7 +1959,8 @@
     "year_to": 2018,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1308,7 +1970,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1318,7 +1981,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1328,7 +1992,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1338,7 +2003,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1348,17 +2014,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
-  },
-  {
-    "brand": "Kona",
-    "model": "Process 153",
-    "sub_model": "DL",
-    "year_from": 2021,
-    "year_to": 2023,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1368,7 +2025,30 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "DL",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1378,7 +2058,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1388,7 +2069,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1398,7 +2080,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1408,7 +2091,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1418,7 +2102,28 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 130",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -1428,7 +2133,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Kona",
@@ -1438,7 +2144,30 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit X",
+    "year_from": 2017,
+    "year_to": 2019,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Kona",
@@ -1447,6 +2176,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   }
 ]

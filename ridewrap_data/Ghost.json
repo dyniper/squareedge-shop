@@ -1,13 +1,58 @@
 [
   {
     "brand": "Ghost",
+    "model": "Nirvana",
+    "sub_model": "Tour",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
     "model": "Riot",
     "sub_model": "Youth Pro",
     "year_from": 2022,
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -17,7 +62,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -27,7 +73,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -37,7 +84,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -47,7 +95,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -57,7 +106,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -67,7 +117,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -77,7 +128,85 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "TRAIL Advanced",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF Full Party",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF LTD",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -87,7 +216,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -97,7 +227,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -107,7 +238,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -117,7 +249,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -127,7 +260,63 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "World cup replica",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Nirvana",
+    "sub_model": "Tour",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -137,7 +326,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -147,7 +337,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -157,7 +348,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -167,7 +359,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -177,7 +370,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -187,7 +381,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -197,7 +392,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -207,7 +403,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -217,7 +414,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -227,7 +425,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -237,7 +436,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -247,7 +447,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -257,7 +458,195 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "TRAIL Advanced",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Advanced",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Universal",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Universal EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Advanced",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Advanced EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Pro EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru B",
+    "sub_model": "Pro EQ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru B",
+    "sub_model": "Advanced",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru B",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru B",
+    "sub_model": "Advanced EQ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -267,7 +656,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -277,7 +667,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -287,7 +678,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -297,7 +689,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -307,7 +700,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -317,7 +711,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -327,7 +722,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -337,7 +733,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -347,7 +744,19 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Nirvana",
+    "sub_model": "Tour",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -357,7 +766,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -367,7 +777,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -377,7 +788,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -387,7 +799,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -397,7 +810,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -407,7 +821,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -417,7 +832,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -427,7 +843,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -437,7 +854,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -447,7 +865,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -457,7 +876,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -467,7 +887,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -477,7 +898,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -487,7 +909,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -497,7 +920,19 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "SL AMR",
+    "sub_model": "Base",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -506,7 +941,85 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "160 Essential",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "160 Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "160 Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "TRAIL Essential",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -516,7 +1029,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -526,7 +1040,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -536,7 +1051,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -546,7 +1062,118 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Universal",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Universal EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Advanced",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Advanced EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Teru",
+    "sub_model": "Pro EQ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Kato FS",
+    "sub_model": "Base Model",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -556,7 +1183,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -566,7 +1194,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -576,7 +1205,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -586,7 +1216,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -596,7 +1227,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -606,7 +1238,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -616,7 +1249,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -626,7 +1260,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -636,7 +1271,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Nirvana",
+    "sub_model": "Tour",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -646,7 +1293,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -656,7 +1304,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -666,7 +1315,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -676,7 +1326,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -686,7 +1337,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -696,7 +1348,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -706,7 +1359,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -716,7 +1370,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -726,7 +1381,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -736,7 +1392,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -746,7 +1403,19 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "SL AMR",
+    "sub_model": "Base",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -755,7 +1424,151 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-ASX",
+    "sub_model": "130 Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector FS",
+    "sub_model": "Advanced",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector FS",
+    "sub_model": "Essential",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector FS",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector FS",
+    "sub_model": "Universal",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector FS",
+    "sub_model": "World Cup",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Advanced",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Essential",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "World cup replica",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Lector SF",
+    "sub_model": "Universal",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Nirvana",
+    "sub_model": "Tour",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -765,7 +1578,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -775,7 +1589,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -785,7 +1600,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -795,7 +1611,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ghost",
@@ -805,7 +1622,74 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "EN Full Party",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "EN Essential",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "EN Universal",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "AM Essential",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "AM Universal",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ghost",
+    "model": "Riot",
+    "sub_model": "AM Full Party",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ghost",
@@ -814,6 +1698,7 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

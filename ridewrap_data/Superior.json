@@ -1,13 +1,256 @@
 [
   {
     "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9049 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9039 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9019 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8069 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "979 RC",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "929 RC",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "TEAM 29 Factroy Racing",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "TEAM 29 Issue R",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "TEAM 29 Issue",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "TEAM 29 Elite",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(15.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9049 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9039 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9019 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8069 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
     "model": "XF",
     "sub_model": "979 RC",
     "year_from": 2022,
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -17,7 +260,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -27,7 +271,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -37,7 +282,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -47,7 +293,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -57,7 +304,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -67,7 +315,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -77,7 +326,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -87,7 +337,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -97,7 +348,151 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Superior",
+    "model": "XP",
+    "sub_model": "939",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XP",
+    "sub_model": "919",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XP",
+    "sub_model": "909",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M(17.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9049 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9039 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9019 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8069 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXP",
+    "sub_model": "9019",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXP",
+    "sub_model": "8089",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "iXF",
+    "sub_model": "9.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L(19)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Superior",
@@ -107,7 +502,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -117,7 +513,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -127,7 +524,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -137,7 +535,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -147,7 +546,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -157,7 +557,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -167,7 +568,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -177,7 +579,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -187,7 +590,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -197,7 +601,74 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9049 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9039 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "9019 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8089 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "eXF",
+    "sub_model": "8069 B SUV",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Superior",
@@ -207,7 +678,8 @@
     "year_to": 2026,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Superior",
@@ -217,6 +689,51 @@
     "year_to": 2026,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "9.9 Team",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "9.5 Team",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "9.7 RC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Superior",
+    "model": "XF",
+    "sub_model": "9.7 DC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

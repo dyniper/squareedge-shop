@@ -5,9 +5,65 @@
     "sub_model": "AM-SL",
     "year_from": 2021,
     "year_to": 2026,
+    "size": "S(40)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EVO",
+    "sub_model": "EN-SL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(40)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "44 (M)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "44 (M)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "44 (M)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EVO",
+    "sub_model": "AM-SL",
+    "year_from": 2021,
+    "year_to": 2026,
     "size": "M(44)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bulls",
@@ -17,7 +73,8 @@
     "year_to": 2026,
     "size": "M(44)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bulls",
@@ -27,7 +84,8 @@
     "year_to": 2023,
     "size": "44",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bulls",
@@ -37,7 +95,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bulls",
@@ -47,7 +106,41 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "48 (L)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "48 (L)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bulls",
+    "model": "Sonic EN-R",
+    "sub_model": "2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "48 (L)",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bulls",
@@ -57,7 +150,8 @@
     "year_to": 2026,
     "size": "L(48)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bulls",
@@ -67,6 +161,7 @@
     "year_to": 2026,
     "size": "L(48)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

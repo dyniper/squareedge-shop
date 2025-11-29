@@ -1,13 +1,58 @@
 [
   {
     "brand": "Atherton",
+    "model": "S.150",
+    "sub_model": "1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "7",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
+    "model": "S.150",
+    "sub_model": "2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "7",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
+    "model": "S.150",
+    "sub_model": "3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "7",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
+    "model": "S.150",
+    "sub_model": "Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "7",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
     "model": "S.200",
     "sub_model": "1",
     "year_from": 2024,
     "year_to": 2026,
     "size": "8",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -17,7 +62,8 @@
     "year_to": 2026,
     "size": "8",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -27,7 +73,8 @@
     "year_to": 2026,
     "size": "8",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -37,7 +84,8 @@
     "year_to": 2026,
     "size": "8",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -47,7 +95,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -57,7 +106,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -67,7 +117,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -77,7 +128,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -87,7 +139,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -97,7 +150,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -107,7 +161,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -117,7 +172,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -127,7 +183,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -137,7 +194,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -147,7 +205,41 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200",
+    "sub_model": "1",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200",
+    "sub_model": "2",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Atherton",
+    "model": "AM.200",
+    "sub_model": "Frame",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "All Sizes",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Atherton",
@@ -157,7 +249,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -167,7 +260,8 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Atherton",
@@ -177,6 +271,7 @@
     "year_to": 2023,
     "size": "All Sizes",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   }
 ]

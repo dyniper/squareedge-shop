@@ -6,7 +6,18 @@
     "year_to": 2021,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Banshee",
+    "model": "Rune V3",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "Banshee",
@@ -15,7 +26,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -24,7 +36,18 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Banshee",
+    "model": "Rune V3",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "Banshee",
@@ -33,7 +56,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -42,7 +66,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -51,7 +76,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -60,7 +86,18 @@
     "year_to": 2026,
     "size": "Regular",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Banshee",
+    "model": "Prime V3.2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Banshee",
@@ -69,7 +106,18 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Banshee",
+    "model": "Rune V3",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "Banshee",
@@ -78,7 +126,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -87,7 +136,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -96,7 +146,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -105,7 +156,18 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Banshee",
+    "model": "Paradox V3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Banshee",
@@ -114,7 +176,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -123,7 +186,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -132,7 +196,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -141,7 +206,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -150,7 +216,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -159,7 +226,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Banshee",
@@ -168,6 +236,7 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

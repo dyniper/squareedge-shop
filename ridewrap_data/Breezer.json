@@ -1,0 +1,12 @@
+[
+  {
+    "brand": "Breezer",
+    "model": "Thunder",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  }
+]

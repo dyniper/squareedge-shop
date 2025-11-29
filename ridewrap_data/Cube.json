@@ -1,13 +1,121 @@
 [
   {
     "brand": "Cube",
+    "model": "Acid",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "EX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Analog",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XS(14)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Acid",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
     "model": "AIM",
     "sub_model": "SLX",
     "year_from": 2021,
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -17,7 +125,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -27,7 +136,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -37,7 +147,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -46,7 +157,104 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Analog",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Attention",
+    "sub_model": "SL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:62",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S(16)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Elite C:68X",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S(16)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S (16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "One",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S (16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "TM",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S (16)",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -56,7 +264,8 @@
     "year_to": 2021,
     "size": "S(15)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -66,7 +275,8 @@
     "year_to": 2021,
     "size": "S(15)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -76,7 +286,8 @@
     "year_to": 2021,
     "size": "S(15)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -86,7 +297,8 @@
     "year_to": 2026,
     "size": "S(15)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -96,7 +308,8 @@
     "year_to": 2026,
     "size": "S(15)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -106,7 +319,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -116,7 +330,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -126,7 +341,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -136,7 +352,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -146,7 +363,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -156,7 +374,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -166,7 +385,8 @@
     "year_to": 2022,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -176,7 +396,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -186,7 +407,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -196,7 +418,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -206,7 +429,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -216,7 +440,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -226,7 +451,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -236,7 +462,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -246,7 +473,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -256,7 +484,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -266,7 +495,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -276,7 +506,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -286,7 +517,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -296,7 +528,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -306,7 +539,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -316,7 +550,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -326,7 +561,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -336,7 +572,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -346,7 +583,8 @@
     "year_to": 2024,
     "size": "S(16)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -356,7 +594,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -366,7 +605,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -376,7 +616,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -386,7 +627,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -396,7 +638,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -406,7 +649,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -416,7 +660,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -426,7 +671,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -436,7 +682,8 @@
     "year_to": 2026,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -446,7 +693,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -456,7 +704,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -466,7 +715,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -476,7 +726,8 @@
     "year_to": 2021,
     "size": "S(16)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -486,7 +737,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -496,7 +748,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -506,7 +759,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -516,7 +770,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -526,7 +781,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -536,7 +792,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -546,7 +803,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -556,7 +814,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -566,7 +825,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -576,7 +836,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -586,7 +847,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -596,7 +858,95 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Access WS C:62",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Access WS C:62",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(17)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Acid",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "SLX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "EX",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "PRO",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Race",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "AIM",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -605,7 +955,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -614,7 +965,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -623,7 +975,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -632,7 +985,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -642,7 +996,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -652,7 +1007,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -662,7 +1018,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -671,7 +1028,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -680,7 +1038,8 @@
     "year_to": 2023,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -690,7 +1049,8 @@
     "year_to": 2024,
     "size": "M(54)",
     "frame_material": "Alloy",
-    "wheel_size": "700"
+    "wheel_size": "700",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -700,7 +1060,8 @@
     "year_to": 2024,
     "size": "M(54)",
     "frame_material": "Alloy",
-    "wheel_size": "700"
+    "wheel_size": "700",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -710,7 +1071,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -720,7 +1082,30 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "One",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M(18)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -730,7 +1115,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -740,7 +1126,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -750,7 +1137,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -760,7 +1148,52 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SLX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -770,7 +1203,8 @@
     "year_to": 2021,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -780,7 +1214,8 @@
     "year_to": 2021,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -790,7 +1225,8 @@
     "year_to": 2021,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -800,7 +1236,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -810,7 +1247,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -820,7 +1258,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -830,7 +1269,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -840,7 +1280,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -850,7 +1291,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -860,7 +1302,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -870,7 +1313,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -880,7 +1324,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -890,7 +1335,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -900,7 +1346,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -910,7 +1357,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -920,7 +1368,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -930,7 +1379,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -940,7 +1390,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -950,7 +1401,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -960,7 +1412,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -970,7 +1423,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -980,7 +1434,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -990,7 +1445,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1000,7 +1456,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1010,7 +1467,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1020,7 +1478,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1030,7 +1489,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1040,7 +1500,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1050,7 +1511,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1060,7 +1522,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1070,7 +1533,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1080,7 +1544,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1090,7 +1555,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1100,7 +1566,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1110,7 +1577,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1120,7 +1588,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1130,7 +1599,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1140,7 +1610,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1150,7 +1621,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1160,7 +1632,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1170,7 +1643,8 @@
     "year_to": 2021,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1180,7 +1654,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1190,7 +1665,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1200,7 +1676,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1210,7 +1687,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1220,7 +1698,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1230,7 +1709,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1240,7 +1720,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1250,7 +1731,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1260,7 +1742,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1270,7 +1753,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1280,7 +1764,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1290,7 +1775,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1300,7 +1786,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1310,7 +1797,8 @@
     "year_to": 2024,
     "size": "M(18)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1320,7 +1808,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1330,7 +1819,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1340,7 +1830,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1350,7 +1841,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1360,7 +1852,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1370,7 +1863,8 @@
     "year_to": 2022,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1380,7 +1874,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1390,7 +1885,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1400,7 +1896,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1410,7 +1907,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1420,7 +1918,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1430,7 +1929,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1440,7 +1940,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1450,7 +1951,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1460,7 +1962,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1470,7 +1973,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1480,7 +1984,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1490,7 +1995,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1500,7 +2006,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1510,7 +2017,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1520,7 +2028,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1530,7 +2039,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1540,7 +2050,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1550,7 +2061,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1560,7 +2072,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1570,7 +2083,8 @@
     "year_to": 2026,
     "size": "M(18)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1580,7 +2094,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1590,7 +2105,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1600,7 +2116,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1610,7 +2127,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1620,7 +2138,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1630,7 +2149,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1640,7 +2160,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1650,7 +2171,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1660,7 +2182,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1670,7 +2193,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1680,7 +2204,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1690,7 +2215,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1700,7 +2226,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1710,7 +2237,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1720,7 +2248,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1730,7 +2259,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1740,7 +2270,8 @@
     "year_to": 2026,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1750,7 +2281,8 @@
     "year_to": 2026,
     "size": "M(17)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1760,7 +2292,8 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1770,7 +2303,30 @@
     "year_to": 2024,
     "size": "M(17)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Access WS C:62",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Access WS C:62",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L(19)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -1779,7 +2335,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1789,7 +2346,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1799,7 +2357,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1809,7 +2368,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1819,7 +2379,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1829,7 +2390,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1838,7 +2400,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1847,7 +2410,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1856,7 +2420,18 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Analog",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "L(20)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -1866,7 +2441,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1876,7 +2452,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1886,7 +2463,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1895,7 +2473,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1904,7 +2483,8 @@
     "year_to": 2023,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1914,7 +2494,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1924,7 +2505,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1934,7 +2516,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1944,7 +2527,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1954,7 +2538,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1964,7 +2549,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1974,7 +2560,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1984,7 +2571,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -1994,7 +2582,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2004,7 +2593,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2014,7 +2604,8 @@
     "year_to": 2021,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2024,7 +2615,8 @@
     "year_to": 2021,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2034,7 +2626,8 @@
     "year_to": 2021,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2044,7 +2637,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2054,7 +2648,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2064,7 +2659,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2074,7 +2670,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2084,7 +2681,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2094,7 +2692,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2104,7 +2703,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2114,7 +2714,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2124,7 +2725,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2134,7 +2736,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2144,7 +2747,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2154,7 +2758,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2164,7 +2769,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2174,7 +2780,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2184,7 +2791,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2194,7 +2802,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2204,7 +2813,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2214,7 +2824,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2224,7 +2835,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2234,7 +2846,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2244,7 +2857,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2254,7 +2868,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2264,7 +2879,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2274,7 +2890,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2284,7 +2901,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2294,7 +2912,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2304,7 +2923,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2314,7 +2934,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2324,7 +2945,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2334,7 +2956,8 @@
     "year_to": 2026,
     "size": "L(19)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2344,7 +2967,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2354,7 +2978,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2364,7 +2989,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2374,7 +3000,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2384,7 +3011,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2394,7 +3022,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2404,7 +3033,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2414,7 +3044,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2424,7 +3055,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2434,7 +3066,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2444,7 +3077,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2454,7 +3088,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2464,7 +3099,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2474,7 +3110,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2484,7 +3121,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2494,7 +3132,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2504,7 +3143,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2514,7 +3154,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2524,7 +3165,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2534,7 +3176,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2544,7 +3187,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2554,7 +3198,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2564,7 +3209,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2574,7 +3220,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2584,7 +3231,8 @@
     "year_to": 2024,
     "size": "L(20)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2594,7 +3242,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2604,7 +3253,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2614,7 +3264,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2624,7 +3275,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2634,7 +3286,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2644,7 +3297,8 @@
     "year_to": 2022,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2654,7 +3308,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2664,7 +3319,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2674,7 +3330,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2684,7 +3341,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2694,7 +3352,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2704,7 +3363,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2714,7 +3374,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2724,7 +3385,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2734,7 +3396,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2744,7 +3407,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2754,7 +3418,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2764,7 +3429,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2774,7 +3440,8 @@
     "year_to": 2021,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2784,7 +3451,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2794,7 +3462,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2804,7 +3473,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2814,7 +3484,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2824,7 +3495,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2834,7 +3506,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2844,7 +3517,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2854,7 +3528,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2864,7 +3539,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2874,7 +3550,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2884,7 +3561,8 @@
     "year_to": 2026,
     "size": "L(20)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2894,7 +3572,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2904,7 +3583,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2914,7 +3594,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2924,7 +3605,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2934,7 +3616,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2944,7 +3627,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2954,7 +3638,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2964,7 +3649,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2974,7 +3660,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2984,7 +3671,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -2994,7 +3682,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3004,7 +3693,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3014,7 +3704,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3024,7 +3715,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3034,7 +3726,8 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3044,7 +3737,18 @@
     "year_to": 2024,
     "size": "L(19)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Acid",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -3054,7 +3758,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3064,7 +3769,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3074,7 +3780,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3084,7 +3791,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3094,7 +3802,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3103,7 +3812,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3112,7 +3822,28 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Zero99 C:68X",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Analog",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -3122,7 +3853,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3132,7 +3864,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3142,7 +3875,30 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction",
+    "sub_model": "One",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL(22)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -3152,7 +3908,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3162,7 +3919,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3172,7 +3930,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3182,7 +3941,85 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Race",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "SLX",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction C:62",
+    "sub_model": "One",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -3192,7 +4029,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3202,7 +4040,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3212,7 +4051,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3222,7 +4062,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3232,7 +4073,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3242,7 +4084,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3252,7 +4095,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3262,7 +4106,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3272,7 +4117,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3282,7 +4128,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3292,7 +4139,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3302,7 +4150,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3312,7 +4161,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3322,7 +4172,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3332,7 +4183,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3342,7 +4194,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3352,7 +4205,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3362,7 +4216,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3372,7 +4227,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3382,7 +4238,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3392,7 +4249,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3402,7 +4260,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3412,7 +4271,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3422,7 +4282,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3432,7 +4293,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3442,7 +4304,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3452,7 +4315,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3462,7 +4326,30 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL(21)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -3472,7 +4359,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3482,7 +4370,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3492,7 +4381,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3502,7 +4392,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3512,7 +4403,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3522,7 +4414,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3532,7 +4425,8 @@
     "year_to": 2021,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3542,7 +4436,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3552,7 +4447,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3562,7 +4458,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3572,7 +4469,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3582,7 +4480,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3592,7 +4491,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3602,7 +4502,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3612,7 +4513,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3622,7 +4524,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3632,7 +4535,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3642,7 +4546,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3652,7 +4557,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3662,7 +4568,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3672,7 +4579,8 @@
     "year_to": 2024,
     "size": "XL(22)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3682,7 +4590,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3692,7 +4601,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3702,7 +4612,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3712,7 +4623,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3722,7 +4634,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3732,7 +4645,8 @@
     "year_to": 2022,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3742,7 +4656,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3752,7 +4667,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3762,7 +4678,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3772,7 +4689,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3782,7 +4700,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3792,7 +4711,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3802,7 +4722,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3812,7 +4733,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3822,7 +4744,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3832,7 +4755,8 @@
     "year_to": 2021,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3842,7 +4766,8 @@
     "year_to": 2021,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3852,7 +4777,8 @@
     "year_to": 2021,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3862,7 +4788,8 @@
     "year_to": 2021,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3872,7 +4799,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3882,7 +4810,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3892,7 +4821,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3902,7 +4832,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3912,7 +4843,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3922,7 +4854,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3932,7 +4865,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3942,7 +4876,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3952,7 +4887,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3962,7 +4898,8 @@
     "year_to": 2026,
     "size": "XL(22)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3972,7 +4909,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3982,7 +4920,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -3992,7 +4931,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4002,7 +4942,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4012,7 +4953,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4022,7 +4964,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4032,7 +4975,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4042,7 +4986,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4052,7 +4997,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4062,7 +5008,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4072,7 +5019,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4082,7 +5030,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4092,7 +5041,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4102,7 +5052,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4112,7 +5063,8 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4122,7 +5074,41 @@
     "year_to": 2024,
     "size": "XL(21)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XXL(23)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XXL(23)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 625",
+    "year_from": 2021,
+    "year_to": 2021,
+    "size": "XXL(23)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -4132,7 +5118,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4142,7 +5129,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4152,7 +5140,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4162,7 +5151,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4172,7 +5162,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4182,7 +5173,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4192,7 +5184,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4202,7 +5195,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4212,7 +5206,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4222,7 +5217,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4232,7 +5228,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4242,7 +5239,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4252,7 +5250,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4262,7 +5261,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4272,7 +5272,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4282,7 +5283,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4292,7 +5294,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4302,7 +5305,8 @@
     "year_to": 2024,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4312,7 +5316,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4322,7 +5327,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4332,7 +5338,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4342,7 +5349,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4352,7 +5360,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4362,7 +5371,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4372,7 +5382,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4382,7 +5393,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4392,7 +5404,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4402,7 +5415,52 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Allroad",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XXL(23)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid Performance",
+    "sub_model": "Base Model",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XXL(23)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Race",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo One77",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cube",
@@ -4412,7 +5470,8 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4422,7 +5481,8 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   },
   {
     "brand": "Cube",
@@ -4432,6 +5492,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
   }
 ]

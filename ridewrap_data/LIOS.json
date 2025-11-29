@@ -1,11 +1,112 @@
 [
   {
     "brand": "LIOS",
+    "model": "Hellfire",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Raptor",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Hellfire",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Thunderbolt",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Hellfire",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Thunderbolt",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
     "model": "Spectre",
     "year_from": 2024,
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Thunderbolt",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Raptor",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Hellfire",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "LIOS",
+    "model": "Lightning",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

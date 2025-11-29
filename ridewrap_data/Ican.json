@@ -4,9 +4,30 @@
     "model": "P9",
     "year_from": 2018,
     "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ican",
+    "model": "P9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ican",
+    "model": "P9",
+    "year_from": 2018,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ican",
@@ -15,6 +36,7 @@
     "year_to": 2026,
     "size": "20",
     "frame_material": "Carbon",
-    "wheel_size": "26/27"
+    "wheel_size": "26/27",
+    "design_status": "Designed"
   }
 ]

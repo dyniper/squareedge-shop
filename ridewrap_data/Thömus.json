@@ -1,0 +1,13 @@
+[
+  {
+    "brand": "Thömus",
+    "model": "Lightrider",
+    "sub_model": "E2 Pro",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.1",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(42)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.0",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S(42)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Superiore",
+    "sub_model": "LTD-C",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M(48)",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Superiore",
+    "sub_model": "LTD 1.1",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M(47)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Brenta",
+    "sub_model": "HT 5.0",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "M(49)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.1",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(47)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.0",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M(47)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.0",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L(52)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Superiore",
+    "sub_model": "LTD 1.1",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L(52)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Brenta",
+    "sub_model": "HT 5.0",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L(54)",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Malaguti",
+    "model": "Civetta",
+    "sub_model": "FS 6.1",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L(52)",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  }
+]

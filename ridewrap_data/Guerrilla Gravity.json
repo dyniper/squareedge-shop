@@ -7,7 +7,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -17,7 +18,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -27,7 +29,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -37,7 +40,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -47,7 +51,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -57,7 +62,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -67,7 +73,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -77,7 +84,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -87,7 +95,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -97,7 +106,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -107,7 +117,52 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frame set",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -116,7 +171,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -126,7 +182,8 @@
     "year_to": 2018,
     "size": "2",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -136,7 +193,8 @@
     "year_to": 2018,
     "size": "2",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -146,7 +204,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -156,7 +215,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -166,7 +226,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -176,7 +237,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -186,7 +248,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -196,7 +259,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -205,7 +269,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -214,7 +279,8 @@
     "year_to": 2026,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -224,7 +290,8 @@
     "year_to": 2020,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -234,7 +301,8 @@
     "year_to": 2020,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -244,7 +312,8 @@
     "year_to": 2020,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -254,7 +323,8 @@
     "year_to": 2020,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -264,7 +334,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -274,7 +345,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -284,7 +356,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -294,7 +367,8 @@
     "year_to": 2022,
     "size": "2",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -304,7 +378,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -314,7 +389,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -324,7 +400,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -334,7 +411,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -344,7 +422,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -354,7 +433,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -364,7 +444,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -374,7 +455,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -384,7 +466,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -394,7 +477,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -404,7 +488,52 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frame set",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -414,7 +543,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -424,7 +554,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -434,7 +565,18 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pistola",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -444,7 +586,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -454,7 +597,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -464,7 +608,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -474,7 +619,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -484,7 +630,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -494,7 +641,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -503,7 +651,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -512,7 +661,8 @@
     "year_to": 2026,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -522,7 +672,8 @@
     "year_to": 2020,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -532,7 +683,8 @@
     "year_to": 2020,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -542,7 +694,8 @@
     "year_to": 2020,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -552,7 +705,8 @@
     "year_to": 2020,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -562,7 +716,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -572,7 +727,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -582,7 +738,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -592,7 +749,8 @@
     "year_to": 2022,
     "size": "3",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -602,7 +760,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -612,7 +771,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -622,7 +782,8 @@
     "year_to": 2026,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -632,7 +793,8 @@
     "year_to": 2026,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -642,7 +804,8 @@
     "year_to": 2026,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -652,7 +815,41 @@
     "year_to": 2026,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Ride Build",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Rally Like Barelli",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Gnarvana",
+    "sub_model": "Race Build",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -662,7 +859,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -672,7 +870,128 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Frame set",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Megatrail",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Pistola",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Mx Rally 29/27.5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Ride",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Rally",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Shred Dogg",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -681,7 +1000,62 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "The Smash",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Race",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Rally",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Ride",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Guerrilla Gravity",
+    "model": "Trail Pistol",
+    "sub_model": "Frameset",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -691,7 +1065,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -701,7 +1076,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -711,7 +1087,8 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Guerrilla Gravity",
@@ -721,6 +1098,7 @@
     "year_to": 2022,
     "size": "4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

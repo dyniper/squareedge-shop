@@ -5,9 +5,97 @@
     "sub_model": "Elite",
     "year_from": 2023,
     "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CE Mk1",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Pro XTR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited AXS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -17,7 +105,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -27,7 +116,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -36,7 +126,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -46,7 +137,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -56,7 +148,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -66,7 +159,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -76,7 +170,96 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Pro XTR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited AXS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Pro XTR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited AXS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Liteville",
@@ -86,7 +269,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -96,7 +280,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -106,7 +291,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -116,7 +302,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -125,7 +312,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -135,7 +323,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -145,7 +334,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -155,7 +345,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -165,7 +356,52 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Race",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Liteville",
@@ -175,7 +411,19 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Liteville",
+    "model": "303 Mk1",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Liteville",
@@ -185,7 +433,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -195,7 +444,84 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Pro XTR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "301CL Mk1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited AXS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Elite",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Pro XTR",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited AXS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Liteville",
+    "model": "H-3 Mk4",
+    "sub_model": "Limited",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Liteville",
@@ -205,7 +531,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -215,7 +542,8 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Liteville",
@@ -225,6 +553,7 @@
     "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   }
 ]

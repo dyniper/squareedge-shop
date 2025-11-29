@@ -6,7 +6,8 @@
     "year_to": 2026,
     "size": "12",
     "frame_material": "Alloy",
-    "wheel_size": "Kids"
+    "wheel_size": "Kids",
+    "design_status": "Designed"
   },
   {
     "brand": "Kids Ride Shotgun",
@@ -15,6 +16,7 @@
     "year_to": 2026,
     "size": "14",
     "frame_material": "Alloy",
-    "wheel_size": "Kids"
+    "wheel_size": "Kids",
+    "design_status": "Designed"
   }
 ]

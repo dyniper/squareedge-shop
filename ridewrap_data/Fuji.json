@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -17,7 +18,8 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -27,7 +29,8 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -37,7 +40,8 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -47,7 +51,8 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -57,7 +62,30 @@
     "year_to": 2026,
     "size": "15",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "15",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.5",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "15",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Fuji",
@@ -67,7 +95,8 @@
     "year_to": 2026,
     "size": "17",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -77,7 +106,74 @@
     "year_to": 2026,
     "size": "17",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "LT 1.1",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "LT 1.5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "1.1",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "1.5",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.5",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Fuji",
@@ -87,7 +183,8 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -97,7 +194,30 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "LT 1.1",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "19",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "LT 1.5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "19",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Fuji",
@@ -107,7 +227,8 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -117,7 +238,8 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -127,7 +249,8 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -137,7 +260,30 @@
     "year_to": 2026,
     "size": "19",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "1.3",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "21",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Auric",
+    "sub_model": "1.5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "21",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Fuji",
@@ -147,7 +293,8 @@
     "year_to": 2026,
     "size": "21",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -157,7 +304,8 @@
     "year_to": 2026,
     "size": "21",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -167,7 +315,8 @@
     "year_to": 2026,
     "size": "21",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fuji",
@@ -177,6 +326,29 @@
     "year_to": 2026,
     "size": "21",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "21",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fuji",
+    "model": "Rakan",
+    "sub_model": "LT 1.5",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "21",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

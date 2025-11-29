@@ -7,7 +7,8 @@
     "year_to": 2022,
     "size": "ONE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -17,7 +18,8 @@
     "year_to": 2022,
     "size": "ONE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -27,7 +29,8 @@
     "year_to": 2022,
     "size": "ONE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -37,7 +40,8 @@
     "year_to": 2022,
     "size": "ONE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -47,7 +51,8 @@
     "year_to": 2022,
     "size": "TWO",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -57,7 +62,8 @@
     "year_to": 2022,
     "size": "TWO",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -67,7 +73,8 @@
     "year_to": 2022,
     "size": "TWO",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -77,7 +84,8 @@
     "year_to": 2022,
     "size": "TWO",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -87,7 +95,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -97,7 +106,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -107,7 +117,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -117,7 +128,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -127,7 +139,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -137,7 +150,8 @@
     "year_to": 2025,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -147,7 +161,8 @@
     "year_to": 2026,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -157,7 +172,8 @@
     "year_to": 2026,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -167,7 +183,8 @@
     "year_to": 2026,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -177,7 +194,8 @@
     "year_to": 2026,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -187,7 +205,8 @@
     "year_to": 2026,
     "size": "XXS",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -197,7 +216,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -207,7 +227,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -217,7 +238,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -227,7 +249,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -237,7 +260,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -247,7 +271,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -257,7 +282,8 @@
     "year_to": 2022,
     "size": "XS(14.0)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -267,7 +293,8 @@
     "year_to": 2022,
     "size": "THREE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -277,7 +304,8 @@
     "year_to": 2022,
     "size": "THREE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -287,7 +315,8 @@
     "year_to": 2022,
     "size": "THREE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -297,7 +326,8 @@
     "year_to": 2022,
     "size": "THREE",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -307,7 +337,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -317,7 +348,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -327,7 +359,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -337,7 +370,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -347,7 +381,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -357,7 +392,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -367,7 +403,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -377,7 +414,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -387,7 +425,8 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -397,7 +436,85 @@
     "year_to": 2025,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin",
+    "sub_model": "7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin",
+    "sub_model": "8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin",
+    "sub_model": "Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin",
+    "sub_model": "5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin+",
+    "sub_model": "8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Marlin+",
+    "sub_model": "6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XS",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -407,7 +524,8 @@
     "year_to": 2023,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -417,7 +535,8 @@
     "year_to": 2023,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -427,7 +546,8 @@
     "year_to": 2023,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -437,7 +557,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -447,7 +568,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -457,7 +579,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -467,7 +590,8 @@
     "year_to": 2026,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -477,7 +601,8 @@
     "year_to": 2026,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -487,7 +612,8 @@
     "year_to": 2026,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -497,7 +623,8 @@
     "year_to": 2021,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -507,7 +634,8 @@
     "year_to": 2021,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -517,7 +645,8 @@
     "year_to": 2021,
     "size": "XS(14.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -527,7 +656,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -537,7 +667,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -547,7 +678,8 @@
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -557,7 +689,8 @@
     "year_to": 2023,
     "size": "XS(13.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -567,7 +700,8 @@
     "year_to": 2022,
     "size": "XS(13.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -577,7 +711,8 @@
     "year_to": 2022,
     "size": "XS(13.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -587,7 +722,8 @@
     "year_to": 2022,
     "size": "XS(13.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -597,7 +733,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -607,7 +744,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -617,7 +755,52 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Farley",
+    "sub_model": "5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Farley",
+    "sub_model": "9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Farley",
+    "sub_model": "AL Frameset",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Farley",
+    "sub_model": "7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -627,7 +810,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -637,7 +821,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -647,7 +832,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -657,7 +843,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -667,7 +854,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -677,7 +865,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -687,7 +876,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -697,7 +887,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -707,7 +898,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -717,7 +909,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -727,7 +920,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -737,7 +931,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -747,7 +942,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -757,7 +953,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -767,7 +964,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -777,7 +975,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -787,7 +986,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -797,7 +997,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -807,7 +1008,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -817,7 +1019,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -827,7 +1030,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -837,7 +1041,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -847,7 +1052,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -857,7 +1063,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -867,7 +1074,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -877,7 +1085,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -887,7 +1096,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -897,7 +1107,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -907,7 +1118,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -917,7 +1129,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -927,7 +1140,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -937,7 +1151,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -947,7 +1162,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -957,7 +1173,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -967,7 +1184,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -977,7 +1195,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -987,7 +1206,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -997,7 +1217,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1007,7 +1228,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1017,7 +1239,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1027,7 +1250,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1037,7 +1261,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1047,7 +1272,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1057,7 +1283,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1067,7 +1294,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1077,7 +1305,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1087,7 +1316,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1097,7 +1327,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1107,7 +1338,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1117,7 +1349,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1127,7 +1360,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1137,7 +1371,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1147,7 +1382,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1157,7 +1393,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1167,7 +1404,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1177,7 +1415,8 @@
     "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1187,7 +1426,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1197,7 +1437,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1207,7 +1448,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1217,7 +1459,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1227,7 +1470,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1237,7 +1481,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1247,7 +1492,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1257,7 +1503,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1267,7 +1514,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1277,7 +1525,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1287,7 +1536,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1297,7 +1547,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1307,7 +1558,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1317,7 +1569,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1327,7 +1580,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1337,7 +1591,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1347,7 +1602,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1357,7 +1613,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1367,7 +1624,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1377,7 +1635,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1387,7 +1646,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1397,7 +1657,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1407,7 +1668,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1417,7 +1679,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1427,7 +1690,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1437,7 +1701,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1447,7 +1712,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1457,7 +1723,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1467,7 +1734,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1477,7 +1745,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1487,7 +1756,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1497,7 +1767,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1507,7 +1778,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1517,7 +1789,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1527,7 +1800,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1537,7 +1811,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1547,7 +1822,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1557,7 +1833,8 @@
     "year_to": 2022,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1567,7 +1844,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1577,7 +1855,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1587,7 +1866,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1597,7 +1877,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1607,7 +1888,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1617,7 +1899,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1627,7 +1910,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1637,7 +1921,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1647,7 +1932,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1657,7 +1943,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1667,7 +1954,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1677,7 +1965,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1687,7 +1976,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1697,7 +1987,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1707,7 +1998,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1717,7 +2009,8 @@
     "year_to": 2019,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1727,7 +2020,8 @@
     "year_to": 2019,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1737,7 +2031,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1747,7 +2042,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1757,7 +2053,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1767,7 +2064,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1777,7 +2075,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1787,7 +2086,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1797,7 +2097,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1807,7 +2108,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1817,7 +2119,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1827,7 +2130,30 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -1837,7 +2163,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1847,7 +2174,8 @@
     "year_to": 2018,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1857,7 +2185,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1867,7 +2196,8 @@
     "year_to": 2021,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1877,7 +2207,8 @@
     "year_to": 2019,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1887,7 +2218,8 @@
     "year_to": 2019,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1897,7 +2229,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1907,7 +2240,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1917,7 +2251,8 @@
     "year_to": 2020,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1927,7 +2262,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1937,7 +2273,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1947,7 +2284,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1957,7 +2295,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1967,7 +2306,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1977,7 +2317,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1987,7 +2328,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -1997,7 +2339,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2007,7 +2350,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2017,7 +2361,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2027,7 +2372,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2037,7 +2383,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2047,7 +2394,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2057,7 +2405,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2067,7 +2416,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2077,7 +2427,8 @@
     "year_to": 2023,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2087,7 +2438,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2097,7 +2449,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2107,7 +2460,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2117,7 +2471,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2127,7 +2482,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2137,7 +2493,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2147,7 +2504,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2157,7 +2515,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2167,7 +2526,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2177,7 +2537,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2187,7 +2548,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2197,7 +2559,8 @@
     "year_to": 2024,
     "size": "S(15.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2207,7 +2570,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2217,7 +2581,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2227,7 +2592,8 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2236,7 +2602,8 @@
     "year_to": 2026,
     "size": "20\"",
     "frame_material": "Alloy",
-    "wheel_size": "Kids"
+    "wheel_size": "Kids",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2246,7 +2613,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2256,7 +2624,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2266,7 +2635,8 @@
     "year_to": 2022,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2276,7 +2646,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2286,7 +2657,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2296,7 +2668,8 @@
     "year_to": 2026,
     "size": "S(15.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2306,7 +2679,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2316,7 +2690,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2326,7 +2701,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2336,7 +2712,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2346,7 +2723,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2356,7 +2734,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2366,7 +2745,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2376,7 +2756,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2386,7 +2767,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2396,7 +2778,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2406,7 +2789,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2416,7 +2800,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2426,7 +2811,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2436,7 +2822,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2446,7 +2833,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2456,7 +2844,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2466,7 +2855,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2476,7 +2866,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2486,7 +2877,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2496,7 +2888,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2506,7 +2899,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2516,7 +2910,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2526,7 +2921,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2536,7 +2932,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2546,7 +2943,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2556,7 +2954,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2566,7 +2965,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2576,7 +2976,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2586,7 +2987,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2596,7 +2998,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2606,7 +3009,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2616,7 +3020,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2626,7 +3031,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2636,7 +3042,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2646,7 +3053,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2656,7 +3064,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2666,7 +3075,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2676,7 +3086,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2686,7 +3097,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2696,7 +3108,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2706,7 +3119,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2716,7 +3130,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2726,7 +3141,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2736,7 +3152,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2746,7 +3163,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2756,7 +3174,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2766,7 +3185,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2776,7 +3196,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2786,7 +3207,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2796,7 +3218,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2806,7 +3229,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2816,7 +3240,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2826,7 +3251,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2836,7 +3262,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2846,7 +3273,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2856,7 +3284,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2866,7 +3295,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2876,7 +3306,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2886,7 +3317,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2896,7 +3328,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2906,7 +3339,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2916,7 +3350,8 @@
     "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2926,7 +3361,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2936,7 +3372,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2946,7 +3383,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2956,7 +3394,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2966,7 +3405,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2976,7 +3416,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -2986,7 +3427,30 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly",
+    "sub_model": "LT 9.9",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "17.5",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly",
+    "sub_model": "LT 9.7",
+    "year_from": 2019,
+    "year_to": 2020,
+    "size": "17.5",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -2996,7 +3460,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3006,7 +3471,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3016,7 +3482,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3026,7 +3493,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3036,7 +3504,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3046,7 +3515,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3056,7 +3526,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3066,7 +3537,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3076,7 +3548,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3086,7 +3559,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3096,7 +3570,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3106,7 +3581,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3116,7 +3592,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3126,7 +3603,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3136,7 +3614,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3146,7 +3625,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3156,7 +3636,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3166,7 +3647,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3176,7 +3658,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3186,7 +3669,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3196,7 +3680,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3206,7 +3691,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3216,7 +3702,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3226,7 +3713,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3236,7 +3724,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3246,7 +3735,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3256,7 +3746,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3266,7 +3757,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3276,7 +3768,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3286,7 +3779,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3296,7 +3790,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3306,7 +3801,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3316,7 +3812,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3326,7 +3823,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3336,7 +3834,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3346,7 +3845,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3356,7 +3856,8 @@
     "year_to": 2022,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3366,7 +3867,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3376,7 +3878,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3386,7 +3889,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3396,7 +3900,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3406,7 +3911,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3416,7 +3922,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3426,7 +3933,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3436,7 +3944,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3446,7 +3955,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3456,7 +3966,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3466,7 +3977,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3476,7 +3988,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3486,7 +3999,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3496,7 +4010,8 @@
     "year_to": 2018,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3506,7 +4021,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3516,7 +4032,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3526,7 +4043,8 @@
     "year_to": 2019,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3536,7 +4054,8 @@
     "year_to": 2019,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3546,7 +4065,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3556,7 +4076,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3566,7 +4087,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3576,7 +4098,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3586,7 +4109,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3596,7 +4120,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3606,7 +4131,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3616,7 +4142,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3626,7 +4153,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3636,7 +4164,40 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Service",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -3646,7 +4207,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3656,7 +4218,8 @@
     "year_to": 2018,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3666,7 +4229,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3676,7 +4240,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3686,7 +4251,8 @@
     "year_to": 2026,
     "size": "R1",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3696,7 +4262,8 @@
     "year_to": 2026,
     "size": "R1",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3706,7 +4273,8 @@
     "year_to": 2026,
     "size": "R1",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3716,7 +4284,8 @@
     "year_to": 2019,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3726,7 +4295,8 @@
     "year_to": 2019,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3736,7 +4306,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3746,7 +4317,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3756,7 +4328,8 @@
     "year_to": 2020,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3766,7 +4339,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3776,7 +4350,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3786,7 +4361,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3796,7 +4372,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3806,7 +4383,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3816,7 +4394,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3826,7 +4405,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3836,7 +4416,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3846,7 +4427,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3856,7 +4438,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3866,7 +4449,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3876,7 +4460,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3886,7 +4471,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3896,7 +4482,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3906,7 +4493,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3916,7 +4504,8 @@
     "year_to": 2023,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3926,7 +4515,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3936,7 +4526,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3946,7 +4537,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3956,7 +4548,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3966,7 +4559,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3976,7 +4570,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3986,7 +4581,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -3996,7 +4592,8 @@
     "year_to": 2021,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4006,7 +4603,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4016,7 +4614,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4026,7 +4625,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4036,7 +4636,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4046,7 +4647,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4056,7 +4658,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4066,7 +4669,8 @@
     "year_to": 2024,
     "size": "M(17.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4076,7 +4680,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4086,7 +4691,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4096,7 +4702,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4106,7 +4713,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4116,7 +4724,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4126,7 +4735,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4136,7 +4746,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4145,7 +4756,8 @@
     "year_to": 2026,
     "size": "24\"",
     "frame_material": "Alloy",
-    "wheel_size": "Kids"
+    "wheel_size": "Kids",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4155,7 +4767,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4165,7 +4778,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4175,7 +4789,8 @@
     "year_to": 2022,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4185,7 +4800,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4195,7 +4811,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4205,7 +4822,8 @@
     "year_to": 2026,
     "size": "M(17.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4215,7 +4833,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4225,7 +4844,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4235,7 +4855,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4245,7 +4866,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4255,7 +4877,19 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Farley",
+    "sub_model": "7",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -4265,7 +4899,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4275,7 +4910,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4285,7 +4921,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4295,7 +4932,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4305,7 +4943,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4315,7 +4954,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4325,7 +4965,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4335,7 +4976,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4345,7 +4987,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4355,7 +4998,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4365,7 +5009,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4375,7 +5020,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4385,7 +5031,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4395,7 +5042,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4405,7 +5053,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4415,7 +5064,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4425,7 +5075,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4435,7 +5086,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4445,7 +5097,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4455,7 +5108,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4465,7 +5119,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4475,7 +5130,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4485,7 +5141,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4495,7 +5152,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4505,7 +5163,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4515,7 +5174,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4525,7 +5185,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4535,7 +5196,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4545,7 +5207,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4555,7 +5218,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4565,7 +5229,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4575,7 +5240,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4585,7 +5251,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4595,7 +5262,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4605,7 +5273,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4615,7 +5284,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4625,7 +5295,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4635,7 +5306,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4645,7 +5317,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4655,7 +5328,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4665,7 +5339,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4675,7 +5350,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4685,7 +5361,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4695,7 +5372,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4705,7 +5383,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4715,7 +5394,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4725,7 +5405,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4735,7 +5416,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4745,7 +5427,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4755,7 +5438,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4765,7 +5449,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4775,7 +5460,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4785,7 +5471,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4795,7 +5482,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4805,7 +5493,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4815,7 +5504,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4825,7 +5515,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4835,7 +5526,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4845,7 +5537,8 @@
     "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4855,7 +5548,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4865,7 +5559,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4875,7 +5570,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4885,7 +5581,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4895,7 +5592,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4905,7 +5603,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4915,7 +5614,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4925,7 +5625,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4935,7 +5636,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4945,7 +5647,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4955,7 +5658,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4965,7 +5669,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4975,7 +5680,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4985,7 +5691,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -4995,7 +5702,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5005,7 +5713,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5015,7 +5724,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5025,7 +5735,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5035,7 +5746,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5045,7 +5757,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5055,7 +5768,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5065,7 +5779,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5075,7 +5790,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5085,7 +5801,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5095,7 +5812,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5105,7 +5823,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5115,7 +5834,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5125,7 +5845,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5135,7 +5856,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5145,7 +5867,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5155,7 +5878,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5165,7 +5889,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5175,7 +5900,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5185,7 +5911,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5195,7 +5922,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5205,7 +5933,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5215,7 +5944,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5225,7 +5955,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5235,7 +5966,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5245,7 +5977,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5255,7 +5988,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5265,7 +5999,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5275,7 +6010,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5285,7 +6021,8 @@
     "year_to": 2022,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5295,7 +6032,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5305,7 +6043,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5315,7 +6054,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5325,7 +6065,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5335,7 +6076,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5345,7 +6087,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5355,7 +6098,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5365,7 +6109,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5375,7 +6120,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5385,7 +6131,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5395,7 +6142,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5405,7 +6153,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5415,7 +6164,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5425,7 +6175,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5435,7 +6186,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5445,7 +6197,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5455,7 +6208,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5465,7 +6219,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5475,7 +6230,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5485,7 +6241,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5495,7 +6252,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5505,7 +6263,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5515,7 +6274,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5525,7 +6285,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5535,7 +6296,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5545,7 +6307,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5555,7 +6318,40 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Service",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -5565,7 +6361,8 @@
     "year_to": 2018,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5575,7 +6372,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5585,7 +6383,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5595,7 +6394,8 @@
     "year_to": 2026,
     "size": "R2",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5605,7 +6405,8 @@
     "year_to": 2026,
     "size": "R2",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5615,7 +6416,8 @@
     "year_to": 2026,
     "size": "R2",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5625,7 +6427,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5635,7 +6438,8 @@
     "year_to": 2019,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5645,7 +6449,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5655,7 +6460,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5665,7 +6471,8 @@
     "year_to": 2020,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5675,7 +6482,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5685,7 +6493,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5695,7 +6504,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5705,7 +6515,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5715,7 +6526,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5725,7 +6537,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5735,7 +6548,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5745,7 +6559,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5755,7 +6570,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5765,7 +6581,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5775,7 +6592,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5785,7 +6603,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5795,7 +6614,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5805,7 +6625,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5815,7 +6636,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5825,7 +6647,8 @@
     "year_to": 2023,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5835,7 +6658,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5845,7 +6669,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5855,7 +6680,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5865,7 +6691,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5875,7 +6702,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5885,7 +6713,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5895,7 +6724,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "26"
+    "wheel_size": "26",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5905,7 +6735,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5915,7 +6746,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5925,7 +6757,8 @@
     "year_to": 2021,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5935,7 +6768,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5945,7 +6779,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5955,7 +6790,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5965,7 +6801,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5975,7 +6812,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5985,7 +6823,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -5995,7 +6834,8 @@
     "year_to": 2024,
     "size": "L(19.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6005,7 +6845,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6015,7 +6856,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6025,7 +6867,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6035,7 +6878,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6045,7 +6889,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6055,7 +6900,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6065,7 +6911,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6075,7 +6922,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6085,7 +6933,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6095,7 +6944,8 @@
     "year_to": 2022,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6105,7 +6955,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6115,7 +6966,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6125,7 +6977,8 @@
     "year_to": 2026,
     "size": "L(19.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6135,7 +6988,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6145,7 +6999,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6155,7 +7010,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6165,7 +7021,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6175,7 +7032,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6185,7 +7043,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6195,7 +7054,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6205,7 +7065,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6215,7 +7076,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6225,7 +7087,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6235,7 +7098,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6245,7 +7109,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6255,7 +7120,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6265,7 +7131,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6275,7 +7142,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6285,7 +7153,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6295,7 +7164,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6305,7 +7175,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6315,7 +7186,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6325,7 +7197,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6335,7 +7208,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6345,7 +7219,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6355,7 +7230,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6365,7 +7241,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6375,7 +7252,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6385,7 +7263,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6395,7 +7274,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6405,7 +7285,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6415,7 +7296,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6425,7 +7307,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6435,7 +7318,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6445,7 +7329,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6455,7 +7340,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6465,7 +7351,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6475,7 +7362,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6485,7 +7373,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6495,7 +7384,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6505,7 +7395,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6515,7 +7406,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6525,7 +7417,8 @@
     "year_to": 2021,
     "size": "XL (21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6535,7 +7428,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6545,7 +7439,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6555,7 +7450,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6565,7 +7461,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6575,7 +7472,8 @@
     "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6585,7 +7483,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6595,7 +7494,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6605,7 +7505,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6615,7 +7516,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6625,7 +7527,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6635,7 +7538,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6645,7 +7549,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6655,7 +7560,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6665,7 +7571,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6675,7 +7582,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6685,7 +7593,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6695,7 +7604,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6705,7 +7615,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6715,7 +7626,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6725,7 +7637,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6735,7 +7648,52 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly FS+",
+    "sub_model": "4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly FS+",
+    "sub_model": "6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly FS+",
+    "sub_model": "8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Powerfly FS+",
+    "sub_model": "4 Equipped",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -6745,7 +7703,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6755,7 +7714,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6765,7 +7725,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6775,7 +7736,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6785,7 +7747,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6795,7 +7758,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6805,7 +7769,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6815,7 +7780,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6825,7 +7791,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6835,7 +7802,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6845,7 +7813,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6855,7 +7824,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6865,7 +7835,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6875,7 +7846,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6885,7 +7857,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6895,7 +7868,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6905,7 +7879,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6915,7 +7890,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6925,7 +7901,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6935,7 +7912,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6945,7 +7923,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6955,7 +7934,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6965,7 +7945,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6975,7 +7956,8 @@
     "year_to": 2022,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6985,7 +7967,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -6995,7 +7978,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7005,7 +7989,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7015,7 +8000,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7025,7 +8011,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7035,7 +8022,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7045,7 +8033,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7055,7 +8044,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7065,7 +8055,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7075,7 +8066,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7085,7 +8077,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7095,7 +8088,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7105,7 +8099,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7115,7 +8110,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7125,7 +8121,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7135,7 +8132,8 @@
     "year_to": 2019,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7145,7 +8143,8 @@
     "year_to": 2019,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7155,7 +8154,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7165,7 +8165,8 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7175,7 +8176,41 @@
     "year_to": 2026,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "6",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(21.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(21.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "XL(21.5)",
+    "frame_material": "Alloy",
+    "wheel_size": "27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -7185,7 +8220,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7195,7 +8231,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7205,7 +8242,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7215,7 +8253,18 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Service",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -7225,7 +8274,8 @@
     "year_to": 2018,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7235,7 +8285,8 @@
     "year_to": 2026,
     "size": "R3",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7245,7 +8296,8 @@
     "year_to": 2026,
     "size": "R3",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7255,7 +8307,8 @@
     "year_to": 2026,
     "size": "R3",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7265,7 +8318,8 @@
     "year_to": 2019,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7275,7 +8329,8 @@
     "year_to": 2019,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7285,7 +8340,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7295,7 +8351,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7305,7 +8362,8 @@
     "year_to": 2020,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7315,7 +8373,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7325,7 +8384,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7335,7 +8395,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7345,7 +8406,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7355,7 +8417,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7365,7 +8428,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7375,7 +8439,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7385,7 +8450,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7395,7 +8461,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7405,7 +8472,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7415,7 +8483,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7425,7 +8494,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7435,7 +8505,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7445,7 +8516,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7455,7 +8527,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7465,7 +8538,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7475,7 +8549,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7485,7 +8560,8 @@
     "year_to": 2023,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7495,7 +8571,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7505,7 +8582,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7515,7 +8593,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7525,7 +8604,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7535,7 +8615,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7545,7 +8626,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7555,7 +8637,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7565,7 +8648,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7575,7 +8659,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7585,7 +8670,8 @@
     "year_to": 2021,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7595,7 +8681,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7605,7 +8692,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7615,7 +8703,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7625,7 +8714,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7635,7 +8725,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7645,7 +8736,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7655,7 +8747,8 @@
     "year_to": 2024,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7665,7 +8758,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7675,7 +8769,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7685,7 +8780,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7695,7 +8791,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7705,7 +8802,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7715,7 +8813,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7725,7 +8824,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7735,7 +8835,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7745,7 +8846,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7755,7 +8857,8 @@
     "year_to": 2022,
     "size": "XL(21.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7765,7 +8868,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7775,7 +8879,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7785,7 +8890,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7795,7 +8901,8 @@
     "year_to": 2025,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7805,7 +8912,8 @@
     "year_to": 2025,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7815,7 +8923,8 @@
     "year_to": 2025,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7825,7 +8934,8 @@
     "year_to": 2025,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7835,7 +8945,8 @@
     "year_to": 2025,
     "size": "XXL",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7845,7 +8956,8 @@
     "year_to": 2020,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7855,7 +8967,8 @@
     "year_to": 2020,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7865,7 +8978,8 @@
     "year_to": 2026,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7875,7 +8989,8 @@
     "year_to": 2026,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7885,7 +9000,8 @@
     "year_to": 2026,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7895,7 +9011,8 @@
     "year_to": 2026,
     "size": "XXL(23.0)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7905,7 +9022,8 @@
     "year_to": 2021,
     "size": "XXL(23.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7915,7 +9033,8 @@
     "year_to": 2021,
     "size": "XXL(23.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7925,7 +9044,8 @@
     "year_to": 2021,
     "size": "XXL(23.0)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7935,7 +9055,8 @@
     "year_to": 2023,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7945,7 +9066,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7955,7 +9077,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7965,7 +9088,8 @@
     "year_to": 2022,
     "size": "XXL(23)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7975,7 +9099,8 @@
     "year_to": 2019,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7985,7 +9110,8 @@
     "year_to": 2019,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -7995,7 +9121,8 @@
     "year_to": 2019,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8005,7 +9132,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8015,7 +9143,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8025,7 +9154,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8035,7 +9165,8 @@
     "year_to": 2020,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8045,7 +9176,8 @@
     "year_to": 2020,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8055,7 +9187,8 @@
     "year_to": 2020,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8065,7 +9198,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8075,7 +9209,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8085,7 +9220,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8095,7 +9231,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8105,7 +9242,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8115,7 +9253,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8125,7 +9264,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8135,7 +9275,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8145,7 +9286,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8155,7 +9297,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8165,7 +9308,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8175,7 +9319,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8185,7 +9330,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8195,7 +9341,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8205,7 +9352,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8215,7 +9363,8 @@
     "year_to": 2025,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8225,7 +9374,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8235,7 +9385,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8245,7 +9396,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8255,7 +9407,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8265,7 +9418,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8275,7 +9429,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8285,7 +9440,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8295,7 +9451,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8305,7 +9462,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8315,7 +9473,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8325,7 +9484,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8335,7 +9495,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8345,7 +9506,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8355,7 +9517,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8365,7 +9528,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8375,7 +9539,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8385,7 +9550,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8395,7 +9561,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8405,7 +9572,8 @@
     "year_to": 2019,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8415,7 +9583,8 @@
     "year_to": 2019,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8425,7 +9594,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8435,7 +9605,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8445,7 +9616,8 @@
     "year_to": 2026,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8455,7 +9627,8 @@
     "year_to": 2021,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8465,7 +9638,8 @@
     "year_to": 2021,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8475,7 +9649,8 @@
     "year_to": 2021,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8485,7 +9660,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8495,7 +9671,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8505,7 +9682,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8515,7 +9693,30 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Trek",
@@ -8525,7 +9726,8 @@
     "year_to": 2020,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8535,7 +9737,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8545,7 +9748,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8555,7 +9759,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8565,7 +9770,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8575,7 +9781,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8585,7 +9792,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8595,7 +9803,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8605,7 +9814,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8615,7 +9825,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8625,7 +9836,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8635,7 +9847,8 @@
     "year_to": 2024,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8645,7 +9858,8 @@
     "year_to": 2024,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8655,7 +9869,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8665,7 +9880,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8675,7 +9891,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8685,7 +9902,8 @@
     "year_to": 2023,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8695,7 +9913,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8705,7 +9924,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8715,7 +9935,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8725,7 +9946,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8735,7 +9957,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8745,7 +9968,8 @@
     "year_to": 2021,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8755,7 +9979,8 @@
     "year_to": 2021,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8765,7 +9990,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8775,7 +10001,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8785,7 +10012,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8795,7 +10023,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8805,7 +10034,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8815,7 +10045,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8825,7 +10056,8 @@
     "year_to": 2024,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8835,7 +10067,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8845,7 +10078,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8855,7 +10089,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8865,7 +10100,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8875,7 +10111,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8885,7 +10122,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8895,7 +10133,8 @@
     "year_to": 2026,
     "size": "ML",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8905,7 +10144,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8915,7 +10155,8 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Trek",
@@ -8925,6 +10166,29 @@
     "year_to": 2022,
     "size": "ML(18.5)",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "20",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "20",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "24",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Measured"
   }
 ]

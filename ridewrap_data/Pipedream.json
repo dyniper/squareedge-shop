@@ -7,7 +7,8 @@
     "year_to": 2026,
     "size": "Longish",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -17,7 +18,8 @@
     "year_to": 2026,
     "size": "Longish",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -27,7 +29,8 @@
     "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -36,7 +39,8 @@
     "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -46,7 +50,8 @@
     "year_to": 2026,
     "size": "Long",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -56,7 +61,8 @@
     "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -66,7 +72,8 @@
     "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pipedream",
@@ -75,6 +82,7 @@
     "year_to": 2026,
     "size": "Longer",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

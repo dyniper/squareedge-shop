@@ -6,7 +6,38 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Explorer Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Kings Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "La Sal Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -15,7 +46,29 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "sub_model": "3.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -24,7 +77,38 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wasatch Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wire Peak 2.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -33,7 +117,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -42,7 +127,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Kings Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -51,7 +147,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -60,7 +157,29 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "sub_model": "3.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -69,7 +188,8 @@
     "year_to": 2026,
     "size": "S1",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -78,7 +198,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -87,7 +208,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wasatch Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -96,7 +228,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -105,7 +238,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -114,7 +248,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -123,7 +258,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -132,7 +268,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -141,7 +278,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -150,7 +288,19 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "sub_model": "3.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -159,7 +309,8 @@
     "year_to": 2026,
     "size": "S2",
     "frame_material": "Alloy",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -168,7 +319,38 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Timp Peak",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wasatch Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wire Peak 2.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -177,7 +359,18 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Explorer Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -186,7 +379,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -195,7 +389,49 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Signal Peak",
+    "sub_model": "3.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Superior Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Ari",
@@ -204,7 +440,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Ari",
@@ -213,6 +450,47 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wasatch Peak",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "Wire Peak 2.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "801",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ari",
+    "model": "801",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured"
   }
 ]

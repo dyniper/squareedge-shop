@@ -2,11 +2,22 @@
   {
     "brand": "Stanton",
     "model": "SWITCH9ER FS",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "16.5",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER FS",
     "year_from": 2021,
     "year_to": 2026,
     "size": "16.5",
     "frame_material": "Titanium",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Stanton",
@@ -16,7 +27,8 @@
     "year_to": 2026,
     "size": "16.5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Stanton",
@@ -26,7 +38,8 @@
     "year_to": 2026,
     "size": "16.5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Stanton",
@@ -36,7 +49,28 @@
     "year_to": 2026,
     "size": "18",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER Ti",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "18",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Stanton",
+    "model": "SWITCH9ER FS",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Stanton",
@@ -46,7 +80,8 @@
     "year_to": 2026,
     "size": "18",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Stanton",
@@ -55,6 +90,7 @@
     "year_to": 2024,
     "size": "18",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

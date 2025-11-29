@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "eCult",
+    "model": "Octane 112",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "eCult",
+    "model": "Octane 112",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  }
+]

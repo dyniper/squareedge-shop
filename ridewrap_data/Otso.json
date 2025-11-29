@@ -6,6 +6,51 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Otso",
+    "model": "Fenrir",
+    "sub_model": "Drop Bar",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Otso",
+    "model": "Fenrir",
+    "sub_model": "Flat Bar",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Otso",
+    "model": "Fenrir",
+    "sub_model": "Drop Bar",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Otso",
+    "model": "Fenrir",
+    "sub_model": "Flat Bar",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

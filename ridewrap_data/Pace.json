@@ -1,12 +1,23 @@
 [
   {
     "brand": "Pace",
+    "model": "RC429",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Pace",
     "model": "RC529",
     "year_from": 2021,
     "year_to": 2023,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Pace",
@@ -15,6 +26,57 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC295",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC429",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC295",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC429",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Pace",
+    "model": "RC529",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

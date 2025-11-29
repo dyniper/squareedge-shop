@@ -1,12 +1,43 @@
 [
   {
     "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "C1",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cotic",
+    "model": "RocketMAX",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "C1",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cotic",
     "model": "Solaris",
     "year_from": 2024,
     "year_to": 2024,
     "size": "C1",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "C1",
+    "frame_material": "Steel",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -15,7 +46,18 @@
     "year_to": 2026,
     "size": "C1",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -24,7 +66,8 @@
     "year_to": 2026,
     "size": "C2",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -33,7 +76,18 @@
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "C2",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -42,7 +96,38 @@
     "year_to": 2026,
     "size": "C2",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "C2",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cotic",
+    "model": "SolarisMAX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Solaris",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "C2",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -51,7 +136,18 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "BFe",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "C2",
+    "frame_material": "Steel",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -60,7 +156,8 @@
     "year_to": 2026,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -69,7 +166,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -78,7 +176,8 @@
     "year_to": 2026,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -87,7 +186,8 @@
     "year_to": 2026,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -96,7 +196,8 @@
     "year_to": 2024,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -105,7 +206,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -114,7 +216,8 @@
     "year_to": 2023,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -123,7 +226,8 @@
     "year_to": 2026,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -132,7 +236,8 @@
     "year_to": 2026,
     "size": "C3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -141,7 +246,8 @@
     "year_to": 2020,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -150,7 +256,18 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "SolarisMAX",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -159,7 +276,8 @@
     "year_to": 2026,
     "size": "C4",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -168,7 +286,8 @@
     "year_to": 2024,
     "size": "C4",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -177,7 +296,8 @@
     "year_to": 2026,
     "size": "C4",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -186,7 +306,8 @@
     "year_to": 2026,
     "size": "C4",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -195,7 +316,28 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Cotic",
+    "model": "FlareMAX",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "C4",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -204,7 +346,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -213,7 +356,8 @@
     "year_to": 2026,
     "size": "C5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -222,7 +366,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -231,7 +376,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -240,7 +386,8 @@
     "year_to": 2026,
     "size": "C5",
     "frame_material": "Steel",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -249,7 +396,18 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Cotic",
+    "model": "Jeht",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "C5",
+    "frame_material": "Steel",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Cotic",
@@ -258,7 +416,8 @@
     "year_to": 2026,
     "size": "C5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -267,7 +426,8 @@
     "year_to": 2024,
     "size": "C5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -276,7 +436,8 @@
     "year_to": 2020,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Cotic",
@@ -285,6 +446,7 @@
     "year_to": 2026,
     "size": "C5",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

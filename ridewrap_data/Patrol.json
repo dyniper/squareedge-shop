@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Patrol",
+    "model": "C024",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Patrol",
+    "model": "C020",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Carbon",
+    "wheel_size": "20",
+    "design_status": "Measured"
+  }
+]

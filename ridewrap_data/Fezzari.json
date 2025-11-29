@@ -1,13 +1,46 @@
 [
   {
     "brand": "Fezzari",
+    "model": "Delano Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
     "model": "La Sal Peak",
     "sub_model": "Comp",
     "year_from": 2022,
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -17,7 +50,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -27,7 +61,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -37,7 +72,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -47,7 +83,8 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -57,7 +94,104 @@
     "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Timp Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp Race",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wiki / Abajo/ Cascade",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Comp",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Elite",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wire Peak",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -66,7 +200,30 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Kings Peak",
+    "sub_model": "Elite",
+    "year_from": 2022,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -76,7 +233,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -86,7 +244,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -96,7 +255,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -106,7 +266,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -116,7 +277,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -126,7 +288,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -135,7 +298,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -144,7 +308,41 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp Race",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -153,7 +351,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -163,7 +362,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -173,7 +373,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -183,7 +384,18 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Delano Peak",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -193,7 +405,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -203,7 +416,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -213,7 +427,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -223,7 +438,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -233,7 +449,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -243,7 +460,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -253,7 +471,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -263,7 +482,8 @@
     "year_to": 2021,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -273,7 +493,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -283,7 +504,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -293,7 +515,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -303,7 +526,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -313,7 +537,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -323,7 +548,18 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Nebo Peak",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -332,7 +568,51 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp Race",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wiki / Abajo/ Cascade",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -342,7 +622,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -352,7 +633,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -362,7 +644,8 @@
     "year_to": 2024,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -372,7 +655,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -382,7 +666,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "27+"
+    "wheel_size": "27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -392,7 +677,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -402,7 +688,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -412,7 +699,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -422,7 +710,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -432,7 +721,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -442,7 +732,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -451,7 +742,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -460,7 +752,51 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "MX/29"
+    "wheel_size": "MX/29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Comp Race",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wasatch Peak",
+    "sub_model": "Elite",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fezzari",
+    "model": "Wiki / Abajo/ Cascade",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
   },
   {
     "brand": "Fezzari",
@@ -470,7 +806,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -480,7 +817,8 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Fezzari",
@@ -490,6 +828,7 @@
     "year_to": 2024,
     "size": "XL",
     "frame_material": "Alloy",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   }
 ]

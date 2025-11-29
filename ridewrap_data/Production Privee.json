@@ -2,12 +2,24 @@
   {
     "brand": "Production Privee",
     "model": "Shan",
+    "sub_model": "GT",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Production Privee",
+    "model": "Shan",
     "sub_model": "5",
     "year_from": 2023,
     "year_to": 2026,
     "size": "S",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Production Privee",
@@ -17,7 +29,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Production Privee",
@@ -27,7 +40,18 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Production Privee",
+    "model": "Dirty Bandit",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S/M",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "Production Privee",
@@ -37,7 +61,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Production Privee",
@@ -47,7 +72,29 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Production Privee",
+    "model": "Shan",
+    "sub_model": "GT",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Production Privee",
+    "model": "Dirty Bandit",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L/XL",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
   },
   {
     "brand": "Production Privee",
@@ -57,7 +104,8 @@
     "year_to": 2023,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Production Privee",
@@ -67,7 +115,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Production Privee",
@@ -77,6 +126,7 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

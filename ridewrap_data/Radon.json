@@ -7,7 +7,8 @@
     "year_to": 2024,
     "size": "16",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -17,7 +18,8 @@
     "year_to": 2024,
     "size": "16",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -27,7 +29,96 @@
     "year_to": 2024,
     "size": "16",
     "frame_material": "Carbon",
-    "wheel_size": "27"
+    "wheel_size": "27",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "9.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0 HD",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "8.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "16",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "16",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "16",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "16",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 MS",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "16",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Radon",
@@ -37,7 +128,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -47,7 +139,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -57,7 +150,8 @@
     "year_to": 2024,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -67,7 +161,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -77,7 +172,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -87,7 +183,195 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "9.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "9.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0 HD",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "8.0 625",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "9.0 625",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 625",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 HD Supreme 625",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "9.0 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 HD 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "8.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 MS",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "18",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Radon",
@@ -97,7 +381,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -107,7 +392,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -117,7 +403,8 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -127,7 +414,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -137,7 +425,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -147,7 +436,63 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "9.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Radon",
@@ -157,7 +502,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -167,7 +513,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -177,7 +524,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -187,7 +535,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -197,7 +546,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -207,7 +557,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -217,7 +568,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -227,7 +579,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -237,7 +590,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -247,7 +601,63 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "8.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 MS",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "20",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Radon",
@@ -257,7 +667,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -267,7 +678,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -277,7 +689,96 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "8.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "9.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Deft",
+    "sub_model": "10.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "9.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab",
+    "sub_model": "10.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "9.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Jab MX",
+    "sub_model": "10.0 HD",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
   },
   {
     "brand": "Radon",
@@ -287,7 +788,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -297,7 +799,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -307,7 +810,8 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Radon",
@@ -317,6 +821,128 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "9.0 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Render",
+    "sub_model": "10.0 HD 750",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "8.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "22",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "22",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "22",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "22",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Slide Trail",
+    "sub_model": "10.0 MS",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "22",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "9.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Radon",
+    "model": "Swoop",
+    "sub_model": "10.0 HD",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

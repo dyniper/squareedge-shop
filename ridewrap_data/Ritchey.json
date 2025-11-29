@@ -2,12 +2,35 @@
   {
     "brand": "Ritchey",
     "model": "Ultra",
+    "sub_model": "Base",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ritchey",
+    "model": "Ultra",
+    "sub_model": "Team Edition",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "17",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Ritchey",
+    "model": "Ultra",
     "sub_model": "Team Edition",
     "year_from": 2019,
     "year_to": 2026,
     "size": "20.5",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Ritchey",
@@ -17,6 +40,7 @@
     "year_to": 2026,
     "size": "20.5",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   }
 ]

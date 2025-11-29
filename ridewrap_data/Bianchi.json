@@ -1,12 +1,23 @@
 [
   {
     "brand": "Bianchi",
+    "model": "e-Omnia X",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bianchi",
     "model": "e-Omnia FX",
     "year_from": 2020,
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bianchi",
@@ -16,7 +27,8 @@
     "year_to": 2023,
     "size": "19",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bianchi",
@@ -26,7 +38,8 @@
     "year_to": 2023,
     "size": "19",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bianchi",
@@ -36,6 +49,7 @@
     "year_to": 2023,
     "size": "19",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   }
 ]

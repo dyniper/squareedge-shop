@@ -7,7 +7,8 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bergamont",
@@ -17,7 +18,96 @@
     "year_to": 2023,
     "size": "S",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Contrail SUV",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Contrail SUV",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Revox",
+    "sub_model": "Edition FMN EQ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Trailster",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Trailster",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Revox",
+    "sub_model": "4 EQ",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Revox",
+    "sub_model": "4",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Revox",
+    "sub_model": "Edition FMN EQ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Bergamont",
@@ -27,7 +117,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Bergamont",
@@ -37,6 +128,40 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "E-Revox",
+    "sub_model": "Edition FMN EQ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "Kiez",
+    "sub_model": "Dirt",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Bergamont",
+    "model": "Kiez",
+    "sub_model": "040",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   }
 ]

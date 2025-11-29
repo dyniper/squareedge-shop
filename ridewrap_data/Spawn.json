@@ -7,7 +7,18 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24/26"
+    "wheel_size": "24/26",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Spawn",
+    "model": "Rokkusuta",
+    "year_from": 2017,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Measured"
   },
   {
     "brand": "Spawn",
@@ -16,6 +27,7 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "20"
+    "wheel_size": "20",
+    "design_status": "Designed"
   }
 ]

@@ -4,9 +4,73 @@
     "model": "SST",
     "year_from": 2022,
     "year_to": 2026,
+    "size": "S",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "ReDikyelous",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Short Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel Mullet",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "Donkadonk",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "26/27",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SST",
+    "year_from": 2022,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Reeb",
@@ -16,7 +80,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Reeb",
@@ -26,7 +91,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Reeb",
@@ -36,7 +102,8 @@
     "year_to": 2023,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27/29"
+    "wheel_size": "27/29",
+    "design_status": "Designed"
   },
   {
     "brand": "Reeb",
@@ -45,7 +112,8 @@
     "year_to": 2026,
     "size": "L",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Reeb",
@@ -54,6 +122,50 @@
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel Mullet",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Long Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "SQWEEB",
+    "sub_model": "V4 Short Travel",
+    "year_from": 2022,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Reeb",
+    "model": "Destroyer",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "ONESIZE",
+    "frame_material": "Steel",
+    "wheel_size": "26",
+    "design_status": "Measured"
   }
 ]

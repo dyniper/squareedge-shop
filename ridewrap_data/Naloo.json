@@ -6,6 +6,17 @@
     "year_to": 2026,
     "size": "ONESIZE",
     "frame_material": "Alloy",
-    "wheel_size": "24"
+    "wheel_size": "24",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Naloo",
+    "model": "Mountain Jack",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured"
   }
 ]

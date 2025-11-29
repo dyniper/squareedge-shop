@@ -1,13 +1,44 @@
 [
   {
     "brand": "Esker",
+    "model": "Japhy",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Esker",
+    "model": "Japhy",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Esker",
     "model": "Hayduke",
     "sub_model": "Ti",
     "year_from": 2022,
     "year_to": 2026,
     "size": "S1",
     "frame_material": "Titanium",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Esker",
+    "model": "Smokey",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   },
   {
     "brand": "Esker",
@@ -16,7 +47,8 @@
     "year_to": 2026,
     "size": "S3",
     "frame_material": "Steel",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
   },
   {
     "brand": "Esker",
@@ -26,7 +58,8 @@
     "year_to": 2026,
     "size": "S2",
     "frame_material": "Steel",
-    "wheel_size": "29/27+"
+    "wheel_size": "29/27+",
+    "design_status": "Designed"
   },
   {
     "brand": "Esker",
@@ -35,6 +68,17 @@
     "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Esker",
+    "model": "Japhy",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]

@@ -6,6 +6,38 @@
     "year_to": 2026,
     "size": "M",
     "frame_material": "Titanium",
-    "wheel_size": "29"
+    "wheel_size": "29",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Why Cycles",
+    "model": "El Jefe",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Why Cycles",
+    "model": "El Jefe",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Why Cycles",
+    "model": "Wayward",
+    "sub_model": "V2",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Measured"
   }
 ]
