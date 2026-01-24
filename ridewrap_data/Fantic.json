@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICRAMPAGE202329CM"
   },
   {
     "brand": "Fantic",
@@ -19,7 +20,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICXEF1920222729AM"
   },
   {
     "brand": "Fantic",
@@ -30,7 +32,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICRAMPAGE202329CM"
   },
   {
     "brand": "Fantic",
@@ -41,7 +44,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICRAMPAGE202329CM"
   },
   {
     "brand": "Fantic",
@@ -52,7 +56,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICXEF1920222729AM"
   },
   {
     "brand": "Fantic",
@@ -63,6 +68,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFANTICXEF1920222729AM"
   }
 ]

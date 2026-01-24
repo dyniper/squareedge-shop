@@ -8,7 +8,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAFAT202127AS0"
   },
   {
     "brand": "Giant",
@@ -19,7 +20,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAFAT202127AS0"
   },
   {
     "brand": "Giant",
@@ -30,7 +32,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AS"
   },
   {
     "brand": "Giant",
@@ -41,7 +44,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AS"
   },
   {
     "brand": "Giant",
@@ -52,7 +56,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AS"
   },
   {
     "brand": "Giant",
@@ -63,7 +68,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AS"
   },
   {
     "brand": "Giant",
@@ -73,7 +79,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAGLO201827AS0"
   },
   {
     "brand": "Giant",
@@ -83,7 +90,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAGLO201827CS0"
   },
   {
     "brand": "Giant",
@@ -93,7 +101,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827AS0"
   },
   {
     "brand": "Giant",
@@ -103,7 +112,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTREIGN202029AS"
   },
   {
     "brand": "Giant",
@@ -114,7 +124,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AS0"
   },
   {
     "brand": "Giant",
@@ -125,7 +136,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AS0"
   },
   {
     "brand": "Giant",
@@ -136,7 +148,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AS"
   },
   {
     "brand": "Giant",
@@ -147,7 +160,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AS"
   },
   {
     "brand": "Giant",
@@ -158,7 +172,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AS"
   },
   {
     "brand": "Giant",
@@ -169,7 +184,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AS"
   },
   {
     "brand": "Giant",
@@ -179,7 +195,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED201827CS"
   },
   {
     "brand": "Giant",
@@ -190,7 +207,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED2023MX29CS"
   },
   {
     "brand": "Giant",
@@ -201,7 +219,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED2023MX29CS"
   },
   {
     "brand": "Giant",
@@ -212,7 +231,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED2023MX29CS"
   },
   {
     "brand": "Giant",
@@ -223,7 +243,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED2023MX29CS"
   },
   {
     "brand": "Giant",
@@ -234,7 +255,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCED2023MX29CS"
   },
   {
     "brand": "Giant",
@@ -244,7 +266,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029CS0"
   },
   {
     "brand": "Giant",
@@ -254,7 +277,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129CS0"
   },
   {
     "brand": "Giant",
@@ -265,7 +289,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AS"
   },
   {
     "brand": "Giant",
@@ -276,7 +301,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AS"
   },
   {
     "brand": "Giant",
@@ -287,7 +313,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AS"
   },
   {
     "brand": "Giant",
@@ -298,7 +325,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AS"
   },
   {
     "brand": "Giant",
@@ -309,7 +337,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AS"
   },
   {
     "brand": "Giant",
@@ -320,7 +349,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AS"
   },
   {
     "brand": "Giant",
@@ -331,7 +361,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AS"
   },
   {
     "brand": "Giant",
@@ -342,7 +373,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AS"
   },
   {
     "brand": "Giant",
@@ -353,7 +385,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AS"
   },
   {
     "brand": "Giant",
@@ -364,7 +397,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AS"
   },
   {
     "brand": "Giant",
@@ -375,7 +409,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AS"
   },
   {
     "brand": "Giant",
@@ -386,7 +421,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AS"
   },
   {
     "brand": "Giant",
@@ -397,7 +433,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AS"
   },
   {
     "brand": "Giant",
@@ -408,7 +445,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AS"
   },
   {
     "brand": "Giant",
@@ -419,7 +457,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AS"
   },
   {
     "brand": "Giant",
@@ -430,7 +469,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AS"
   },
   {
     "brand": "Giant",
@@ -441,7 +481,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AS"
   },
   {
     "brand": "Giant",
@@ -452,7 +493,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -463,7 +505,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -474,7 +517,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -485,7 +529,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -496,7 +541,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -507,7 +553,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -518,7 +565,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AS"
   },
   {
     "brand": "Giant",
@@ -529,7 +577,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -540,7 +589,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -551,7 +601,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -562,7 +613,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -573,7 +625,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -584,7 +637,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AS"
   },
   {
     "brand": "Giant",
@@ -595,7 +649,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AS"
   },
   {
     "brand": "Giant",
@@ -606,7 +661,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AS"
   },
   {
     "brand": "Giant",
@@ -617,7 +673,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AS"
   },
   {
     "brand": "Giant",
@@ -628,7 +685,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AS"
   },
   {
     "brand": "Giant",
@@ -639,7 +697,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AS"
   },
   {
     "brand": "Giant",
@@ -650,7 +709,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AS"
   },
   {
     "brand": "Giant",
@@ -661,7 +721,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AS"
   },
   {
     "brand": "Giant",
@@ -672,7 +733,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AS"
   },
   {
     "brand": "Giant",
@@ -683,7 +745,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AS"
   },
   {
     "brand": "Giant",
@@ -694,7 +757,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AS0"
   },
   {
     "brand": "Giant",
@@ -705,7 +769,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AS0"
   },
   {
     "brand": "Giant",
@@ -716,7 +781,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AS0"
   },
   {
     "brand": "Giant",
@@ -727,7 +793,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AS"
   },
   {
     "brand": "Giant",
@@ -738,7 +805,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AS"
   },
   {
     "brand": "Giant",
@@ -749,7 +817,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AS"
   },
   {
     "brand": "Giant",
@@ -760,7 +829,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AS"
   },
   {
     "brand": "Giant",
@@ -771,7 +841,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AS"
   },
   {
     "brand": "Giant",
@@ -782,7 +853,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AS"
   },
   {
     "brand": "Giant",
@@ -792,7 +864,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827CS0"
   },
   {
     "brand": "Giant",
@@ -803,7 +876,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -814,7 +888,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -825,7 +900,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -836,7 +912,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AS0"
   },
   {
     "brand": "Giant",
@@ -847,7 +924,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AS0"
   },
   {
     "brand": "Giant",
@@ -858,7 +936,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AS0"
   },
   {
     "brand": "Giant",
@@ -869,7 +948,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AS"
   },
   {
     "brand": "Giant",
@@ -880,7 +960,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AS"
   },
   {
     "brand": "Giant",
@@ -891,7 +972,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AS"
   },
   {
     "brand": "Giant",
@@ -902,7 +984,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AS"
   },
   {
     "brand": "Giant",
@@ -913,7 +996,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AS"
   },
   {
     "brand": "Giant",
@@ -924,7 +1008,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE20232729CS"
   },
   {
     "brand": "Giant",
@@ -935,7 +1020,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE20232729CS"
   },
   {
     "brand": "Giant",
@@ -946,7 +1032,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE20232729CS"
   },
   {
     "brand": "Giant",
@@ -957,7 +1044,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE20232729CS"
   },
   {
     "brand": "Giant",
@@ -967,7 +1055,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129CS0"
   },
   {
     "brand": "Giant",
@@ -978,7 +1067,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -989,7 +1079,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -1000,7 +1091,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -1011,7 +1103,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CS"
   },
   {
     "brand": "Giant",
@@ -1022,7 +1115,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXEPLUS202229AS"
   },
   {
     "brand": "Giant",
@@ -1033,7 +1127,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXEPLUS202229AS"
   },
   {
     "brand": "Giant",
@@ -1044,7 +1139,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXEPLUS202229AS"
   },
   {
     "brand": "Giant",
@@ -1054,7 +1150,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXEPRO202129AS"
   },
   {
     "brand": "Giant",
@@ -1065,7 +1162,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CS"
   },
   {
     "brand": "Giant",
@@ -1076,7 +1174,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CS"
   },
   {
     "brand": "Giant",
@@ -1087,7 +1186,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CS"
   },
   {
     "brand": "Giant",
@@ -1098,7 +1198,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CS"
   },
   {
     "brand": "Giant",
@@ -1109,7 +1210,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CS"
   },
   {
     "brand": "Giant",
@@ -1119,7 +1221,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEM201829AM"
   },
   {
     "brand": "Giant",
@@ -1130,7 +1233,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1141,7 +1245,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1152,7 +1257,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1163,7 +1269,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1174,7 +1281,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1185,7 +1293,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1196,7 +1305,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1207,7 +1317,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1218,7 +1329,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -1229,7 +1341,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1240,7 +1353,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1251,7 +1365,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1262,7 +1377,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1273,7 +1389,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1284,7 +1401,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1295,7 +1413,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202127AM"
   },
   {
     "brand": "Giant",
@@ -1306,7 +1425,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202127AM"
   },
   {
     "brand": "Giant",
@@ -1317,7 +1437,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AM"
   },
   {
     "brand": "Giant",
@@ -1328,7 +1449,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AM"
   },
   {
     "brand": "Giant",
@@ -1339,7 +1461,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOME202129AM"
   },
   {
     "brand": "Giant",
@@ -1350,7 +1473,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOME202129AM"
   },
   {
     "brand": "Giant",
@@ -1361,7 +1485,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOME202129AM"
   },
   {
     "brand": "Giant",
@@ -1372,7 +1497,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AM"
   },
   {
     "brand": "Giant",
@@ -1383,7 +1509,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AM"
   },
   {
     "brand": "Giant",
@@ -1393,7 +1520,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTGLORY201827AM"
   },
   {
     "brand": "Giant",
@@ -1403,7 +1531,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAGLO201827CM0"
   },
   {
     "brand": "Giant",
@@ -1413,7 +1542,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827AM0"
   },
   {
     "brand": "Giant",
@@ -1423,7 +1553,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029AM0"
   },
   {
     "brand": "Giant",
@@ -1434,7 +1565,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AM0"
   },
   {
     "brand": "Giant",
@@ -1445,7 +1577,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AM0"
   },
   {
     "brand": "Giant",
@@ -1456,7 +1589,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AM"
   },
   {
     "brand": "Giant",
@@ -1467,7 +1601,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AM"
   },
   {
     "brand": "Giant",
@@ -1478,7 +1613,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AM"
   },
   {
     "brand": "Giant",
@@ -1489,7 +1625,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AM"
   },
   {
     "brand": "Giant",
@@ -1499,7 +1636,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827CM0"
   },
   {
     "brand": "Giant",
@@ -1510,7 +1648,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CM"
   },
   {
     "brand": "Giant",
@@ -1521,7 +1660,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CM"
   },
   {
     "brand": "Giant",
@@ -1532,7 +1672,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CM"
   },
   {
     "brand": "Giant",
@@ -1543,7 +1684,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CM"
   },
   {
     "brand": "Giant",
@@ -1554,7 +1696,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CM"
   },
   {
     "brand": "Giant",
@@ -1564,7 +1707,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029CM0"
   },
   {
     "brand": "Giant",
@@ -1574,7 +1718,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129CM0"
   },
   {
     "brand": "Giant",
@@ -1585,7 +1730,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AM"
   },
   {
     "brand": "Giant",
@@ -1596,7 +1742,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AM"
   },
   {
     "brand": "Giant",
@@ -1607,7 +1754,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AM"
   },
   {
     "brand": "Giant",
@@ -1618,7 +1766,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AM"
   },
   {
     "brand": "Giant",
@@ -1629,7 +1778,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AM"
   },
   {
     "brand": "Giant",
@@ -1639,7 +1789,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202027AM0"
   },
   {
     "brand": "Giant",
@@ -1650,7 +1801,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AM"
   },
   {
     "brand": "Giant",
@@ -1661,7 +1813,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AM"
   },
   {
     "brand": "Giant",
@@ -1672,7 +1825,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AM"
   },
   {
     "brand": "Giant",
@@ -1682,7 +1836,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE202429AM"
   },
   {
     "brand": "Giant",
@@ -1693,7 +1848,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1704,7 +1860,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1715,7 +1872,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1726,7 +1884,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1737,7 +1896,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1748,7 +1908,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AM"
   },
   {
     "brand": "Giant",
@@ -1759,7 +1920,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1770,7 +1932,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1781,7 +1944,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1792,7 +1956,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1803,7 +1968,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1814,7 +1980,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1825,7 +1992,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AM"
   },
   {
     "brand": "Giant",
@@ -1835,7 +2003,8 @@
     "size": "Regular",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTP202126AREGULAR"
   },
   {
     "brand": "Giant",
@@ -1846,7 +2015,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1857,7 +2027,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1868,7 +2039,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1879,7 +2051,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1890,7 +2063,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1901,7 +2075,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AM"
   },
   {
     "brand": "Giant",
@@ -1912,7 +2087,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AM"
   },
   {
     "brand": "Giant",
@@ -1923,7 +2099,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AM"
   },
   {
     "brand": "Giant",
@@ -1934,7 +2111,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AM"
   },
   {
     "brand": "Giant",
@@ -1945,7 +2123,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AM"
   },
   {
     "brand": "Giant",
@@ -1956,7 +2135,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AM"
   },
   {
     "brand": "Giant",
@@ -1967,7 +2147,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AM"
   },
   {
     "brand": "Giant",
@@ -1978,7 +2159,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AM"
   },
   {
     "brand": "Giant",
@@ -1989,7 +2171,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AM"
   },
   {
     "brand": "Giant",
@@ -2000,7 +2183,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AM"
   },
   {
     "brand": "Giant",
@@ -2010,7 +2194,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202629AM"
   },
   {
     "brand": "Giant",
@@ -2021,7 +2206,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AM0"
   },
   {
     "brand": "Giant",
@@ -2032,7 +2218,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AM0"
   },
   {
     "brand": "Giant",
@@ -2043,7 +2230,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AM0"
   },
   {
     "brand": "Giant",
@@ -2054,7 +2242,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AM"
   },
   {
     "brand": "Giant",
@@ -2065,7 +2254,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AM"
   },
   {
     "brand": "Giant",
@@ -2076,7 +2266,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AM"
   },
   {
     "brand": "Giant",
@@ -2087,7 +2278,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE201929AM"
   },
   {
     "brand": "Giant",
@@ -2098,7 +2290,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AM"
   },
   {
     "brand": "Giant",
@@ -2109,7 +2302,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AM"
   },
   {
     "brand": "Giant",
@@ -2119,7 +2313,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827CM0"
   },
   {
     "brand": "Giant",
@@ -2129,7 +2324,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201929CM0"
   },
   {
     "brand": "Giant",
@@ -2140,7 +2336,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CM"
   },
   {
     "brand": "Giant",
@@ -2151,7 +2348,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CM"
   },
   {
     "brand": "Giant",
@@ -2162,7 +2360,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CM"
   },
   {
     "brand": "Giant",
@@ -2173,7 +2372,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2184,7 +2384,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2195,7 +2396,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2206,7 +2408,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AM0"
   },
   {
     "brand": "Giant",
@@ -2217,7 +2420,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AM0"
   },
   {
     "brand": "Giant",
@@ -2228,7 +2432,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AM0"
   },
   {
     "brand": "Giant",
@@ -2239,7 +2444,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AM"
   },
   {
     "brand": "Giant",
@@ -2250,7 +2456,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AM"
   },
   {
     "brand": "Giant",
@@ -2261,7 +2468,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AM"
   },
   {
     "brand": "Giant",
@@ -2272,7 +2480,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AM"
   },
   {
     "brand": "Giant",
@@ -2283,7 +2492,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AM"
   },
   {
     "brand": "Giant",
@@ -2294,7 +2504,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCED202429CM"
   },
   {
     "brand": "Giant",
@@ -2305,7 +2516,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCED202429CM"
   },
   {
     "brand": "Giant",
@@ -2316,7 +2528,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCED202429CM"
   },
   {
     "brand": "Giant",
@@ -2327,7 +2540,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCED202429CM"
   },
   {
     "brand": "Giant",
@@ -2338,7 +2552,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCED202429CM"
   },
   {
     "brand": "Giant",
@@ -2349,7 +2564,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CM"
   },
   {
     "brand": "Giant",
@@ -2360,7 +2576,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CM"
   },
   {
     "brand": "Giant",
@@ -2371,7 +2588,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CM"
   },
   {
     "brand": "Giant",
@@ -2382,7 +2600,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CM"
   },
   {
     "brand": "Giant",
@@ -2393,7 +2612,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CM"
   },
   {
     "brand": "Giant",
@@ -2404,7 +2624,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CM"
   },
   {
     "brand": "Giant",
@@ -2415,7 +2636,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CM"
   },
   {
     "brand": "Giant",
@@ -2426,7 +2648,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CM"
   },
   {
     "brand": "Giant",
@@ -2436,7 +2659,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129CM0"
   },
   {
     "brand": "Giant",
@@ -2447,7 +2671,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2458,7 +2683,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2469,7 +2695,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2480,7 +2707,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CM"
   },
   {
     "brand": "Giant",
@@ -2490,7 +2718,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDSX20242729CM"
   },
   {
     "brand": "Giant",
@@ -2501,7 +2730,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AM"
   },
   {
     "brand": "Giant",
@@ -2512,7 +2742,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AM"
   },
   {
     "brand": "Giant",
@@ -2523,7 +2754,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AM"
   },
   {
     "brand": "Giant",
@@ -2533,7 +2765,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AM0"
   },
   {
     "brand": "Giant",
@@ -2543,7 +2776,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXSX20242729AM"
   },
   {
     "brand": "Giant",
@@ -2554,7 +2788,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CM"
   },
   {
     "brand": "Giant",
@@ -2565,7 +2800,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CM"
   },
   {
     "brand": "Giant",
@@ -2576,7 +2812,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CM"
   },
   {
     "brand": "Giant",
@@ -2587,7 +2824,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CM"
   },
   {
     "brand": "Giant",
@@ -2598,7 +2836,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CM"
   },
   {
     "brand": "Giant",
@@ -2609,7 +2848,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCSLR202129AM"
   },
   {
     "brand": "Giant",
@@ -2620,7 +2860,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCSLR202129AM"
   },
   {
     "brand": "Giant",
@@ -2631,7 +2872,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTYUKON201927AM"
   },
   {
     "brand": "Giant",
@@ -2642,7 +2884,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTYUKON201927AM"
   },
   {
     "brand": "Giant",
@@ -2653,7 +2896,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2664,7 +2908,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2675,7 +2920,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2686,7 +2932,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2697,7 +2944,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2708,7 +2956,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2719,7 +2968,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2730,7 +2980,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2741,7 +2992,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -2752,7 +3004,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO201829CL"
   },
   {
     "brand": "Giant",
@@ -2763,7 +3016,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO201829CL"
   },
   {
     "brand": "Giant",
@@ -2774,7 +3028,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO201829CL"
   },
   {
     "brand": "Giant",
@@ -2785,7 +3040,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO201829CL"
   },
   {
     "brand": "Giant",
@@ -2796,7 +3052,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO201829CL"
   },
   {
     "brand": "Giant",
@@ -2807,7 +3064,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2818,7 +3076,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2829,7 +3088,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2840,7 +3100,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2851,7 +3112,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2862,7 +3124,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -2873,7 +3136,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOM202127AL"
   },
   {
     "brand": "Giant",
@@ -2884,7 +3148,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOM202127AL"
   },
   {
     "brand": "Giant",
@@ -2895,7 +3160,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AL"
   },
   {
     "brand": "Giant",
@@ -2906,7 +3172,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AL"
   },
   {
     "brand": "Giant",
@@ -2917,7 +3184,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOME202129AL"
   },
   {
     "brand": "Giant",
@@ -2928,7 +3196,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOME202129AL"
   },
   {
     "brand": "Giant",
@@ -2939,7 +3208,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOME202129AL"
   },
   {
     "brand": "Giant",
@@ -2950,7 +3220,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIAFAT202027AL0"
   },
   {
     "brand": "Giant",
@@ -2961,7 +3232,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIAFAT202027AL0"
   },
   {
     "brand": "Giant",
@@ -2971,7 +3243,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAGLO201827AL0"
   },
   {
     "brand": "Giant",
@@ -2981,7 +3254,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAGLO201827CL0"
   },
   {
     "brand": "Giant",
@@ -2991,7 +3265,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827AL0"
   },
   {
     "brand": "Giant",
@@ -3001,7 +3276,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029AL0"
   },
   {
     "brand": "Giant",
@@ -3012,7 +3288,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AL0"
   },
   {
     "brand": "Giant",
@@ -3023,7 +3300,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AL0"
   },
   {
     "brand": "Giant",
@@ -3034,7 +3312,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AL"
   },
   {
     "brand": "Giant",
@@ -3045,7 +3324,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AL"
   },
   {
     "brand": "Giant",
@@ -3056,7 +3336,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AL"
   },
   {
     "brand": "Giant",
@@ -3067,7 +3348,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN20232729AL"
   },
   {
     "brand": "Giant",
@@ -3077,7 +3359,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827CL0"
   },
   {
     "brand": "Giant",
@@ -3088,7 +3371,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CL"
   },
   {
     "brand": "Giant",
@@ -3099,7 +3383,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CL"
   },
   {
     "brand": "Giant",
@@ -3110,7 +3395,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CL"
   },
   {
     "brand": "Giant",
@@ -3121,7 +3407,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CL"
   },
   {
     "brand": "Giant",
@@ -3132,7 +3419,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNADVANCEDPRO20232729CL"
   },
   {
     "brand": "Giant",
@@ -3142,7 +3430,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029CL0"
   },
   {
     "brand": "Giant",
@@ -3152,7 +3441,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129CL0"
   },
   {
     "brand": "Giant",
@@ -3163,7 +3453,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AL"
   },
   {
     "brand": "Giant",
@@ -3174,7 +3465,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AL"
   },
   {
     "brand": "Giant",
@@ -3185,7 +3477,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AL"
   },
   {
     "brand": "Giant",
@@ -3196,7 +3489,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AL"
   },
   {
     "brand": "Giant",
@@ -3207,7 +3501,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AL"
   },
   {
     "brand": "Giant",
@@ -3217,7 +3512,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202027AL0"
   },
   {
     "brand": "Giant",
@@ -3228,7 +3524,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AL"
   },
   {
     "brand": "Giant",
@@ -3239,7 +3536,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AL"
   },
   {
     "brand": "Giant",
@@ -3250,7 +3548,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE201927AL"
   },
   {
     "brand": "Giant",
@@ -3261,7 +3560,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AL"
   },
   {
     "brand": "Giant",
@@ -3272,7 +3572,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AL"
   },
   {
     "brand": "Giant",
@@ -3283,7 +3584,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCE202029AL"
   },
   {
     "brand": "Giant",
@@ -3293,7 +3595,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE202429AL"
   },
   {
     "brand": "Giant",
@@ -3304,7 +3607,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE201927AL"
   },
   {
     "brand": "Giant",
@@ -3315,7 +3619,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE201927AL"
   },
   {
     "brand": "Giant",
@@ -3326,7 +3631,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3337,7 +3643,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3348,7 +3655,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3359,7 +3667,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3370,7 +3679,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3381,7 +3691,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202029AL"
   },
   {
     "brand": "Giant",
@@ -3392,7 +3703,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3403,7 +3715,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3414,7 +3727,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3425,7 +3739,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3436,7 +3751,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3447,7 +3763,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3458,7 +3775,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AL"
   },
   {
     "brand": "Giant",
@@ -3468,7 +3786,8 @@
     "size": "Large",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTP202126AL"
   },
   {
     "brand": "Giant",
@@ -3479,7 +3798,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3490,7 +3810,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3501,7 +3822,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3512,7 +3834,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3523,7 +3846,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3534,7 +3858,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALON202129AL"
   },
   {
     "brand": "Giant",
@@ -3545,7 +3870,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AL"
   },
   {
     "brand": "Giant",
@@ -3556,7 +3882,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AL"
   },
   {
     "brand": "Giant",
@@ -3567,7 +3894,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AL"
   },
   {
     "brand": "Giant",
@@ -3578,7 +3906,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AL"
   },
   {
     "brand": "Giant",
@@ -3589,7 +3918,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202629AL"
   },
   {
     "brand": "Giant",
@@ -3600,7 +3930,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AL"
   },
   {
     "brand": "Giant",
@@ -3611,7 +3942,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AL"
   },
   {
     "brand": "Giant",
@@ -3622,7 +3954,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AL"
   },
   {
     "brand": "Giant",
@@ -3633,7 +3966,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTALONE202129AL"
   },
   {
     "brand": "Giant",
@@ -3643,7 +3977,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202629AL"
   },
   {
     "brand": "Giant",
@@ -3654,7 +3989,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AL0"
   },
   {
     "brand": "Giant",
@@ -3665,7 +4001,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AL0"
   },
   {
     "brand": "Giant",
@@ -3676,7 +4013,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827AL0"
   },
   {
     "brand": "Giant",
@@ -3687,7 +4025,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AL"
   },
   {
     "brand": "Giant",
@@ -3698,7 +4037,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AL"
   },
   {
     "brand": "Giant",
@@ -3708,7 +4048,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201827CL0"
   },
   {
     "brand": "Giant",
@@ -3718,7 +4059,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201929CL0"
   },
   {
     "brand": "Giant",
@@ -3729,7 +4071,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CL"
   },
   {
     "brand": "Giant",
@@ -3740,7 +4083,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CL"
   },
   {
     "brand": "Giant",
@@ -3751,7 +4095,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CL"
   },
   {
     "brand": "Giant",
@@ -3762,7 +4107,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -3773,7 +4119,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -3784,7 +4131,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -3795,7 +4143,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AL0"
   },
   {
     "brand": "Giant",
@@ -3806,7 +4155,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AL0"
   },
   {
     "brand": "Giant",
@@ -3817,7 +4167,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AL0"
   },
   {
     "brand": "Giant",
@@ -3828,7 +4179,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AL"
   },
   {
     "brand": "Giant",
@@ -3839,7 +4191,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AL"
   },
   {
     "brand": "Giant",
@@ -3850,7 +4203,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEX202227AL"
   },
   {
     "brand": "Giant",
@@ -3861,7 +4215,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AL"
   },
   {
     "brand": "Giant",
@@ -3872,7 +4227,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202429AL"
   },
   {
     "brand": "Giant",
@@ -3883,7 +4239,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CL"
   },
   {
     "brand": "Giant",
@@ -3894,7 +4251,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CL"
   },
   {
     "brand": "Giant",
@@ -3905,7 +4263,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CL"
   },
   {
     "brand": "Giant",
@@ -3916,7 +4275,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CL"
   },
   {
     "brand": "Giant",
@@ -3927,7 +4287,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CL"
   },
   {
     "brand": "Giant",
@@ -3938,7 +4299,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CL"
   },
   {
     "brand": "Giant",
@@ -3949,7 +4311,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CL"
   },
   {
     "brand": "Giant",
@@ -3960,7 +4323,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CL"
   },
   {
     "brand": "Giant",
@@ -3970,7 +4334,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129CL0"
   },
   {
     "brand": "Giant",
@@ -3981,7 +4346,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -3992,7 +4358,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -4003,7 +4370,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -4014,7 +4382,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CL"
   },
   {
     "brand": "Giant",
@@ -4025,7 +4394,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AL"
   },
   {
     "brand": "Giant",
@@ -4036,7 +4406,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AL"
   },
   {
     "brand": "Giant",
@@ -4047,7 +4418,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AL"
   },
   {
     "brand": "Giant",
@@ -4057,7 +4429,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AL0"
   },
   {
     "brand": "Giant",
@@ -4068,7 +4441,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CL"
   },
   {
     "brand": "Giant",
@@ -4079,7 +4453,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CL"
   },
   {
     "brand": "Giant",
@@ -4090,7 +4465,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CL"
   },
   {
     "brand": "Giant",
@@ -4101,7 +4477,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CL"
   },
   {
     "brand": "Giant",
@@ -4112,7 +4489,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCADVANCED202029CL"
   },
   {
     "brand": "Giant",
@@ -4123,7 +4501,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCSLR202129AL"
   },
   {
     "brand": "Giant",
@@ -4134,7 +4513,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTXTCSLR202129AL"
   },
   {
     "brand": "Giant",
@@ -4145,7 +4525,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4156,7 +4537,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4167,7 +4549,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4178,7 +4561,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4189,7 +4573,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4200,7 +4585,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4211,7 +4597,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4222,7 +4609,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4233,7 +4621,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTANTHEMADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -4244,7 +4633,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4255,7 +4645,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4266,7 +4657,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4277,7 +4669,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4288,7 +4681,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4299,7 +4693,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTEXPLOREEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4310,7 +4705,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AXL"
   },
   {
     "brand": "Giant",
@@ -4321,7 +4717,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOM202129AXL"
   },
   {
     "brand": "Giant",
@@ -4332,7 +4729,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOMEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4343,7 +4741,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOMEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4354,7 +4753,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFATHOMEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4365,7 +4765,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AXL"
   },
   {
     "brand": "Giant",
@@ -4376,7 +4777,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTFATHOMEPLUSPRO202029AXL"
   },
   {
     "brand": "Giant",
@@ -4386,7 +4788,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029AXL"
   },
   {
     "brand": "Giant",
@@ -4397,7 +4800,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AXL"
   },
   {
     "brand": "Giant",
@@ -4408,7 +4812,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129AXL"
   },
   {
     "brand": "Giant",
@@ -4419,7 +4824,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN2023MX29AXL"
   },
   {
     "brand": "Giant",
@@ -4430,7 +4836,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN2023MX29AXL"
   },
   {
     "brand": "Giant",
@@ -4441,7 +4848,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN2023MX29AXL"
   },
   {
     "brand": "Giant",
@@ -4452,7 +4860,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGN2023MX29AXL"
   },
   {
     "brand": "Giant",
@@ -4462,7 +4871,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI201827CXL"
   },
   {
     "brand": "Giant",
@@ -4472,7 +4882,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202029CXL"
   },
   {
     "brand": "Giant",
@@ -4482,7 +4893,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIAREI202129CXL"
   },
   {
     "brand": "Giant",
@@ -4493,7 +4905,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AXL"
   },
   {
     "brand": "Giant",
@@ -4504,7 +4917,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AXL"
   },
   {
     "brand": "Giant",
@@ -4515,7 +4929,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AXL"
   },
   {
     "brand": "Giant",
@@ -4526,7 +4941,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AXL"
   },
   {
     "brand": "Giant",
@@ -4537,7 +4953,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTREIGNE20222729AXL"
   },
   {
     "brand": "Giant",
@@ -4548,7 +4965,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIASTA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4559,7 +4977,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIASTA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4570,7 +4989,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIASTA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4580,7 +5000,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCE202429AXL"
   },
   {
     "brand": "Giant",
@@ -4591,7 +5012,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4602,7 +5024,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4613,7 +5036,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4624,7 +5048,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4635,7 +5060,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4646,7 +5072,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTSTANCEE202029AXL"
   },
   {
     "brand": "Giant",
@@ -4657,7 +5084,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4668,7 +5096,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4679,7 +5108,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4690,7 +5120,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4701,7 +5132,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4712,7 +5144,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4723,7 +5156,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTSTANCEEPLUS202329AXL"
   },
   {
     "brand": "Giant",
@@ -4734,7 +5168,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4745,7 +5180,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4756,7 +5192,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4767,7 +5204,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4778,7 +5216,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4789,7 +5228,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALON202129AXL"
   },
   {
     "brand": "Giant",
@@ -4800,7 +5240,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4811,7 +5252,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4822,7 +5264,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4833,7 +5276,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS202129AXL"
   },
   {
     "brand": "Giant",
@@ -4844,7 +5288,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AXL"
   },
   {
     "brand": "Giant",
@@ -4855,7 +5300,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCE202229AXL"
   },
   {
     "brand": "Giant",
@@ -4865,7 +5311,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201929CXL"
   },
   {
     "brand": "Giant",
@@ -4876,7 +5323,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CXL"
   },
   {
     "brand": "Giant",
@@ -4887,7 +5335,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CXL"
   },
   {
     "brand": "Giant",
@@ -4898,7 +5347,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEADVANCEDPRO202029CXL"
   },
   {
     "brand": "Giant",
@@ -4909,7 +5359,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4920,7 +5371,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4931,7 +5383,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129AXL"
   },
   {
     "brand": "Giant",
@@ -4942,7 +5395,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202227AXL"
   },
   {
     "brand": "Giant",
@@ -4953,7 +5407,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202227AXL"
   },
   {
     "brand": "Giant",
@@ -4964,7 +5419,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTRANCEX202227AXL"
   },
   {
     "brand": "Giant",
@@ -4975,7 +5431,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CXL"
   },
   {
     "brand": "Giant",
@@ -4986,7 +5443,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CXL"
   },
   {
     "brand": "Giant",
@@ -4997,7 +5455,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CXL"
   },
   {
     "brand": "Giant",
@@ -5008,7 +5467,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDE202229CXL"
   },
   {
     "brand": "Giant",
@@ -5019,7 +5479,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CXL"
   },
   {
     "brand": "Giant",
@@ -5030,7 +5491,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CXL"
   },
   {
     "brand": "Giant",
@@ -5041,7 +5503,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CXL"
   },
   {
     "brand": "Giant",
@@ -5052,7 +5515,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDEPLUSELITE202329CXL"
   },
   {
     "brand": "Giant",
@@ -5062,7 +5526,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA202129CXL"
   },
   {
     "brand": "Giant",
@@ -5073,7 +5538,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -5084,7 +5550,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -5095,7 +5562,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -5106,7 +5574,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXADVANCEDPRO202229CXL"
   },
   {
     "brand": "Giant",
@@ -5117,7 +5586,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AXL"
   },
   {
     "brand": "Giant",
@@ -5128,7 +5598,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AXL"
   },
   {
     "brand": "Giant",
@@ -5139,7 +5610,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXE202229AXL"
   },
   {
     "brand": "Giant",
@@ -5149,7 +5621,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTTRANCEXEPRO202129AXL"
   },
   {
     "brand": "Giant",
@@ -5159,7 +5632,8 @@
     "size": "SM",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTGLORYADVANCED2024MX29CSM"
   },
   {
     "brand": "Giant",
@@ -5169,7 +5643,8 @@
     "size": "ML",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTGLORYADVANCED2024MX29CML"
   },
   {
     "brand": "Giant",
@@ -5179,7 +5654,8 @@
     "size": "LXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTGLORYADVANCED2024MX29CLXL"
   },
   {
     "brand": "Giant",
@@ -5189,7 +5665,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFAITH202524AONESIZE"
   },
   {
     "brand": "Giant",
@@ -5199,7 +5676,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26/27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIANTFAITH20252627AONESIZE"
   },
   {
     "brand": "Giant",
@@ -5209,7 +5687,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIASTP202224AONE"
   },
   {
     "brand": "Giant",
@@ -5220,7 +5699,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24/26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS20222426AONESIZE"
   },
   {
     "brand": "Giant",
@@ -5231,7 +5711,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24/26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGIANTTALONEPLUS20222426AONESIZE"
   },
   {
     "brand": "Giant",
@@ -5241,6 +5722,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGIATRA201826AONE"
   }
 ]

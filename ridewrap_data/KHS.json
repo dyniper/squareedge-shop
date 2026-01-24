@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWKHSPRESCOTT202229CS"
   },
   {
     "brand": "KHS",
@@ -17,6 +18,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWKHSPRESCOTT202229CM"
   }
 ]

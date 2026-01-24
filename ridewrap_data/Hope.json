@@ -7,7 +7,8 @@
     "size": "H1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB916202229CH1"
   },
   {
     "brand": "Hope",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWHOPEHB13020212729CM"
   },
   {
     "brand": "Hope",
@@ -27,7 +29,8 @@
     "size": "H2",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB916202229CH2"
   },
   {
     "brand": "Hope",
@@ -37,7 +40,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB130202129CM"
   },
   {
     "brand": "Hope",
@@ -47,7 +51,8 @@
     "size": "H3",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB916202229CH3"
   },
   {
     "brand": "Hope",
@@ -57,7 +62,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB130202129CL"
   },
   {
     "brand": "Hope",
@@ -67,7 +73,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB13020212729CL"
   },
   {
     "brand": "Hope",
@@ -77,7 +84,8 @@
     "size": "H4",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB916202229CH4"
   },
   {
     "brand": "Hope",
@@ -87,7 +95,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWHOPEHB130202129CXL"
   },
   {
     "brand": "Hope",
@@ -97,6 +106,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWHOPEHB13020212729CXL"
   }
 ]

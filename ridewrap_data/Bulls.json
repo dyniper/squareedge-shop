@@ -8,7 +8,8 @@
     "size": "S(40)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C40"
   },
   {
     "brand": "Bulls",
@@ -19,7 +20,8 @@
     "size": "S(40)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C40"
   },
   {
     "brand": "Bulls",
@@ -30,7 +32,8 @@
     "size": "44 (M)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C44M"
   },
   {
     "brand": "Bulls",
@@ -41,7 +44,8 @@
     "size": "44 (M)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C44M"
   },
   {
     "brand": "Bulls",
@@ -52,7 +56,8 @@
     "size": "44 (M)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C44M"
   },
   {
     "brand": "Bulls",
@@ -63,7 +68,8 @@
     "size": "M(44)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C44"
   },
   {
     "brand": "Bulls",
@@ -74,7 +80,8 @@
     "size": "M(44)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C44"
   },
   {
     "brand": "Bulls",
@@ -85,7 +92,8 @@
     "size": "44",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSSONICEVOAM75020222729C44"
   },
   {
     "brand": "Bulls",
@@ -96,7 +104,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSVUCAEVO202429CM"
   },
   {
     "brand": "Bulls",
@@ -107,7 +116,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSVUCAEVO202429CM"
   },
   {
     "brand": "Bulls",
@@ -118,7 +128,8 @@
     "size": "48 (L)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C48L"
   },
   {
     "brand": "Bulls",
@@ -129,7 +140,8 @@
     "size": "48 (L)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C48L"
   },
   {
     "brand": "Bulls",
@@ -140,7 +152,8 @@
     "size": "48 (L)",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWBULLSSONICENR2025MX29C48L"
   },
   {
     "brand": "Bulls",
@@ -151,7 +164,8 @@
     "size": "L(48)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C48"
   },
   {
     "brand": "Bulls",
@@ -162,6 +176,7 @@
     "size": "L(48)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWBULLSSONICEVOENSL202129C48"
   }
 ]

@@ -8,7 +8,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150E202229AS"
   },
   {
     "brand": "R Raymon",
@@ -19,7 +20,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150E202229AS"
   },
   {
     "brand": "R Raymon",
@@ -30,7 +32,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONHARDRAYNINE202129CL"
   },
   {
     "brand": "R Raymon",
@@ -41,7 +44,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONHARDRAYNINE202129CL"
   },
   {
     "brand": "R Raymon",
@@ -52,6 +56,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONHARDRAYNINE202129CL"
   }
 ]

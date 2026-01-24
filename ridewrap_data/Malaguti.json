@@ -8,7 +8,8 @@
     "size": "S(42)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AS"
   },
   {
     "brand": "Malaguti",
@@ -19,7 +20,8 @@
     "size": "S(42)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AS"
   },
   {
     "brand": "Malaguti",
@@ -30,7 +32,8 @@
     "size": "M(48)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTISUPERIORE20232729CM48"
   },
   {
     "brand": "Malaguti",
@@ -41,7 +44,8 @@
     "size": "M(47)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTISUPERIORE20212729AM"
   },
   {
     "brand": "Malaguti",
@@ -52,7 +56,8 @@
     "size": "M(49)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTIBRENTA202129AM"
   },
   {
     "brand": "Malaguti",
@@ -63,7 +68,8 @@
     "size": "M(47)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AM"
   },
   {
     "brand": "Malaguti",
@@ -74,7 +80,8 @@
     "size": "M(47)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AM"
   },
   {
     "brand": "Malaguti",
@@ -85,7 +92,8 @@
     "size": "L(52)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AL"
   },
   {
     "brand": "Malaguti",
@@ -96,7 +104,8 @@
     "size": "L(52)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTISUPERIORE20212729AL"
   },
   {
     "brand": "Malaguti",
@@ -107,7 +116,8 @@
     "size": "L(54)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTIBRENTA202129AL"
   },
   {
     "brand": "Malaguti",
@@ -118,6 +128,7 @@
     "size": "L(52)",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMALAGUTICIVETTA20212729AL"
   }
 ]

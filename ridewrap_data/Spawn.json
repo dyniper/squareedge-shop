@@ -8,7 +8,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24/26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPAROK20192426AONE"
   },
   {
     "brand": "Spawn",
@@ -18,7 +19,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPAWNROKKUSUTA201724AONESIZE"
   },
   {
     "brand": "Spawn",
@@ -28,6 +30,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPAYAM201920AONE"
   }
 ]

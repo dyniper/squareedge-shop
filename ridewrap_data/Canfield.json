@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SS"
   },
   {
     "brand": "Canfield",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDYELLISCREAMY202129AS"
   },
   {
     "brand": "Canfield",
@@ -27,7 +29,8 @@
     "size": "Size 1",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDONE2202129ASIZE1"
   },
   {
     "brand": "Canfield",
@@ -37,7 +40,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDTILT202129AS"
   },
   {
     "brand": "Canfield",
@@ -47,7 +51,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AS"
   },
   {
     "brand": "Canfield",
@@ -57,7 +62,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDBALANCE202027AM"
   },
   {
     "brand": "Canfield",
@@ -67,7 +73,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SM"
   },
   {
     "brand": "Canfield",
@@ -77,7 +84,8 @@
     "size": "Size 2",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANFIELDONE2202129ASIZE2"
   },
   {
     "brand": "Canfield",
@@ -87,7 +95,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AM"
   },
   {
     "brand": "Canfield",
@@ -97,7 +106,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDTILT202129AM"
   },
   {
     "brand": "Canfield",
@@ -107,7 +117,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDJEDI202229AM"
   },
   {
     "brand": "Canfield",
@@ -117,7 +128,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANFIELDYELLISCREAMY202129AM"
   },
   {
     "brand": "Canfield",
@@ -127,7 +139,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDTILT202129AL"
   },
   {
     "brand": "Canfield",
@@ -137,7 +150,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDYELLISCREAMY202129AL"
   },
   {
     "brand": "Canfield",
@@ -147,7 +161,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SL"
   },
   {
     "brand": "Canfield",
@@ -157,7 +172,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AL"
   },
   {
     "brand": "Canfield",
@@ -167,7 +183,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDJEDI202229AL"
   },
   {
     "brand": "Canfield",
@@ -177,7 +194,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDBALANCE202327AL"
   },
   {
     "brand": "Canfield",
@@ -187,7 +205,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SXL"
   },
   {
     "brand": "Canfield",
@@ -197,7 +216,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AXL"
   },
   {
     "brand": "Canfield",
@@ -207,7 +227,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDJEDI202229AXL"
   },
   {
     "brand": "Canfield",
@@ -217,7 +238,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDTILT202129AXL"
   },
   {
     "brand": "Canfield",
@@ -227,7 +249,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANFIELDBALANCE202027AXL"
   },
   {
     "brand": "Canfield",
@@ -237,6 +260,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDYELLISCREAMY202129AXL"
   }
 ]

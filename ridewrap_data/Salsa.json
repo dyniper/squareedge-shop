@@ -8,7 +8,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CXS"
   },
   {
     "brand": "Salsa",
@@ -19,7 +20,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CXS"
   },
   {
     "brand": "Salsa",
@@ -29,7 +31,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSATRIBUTARY202429AXS"
   },
   {
     "brand": "Salsa",
@@ -40,7 +43,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSABEARGREASE201927CS"
   },
   {
     "brand": "Salsa",
@@ -51,7 +55,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CS"
   },
   {
     "brand": "Salsa",
@@ -61,7 +66,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129AS0"
   },
   {
     "brand": "Salsa",
@@ -71,7 +77,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129CS0"
   },
   {
     "brand": "Salsa",
@@ -81,7 +88,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129AS0"
   },
   {
     "brand": "Salsa",
@@ -91,7 +99,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129CS0"
   },
   {
     "brand": "Salsa",
@@ -102,7 +111,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAHEYDAY202226AS"
   },
   {
     "brand": "Salsa",
@@ -113,7 +123,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAHEYDAY202226CS"
   },
   {
     "brand": "Salsa",
@@ -124,7 +135,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAHEYDAY202226CS"
   },
   {
     "brand": "Salsa",
@@ -134,7 +146,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHORSETHIEF20202927CS"
   },
   {
     "brand": "Salsa",
@@ -144,7 +157,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAMUKLUK201726AS"
   },
   {
     "brand": "Salsa",
@@ -154,7 +168,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAMUKLUK202126CS"
   },
   {
     "brand": "Salsa",
@@ -164,7 +179,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSARANGEFINDER202027AS"
   },
   {
     "brand": "Salsa",
@@ -174,7 +190,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSASPEARFISH202029AS"
   },
   {
     "brand": "Salsa",
@@ -184,7 +201,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSASPEARFISH20202927CS"
   },
   {
     "brand": "Salsa",
@@ -194,7 +212,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSATRIBUTARY202429AS"
   },
   {
     "brand": "Salsa",
@@ -205,7 +224,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CM"
   },
   {
     "brand": "Salsa",
@@ -216,7 +236,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CM"
   },
   {
     "brand": "Salsa",
@@ -226,7 +247,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129AM0"
   },
   {
     "brand": "Salsa",
@@ -236,7 +258,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129CM0"
   },
   {
     "brand": "Salsa",
@@ -246,7 +269,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129AM0"
   },
   {
     "brand": "Salsa",
@@ -256,7 +280,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129CM0"
   },
   {
     "brand": "Salsa",
@@ -267,7 +292,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHEYDAY202226CM"
   },
   {
     "brand": "Salsa",
@@ -278,7 +304,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHEYDAY202226CM"
   },
   {
     "brand": "Salsa",
@@ -288,7 +315,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHORSETHIEF20202927CM"
   },
   {
     "brand": "Salsa",
@@ -298,7 +326,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAMUKLUK202126CM"
   },
   {
     "brand": "Salsa",
@@ -308,7 +337,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSANOTCH202429AM"
   },
   {
     "brand": "Salsa",
@@ -318,7 +348,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSARANGEFINDER202027AM"
   },
   {
     "brand": "Salsa",
@@ -328,7 +359,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSASPEARFISH20202927CM"
   },
   {
     "brand": "Salsa",
@@ -339,7 +371,8 @@
     "size": "54.5",
     "frame_material": "Alloy",
     "wheel_size": "700/650",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSASTORMCHASER2022700650A545"
   },
   {
     "brand": "Salsa",
@@ -350,7 +383,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSATIMBERJACK20202927AM"
   },
   {
     "brand": "Salsa",
@@ -361,7 +395,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CL"
   },
   {
     "brand": "Salsa",
@@ -372,7 +407,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CL"
   },
   {
     "brand": "Salsa",
@@ -382,7 +418,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129AL0"
   },
   {
     "brand": "Salsa",
@@ -392,7 +429,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129CL0"
   },
   {
     "brand": "Salsa",
@@ -403,7 +441,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABLACKTHORN2025MX29CL"
   },
   {
     "brand": "Salsa",
@@ -414,7 +453,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABLACKTHORN2025MX29CL"
   },
   {
     "brand": "Salsa",
@@ -424,7 +464,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129AL0"
   },
   {
     "brand": "Salsa",
@@ -434,7 +475,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129CL0"
   },
   {
     "brand": "Salsa",
@@ -445,7 +487,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHEYDAY202226CL"
   },
   {
     "brand": "Salsa",
@@ -456,7 +499,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHEYDAY202226CL"
   },
   {
     "brand": "Salsa",
@@ -466,7 +510,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHORSETHIEF20202927CL"
   },
   {
     "brand": "Salsa",
@@ -476,7 +521,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAMUKLUK202126CL"
   },
   {
     "brand": "Salsa",
@@ -486,7 +532,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSARANGEFINDER202027AL"
   },
   {
     "brand": "Salsa",
@@ -496,7 +543,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSARUSTLER202027CL"
   },
   {
     "brand": "Salsa",
@@ -506,7 +554,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSASPEARFISH20202927CL"
   },
   {
     "brand": "Salsa",
@@ -516,7 +565,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSATRIBUTARY202529CL"
   },
   {
     "brand": "Salsa",
@@ -527,7 +577,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CXL"
   },
   {
     "brand": "Salsa",
@@ -538,7 +589,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSABEARGREASE201927CXL"
   },
   {
     "brand": "Salsa",
@@ -548,7 +600,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129AXL"
   },
   {
     "brand": "Salsa",
@@ -558,7 +611,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALBLA202129CXL"
   },
   {
     "brand": "Salsa",
@@ -568,7 +622,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129AXL"
   },
   {
     "brand": "Salsa",
@@ -578,7 +633,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALCAS202129CXL"
   },
   {
     "brand": "Salsa",
@@ -589,7 +645,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAHEYDAY202226CXL"
   },
   {
     "brand": "Salsa",
@@ -600,7 +657,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAHEYDAY202226CXL"
   },
   {
     "brand": "Salsa",
@@ -610,7 +668,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAHORSETHIEF20202927CXL"
   },
   {
     "brand": "Salsa",
@@ -620,7 +679,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAMUKLUK202126CXL"
   },
   {
     "brand": "Salsa",
@@ -630,7 +690,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSARANGEFINDER202027AXL"
   },
   {
     "brand": "Salsa",
@@ -640,7 +701,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSASPEARFISH20202927CXL"
   },
   {
     "brand": "Salsa",
@@ -651,7 +713,8 @@
     "size": "59",
     "frame_material": "Alloy",
     "wheel_size": "700/650",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSASTORMCHASER2022700650A59"
   },
   {
     "brand": "Salsa",
@@ -662,7 +725,8 @@
     "size": "61",
     "frame_material": "Alloy",
     "wheel_size": "700/650",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSASTORMCHASER2022700650A61"
   },
   {
     "brand": "Salsa",
@@ -673,6 +737,7 @@
     "size": "56",
     "frame_material": "Alloy",
     "wheel_size": "700/650",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSASTORMCHASER2022700650A56"
   }
 ]

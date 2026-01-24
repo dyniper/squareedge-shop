@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPOLEVO201929AM0"
   },
   {
     "brand": "Pole",
@@ -19,7 +20,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPOLEVO201929AM0"
   },
   {
     "brand": "Pole",
@@ -30,6 +32,7 @@
     "size": "K4",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPOLEEVOLINK14202129AK4"
   }
 ]

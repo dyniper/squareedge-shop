@@ -8,7 +8,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202429SS"
   },
   {
     "brand": "Production Privee",
@@ -19,7 +20,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202329SS"
   },
   {
     "brand": "Production Privee",
@@ -30,7 +32,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202329SM"
   },
   {
     "brand": "Production Privee",
@@ -41,7 +44,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202412AM"
   },
   {
     "brand": "Production Privee",
@@ -51,7 +55,8 @@
     "size": "S/M",
     "frame_material": "Steel",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPRODUCTIONPRIVEEDIRTYBANDIT202426SSM"
   },
   {
     "brand": "Production Privee",
@@ -62,7 +67,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202329SL"
   },
   {
     "brand": "Production Privee",
@@ -73,7 +79,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHANGT202129SL"
   },
   {
     "brand": "Production Privee",
@@ -84,7 +91,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202429SL"
   },
   {
     "brand": "Production Privee",
@@ -94,7 +102,8 @@
     "size": "L/XL",
     "frame_material": "Steel",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPRODUCTIONPRIVEEDIRTYBANDIT202426SLXL"
   },
   {
     "brand": "Production Privee",
@@ -105,7 +114,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHANNº5202129SXL"
   },
   {
     "brand": "Production Privee",
@@ -116,7 +126,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202329SXL"
   },
   {
     "brand": "Production Privee",
@@ -127,6 +138,7 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPRODUCTIONPRIVEESHAN202429SXL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSHELLFIRE202429CS"
   },
   {
     "brand": "LIOS",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSRAPTOR202429CM"
   },
   {
     "brand": "LIOS",
@@ -27,7 +29,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSHELLFIRE202429CM"
   },
   {
     "brand": "LIOS",
@@ -37,7 +40,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSTHUNDERBOLT202429CM"
   },
   {
     "brand": "LIOS",
@@ -47,7 +51,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSHELLFIRE202429CL"
   },
   {
     "brand": "LIOS",
@@ -57,7 +62,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSTHUNDERBOLT202429CL"
   },
   {
     "brand": "LIOS",
@@ -67,7 +73,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLIOSSPECTRA2024MX29CL"
   },
   {
     "brand": "LIOS",
@@ -77,7 +84,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSTHUNDERBOLT202429CXL"
   },
   {
     "brand": "LIOS",
@@ -87,7 +95,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSRAPTOR202429CXL"
   },
   {
     "brand": "LIOS",
@@ -97,7 +106,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSHELLFIRE202429CXL"
   },
   {
     "brand": "LIOS",
@@ -107,6 +117,7 @@
     "size": "ML",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLIOSLIGHTNING202429CML"
   }
 ]

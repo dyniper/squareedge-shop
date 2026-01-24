@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDBC40202229CS"
   },
   {
     "brand": "Allied",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDBC40202229CM"
   },
   {
     "brand": "Allied",
@@ -27,7 +29,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLBC4202329CL0"
   },
   {
     "brand": "Allied",
@@ -37,6 +40,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDBC40202229CXL"
   }
 ]

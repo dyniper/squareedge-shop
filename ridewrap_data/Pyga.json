@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPYGASLACKLINE202029AM"
   },
   {
     "brand": "Pyga",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPYGAHYRAX202029AM"
   },
   {
     "brand": "Pyga",
@@ -27,7 +29,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPYGAHYRAX202029AL"
   },
   {
     "brand": "Pyga",
@@ -37,6 +40,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPYGASLACKLINE202029AL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMULLETCYCLESPEACEMAKER20212729AM"
   },
   {
     "brand": "Mullet Cycles",
@@ -17,7 +18,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMULLETCYCLESHONEYMAKER20202729AL"
   },
   {
     "brand": "Mullet Cycles",
@@ -27,6 +29,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMULLETCYCLESPEACEMAKER20212729AL"
   }
 ]

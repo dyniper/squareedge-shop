@@ -8,7 +8,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWWILIERURTA202329CL"
   },
   {
     "brand": "Wilier",
@@ -18,6 +19,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWWILIERURTAHYBRID202329CL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYMMMBOP202027AS"
   },
   {
     "brand": "Ragley",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAGLEYPIGLET202027AM"
   },
   {
     "brand": "Ragley",
@@ -28,7 +30,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SM"
   },
   {
     "brand": "Ragley",
@@ -39,7 +42,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SM"
   },
   {
     "brand": "Ragley",
@@ -49,7 +53,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYMMMBOP202027AM"
   },
   {
     "brand": "Ragley",
@@ -60,7 +65,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AM"
   },
   {
     "brand": "Ragley",
@@ -71,7 +77,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AM"
   },
   {
     "brand": "Ragley",
@@ -82,7 +89,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGAL202029AM"
   },
   {
     "brand": "Ragley",
@@ -93,7 +101,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGAL202029AM"
   },
   {
     "brand": "Ragley",
@@ -104,7 +113,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYMARLEY202027AM"
   },
   {
     "brand": "Ragley",
@@ -115,7 +125,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYMARLEY202027AM"
   },
   {
     "brand": "Ragley",
@@ -125,7 +136,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYMMMBOP202027AL"
   },
   {
     "brand": "Ragley",
@@ -136,7 +148,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGAL202029AL"
   },
   {
     "brand": "Ragley",
@@ -147,7 +160,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGAL202029AL"
   },
   {
     "brand": "Ragley",
@@ -158,7 +172,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AL"
   },
   {
     "brand": "Ragley",
@@ -169,7 +184,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AL"
   },
   {
     "brand": "Ragley",
@@ -180,7 +196,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SL"
   },
   {
     "brand": "Ragley",
@@ -191,7 +208,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SL"
   },
   {
     "brand": "Ragley",
@@ -202,7 +220,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SXL"
   },
   {
     "brand": "Ragley",
@@ -213,7 +232,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAGLEYBIGWIG202029SXL"
   },
   {
     "brand": "Ragley",
@@ -224,7 +244,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAGLEYMARLEY202027AXL"
   },
   {
     "brand": "Ragley",
@@ -235,7 +256,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAGLEYMARLEY202027AXL"
   },
   {
     "brand": "Ragley",
@@ -246,7 +268,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AXL"
   },
   {
     "brand": "Ragley",
@@ -257,6 +280,7 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAGLEYBLUEPIG202027AXL"
   }
 ]

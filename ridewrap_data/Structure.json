@@ -8,7 +8,8 @@
     "size": "G2",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTRSCW202027CL0"
   },
   {
     "brand": "Structure",
@@ -19,7 +20,8 @@
     "size": "G2",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTRSCW202027CL0"
   },
   {
     "brand": "Structure",
@@ -30,7 +32,8 @@
     "size": "G3",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTRUCTURESCW1202027CG3"
   },
   {
     "brand": "Structure",
@@ -41,6 +44,7 @@
     "size": "G3",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTRUCTURESCW1202027CG3"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWZINKVACAY20252729AS"
   },
   {
     "brand": "Zink",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWZINKVACAY20252729AM"
   },
   {
     "brand": "Zink",
@@ -27,6 +29,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWZINKVACAY20252729AL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESC220212729CS"
   },
   {
     "brand": "Transalpes",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESE120222729CS"
   },
   {
     "brand": "Transalpes",
@@ -27,7 +29,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESC220212729CM"
   },
   {
     "brand": "Transalpes",
@@ -37,7 +40,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESE120222729CM"
   },
   {
     "brand": "Transalpes",
@@ -47,7 +51,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESC22021MX29CL"
   },
   {
     "brand": "Transalpes",
@@ -57,6 +62,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSALPESE120222729CL"
   }
 ]

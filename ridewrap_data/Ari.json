@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIDELANOPEAK202429CS"
   },
   {
     "brand": "Ari",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIEXPLORERPEAK202427CS"
   },
   {
     "brand": "Ari",
@@ -27,7 +29,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIKINGSPEAK202427CS"
   },
   {
     "brand": "Ari",
@@ -37,7 +40,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARILASALPEAK2024MX29CS"
   },
   {
     "brand": "Ari",
@@ -47,7 +51,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARINEBOPEAK202429CS"
   },
   {
     "brand": "Ari",
@@ -57,7 +62,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202429CS"
   },
   {
     "brand": "Ari",
@@ -68,7 +74,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202529CS"
   },
   {
     "brand": "Ari",
@@ -78,7 +85,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2024MX29CS"
   },
   {
     "brand": "Ari",
@@ -88,7 +96,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARITIMPPEAK2025MX29CS"
   },
   {
     "brand": "Ari",
@@ -98,7 +107,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWASATCHPEAK202429AS"
   },
   {
     "brand": "Ari",
@@ -108,7 +118,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWIREPEAK20202429AS"
   },
   {
     "brand": "Ari",
@@ -118,7 +129,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIDELANOPEAK202429CM"
   },
   {
     "brand": "Ari",
@@ -128,7 +140,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIEXPLORERPEAK202427CM"
   },
   {
     "brand": "Ari",
@@ -138,7 +151,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIKINGSPEAK202427CM"
   },
   {
     "brand": "Ari",
@@ -148,7 +162,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARILASALPEAK2024MX29CM"
   },
   {
     "brand": "Ari",
@@ -158,7 +173,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARINEBOPEAK202429CM"
   },
   {
     "brand": "Ari",
@@ -168,7 +184,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202429CM"
   },
   {
     "brand": "Ari",
@@ -179,7 +196,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202529CM"
   },
   {
     "brand": "Ari",
@@ -189,7 +207,8 @@
     "size": "S1",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARISUPERIORPEAK2024MX29AS1"
   },
   {
     "brand": "Ari",
@@ -199,7 +218,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2024MX29CM"
   },
   {
     "brand": "Ari",
@@ -209,7 +229,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2025MX29CM"
   },
   {
     "brand": "Ari",
@@ -219,7 +240,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWASATCHPEAK202429AM"
   },
   {
     "brand": "Ari",
@@ -229,7 +251,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIWIREPEAK20202429AM"
   },
   {
     "brand": "Ari",
@@ -239,7 +262,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIDELANOPEAK202429CL"
   },
   {
     "brand": "Ari",
@@ -249,7 +273,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIEXPLORERPEAK202427CL"
   },
   {
     "brand": "Ari",
@@ -259,7 +284,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIKINGSPEAK202427CL"
   },
   {
     "brand": "Ari",
@@ -269,7 +295,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARILASALPEAK2024MX29CL"
   },
   {
     "brand": "Ari",
@@ -279,7 +306,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARINEBOPEAK202429CL"
   },
   {
     "brand": "Ari",
@@ -289,7 +317,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARISIGNALPEAK202429CL"
   },
   {
     "brand": "Ari",
@@ -300,7 +329,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202529CL"
   },
   {
     "brand": "Ari",
@@ -310,7 +340,8 @@
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARISUPERIORPEAK2024MX29AS2"
   },
   {
     "brand": "Ari",
@@ -320,7 +351,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2024MX29CL"
   },
   {
     "brand": "Ari",
@@ -330,7 +362,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARITIMPPEAK2025MX29CL"
   },
   {
     "brand": "Ari",
@@ -340,7 +373,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWASATCHPEAK202429AL"
   },
   {
     "brand": "Ari",
@@ -350,7 +384,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWIREPEAK20202429AL"
   },
   {
     "brand": "Ari",
@@ -360,7 +395,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIDELANOPEAK202429CXL"
   },
   {
     "brand": "Ari",
@@ -370,7 +406,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIEXPLORERPEAK202427CXL"
   },
   {
     "brand": "Ari",
@@ -380,7 +417,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARIKINGSPEAK202427CXL"
   },
   {
     "brand": "Ari",
@@ -390,7 +428,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARILASALPEAK2024MX29CXL"
   },
   {
     "brand": "Ari",
@@ -400,7 +439,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARINEBOPEAK202429CXL"
   },
   {
     "brand": "Ari",
@@ -410,7 +450,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202429CXL"
   },
   {
     "brand": "Ari",
@@ -421,7 +462,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISIGNALPEAK202529CXL"
   },
   {
     "brand": "Ari",
@@ -431,7 +473,8 @@
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARISUPERIORPEAK2024MX29AS3"
   },
   {
     "brand": "Ari",
@@ -441,7 +484,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2024MX29CXL"
   },
   {
     "brand": "Ari",
@@ -451,7 +495,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWARITIMPPEAK2025MX29CXL"
   },
   {
     "brand": "Ari",
@@ -461,7 +506,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWASATCHPEAK202429AXL"
   },
   {
     "brand": "Ari",
@@ -471,7 +517,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIWIREPEAK20202429AXL"
   },
   {
     "brand": "Ari",
@@ -481,7 +528,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIDIRTJUMPER202426AONESIZE"
   },
   {
     "brand": "Ari",
@@ -491,6 +539,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWARIDIRTJUMPER202427AONESIZE"
   }
 ]

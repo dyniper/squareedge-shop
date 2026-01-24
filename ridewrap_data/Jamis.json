@@ -7,7 +7,8 @@
     "size": "S (15)",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWJAMISDRAGON202029SS15"
   },
   {
     "brand": "Jamis",
@@ -17,6 +18,7 @@
     "size": "M (17)",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWJAMISDRAGON202029SM17"
   }
 ]

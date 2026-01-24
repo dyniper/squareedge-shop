@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCHUSEN20212927SM0"
   },
   {
     "brand": "Chumba",
@@ -19,6 +20,7 @@
     "size": "L",
     "frame_material": "Titanium",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCHUMBASTELLATI20202927TIL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEWOODSPRITE202229CM"
   },
   {
     "brand": "Antidote",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEDARKMATTER20222729CM"
   },
   {
     "brand": "Antidote",
@@ -27,7 +29,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTECARBONJACK202029CM"
   },
   {
     "brand": "Antidote",
@@ -37,7 +40,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEDARKMATTER20222729CL"
   },
   {
     "brand": "Antidote",
@@ -47,7 +51,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTECARBONJACK202029CL"
   },
   {
     "brand": "Antidote",
@@ -57,7 +62,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEWOODSPRITE202229CL"
   },
   {
     "brand": "Antidote",
@@ -67,7 +73,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTECARBONJACK202029CXL"
   },
   {
     "brand": "Antidote",
@@ -77,7 +84,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEDARKMATTER20222729CXL"
   },
   {
     "brand": "Antidote",
@@ -87,6 +95,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWANTIDOTEWOODSPRITE202229CXL"
   }
 ]

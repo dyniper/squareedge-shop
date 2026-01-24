@@ -7,7 +7,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACID202227AXS14"
   },
   {
     "brand": "Cube",
@@ -18,7 +19,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202127AXS14"
   },
   {
     "brand": "Cube",
@@ -29,7 +31,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202127AXS14"
   },
   {
     "brand": "Cube",
@@ -40,7 +43,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202127AXS14"
   },
   {
     "brand": "Cube",
@@ -51,7 +55,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202127AXS14"
   },
   {
     "brand": "Cube",
@@ -61,7 +66,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEANALOG202127AXS14"
   },
   {
     "brand": "Cube",
@@ -72,7 +78,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AXS14"
   },
   {
     "brand": "Cube",
@@ -83,7 +90,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AXS14"
   },
   {
     "brand": "Cube",
@@ -94,7 +102,8 @@
     "size": "XS(14)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AXS14"
   },
   {
     "brand": "Cube",
@@ -104,7 +113,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACID202227AS16"
   },
   {
     "brand": "Cube",
@@ -115,7 +125,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202127A16"
   },
   {
     "brand": "Cube",
@@ -126,7 +137,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202127A16"
   },
   {
     "brand": "Cube",
@@ -137,7 +149,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202127A16"
   },
   {
     "brand": "Cube",
@@ -148,7 +161,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202127A16"
   },
   {
     "brand": "Cube",
@@ -158,7 +172,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSHYBRIDONE44C68X202429CS"
   },
   {
     "brand": "Cube",
@@ -168,7 +183,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEANALOG202127AS16"
   },
   {
     "brand": "Cube",
@@ -179,7 +195,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
     "brand": "Cube",
@@ -190,7 +207,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
     "brand": "Cube",
@@ -201,7 +219,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
     "brand": "Cube",
@@ -211,7 +230,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEELITEC62202229CS16"
   },
   {
     "brand": "Cube",
@@ -221,7 +241,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEELITEC68X202129CS16"
   },
   {
     "brand": "Cube",
@@ -232,7 +253,8 @@
     "size": "S (16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202227AS16"
   },
   {
     "brand": "Cube",
@@ -243,7 +265,8 @@
     "size": "S (16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202227AS16"
   },
   {
     "brand": "Cube",
@@ -254,7 +277,8 @@
     "size": "S (16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202227AS16"
   },
   {
     "brand": "Cube",
@@ -265,7 +289,8 @@
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202227A15"
   },
   {
     "brand": "Cube",
@@ -276,7 +301,8 @@
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202227A15"
   },
   {
     "brand": "Cube",
@@ -287,7 +313,8 @@
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202227A15"
   },
   {
     "brand": "Cube",
@@ -298,7 +325,8 @@
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202127AS15"
   },
   {
     "brand": "Cube",
@@ -309,7 +337,8 @@
     "size": "S(15)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202127AS15"
   },
   {
     "brand": "Cube",
@@ -320,7 +349,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CS16"
   },
   {
     "brand": "Cube",
@@ -331,7 +361,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CS16"
   },
   {
     "brand": "Cube",
@@ -342,7 +373,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CS16"
   },
   {
     "brand": "Cube",
@@ -353,7 +385,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C16"
   },
   {
     "brand": "Cube",
@@ -364,7 +397,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C16"
   },
   {
     "brand": "Cube",
@@ -375,7 +409,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C16"
   },
   {
     "brand": "Cube",
@@ -386,7 +421,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C16"
   },
   {
     "brand": "Cube",
@@ -397,7 +433,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029AS16"
   },
   {
     "brand": "Cube",
@@ -408,7 +445,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029AS16"
   },
   {
     "brand": "Cube",
@@ -419,7 +457,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029AS16"
   },
   {
     "brand": "Cube",
@@ -430,7 +469,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029AS16"
   },
   {
     "brand": "Cube",
@@ -441,7 +481,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -452,7 +493,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -463,7 +505,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -474,7 +517,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -485,7 +529,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -496,7 +541,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -507,7 +553,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -518,7 +565,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -529,7 +577,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -540,7 +589,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -551,7 +601,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -562,7 +613,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -573,7 +625,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -584,7 +637,8 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202227AS16"
   },
   {
     "brand": "Cube",
@@ -595,7 +649,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -606,7 +661,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -617,7 +673,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -628,7 +685,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -639,7 +697,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -650,7 +709,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -661,7 +721,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -672,7 +733,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -683,7 +745,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
   },
   {
     "brand": "Cube",
@@ -694,7 +757,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027CS16"
   },
   {
     "brand": "Cube",
@@ -705,7 +769,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027CS16"
   },
   {
     "brand": "Cube",
@@ -716,7 +781,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027CS16"
   },
   {
     "brand": "Cube",
@@ -727,7 +793,8 @@
     "size": "S(16)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027CS16"
   },
   {
     "brand": "Cube",
@@ -738,7 +805,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202527CS"
   },
   {
     "brand": "Cube",
@@ -749,7 +817,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE7720252729CS"
   },
   {
     "brand": "Cube",
@@ -760,7 +829,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE22202329AS"
   },
   {
     "brand": "Cube",
@@ -771,7 +841,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE22202329AS"
   },
   {
     "brand": "Cube",
@@ -782,7 +853,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CS"
   },
   {
     "brand": "Cube",
@@ -793,7 +865,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CS"
   },
   {
     "brand": "Cube",
@@ -804,7 +877,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CS"
   },
   {
     "brand": "Cube",
@@ -815,7 +889,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CS"
   },
   {
     "brand": "Cube",
@@ -826,7 +901,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CS"
   },
   {
     "brand": "Cube",
@@ -837,7 +913,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CS"
   },
   {
     "brand": "Cube",
@@ -848,7 +925,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CS"
   },
   {
     "brand": "Cube",
@@ -859,7 +937,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CS"
   },
   {
     "brand": "Cube",
@@ -870,7 +949,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACCESSWSC62202229CM17"
   },
   {
     "brand": "Cube",
@@ -881,7 +961,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACCESSWSC62202229CM17"
   },
   {
     "brand": "Cube",
@@ -891,7 +972,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACID202229AM18"
   },
   {
     "brand": "Cube",
@@ -902,7 +984,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202129AM18"
   },
   {
     "brand": "Cube",
@@ -913,7 +996,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202129AM18"
   },
   {
     "brand": "Cube",
@@ -924,7 +1008,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202129AM18"
   },
   {
     "brand": "Cube",
@@ -935,7 +1020,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202129AM18"
   },
   {
     "brand": "Cube",
@@ -946,7 +1032,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAIM202129AM18"
   },
   {
     "brand": "Cube",
@@ -956,7 +1043,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSHYBRIDONE44C68X202429CM"
   },
   {
     "brand": "Cube",
@@ -966,7 +1054,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSONE11C68X202229CM"
   },
   {
     "brand": "Cube",
@@ -976,7 +1065,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSZERO99C68X202229CM"
   },
   {
     "brand": "Cube",
@@ -986,7 +1076,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEANALOG202129AM18"
   },
   {
     "brand": "Cube",
@@ -997,7 +1088,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129A18"
   },
   {
     "brand": "Cube",
@@ -1008,7 +1100,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129A18"
   },
   {
     "brand": "Cube",
@@ -1019,7 +1112,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129A18"
   },
   {
     "brand": "Cube",
@@ -1029,7 +1123,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEELITEC62202229CM18"
   },
   {
     "brand": "Cube",
@@ -1039,7 +1134,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEELITEC68X202129CM18"
   },
   {
     "brand": "Cube",
@@ -1050,7 +1146,8 @@
     "size": "M(54)",
     "frame_material": "Alloy",
     "wheel_size": "700",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEKATHMANDU2022700AM54"
   },
   {
     "brand": "Cube",
@@ -1061,7 +1158,8 @@
     "size": "M(54)",
     "frame_material": "Alloy",
     "wheel_size": "700",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEKATHMANDU2022700AM54"
   },
   {
     "brand": "Cube",
@@ -1072,7 +1170,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEPHENIXC68X202529CM"
   },
   {
     "brand": "Cube",
@@ -1083,7 +1182,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEPHENIXC68X202529CM"
   },
   {
     "brand": "Cube",
@@ -1094,7 +1194,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202229AM18"
   },
   {
     "brand": "Cube",
@@ -1105,7 +1206,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202229AM18"
   },
   {
     "brand": "Cube",
@@ -1116,7 +1218,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CM17"
   },
   {
     "brand": "Cube",
@@ -1127,7 +1230,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CM17"
   },
   {
     "brand": "Cube",
@@ -1138,7 +1242,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CM17"
   },
   {
     "brand": "Cube",
@@ -1149,7 +1254,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CM17"
   },
   {
     "brand": "Cube",
@@ -1160,7 +1266,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
     "brand": "Cube",
@@ -1171,7 +1278,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
     "brand": "Cube",
@@ -1182,7 +1290,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
     "brand": "Cube",
@@ -1193,7 +1302,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
     "brand": "Cube",
@@ -1204,7 +1314,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AM17"
   },
   {
     "brand": "Cube",
@@ -1215,7 +1326,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AM17"
   },
   {
     "brand": "Cube",
@@ -1226,7 +1338,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AM17"
   },
   {
     "brand": "Cube",
@@ -1237,7 +1350,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1248,7 +1362,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1259,7 +1374,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1270,7 +1386,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1281,7 +1398,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1292,7 +1410,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1303,7 +1422,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1314,7 +1434,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1325,7 +1446,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1336,7 +1458,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1347,7 +1470,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1358,7 +1482,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1369,7 +1494,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1380,7 +1506,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1391,7 +1518,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1402,7 +1530,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1413,7 +1542,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1424,7 +1554,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID202229AM17"
   },
   {
     "brand": "Cube",
@@ -1435,7 +1566,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1446,7 +1578,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1457,7 +1590,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1468,7 +1602,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1479,7 +1614,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1490,7 +1626,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1501,7 +1638,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1512,7 +1650,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1523,7 +1662,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1534,7 +1674,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
     "brand": "Cube",
@@ -1545,7 +1686,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CM18"
   },
   {
     "brand": "Cube",
@@ -1556,7 +1698,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CM18"
   },
   {
     "brand": "Cube",
@@ -1567,7 +1710,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO120HPC202029CM18"
   },
   {
     "brand": "Cube",
@@ -1578,7 +1722,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C18"
   },
   {
     "brand": "Cube",
@@ -1589,7 +1734,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C18"
   },
   {
     "brand": "Cube",
@@ -1600,7 +1746,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C18"
   },
   {
     "brand": "Cube",
@@ -1611,7 +1758,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C18"
   },
   {
     "brand": "Cube",
@@ -1622,7 +1770,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AM"
   },
   {
     "brand": "Cube",
@@ -1633,7 +1782,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AM"
   },
   {
     "brand": "Cube",
@@ -1644,7 +1794,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AM"
   },
   {
     "brand": "Cube",
@@ -1655,7 +1806,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1666,7 +1818,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1677,7 +1830,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1688,7 +1842,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1699,7 +1854,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1710,7 +1866,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1721,7 +1878,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1732,7 +1890,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1743,7 +1902,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1754,7 +1914,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1765,7 +1926,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1776,7 +1938,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1787,7 +1950,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1798,7 +1962,8 @@
     "size": "M(18)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AM18"
   },
   {
     "brand": "Cube",
@@ -1809,7 +1974,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1820,7 +1986,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1831,7 +1998,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1842,7 +2010,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1853,7 +2022,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1864,7 +2034,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C18"
   },
   {
     "brand": "Cube",
@@ -1875,7 +2046,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1886,7 +2058,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1897,7 +2070,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1908,7 +2082,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1919,7 +2094,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1930,7 +2106,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1941,7 +2118,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1952,7 +2130,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1963,7 +2142,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
   },
   {
     "brand": "Cube",
@@ -1974,7 +2154,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -1985,7 +2166,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -1996,7 +2178,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -2007,7 +2190,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -2018,7 +2202,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -2029,7 +2214,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CM18"
   },
   {
     "brand": "Cube",
@@ -2040,7 +2226,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202529AM"
   },
   {
     "brand": "Cube",
@@ -2051,7 +2238,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CM"
   },
   {
     "brand": "Cube",
@@ -2062,7 +2250,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CM18"
   },
   {
     "brand": "Cube",
@@ -2073,7 +2262,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CM18"
   },
   {
     "brand": "Cube",
@@ -2084,7 +2274,8 @@
     "size": "M(18)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CM18"
   },
   {
     "brand": "Cube",
@@ -2095,7 +2286,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE7720252729CM"
   },
   {
     "brand": "Cube",
@@ -2106,7 +2298,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE22202329AM"
   },
   {
     "brand": "Cube",
@@ -2117,7 +2310,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE22202329AM"
   },
   {
     "brand": "Cube",
@@ -2128,7 +2322,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CM"
   },
   {
     "brand": "Cube",
@@ -2139,7 +2334,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CM"
   },
   {
     "brand": "Cube",
@@ -2150,7 +2346,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CM"
   },
   {
     "brand": "Cube",
@@ -2161,7 +2358,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CM"
   },
   {
     "brand": "Cube",
@@ -2172,7 +2370,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CM"
   },
   {
     "brand": "Cube",
@@ -2183,7 +2382,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CM"
   },
   {
     "brand": "Cube",
@@ -2194,7 +2394,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CM"
   },
   {
     "brand": "Cube",
@@ -2205,7 +2406,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CM"
   },
   {
     "brand": "Cube",
@@ -2216,7 +2418,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AM"
   },
   {
     "brand": "Cube",
@@ -2227,7 +2430,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AM"
   },
   {
     "brand": "Cube",
@@ -2238,7 +2442,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CM"
   },
   {
     "brand": "Cube",
@@ -2249,7 +2454,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CM"
   },
   {
     "brand": "Cube",
@@ -2260,7 +2466,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CM"
   },
   {
     "brand": "Cube",
@@ -2271,7 +2478,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBTWO202027AM0"
   },
   {
     "brand": "Cube",
@@ -2282,7 +2490,8 @@
     "size": "M(17)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBTWO202027AM0"
   },
   {
     "brand": "Cube",
@@ -2293,7 +2502,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBTWO202029CM0"
   },
   {
     "brand": "Cube",
@@ -2304,7 +2514,8 @@
     "size": "M(17)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBTWO202029CM0"
   },
   {
     "brand": "Cube",
@@ -2315,7 +2526,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACCESSWSC62202229CL19"
   },
   {
     "brand": "Cube",
@@ -2326,7 +2538,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACCESSWSC62202229CL19"
   },
   {
     "brand": "Cube",
@@ -2336,7 +2549,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEACID202229AL20"
   },
   {
     "brand": "Cube",
@@ -2347,7 +2561,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AL20"
   },
   {
     "brand": "Cube",
@@ -2358,7 +2573,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AL20"
   },
   {
     "brand": "Cube",
@@ -2369,7 +2585,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AL20"
   },
   {
     "brand": "Cube",
@@ -2380,7 +2597,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AL20"
   },
   {
     "brand": "Cube",
@@ -2391,7 +2609,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AL20"
   },
   {
     "brand": "Cube",
@@ -2401,7 +2620,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSHYBRIDONE44C68X202429CL"
   },
   {
     "brand": "Cube",
@@ -2411,7 +2631,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSONE11C68X202229CL"
   },
   {
     "brand": "Cube",
@@ -2421,7 +2642,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSZERO99C68X202229CL"
   },
   {
     "brand": "Cube",
@@ -2431,7 +2653,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEANALOG202129AL20"
   },
   {
     "brand": "Cube",
@@ -2442,7 +2665,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AL20"
   },
   {
     "brand": "Cube",
@@ -2453,7 +2677,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AL20"
   },
   {
     "brand": "Cube",
@@ -2464,7 +2689,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AL20"
   },
   {
     "brand": "Cube",
@@ -2474,7 +2700,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEELITEC62202229CL20"
   },
   {
     "brand": "Cube",
@@ -2484,7 +2711,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEELITEC68202129CL20"
   },
   {
     "brand": "Cube",
@@ -2495,7 +2723,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTION202229AL20"
   },
   {
     "brand": "Cube",
@@ -2506,7 +2735,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTION202229AL20"
   },
   {
     "brand": "Cube",
@@ -2517,7 +2747,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CL19"
   },
   {
     "brand": "Cube",
@@ -2528,7 +2759,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CL19"
   },
   {
     "brand": "Cube",
@@ -2539,7 +2771,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CL19"
   },
   {
     "brand": "Cube",
@@ -2550,7 +2783,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CL19"
   },
   {
     "brand": "Cube",
@@ -2561,7 +2795,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CL"
   },
   {
     "brand": "Cube",
@@ -2572,7 +2807,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CL"
   },
   {
     "brand": "Cube",
@@ -2583,7 +2819,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CL"
   },
   {
     "brand": "Cube",
@@ -2594,7 +2831,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CL"
   },
   {
     "brand": "Cube",
@@ -2605,7 +2843,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AL19"
   },
   {
     "brand": "Cube",
@@ -2616,7 +2855,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AL19"
   },
   {
     "brand": "Cube",
@@ -2627,7 +2867,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AL19"
   },
   {
     "brand": "Cube",
@@ -2638,7 +2879,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2649,7 +2891,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2660,7 +2903,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2671,7 +2915,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2682,7 +2927,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2693,7 +2939,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2704,7 +2951,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2715,7 +2963,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2726,7 +2975,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2737,7 +2987,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2748,7 +2999,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2759,7 +3011,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2770,7 +3023,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2781,7 +3035,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2792,7 +3047,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2803,7 +3059,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2814,7 +3071,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2825,7 +3083,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AL19"
   },
   {
     "brand": "Cube",
@@ -2836,7 +3095,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2847,7 +3107,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2858,7 +3119,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2869,7 +3131,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2880,7 +3143,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2891,7 +3155,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2902,7 +3167,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2913,7 +3179,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2924,7 +3191,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2935,7 +3203,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AL"
   },
   {
     "brand": "Cube",
@@ -2946,7 +3215,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AL19"
   },
   {
     "brand": "Cube",
@@ -2957,7 +3227,8 @@
     "size": "L(19)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AL19"
   },
   {
     "brand": "Cube",
@@ -2968,7 +3239,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO140HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -2979,7 +3251,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO140HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -2990,7 +3263,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO140HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -3001,7 +3275,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C20"
   },
   {
     "brand": "Cube",
@@ -3012,7 +3287,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C20"
   },
   {
     "brand": "Cube",
@@ -3023,7 +3299,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C20"
   },
   {
     "brand": "Cube",
@@ -3034,7 +3311,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C20"
   },
   {
     "brand": "Cube",
@@ -3045,7 +3323,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029A20"
   },
   {
     "brand": "Cube",
@@ -3056,7 +3335,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029A20"
   },
   {
     "brand": "Cube",
@@ -3067,7 +3347,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029A20"
   },
   {
     "brand": "Cube",
@@ -3078,7 +3359,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120202029A20"
   },
   {
     "brand": "Cube",
@@ -3089,7 +3371,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3100,7 +3383,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3111,7 +3395,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3122,7 +3407,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3133,7 +3419,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3144,7 +3431,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3155,7 +3443,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3166,7 +3455,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3177,7 +3467,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3188,7 +3479,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3199,7 +3491,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3210,7 +3503,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3221,7 +3515,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3232,7 +3527,8 @@
     "size": "L(20)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AL20"
   },
   {
     "brand": "Cube",
@@ -3243,7 +3539,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3254,7 +3551,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3265,7 +3563,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3276,7 +3575,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3287,7 +3587,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3298,7 +3599,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C20"
   },
   {
     "brand": "Cube",
@@ -3309,7 +3611,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3320,7 +3623,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3331,7 +3635,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3342,7 +3647,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3353,7 +3659,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3364,7 +3671,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3375,7 +3683,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3386,7 +3695,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3397,7 +3707,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
   },
   {
     "brand": "Cube",
@@ -3408,7 +3719,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -3419,7 +3731,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -3430,7 +3743,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -3441,7 +3755,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C20"
   },
   {
     "brand": "Cube",
@@ -3452,7 +3767,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3463,7 +3779,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3474,7 +3791,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3485,7 +3803,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3496,7 +3815,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3507,7 +3827,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC750202227CL20"
   },
   {
     "brand": "Cube",
@@ -3518,7 +3839,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202529AL"
   },
   {
     "brand": "Cube",
@@ -3529,7 +3851,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CL"
   },
   {
     "brand": "Cube",
@@ -3540,7 +3863,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CL20"
   },
   {
     "brand": "Cube",
@@ -3551,7 +3875,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CL20"
   },
   {
     "brand": "Cube",
@@ -3562,7 +3887,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CL20"
   },
   {
     "brand": "Cube",
@@ -3573,7 +3899,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE7720252729CL"
   },
   {
     "brand": "Cube",
@@ -3584,7 +3911,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CL"
   },
   {
     "brand": "Cube",
@@ -3595,7 +3923,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CL"
   },
   {
     "brand": "Cube",
@@ -3606,7 +3935,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CL"
   },
   {
     "brand": "Cube",
@@ -3617,7 +3947,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CL"
   },
   {
     "brand": "Cube",
@@ -3628,7 +3959,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CL"
   },
   {
     "brand": "Cube",
@@ -3639,7 +3971,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CL"
   },
   {
     "brand": "Cube",
@@ -3650,7 +3983,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CL"
   },
   {
     "brand": "Cube",
@@ -3661,7 +3995,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CL"
   },
   {
     "brand": "Cube",
@@ -3672,7 +4007,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AL"
   },
   {
     "brand": "Cube",
@@ -3683,7 +4019,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AL"
   },
   {
     "brand": "Cube",
@@ -3694,7 +4031,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CL"
   },
   {
     "brand": "Cube",
@@ -3705,7 +4043,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CL"
   },
   {
     "brand": "Cube",
@@ -3716,7 +4055,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CL"
   },
   {
     "brand": "Cube",
@@ -3727,7 +4067,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBETWO15HPC202029CL19"
   },
   {
     "brand": "Cube",
@@ -3738,7 +4079,8 @@
     "size": "L(19)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBETWO15HPC202029CL19"
   },
   {
     "brand": "Cube",
@@ -3748,7 +4090,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEACID202229AXL22"
   },
   {
     "brand": "Cube",
@@ -3759,7 +4102,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3770,7 +4114,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3781,7 +4126,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3792,7 +4138,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3803,7 +4150,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAIM202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3813,7 +4161,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSHYBRIDONE44C68X202429CXL"
   },
   {
     "brand": "Cube",
@@ -3823,7 +4172,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSONE11C68X202229CXL"
   },
   {
     "brand": "Cube",
@@ -3833,7 +4183,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAMSZERO99C68X202229CXL"
   },
   {
     "brand": "Cube",
@@ -3843,7 +4194,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEANALOG202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3854,7 +4206,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3865,7 +4218,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3876,7 +4230,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEATTENTION202129AXL22"
   },
   {
     "brand": "Cube",
@@ -3887,7 +4242,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202229AXL22"
   },
   {
     "brand": "Cube",
@@ -3898,7 +4254,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTION202229AXL22"
   },
   {
     "brand": "Cube",
@@ -3909,7 +4266,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CXL21"
   },
   {
     "brand": "Cube",
@@ -3920,7 +4278,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CXL21"
   },
   {
     "brand": "Cube",
@@ -3931,7 +4290,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CXL21"
   },
   {
     "brand": "Cube",
@@ -3942,7 +4302,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONC62202129CXL21"
   },
   {
     "brand": "Cube",
@@ -3953,7 +4314,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
     "brand": "Cube",
@@ -3964,7 +4326,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
     "brand": "Cube",
@@ -3975,7 +4338,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
     "brand": "Cube",
@@ -3986,7 +4350,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
     "brand": "Cube",
@@ -3997,7 +4362,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4008,7 +4374,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4019,7 +4386,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4030,7 +4398,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4041,7 +4410,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4052,7 +4422,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4063,7 +4434,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4074,7 +4446,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4085,7 +4458,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4096,7 +4470,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4107,7 +4482,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4118,7 +4494,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4129,7 +4506,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4140,7 +4518,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4151,7 +4530,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4162,7 +4542,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4173,7 +4554,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4184,7 +4566,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4195,7 +4578,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4206,7 +4590,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4217,7 +4602,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXL21"
   },
   {
     "brand": "Cube",
@@ -4228,7 +4614,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4239,7 +4626,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4250,7 +4638,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4261,7 +4650,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4272,7 +4662,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4283,7 +4674,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4294,7 +4686,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4305,7 +4698,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4316,7 +4710,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4327,7 +4722,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXL"
   },
   {
     "brand": "Cube",
@@ -4338,7 +4734,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AXL21"
   },
   {
     "brand": "Cube",
@@ -4349,7 +4746,8 @@
     "size": "XL(21)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AXL21"
   },
   {
     "brand": "Cube",
@@ -4360,7 +4758,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C22"
   },
   {
     "brand": "Cube",
@@ -4371,7 +4770,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C22"
   },
   {
     "brand": "Cube",
@@ -4382,7 +4782,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C22"
   },
   {
     "brand": "Cube",
@@ -4393,7 +4794,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO150C6862202029C22"
   },
   {
     "brand": "Cube",
@@ -4404,7 +4806,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AXL"
   },
   {
     "brand": "Cube",
@@ -4415,7 +4818,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AXL"
   },
   {
     "brand": "Cube",
@@ -4426,7 +4830,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO170202029AXL"
   },
   {
     "brand": "Cube",
@@ -4437,7 +4842,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4448,7 +4854,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4459,7 +4866,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4470,7 +4878,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4481,7 +4890,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4492,7 +4902,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4503,7 +4914,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4514,7 +4926,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4525,7 +4938,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4536,7 +4950,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4547,7 +4962,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4558,7 +4974,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4569,7 +4986,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4580,7 +4998,8 @@
     "size": "XL(22)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID120750202229AXL22"
   },
   {
     "brand": "Cube",
@@ -4591,7 +5010,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4602,7 +5022,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4613,7 +5034,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4624,7 +5046,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4635,7 +5058,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4646,7 +5070,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202029C22"
   },
   {
     "brand": "Cube",
@@ -4657,7 +5082,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4668,7 +5094,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4679,7 +5106,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4690,7 +5118,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4701,7 +5130,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4712,7 +5142,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4723,7 +5154,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4734,7 +5166,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4745,7 +5178,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
   },
   {
     "brand": "Cube",
@@ -4756,7 +5190,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C22"
   },
   {
     "brand": "Cube",
@@ -4767,7 +5202,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C22"
   },
   {
     "brand": "Cube",
@@ -4778,7 +5214,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C22"
   },
   {
     "brand": "Cube",
@@ -4789,7 +5226,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027C22"
   },
   {
     "brand": "Cube",
@@ -4800,7 +5238,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4811,7 +5250,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4822,7 +5262,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4833,7 +5274,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4844,7 +5286,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4855,7 +5298,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202227CXL22"
   },
   {
     "brand": "Cube",
@@ -4866,7 +5310,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CXL"
   },
   {
     "brand": "Cube",
@@ -4877,7 +5322,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CXL22"
   },
   {
     "brand": "Cube",
@@ -4888,7 +5334,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CXL22"
   },
   {
     "brand": "Cube",
@@ -4899,7 +5346,8 @@
     "size": "XL(22)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE55202329CXL22"
   },
   {
     "brand": "Cube",
@@ -4910,7 +5358,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE7720252729CXL"
   },
   {
     "brand": "Cube",
@@ -4921,7 +5370,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CXL"
   },
   {
     "brand": "Cube",
@@ -4932,7 +5382,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CXL"
   },
   {
     "brand": "Cube",
@@ -4943,7 +5394,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CXL"
   },
   {
     "brand": "Cube",
@@ -4954,7 +5406,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE44202329CXL"
   },
   {
     "brand": "Cube",
@@ -4965,7 +5418,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CXL"
   },
   {
     "brand": "Cube",
@@ -4976,7 +5430,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CXL"
   },
   {
     "brand": "Cube",
@@ -4987,7 +5442,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CXL"
   },
   {
     "brand": "Cube",
@@ -4998,7 +5454,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE55202329CXL"
   },
   {
     "brand": "Cube",
@@ -5009,7 +5466,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AXL"
   },
   {
     "brand": "Cube",
@@ -5020,7 +5478,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AXL"
   },
   {
     "brand": "Cube",
@@ -5031,7 +5490,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CXL"
   },
   {
     "brand": "Cube",
@@ -5042,7 +5502,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CXL"
   },
   {
     "brand": "Cube",
@@ -5053,7 +5514,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOONE77202329CXL"
   },
   {
     "brand": "Cube",
@@ -5064,7 +5526,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBETWO15HPC202029C21"
   },
   {
     "brand": "Cube",
@@ -5075,7 +5538,8 @@
     "size": "XL(21)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBETWO15HPC202029C21"
   },
   {
     "brand": "Cube",
@@ -5086,7 +5550,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229A23"
   },
   {
     "brand": "Cube",
@@ -5097,7 +5562,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229A23"
   },
   {
     "brand": "Cube",
@@ -5108,7 +5574,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID625202229A23"
   },
   {
     "brand": "Cube",
@@ -5119,7 +5586,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5130,7 +5598,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5141,7 +5610,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5152,7 +5622,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5163,7 +5634,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5174,7 +5646,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5185,7 +5658,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5196,7 +5670,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5207,7 +5682,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5218,7 +5694,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5229,7 +5706,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5240,7 +5718,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5251,7 +5730,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5262,7 +5742,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5273,7 +5754,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5284,7 +5766,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5295,7 +5778,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5306,7 +5790,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID750202229AXXL23"
   },
   {
     "brand": "Cube",
@@ -5317,7 +5802,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5328,7 +5814,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5339,7 +5826,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5350,7 +5838,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5361,7 +5850,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5372,7 +5862,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5383,7 +5874,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5394,7 +5886,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5405,7 +5898,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5416,7 +5910,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AXXL"
   },
   {
     "brand": "Cube",
@@ -5427,7 +5922,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AXXL23"
   },
   {
     "brand": "Cube",
@@ -5438,7 +5934,8 @@
     "size": "XXL(23)",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRIDPERFORMANCE202129AXXL23"
   },
   {
     "brand": "Cube",
@@ -5449,7 +5946,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AXXL"
   },
   {
     "brand": "Cube",
@@ -5460,7 +5958,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBESTEREOONE77202229AXXL"
   },
   {
     "brand": "Cube",
@@ -5471,7 +5970,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEACID202224AONESIZE"
   },
   {
     "brand": "Cube",
@@ -5482,7 +5982,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO240202124AONESIZE"
   },
   {
     "brand": "Cube",
@@ -5493,6 +5994,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREO240202124AONESIZE"
   }
 ]

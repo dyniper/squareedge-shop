@@ -8,7 +8,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSDEFINEAL130201929AS"
   },
   {
     "brand": "NS",
@@ -19,7 +20,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSEFINE20222729AS"
   },
   {
     "brand": "NS",
@@ -30,7 +32,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSDEFINE201929CM"
   },
   {
     "brand": "NS",
@@ -41,7 +44,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDEFINE150AL202029AM"
   },
   {
     "brand": "NS",
@@ -52,7 +56,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDEFINEAL17020212729AM"
   },
   {
     "brand": "NS",
@@ -63,7 +68,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSEFINE20222729AM"
   },
   {
     "brand": "NS",
@@ -74,7 +80,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSEFINE20222729AM"
   },
   {
     "brand": "NS",
@@ -85,7 +92,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSECCENTRIC201929AM"
   },
   {
     "brand": "NS",
@@ -96,7 +104,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSECCENTRIC201929AM"
   },
   {
     "brand": "NS",
@@ -107,7 +116,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSECCENTRIC201929AM"
   },
   {
     "brand": "NS",
@@ -117,7 +127,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSFUZZ202027AM"
   },
   {
     "brand": "NS",
@@ -128,7 +139,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDEFINE150201929CL"
   },
   {
     "brand": "NS",
@@ -139,7 +151,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSDEFINEAL160202027AL"
   },
   {
     "brand": "NS",
@@ -150,7 +163,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSDEFINE202029AL"
   },
   {
     "brand": "NS",
@@ -161,7 +175,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDEFINE170AL20212729AL"
   },
   {
     "brand": "NS",
@@ -172,7 +187,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDEFINE202429AL"
   },
   {
     "brand": "NS",
@@ -183,7 +199,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSEFINE20222729AL"
   },
   {
     "brand": "NS",
@@ -193,7 +210,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSFUZZ201929AL"
   },
   {
     "brand": "NS",
@@ -203,7 +221,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSCLASH202126AONESIZE"
   },
   {
     "brand": "NS",
@@ -213,7 +232,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWNSDECADE202026AONESIZE"
   },
   {
     "brand": "NS",
@@ -224,7 +244,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMETROPOLIS201926AONESIZE"
   },
   {
     "brand": "NS",
@@ -235,7 +256,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMETROPOLIS201926AONESIZE"
   },
   {
     "brand": "NS",
@@ -246,7 +268,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMETROPOLIS201926AONESIZE"
   },
   {
     "brand": "NS",
@@ -257,7 +280,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMOVEMENT202126AONESIZE"
   },
   {
     "brand": "NS",
@@ -268,7 +292,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMOVEMENT202126AONESIZE"
   },
   {
     "brand": "NS",
@@ -279,6 +304,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWNSMOVEMENT202126AONESIZE"
   }
 ]

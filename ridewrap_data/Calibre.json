@@ -8,7 +8,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AS"
   },
   {
     "brand": "Calibre",
@@ -19,7 +20,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AS"
   },
   {
     "brand": "Calibre",
@@ -29,7 +31,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRERAKE202027AS"
   },
   {
     "brand": "Calibre",
@@ -39,7 +42,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRERAKE202027AM"
   },
   {
     "brand": "Calibre",
@@ -50,7 +54,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202329AM"
   },
   {
     "brand": "Calibre",
@@ -61,7 +66,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AM"
   },
   {
     "brand": "Calibre",
@@ -72,7 +78,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AM"
   },
   {
     "brand": "Calibre",
@@ -82,7 +89,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCALIBREBOSSNUT202429AM"
   },
   {
     "brand": "Calibre",
@@ -92,7 +100,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCALIBREBOSSNUT202429AL"
   },
   {
     "brand": "Calibre",
@@ -103,7 +112,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AL"
   },
   {
     "brand": "Calibre",
@@ -114,7 +124,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRELINE202327AL"
   },
   {
     "brand": "Calibre",
@@ -124,6 +135,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCALIBRERAKE202027AL"
   }
 ]

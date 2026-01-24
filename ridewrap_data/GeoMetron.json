@@ -7,7 +7,8 @@
     "size": "Long",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGEOMETRONG120192729AS"
   },
   {
     "brand": "GeoMetron",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGEOMETRONG12025MX29AS"
   },
   {
     "brand": "GeoMetron",
@@ -27,7 +29,8 @@
     "size": "Longer",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGEOMETRONG120192729AM"
   },
   {
     "brand": "GeoMetron",
@@ -37,7 +40,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGEOMETRONG12025MX29AM"
   },
   {
     "brand": "GeoMetron",
@@ -47,7 +51,8 @@
     "size": "Longest",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGEOMETRONG120192729ALONGEST"
   },
   {
     "brand": "GeoMetron",
@@ -57,7 +62,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGEOMETRONG12025MX29AL"
   },
   {
     "brand": "GeoMetron",
@@ -67,7 +73,8 @@
     "size": "Extra Longest",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGEOMETRONG120192729AXL"
   },
   {
     "brand": "GeoMetron",
@@ -77,6 +84,7 @@
     "size": "XX Longest",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGEOMETRONG120192729AXXL"
   }
 ]

@@ -8,7 +8,8 @@
     "size": "17",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRITCHEYULTRA20192927S17"
   },
   {
     "brand": "Ritchey",
@@ -19,7 +20,8 @@
     "size": "17",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRITCHEYULTRA20192927S17"
   },
   {
     "brand": "Ritchey",
@@ -30,7 +32,8 @@
     "size": "20.5",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRITCHEYULTRA20192927S205"
   },
   {
     "brand": "Ritchey",
@@ -41,6 +44,7 @@
     "size": "20.5",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRITCHEYULTRA20192927S205"
   }
 ]

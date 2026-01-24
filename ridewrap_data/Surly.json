@@ -8,7 +8,8 @@
     "size": "XS",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SXS"
   },
   {
     "brand": "Surly",
@@ -19,7 +20,8 @@
     "size": "XS",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSURLYKARATEMONKEYRIGIDFORK20192927SXS"
   },
   {
     "brand": "Surly",
@@ -30,7 +32,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SS"
   },
   {
     "brand": "Surly",
@@ -41,7 +44,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SS"
   },
   {
     "brand": "Surly",
@@ -51,7 +55,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSURLYLOWSIDE201827SS"
   },
   {
     "brand": "Surly",
@@ -62,7 +67,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SM"
   },
   {
     "brand": "Surly",
@@ -73,7 +79,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SM"
   },
   {
     "brand": "Surly",
@@ -83,7 +90,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYOGRE201829SM"
   },
   {
     "brand": "Surly",
@@ -94,7 +102,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SL"
   },
   {
     "brand": "Surly",
@@ -105,7 +114,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SL"
   },
   {
     "brand": "Surly",
@@ -116,7 +126,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKRAMPUS201729SL"
   },
   {
     "brand": "Surly",
@@ -127,7 +138,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKRAMPUSRIGIDFORK201729SL"
   },
   {
     "brand": "Surly",
@@ -137,7 +149,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSURLYLOWSIDE201827SL"
   },
   {
     "brand": "Surly",
@@ -147,7 +160,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSURLYOGRE201829SL"
   },
   {
     "brand": "Surly",
@@ -158,7 +172,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SXL"
   },
   {
     "brand": "Surly",
@@ -169,7 +184,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKARATEMONKEY20192927SXL"
   },
   {
     "brand": "Surly",
@@ -180,7 +196,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKRAMPUS201729SXL"
   },
   {
     "brand": "Surly",
@@ -191,6 +208,7 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSURLYKRAMPUSRIGIDFORK201729SXL"
   }
 ]

@@ -7,7 +7,8 @@
     "size": "16.5",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSTANTONSWITCH9ERFS201929S165"
   },
   {
     "brand": "Stanton",
@@ -17,7 +18,8 @@
     "size": "16.5",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ERFS202129TI165"
   },
   {
     "brand": "Stanton",
@@ -28,7 +30,8 @@
     "size": "16.5",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ER201929S165"
   },
   {
     "brand": "Stanton",
@@ -39,7 +42,8 @@
     "size": "16.5",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ER201929S165"
   },
   {
     "brand": "Stanton",
@@ -50,7 +54,8 @@
     "size": "18",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ER201929S18"
   },
   {
     "brand": "Stanton",
@@ -60,7 +65,8 @@
     "size": "18",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSTANTONSWITCH9ERTI202029TI18"
   },
   {
     "brand": "Stanton",
@@ -70,7 +76,8 @@
     "size": "18",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSTANTONSWITCH9ERFS202129TI18"
   },
   {
     "brand": "Stanton",
@@ -81,7 +88,8 @@
     "size": "18",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ER201929S18"
   },
   {
     "brand": "Stanton",
@@ -91,6 +99,7 @@
     "size": "18",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSTANTONSWITCH9ERFS201929S18"
   }
 ]

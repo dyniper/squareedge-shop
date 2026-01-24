@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CM"
   },
   {
     "brand": "Amflow",
@@ -19,7 +20,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CM"
   },
   {
     "brand": "Amflow",
@@ -30,7 +32,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CL"
   },
   {
     "brand": "Amflow",
@@ -41,7 +44,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CL"
   },
   {
     "brand": "Amflow",
@@ -52,7 +56,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CXL"
   },
   {
     "brand": "Amflow",
@@ -63,7 +68,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CXL"
   },
   {
     "brand": "Amflow",
@@ -74,7 +80,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CXXL"
   },
   {
     "brand": "Amflow",
@@ -85,6 +92,7 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CXXL"
   }
 ]

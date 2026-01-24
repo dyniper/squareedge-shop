@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRSDMIDDLECHILD20212927SM"
   },
   {
     "brand": "RSD",
@@ -19,7 +20,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRSDSERGEANT20232729AM"
   },
   {
     "brand": "RSD",
@@ -30,6 +32,7 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWRSDRS291202029SL"
   }
 ]

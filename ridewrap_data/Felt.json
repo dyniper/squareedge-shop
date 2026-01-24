@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFELCOM201927CM0"
   },
   {
     "brand": "Felt",
@@ -17,7 +18,8 @@
     "size": "L(20)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFELDOC201829CL0"
   },
   {
     "brand": "Felt",
@@ -27,6 +29,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFELCOM201927CXL"
   }
 ]

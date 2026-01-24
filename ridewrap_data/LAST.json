@@ -8,7 +8,8 @@
     "size": "170",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C170"
   },
   {
     "brand": "LAST",
@@ -19,7 +20,8 @@
     "size": "165",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCINTO202129C170"
   },
   {
     "brand": "LAST",
@@ -30,7 +32,8 @@
     "size": "165",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCINTO202129C165"
   },
   {
     "brand": "LAST",
@@ -41,7 +44,8 @@
     "size": "170",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C165"
   },
   {
     "brand": "LAST",
@@ -51,7 +55,8 @@
     "size": "165",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCOAL202429A165"
   },
   {
     "brand": "LAST",
@@ -61,7 +66,8 @@
     "size": "165",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTGLEN202429A165"
   },
   {
     "brand": "LAST",
@@ -72,7 +78,8 @@
     "size": "170",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTASCO202229C165"
   },
   {
     "brand": "LAST",
@@ -83,7 +90,8 @@
     "size": "170",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTASCO202229C170"
   },
   {
     "brand": "LAST",
@@ -94,7 +102,8 @@
     "size": "165",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTTARVO20232729C165"
   },
   {
     "brand": "LAST",
@@ -104,7 +113,8 @@
     "size": "175",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTGLEN202429A175"
   },
   {
     "brand": "LAST",
@@ -115,7 +125,8 @@
     "size": "180",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTASCO202229C180"
   },
   {
     "brand": "LAST",
@@ -125,7 +136,8 @@
     "size": "175",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCOAL202429A175"
   },
   {
     "brand": "LAST",
@@ -136,7 +148,8 @@
     "size": "175",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTTARVO20232729C175"
   },
   {
     "brand": "LAST",
@@ -147,7 +160,8 @@
     "size": "175",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCINTO202129C180"
   },
   {
     "brand": "LAST",
@@ -158,7 +172,8 @@
     "size": "180",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C180"
   },
   {
     "brand": "LAST",
@@ -169,7 +184,8 @@
     "size": "175",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCINTO202129C175"
   },
   {
     "brand": "LAST",
@@ -180,7 +196,8 @@
     "size": "180",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTASCO202229C175"
   },
   {
     "brand": "LAST",
@@ -191,7 +208,8 @@
     "size": "180",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C175"
   },
   {
     "brand": "LAST",
@@ -202,7 +220,8 @@
     "size": "190",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C190"
   },
   {
     "brand": "LAST",
@@ -212,7 +231,8 @@
     "size": "185",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTGLEN202429A185"
   },
   {
     "brand": "LAST",
@@ -223,7 +243,8 @@
     "size": "190",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTASCO202229C185"
   },
   {
     "brand": "LAST",
@@ -234,7 +255,8 @@
     "size": "190",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCELOS202229C190"
   },
   {
     "brand": "LAST",
@@ -245,7 +267,8 @@
     "size": "185",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTTARVO20232729C185"
   },
   {
     "brand": "LAST",
@@ -255,7 +278,8 @@
     "size": "185",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCOAL202429A185"
   },
   {
     "brand": "LAST",
@@ -266,7 +290,8 @@
     "size": "185",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCINTO202129C185"
   },
   {
     "brand": "LAST",
@@ -277,7 +302,8 @@
     "size": "190",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTASCO202229C190"
   },
   {
     "brand": "LAST",
@@ -288,7 +314,8 @@
     "size": "185",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCINTO202129C190"
   },
   {
     "brand": "LAST",
@@ -299,7 +326,8 @@
     "size": "200",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTASCO202229C200"
   },
   {
     "brand": "LAST",
@@ -310,7 +338,8 @@
     "size": "195",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTTARVO20232729C195"
   },
   {
     "brand": "LAST",
@@ -320,7 +349,8 @@
     "size": "195",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTGLEN202429A195"
   },
   {
     "brand": "LAST",
@@ -331,7 +361,8 @@
     "size": "200",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTASCO202229C200"
   },
   {
     "brand": "LAST",
@@ -342,7 +373,8 @@
     "size": "200",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCELOS202229C200"
   },
   {
     "brand": "LAST",
@@ -352,7 +384,8 @@
     "size": "195",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCOAL202429A195"
   },
   {
     "brand": "LAST",
@@ -363,7 +396,8 @@
     "size": "200",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCELOS202229C195"
   },
   {
     "brand": "LAST",
@@ -374,7 +408,8 @@
     "size": "195",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLASTCINTO202129C195"
   },
   {
     "brand": "LAST",
@@ -385,6 +420,7 @@
     "size": "195",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWLASTCINTO202129C200"
   }
 ]

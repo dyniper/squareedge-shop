@@ -8,7 +8,8 @@
     "size": "51",
     "frame_material": "Steel",
     "wheel_size": "700/650",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSOMAFOGCUTTERV22018700650S51"
   },
   {
     "brand": "Soma",
@@ -18,7 +19,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSOMABSIDESTANDARD201627SL"
   },
   {
     "brand": "Soma",
@@ -29,7 +31,8 @@
     "size": "58",
     "frame_material": "Steel",
     "wheel_size": "700/650",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSOMADOUBLECROSS2021700650S58"
   },
   {
     "brand": "Soma",
@@ -39,6 +42,7 @@
     "size": "17.5",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSOMAJUICEV1201229S175"
   }
 ]

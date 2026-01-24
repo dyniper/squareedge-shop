@@ -7,7 +7,8 @@
     "size": "S2",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWESKERJAPHY202129SS2"
   },
   {
     "brand": "Esker",
@@ -17,7 +18,8 @@
     "size": "S2",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWESKERJAPHY202229TIS2"
   },
   {
     "brand": "Esker",
@@ -28,7 +30,8 @@
     "size": "S1",
     "frame_material": "Titanium",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWESKERHAYDUKE20222927TIS1"
   },
   {
     "brand": "Esker",
@@ -38,7 +41,8 @@
     "size": "S2",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWESKERSMOKEY202429SS2"
   },
   {
     "brand": "Esker",
@@ -48,7 +52,8 @@
     "size": "S3",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWESKERJAPHY202129SS3"
   },
   {
     "brand": "Esker",
@@ -59,7 +64,8 @@
     "size": "S2",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWESKERHAYDUKE20232927SS2"
   },
   {
     "brand": "Esker",
@@ -69,7 +75,8 @@
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWESKERROWL202129CS4"
   },
   {
     "brand": "Esker",
@@ -79,6 +86,7 @@
     "size": "S5",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWESKERJAPHY202129SS5"
   }
 ]

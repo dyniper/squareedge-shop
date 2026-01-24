@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINARELLODOGMAXC202429CS"
   },
   {
     "brand": "Pinarello",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINXC202429CS0"
   },
   {
     "brand": "Pinarello",
@@ -27,7 +29,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINARELLODOGMAXC202429CM"
   },
   {
     "brand": "Pinarello",
@@ -37,7 +40,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINXC202429CM0"
   },
   {
     "brand": "Pinarello",
@@ -47,7 +51,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINARELLODOGMAXC202429CL"
   },
   {
     "brand": "Pinarello",
@@ -57,6 +62,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPINXC202429CL0"
   }
 ]

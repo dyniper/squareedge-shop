@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWMOOTSWOMBLE202029TIM"
   },
   {
     "brand": "Moots",
@@ -19,7 +20,8 @@
     "size": "L",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOOTSWOMBLE202029TIL"
   },
   {
     "brand": "Moots",
@@ -30,6 +32,7 @@
     "size": "L",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWMOOTSWOMBLEAXS202029TIL"
   }
 ]

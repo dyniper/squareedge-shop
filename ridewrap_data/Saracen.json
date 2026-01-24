@@ -8,7 +8,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSARARI202127AM0"
   },
   {
     "brand": "Saracen",
@@ -19,7 +20,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWSARARI202127AM0"
   },
   {
     "brand": "Saracen",
@@ -30,7 +32,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENARIAL60202129AM"
   },
   {
     "brand": "Saracen",
@@ -41,7 +44,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENARIAL60202129AM"
   },
   {
     "brand": "Saracen",
@@ -52,7 +56,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENARIAL60202129AM"
   },
   {
     "brand": "Saracen",
@@ -63,7 +68,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENARIAL60202129AM"
   },
   {
     "brand": "Saracen",
@@ -74,7 +80,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20232729AM"
   },
   {
     "brand": "Saracen",
@@ -85,7 +92,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20232729AM"
   },
   {
     "brand": "Saracen",
@@ -96,7 +104,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20232729AM"
   },
   {
     "brand": "Saracen",
@@ -107,7 +116,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST201927CL"
   },
   {
     "brand": "Saracen",
@@ -118,7 +128,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST201927CL"
   },
   {
     "brand": "Saracen",
@@ -129,7 +140,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST201927CL"
   },
   {
     "brand": "Saracen",
@@ -140,7 +152,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20212729CL"
   },
   {
     "brand": "Saracen",
@@ -151,7 +164,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20212729CL"
   },
   {
     "brand": "Saracen",
@@ -162,6 +176,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSARACENMYST20212729CL"
   }
 ]

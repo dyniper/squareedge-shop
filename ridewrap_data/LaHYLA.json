@@ -7,7 +7,8 @@
     "size": "ONESIZE",
     "frame_material": "Carbon",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLAHYLADREW202524CONESIZE"
   },
   {
     "brand": "LaHYLA",
@@ -17,6 +18,7 @@
     "size": "ONESIZE",
     "frame_material": "Carbon",
     "wheel_size": "24/26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWLAHYLADREWMULLET20252426CONESIZE"
   }
 ]

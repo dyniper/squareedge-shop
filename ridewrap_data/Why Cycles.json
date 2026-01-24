@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWWHYCYCLESELJEFE202129TIM"
   },
   {
     "brand": "Why Cycles",
@@ -17,7 +18,8 @@
     "size": "L",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYCYCLESELJEFE202129TIL"
   },
   {
     "brand": "Why Cycles",
@@ -27,7 +29,8 @@
     "size": "XL",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYCYCLESELJEFE202129TIXL"
   },
   {
     "brand": "Why Cycles",
@@ -38,6 +41,7 @@
     "size": "XL",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYCYCLESWAYWARDV2202029TIXL"
   }
 ]

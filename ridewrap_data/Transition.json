@@ -7,7 +7,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827AXS"
   },
   {
     "brand": "Transition",
@@ -17,7 +18,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202327AXS"
   },
   {
     "brand": "Transition",
@@ -27,7 +29,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202327CXS"
   },
   {
     "brand": "Transition",
@@ -37,7 +40,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202027CXS"
   },
   {
     "brand": "Transition",
@@ -47,7 +51,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202127AXS"
   },
   {
     "brand": "Transition",
@@ -57,7 +62,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202527AXS"
   },
   {
     "brand": "Transition",
@@ -67,7 +73,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202527AXS"
   },
   {
     "brand": "Transition",
@@ -77,7 +84,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202527CXS"
   },
   {
     "brand": "Transition",
@@ -87,7 +95,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827AS0"
   },
   {
     "brand": "Transition",
@@ -97,7 +106,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827CS0"
   },
   {
     "brand": "Transition",
@@ -107,7 +117,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20212729AS"
   },
   {
     "brand": "Transition",
@@ -117,7 +128,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20222729CS"
   },
   {
     "brand": "Transition",
@@ -127,7 +139,8 @@
     "size": "Short",
     "frame_material": "Steel",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPJB201926AS0"
   },
   {
     "brand": "Transition",
@@ -137,7 +150,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORCX20252729CS"
   },
   {
     "brand": "Transition",
@@ -147,7 +161,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORSX20252729CS"
   },
   {
     "brand": "Transition",
@@ -157,7 +172,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729AS"
   },
   {
     "brand": "Transition",
@@ -167,7 +183,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729CS"
   },
   {
     "brand": "Transition",
@@ -177,7 +194,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329AS"
   },
   {
     "brand": "Transition",
@@ -187,7 +205,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329CS"
   },
   {
     "brand": "Transition",
@@ -198,7 +217,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202229CS"
   },
   {
     "brand": "Transition",
@@ -209,7 +229,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202329CS"
   },
   {
     "brand": "Transition",
@@ -219,7 +240,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202027CS"
   },
   {
     "brand": "Transition",
@@ -229,7 +251,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202127AS"
   },
   {
     "brand": "Transition",
@@ -239,7 +262,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202527AS"
   },
   {
     "brand": "Transition",
@@ -249,7 +273,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRASEN201829AS0"
   },
   {
     "brand": "Transition",
@@ -259,7 +284,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829CS0"
   },
   {
     "brand": "Transition",
@@ -269,7 +295,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN202029CS0"
   },
   {
     "brand": "Transition",
@@ -279,7 +306,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202129AS"
   },
   {
     "brand": "Transition",
@@ -289,7 +317,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL2025MX29AS"
   },
   {
     "brand": "Transition",
@@ -299,7 +328,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202429CS"
   },
   {
     "brand": "Transition",
@@ -309,7 +339,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASMU201829CS0"
   },
   {
     "brand": "Transition",
@@ -319,7 +350,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329AS"
   },
   {
     "brand": "Transition",
@@ -329,7 +361,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329CS"
   },
   {
     "brand": "Transition",
@@ -339,7 +372,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202429AS"
   },
   {
     "brand": "Transition",
@@ -349,7 +383,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129AS"
   },
   {
     "brand": "Transition",
@@ -359,7 +394,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129CS"
   },
   {
     "brand": "Transition",
@@ -369,7 +405,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASPU202029CS0"
   },
   {
     "brand": "Transition",
@@ -380,7 +417,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202429CS"
   },
   {
     "brand": "Transition",
@@ -390,7 +428,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRATR1202027CS0"
   },
   {
     "brand": "Transition",
@@ -400,7 +439,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120232729AS"
   },
   {
     "brand": "Transition",
@@ -410,7 +450,8 @@
     "size": "S",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTRANSAM202429SS"
   },
   {
     "brand": "Transition",
@@ -420,7 +461,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONBOTTLEROCKET202627AM"
   },
   {
     "brand": "Transition",
@@ -430,7 +472,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827AM0"
   },
   {
     "brand": "Transition",
@@ -440,7 +483,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827CM0"
   },
   {
     "brand": "Transition",
@@ -450,7 +494,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20212729AM"
   },
   {
     "brand": "Transition",
@@ -460,7 +505,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20222729CM"
   },
   {
     "brand": "Transition",
@@ -470,7 +516,8 @@
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPJB201926AM0"
   },
   {
     "brand": "Transition",
@@ -480,7 +527,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORCX20252729CM"
   },
   {
     "brand": "Transition",
@@ -490,7 +538,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORSX20252729CM"
   },
   {
     "brand": "Transition",
@@ -500,7 +549,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729AM"
   },
   {
     "brand": "Transition",
@@ -510,7 +560,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729CM"
   },
   {
     "brand": "Transition",
@@ -520,7 +571,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329AM"
   },
   {
     "brand": "Transition",
@@ -530,7 +582,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329CM"
   },
   {
     "brand": "Transition",
@@ -541,7 +594,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202229CM"
   },
   {
     "brand": "Transition",
@@ -552,7 +606,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202329CM"
   },
   {
     "brand": "Transition",
@@ -562,7 +617,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASCO201827AM0"
   },
   {
     "brand": "Transition",
@@ -572,7 +628,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASCO202027CM0"
   },
   {
     "brand": "Transition",
@@ -582,7 +639,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202127AM"
   },
   {
     "brand": "Transition",
@@ -592,7 +650,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSCOUT202527AM"
   },
   {
     "brand": "Transition",
@@ -602,7 +661,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829AM0"
   },
   {
     "brand": "Transition",
@@ -612,7 +672,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829CM0"
   },
   {
     "brand": "Transition",
@@ -622,7 +683,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN202029CM0"
   },
   {
     "brand": "Transition",
@@ -632,7 +694,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202129AM"
   },
   {
     "brand": "Transition",
@@ -642,7 +705,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL2025MX29AM"
   },
   {
     "brand": "Transition",
@@ -652,7 +716,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202429CM"
   },
   {
     "brand": "Transition",
@@ -662,7 +727,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASMU201829CM0"
   },
   {
     "brand": "Transition",
@@ -672,7 +738,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329AM"
   },
   {
     "brand": "Transition",
@@ -682,7 +749,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329CM"
   },
   {
     "brand": "Transition",
@@ -692,7 +760,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202429AM"
   },
   {
     "brand": "Transition",
@@ -702,7 +771,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129AM"
   },
   {
     "brand": "Transition",
@@ -712,7 +782,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129CM"
   },
   {
     "brand": "Transition",
@@ -722,7 +793,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASPU202029CM0"
   },
   {
     "brand": "Transition",
@@ -733,7 +805,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202429CM"
   },
   {
     "brand": "Transition",
@@ -743,7 +816,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRATR1202027CM0"
   },
   {
     "brand": "Transition",
@@ -753,7 +827,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120232729AM"
   },
   {
     "brand": "Transition",
@@ -763,7 +838,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR112025MX29AM"
   },
   {
     "brand": "Transition",
@@ -773,7 +849,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTRANSAM202429SM"
   },
   {
     "brand": "Transition",
@@ -783,7 +860,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL201527AL"
   },
   {
     "brand": "Transition",
@@ -793,7 +871,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827AL0"
   },
   {
     "brand": "Transition",
@@ -803,7 +882,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827CL0"
   },
   {
     "brand": "Transition",
@@ -813,7 +893,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20212729AL"
   },
   {
     "brand": "Transition",
@@ -823,7 +904,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20222729CL"
   },
   {
     "brand": "Transition",
@@ -833,7 +915,8 @@
     "size": "X-Long",
     "frame_material": "Steel",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPJB201926AL0"
   },
   {
     "brand": "Transition",
@@ -843,7 +926,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORCX20252729CL"
   },
   {
     "brand": "Transition",
@@ -853,7 +937,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORSX20252729CL"
   },
   {
     "brand": "Transition",
@@ -863,7 +948,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729AL"
   },
   {
     "brand": "Transition",
@@ -873,7 +959,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAYPNW20232729CL"
   },
   {
     "brand": "Transition",
@@ -883,7 +970,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329AL"
   },
   {
     "brand": "Transition",
@@ -893,7 +981,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329CL"
   },
   {
     "brand": "Transition",
@@ -904,7 +993,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202229CL"
   },
   {
     "brand": "Transition",
@@ -915,7 +1005,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202329CL"
   },
   {
     "brand": "Transition",
@@ -925,7 +1016,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASCO202027CL0"
   },
   {
     "brand": "Transition",
@@ -935,7 +1027,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSCOUT202127AL"
   },
   {
     "brand": "Transition",
@@ -945,7 +1038,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829AL0"
   },
   {
     "brand": "Transition",
@@ -955,7 +1049,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829CL0"
   },
   {
     "brand": "Transition",
@@ -965,7 +1060,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN202029CL0"
   },
   {
     "brand": "Transition",
@@ -975,7 +1071,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202129AL"
   },
   {
     "brand": "Transition",
@@ -985,7 +1082,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL2025MX29AL"
   },
   {
     "brand": "Transition",
@@ -995,7 +1093,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202429CL"
   },
   {
     "brand": "Transition",
@@ -1005,7 +1104,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASMU201829CL0"
   },
   {
     "brand": "Transition",
@@ -1015,7 +1115,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329AL"
   },
   {
     "brand": "Transition",
@@ -1025,7 +1126,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329CL"
   },
   {
     "brand": "Transition",
@@ -1035,7 +1137,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202429AL"
   },
   {
     "brand": "Transition",
@@ -1045,7 +1148,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129AL"
   },
   {
     "brand": "Transition",
@@ -1055,7 +1159,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129CL"
   },
   {
     "brand": "Transition",
@@ -1065,7 +1170,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASPU202029CL0"
   },
   {
     "brand": "Transition",
@@ -1076,7 +1182,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202429CL"
   },
   {
     "brand": "Transition",
@@ -1086,7 +1193,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRATR1202027CL0"
   },
   {
     "brand": "Transition",
@@ -1096,7 +1204,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120232729AL"
   },
   {
     "brand": "Transition",
@@ -1106,7 +1215,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTRANSAM202429SL"
   },
   {
     "brand": "Transition",
@@ -1116,7 +1226,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAVAN201829CL0"
   },
   {
     "brand": "Transition",
@@ -1126,7 +1237,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827AXL"
   },
   {
     "brand": "Transition",
@@ -1136,7 +1248,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRAPAT201827CXL"
   },
   {
     "brand": "Transition",
@@ -1146,7 +1259,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20212729AXL"
   },
   {
     "brand": "Transition",
@@ -1156,7 +1270,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPATROL20222729CXL"
   },
   {
     "brand": "Transition",
@@ -1166,7 +1281,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORCX20252729CXL"
   },
   {
     "brand": "Transition",
@@ -1176,7 +1292,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREGULATORSX20252729CXL"
   },
   {
     "brand": "Transition",
@@ -1186,7 +1303,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729AXL"
   },
   {
     "brand": "Transition",
@@ -1196,7 +1314,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAYPNW20232729CXL"
   },
   {
     "brand": "Transition",
@@ -1206,7 +1325,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329AXL"
   },
   {
     "brand": "Transition",
@@ -1216,7 +1336,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329CXL"
   },
   {
     "brand": "Transition",
@@ -1227,7 +1348,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202229CXL"
   },
   {
     "brand": "Transition",
@@ -1238,7 +1360,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONREPEATER202329CXL"
   },
   {
     "brand": "Transition",
@@ -1248,7 +1371,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASCO202027CXL"
   },
   {
     "brand": "Transition",
@@ -1258,7 +1382,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829AXL"
   },
   {
     "brand": "Transition",
@@ -1268,7 +1393,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829CXL"
   },
   {
     "brand": "Transition",
@@ -1278,7 +1404,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN202029CXL"
   },
   {
     "brand": "Transition",
@@ -1288,7 +1415,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202129AXL"
   },
   {
     "brand": "Transition",
@@ -1298,7 +1426,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL2025MX29AXL"
   },
   {
     "brand": "Transition",
@@ -1308,7 +1437,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202429CXL"
   },
   {
     "brand": "Transition",
@@ -1318,7 +1448,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASMU201829CXL"
   },
   {
     "brand": "Transition",
@@ -1328,7 +1459,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329AXL"
   },
   {
     "brand": "Transition",
@@ -1338,7 +1470,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329CXL"
   },
   {
     "brand": "Transition",
@@ -1348,7 +1481,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202429AXL"
   },
   {
     "brand": "Transition",
@@ -1358,7 +1492,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129AXL"
   },
   {
     "brand": "Transition",
@@ -1368,7 +1503,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129CXL"
   },
   {
     "brand": "Transition",
@@ -1378,7 +1514,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202029CXL"
   },
   {
     "brand": "Transition",
@@ -1389,7 +1526,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202429CXL"
   },
   {
     "brand": "Transition",
@@ -1399,7 +1537,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRATR1202027CXL"
   },
   {
     "brand": "Transition",
@@ -1409,7 +1548,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120232729AXL"
   },
   {
     "brand": "Transition",
@@ -1419,7 +1559,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTRANSAM202429SXL"
   },
   {
     "brand": "Transition",
@@ -1429,7 +1570,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY20232729AXXL"
   },
   {
     "brand": "Transition",
@@ -1439,7 +1581,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAYPNW20232729CXXL"
   },
   {
     "brand": "Transition",
@@ -1449,7 +1592,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329AXXL"
   },
   {
     "brand": "Transition",
@@ -1459,7 +1603,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRELAY202329CXXL"
   },
   {
     "brand": "Transition",
@@ -1469,7 +1614,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN201829AXXL"
   },
   {
     "brand": "Transition",
@@ -1479,7 +1625,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRASEN202029CXXL"
   },
   {
     "brand": "Transition",
@@ -1489,7 +1636,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202129AXXL"
   },
   {
     "brand": "Transition",
@@ -1499,7 +1647,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL2025MX29AXXL"
   },
   {
     "brand": "Transition",
@@ -1509,7 +1658,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSENTINEL202429CXXL"
   },
   {
     "brand": "Transition",
@@ -1519,7 +1669,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329AXXL"
   },
   {
     "brand": "Transition",
@@ -1529,7 +1680,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202329CXXL"
   },
   {
     "brand": "Transition",
@@ -1539,7 +1691,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSMUGGLER202429AXXL"
   },
   {
     "brand": "Transition",
@@ -1549,7 +1702,8 @@
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129AXXL"
   },
   {
     "brand": "Transition",
@@ -1559,7 +1713,8 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPIRE202129CXXL"
   },
   {
     "brand": "Transition",
@@ -1569,7 +1724,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONBANDIT202520AONESIZE"
   },
   {
     "brand": "Transition",
@@ -1579,7 +1735,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRIPCORD202124AONESIZE"
   },
   {
     "brand": "Transition",
@@ -1589,6 +1746,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONRIPCORD202524AONESIZE"
   }
 ]

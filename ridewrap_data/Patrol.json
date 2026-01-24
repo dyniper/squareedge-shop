@@ -7,7 +7,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPATROLC024202124AONESIZE"
   },
   {
     "brand": "Patrol",
@@ -17,6 +18,7 @@
     "size": "ONESIZE",
     "frame_material": "Carbon",
     "wheel_size": "20",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPATROLC020202120CONESIZE"
   }
 ]

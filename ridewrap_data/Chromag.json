@@ -7,7 +7,8 @@
     "size": "S2 (26'')",
     "frame_material": "Alloy",
     "wheel_size": "Kids",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCHROMAGMINORTHREAT2023KIDSAS226"
   },
   {
     "brand": "Chromag",
@@ -17,6 +18,7 @@
     "size": "S2",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCHROMAGMINORTHREAT202126AS2"
   }
 ]

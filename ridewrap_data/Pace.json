@@ -7,7 +7,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC429202429SM"
   },
   {
     "brand": "Pace",
@@ -17,7 +18,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPACERC52920212927SM"
   },
   {
     "brand": "Pace",
@@ -27,7 +29,8 @@
     "size": "M",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPACERC529202429SM"
   },
   {
     "brand": "Pace",
@@ -37,7 +40,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC29520212927CL"
   },
   {
     "brand": "Pace",
@@ -47,7 +51,8 @@
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC429202429SL"
   },
   {
     "brand": "Pace",
@@ -57,7 +62,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29/27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC29520212927CXL"
   },
   {
     "brand": "Pace",
@@ -67,7 +73,8 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC429202429SXL"
   },
   {
     "brand": "Pace",
@@ -77,6 +84,7 @@
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWPACERC529202429SXL"
   }
 ]

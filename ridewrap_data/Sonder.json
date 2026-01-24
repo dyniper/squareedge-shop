@@ -8,7 +8,8 @@
     "size": "L",
     "frame_material": "Titanium",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSONDERBROKENROADPINION202129TIL"
   },
   {
     "brand": "Sonder",
@@ -18,6 +19,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWSONDEREVOL20242729AXL"
   }
 ]

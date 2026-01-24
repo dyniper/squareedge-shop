@@ -8,7 +8,8 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDMRRHYTHM202226AONESIZE"
   },
   {
     "brand": "DMR",
@@ -19,6 +20,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDMRRHYTHM202226AONESIZE"
   }
 ]

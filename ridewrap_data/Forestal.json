@@ -7,7 +7,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALCYON202129CS"
   },
   {
     "brand": "Forestal",
@@ -18,7 +19,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALSIRYON202029CS"
   },
   {
     "brand": "Forestal",
@@ -28,7 +30,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALHYDRA202129CS"
   },
   {
     "brand": "Forestal",
@@ -39,7 +42,8 @@
     "size": "S/M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALCYGNUS202429CSM"
   },
   {
     "brand": "Forestal",
@@ -50,7 +54,8 @@
     "size": "SM",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALSIRYON202429CSM"
   },
   {
     "brand": "Forestal",
@@ -60,7 +65,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALCYON202129AM"
   },
   {
     "brand": "Forestal",
@@ -71,7 +77,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALSIRYON202029CM"
   },
   {
     "brand": "Forestal",
@@ -82,7 +89,8 @@
     "size": "S/M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALECYGNUIS202429CSM"
   },
   {
     "brand": "Forestal",
@@ -92,7 +100,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALHYDRA202129CM"
   },
   {
     "brand": "Forestal",
@@ -102,7 +111,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALHYDRA202129CL"
   },
   {
     "brand": "Forestal",
@@ -113,7 +123,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALSIRYON202429CL"
   },
   {
     "brand": "Forestal",
@@ -124,7 +135,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALSIRYON202029CL"
   },
   {
     "brand": "Forestal",
@@ -135,7 +147,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALCYGNUS202429CL"
   },
   {
     "brand": "Forestal",
@@ -146,7 +159,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALECYGNUIS202429CL"
   },
   {
     "brand": "Forestal",
@@ -156,7 +170,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALCYON202129AL"
   },
   {
     "brand": "Forestal",
@@ -166,7 +181,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALHYDRA202129CXL"
   },
   {
     "brand": "Forestal",
@@ -177,7 +193,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALECYGNUIS202429CXL"
   },
   {
     "brand": "Forestal",
@@ -187,7 +204,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALCYON202129CXL"
   },
   {
     "brand": "Forestal",
@@ -198,7 +216,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALSIRYON202029CXL"
   },
   {
     "brand": "Forestal",
@@ -209,7 +228,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALCYGNUS202429CXL"
   },
   {
     "brand": "Forestal",
@@ -220,6 +240,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALSIRYON202429CXL"
   }
 ]

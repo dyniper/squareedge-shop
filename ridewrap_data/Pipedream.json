@@ -8,7 +8,8 @@
     "size": "Longish",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPSIR20202927SS0"
   },
   {
     "brand": "Pipedream",
@@ -19,7 +20,8 @@
     "size": "Longish",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMMOXIE20202927SLONGISH"
   },
   {
     "brand": "Pipedream",
@@ -30,7 +32,8 @@
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMSIRIUS20202927SLONG"
   },
   {
     "brand": "Pipedream",
@@ -40,7 +43,8 @@
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPTHE202029SM0"
   },
   {
     "brand": "Pipedream",
@@ -51,7 +55,8 @@
     "size": "Long",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMMOXIE20202927SLONG"
   },
   {
     "brand": "Pipedream",
@@ -62,7 +67,8 @@
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMSIRIUS20202927SLONGER"
   },
   {
     "brand": "Pipedream",
@@ -73,7 +79,8 @@
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMMOXIE20202927SLONGER"
   },
   {
     "brand": "Pipedream",
@@ -83,6 +90,7 @@
     "size": "Longer",
     "frame_material": "Steel",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWPIPEDREAMTHEFULLMOXIE202029SLONGER"
   }
 ]

@@ -8,7 +8,8 @@
     "size": "XXS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AXXS"
   },
   {
     "brand": "Canyon",
@@ -19,7 +20,8 @@
     "size": "XXS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AXXS"
   },
   {
     "brand": "Canyon",
@@ -30,7 +32,8 @@
     "size": "XXS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202127AXXS"
   },
   {
     "brand": "Canyon",
@@ -41,7 +44,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AXS"
   },
   {
     "brand": "Canyon",
@@ -52,7 +56,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AXS"
   },
   {
     "brand": "Canyon",
@@ -63,7 +68,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONNEURON202127AXS"
   },
   {
     "brand": "Canyon",
@@ -74,7 +80,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327AXS"
   },
   {
     "brand": "Canyon",
@@ -85,7 +92,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327AXS"
   },
   {
     "brand": "Canyon",
@@ -96,7 +104,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CXS"
   },
   {
     "brand": "Canyon",
@@ -107,7 +116,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CXS"
   },
   {
     "brand": "Canyon",
@@ -118,7 +128,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CXS"
   },
   {
     "brand": "Canyon",
@@ -129,7 +140,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202227AXS"
   },
   {
     "brand": "Canyon",
@@ -140,7 +152,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202227CXS"
   },
   {
     "brand": "Canyon",
@@ -151,7 +164,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CXS"
   },
   {
     "brand": "Canyon",
@@ -162,7 +176,8 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CXS"
   },
   {
     "brand": "Canyon",
@@ -173,7 +188,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CS"
   },
   {
     "brand": "Canyon",
@@ -184,7 +200,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CS"
   },
   {
     "brand": "Canyon",
@@ -195,7 +212,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CS"
   },
   {
     "brand": "Canyon",
@@ -206,7 +224,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONEXCEED202529CS"
   },
   {
     "brand": "Canyon",
@@ -217,7 +236,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYON202127AS"
   },
   {
     "brand": "Canyon",
@@ -228,7 +248,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYON202127AS"
   },
   {
     "brand": "Canyon",
@@ -239,7 +260,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -250,7 +272,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -261,7 +284,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -272,7 +296,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -283,7 +308,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -294,7 +320,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202329AS"
   },
   {
     "brand": "Canyon",
@@ -305,7 +332,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202329AS"
   },
   {
     "brand": "Canyon",
@@ -316,7 +344,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202329AS"
   },
   {
     "brand": "Canyon",
@@ -327,7 +356,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CS"
   },
   {
     "brand": "Canyon",
@@ -338,7 +368,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CS"
   },
   {
     "brand": "Canyon",
@@ -349,7 +380,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AS"
   },
   {
     "brand": "Canyon",
@@ -360,7 +392,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027AS"
   },
   {
     "brand": "Canyon",
@@ -371,7 +404,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027CS"
   },
   {
     "brand": "Canyon",
@@ -382,7 +416,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202027CS"
   },
   {
     "brand": "Canyon",
@@ -393,7 +428,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CS"
   },
   {
     "brand": "Canyon",
@@ -404,7 +440,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CS"
   },
   {
     "brand": "Canyon",
@@ -415,7 +452,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202327CS"
   },
   {
     "brand": "Canyon",
@@ -426,7 +464,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -437,7 +476,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -448,7 +488,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202127AS"
   },
   {
     "brand": "Canyon",
@@ -459,7 +500,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONONFLY202429CS"
   },
   {
     "brand": "Canyon",
@@ -470,7 +512,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONONFLY202429CS"
   },
   {
     "brand": "Canyon",
@@ -481,7 +524,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER201727CS"
   },
   {
     "brand": "Canyon",
@@ -492,7 +536,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER201827AS"
   },
   {
     "brand": "Canyon",
@@ -503,7 +548,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20212729CS"
   },
   {
     "brand": "Canyon",
@@ -514,7 +560,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20252729CS"
   },
   {
     "brand": "Canyon",
@@ -525,7 +572,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CS"
   },
   {
     "brand": "Canyon",
@@ -536,7 +584,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CS"
   },
   {
     "brand": "Canyon",
@@ -547,7 +596,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202227CS"
   },
   {
     "brand": "Canyon",
@@ -558,7 +608,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CS"
   },
   {
     "brand": "Canyon",
@@ -569,7 +620,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CS"
   },
   {
     "brand": "Canyon",
@@ -580,7 +632,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CS"
   },
   {
     "brand": "Canyon",
@@ -591,7 +644,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CS"
   },
   {
     "brand": "Canyon",
@@ -602,7 +656,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229AS"
   },
   {
     "brand": "Canyon",
@@ -613,7 +668,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229CS"
   },
   {
     "brand": "Canyon",
@@ -624,7 +680,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CS"
   },
   {
     "brand": "Canyon",
@@ -635,7 +692,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CS"
   },
   {
     "brand": "Canyon",
@@ -646,7 +704,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CS"
   },
   {
     "brand": "Canyon",
@@ -657,7 +716,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CS"
   },
   {
     "brand": "Canyon",
@@ -667,7 +727,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20252729CS"
   },
   {
     "brand": "Canyon",
@@ -678,7 +739,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTITCHED202226AS"
   },
   {
     "brand": "Canyon",
@@ -688,7 +750,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONSTOIC202127AS"
   },
   {
     "brand": "Canyon",
@@ -699,7 +762,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE201929CS"
   },
   {
     "brand": "Canyon",
@@ -710,7 +774,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE201929CS"
   },
   {
     "brand": "Canyon",
@@ -721,7 +786,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CS"
   },
   {
     "brand": "Canyon",
@@ -732,7 +798,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CS"
   },
   {
     "brand": "Canyon",
@@ -743,7 +810,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -754,7 +822,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -765,7 +834,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -776,7 +846,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE201827CS"
   },
   {
     "brand": "Canyon",
@@ -787,7 +858,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202227AS"
   },
   {
     "brand": "Canyon",
@@ -798,7 +870,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202227CS"
   },
   {
     "brand": "Canyon",
@@ -809,7 +882,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20222729CS"
   },
   {
     "brand": "Canyon",
@@ -820,7 +894,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229CS"
   },
   {
     "brand": "Canyon",
@@ -831,7 +906,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AS"
   },
   {
     "brand": "Canyon",
@@ -842,7 +918,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AS"
   },
   {
     "brand": "Canyon",
@@ -853,7 +930,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AS"
   },
   {
     "brand": "Canyon",
@@ -864,7 +942,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AS"
   },
   {
     "brand": "Canyon",
@@ -875,7 +954,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AS"
   },
   {
     "brand": "Canyon",
@@ -886,7 +966,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -897,7 +978,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -908,7 +990,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CS"
   },
   {
     "brand": "Canyon",
@@ -919,7 +1002,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CM"
   },
   {
     "brand": "Canyon",
@@ -930,7 +1014,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CM"
   },
   {
     "brand": "Canyon",
@@ -941,7 +1026,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202129CM"
   },
   {
     "brand": "Canyon",
@@ -952,7 +1038,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYON201929AM"
   },
   {
     "brand": "Canyon",
@@ -963,7 +1050,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYON201929AM"
   },
   {
     "brand": "Canyon",
@@ -974,7 +1062,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYON201929AM"
   },
   {
     "brand": "Canyon",
@@ -985,7 +1074,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYON202129AM"
   },
   {
     "brand": "Canyon",
@@ -996,7 +1086,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1007,7 +1098,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1018,7 +1110,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1029,7 +1122,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONGRANDCANYON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1040,7 +1134,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1051,7 +1146,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1062,7 +1158,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1073,7 +1170,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1084,7 +1182,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1095,7 +1194,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CM"
   },
   {
     "brand": "Canyon",
@@ -1106,7 +1206,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CM"
   },
   {
     "brand": "Canyon",
@@ -1117,7 +1218,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202229CM"
   },
   {
     "brand": "Canyon",
@@ -1128,7 +1230,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CM"
   },
   {
     "brand": "Canyon",
@@ -1139,7 +1242,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CM"
   },
   {
     "brand": "Canyon",
@@ -1150,7 +1254,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANLUX202229CM0"
   },
   {
     "brand": "Canyon",
@@ -1161,7 +1266,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANLUX202229CM0"
   },
   {
     "brand": "Canyon",
@@ -1172,7 +1278,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONNEURON202027AM"
   },
   {
     "brand": "Canyon",
@@ -1183,7 +1290,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONNEURON202027AM"
   },
   {
     "brand": "Canyon",
@@ -1194,7 +1302,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AM"
   },
   {
     "brand": "Canyon",
@@ -1205,7 +1314,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AM"
   },
   {
     "brand": "Canyon",
@@ -1216,7 +1326,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029CM"
   },
   {
     "brand": "Canyon",
@@ -1227,7 +1338,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029CM"
   },
   {
     "brand": "Canyon",
@@ -1238,7 +1350,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029CM"
   },
   {
     "brand": "Canyon",
@@ -1249,7 +1362,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329AM"
   },
   {
     "brand": "Canyon",
@@ -1260,7 +1374,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329AM"
   },
   {
     "brand": "Canyon",
@@ -1271,7 +1386,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CM"
   },
   {
     "brand": "Canyon",
@@ -1282,7 +1398,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CM"
   },
   {
     "brand": "Canyon",
@@ -1293,7 +1410,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CM"
   },
   {
     "brand": "Canyon",
@@ -1304,7 +1422,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1315,7 +1434,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1326,7 +1446,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202129AM"
   },
   {
     "brand": "Canyon",
@@ -1337,7 +1458,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONONFLY202429CM"
   },
   {
     "brand": "Canyon",
@@ -1348,7 +1470,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONONFLY202429CM"
   },
   {
     "brand": "Canyon",
@@ -1359,7 +1482,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER201727CM"
   },
   {
     "brand": "Canyon",
@@ -1370,7 +1494,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER201827AM"
   },
   {
     "brand": "Canyon",
@@ -1381,7 +1506,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20212729CM"
   },
   {
     "brand": "Canyon",
@@ -1392,7 +1518,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER202129CM"
   },
   {
     "brand": "Canyon",
@@ -1403,7 +1530,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20252729CM"
   },
   {
     "brand": "Canyon",
@@ -1414,7 +1542,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL201827AM"
   },
   {
     "brand": "Canyon",
@@ -1425,7 +1554,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL201827AM"
   },
   {
     "brand": "Canyon",
@@ -1436,7 +1566,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSPE202129CM0"
   },
   {
     "brand": "Canyon",
@@ -1447,7 +1578,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSPE202129CM0"
   },
   {
     "brand": "Canyon",
@@ -1458,7 +1590,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202227AM"
   },
   {
     "brand": "Canyon",
@@ -1469,7 +1602,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202227CM"
   },
   {
     "brand": "Canyon",
@@ -1480,7 +1614,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CM"
   },
   {
     "brand": "Canyon",
@@ -1491,7 +1626,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CM"
   },
   {
     "brand": "Canyon",
@@ -1502,7 +1638,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202229AM"
   },
   {
     "brand": "Canyon",
@@ -1513,7 +1650,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CM"
   },
   {
     "brand": "Canyon",
@@ -1524,7 +1662,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CM"
   },
   {
     "brand": "Canyon",
@@ -1535,7 +1674,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229AM"
   },
   {
     "brand": "Canyon",
@@ -1546,7 +1686,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229CM"
   },
   {
     "brand": "Canyon",
@@ -1557,7 +1698,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CM"
   },
   {
     "brand": "Canyon",
@@ -1568,7 +1710,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CM"
   },
   {
     "brand": "Canyon",
@@ -1579,7 +1722,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CM"
   },
   {
     "brand": "Canyon",
@@ -1590,7 +1734,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CM"
   },
   {
     "brand": "Canyon",
@@ -1600,7 +1745,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20252729CM"
   },
   {
     "brand": "Canyon",
@@ -1610,7 +1756,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTOIC202129AM"
   },
   {
     "brand": "Canyon",
@@ -1621,7 +1768,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSTR201929CM0"
   },
   {
     "brand": "Canyon",
@@ -1632,7 +1780,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSTR201929CM0"
   },
   {
     "brand": "Canyon",
@@ -1643,7 +1792,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CM"
   },
   {
     "brand": "Canyon",
@@ -1654,7 +1804,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CM"
   },
   {
     "brand": "Canyon",
@@ -1665,7 +1816,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1676,7 +1828,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1687,7 +1840,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1698,7 +1852,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE201827CM"
   },
   {
     "brand": "Canyon",
@@ -1709,7 +1864,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202127AM"
   },
   {
     "brand": "Canyon",
@@ -1720,7 +1876,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202227AM"
   },
   {
     "brand": "Canyon",
@@ -1731,7 +1888,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20222729CM"
   },
   {
     "brand": "Canyon",
@@ -1742,7 +1900,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229AM"
   },
   {
     "brand": "Canyon",
@@ -1753,7 +1912,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229CM"
   },
   {
     "brand": "Canyon",
@@ -1764,7 +1924,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AM"
   },
   {
     "brand": "Canyon",
@@ -1775,7 +1936,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AM"
   },
   {
     "brand": "Canyon",
@@ -1786,7 +1948,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AM"
   },
   {
     "brand": "Canyon",
@@ -1797,7 +1960,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AM"
   },
   {
     "brand": "Canyon",
@@ -1808,7 +1972,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AM"
   },
   {
     "brand": "Canyon",
@@ -1819,7 +1984,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1830,7 +1996,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1841,7 +2008,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CM"
   },
   {
     "brand": "Canyon",
@@ -1852,7 +2020,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONEXCEED202529CL"
   },
   {
     "brand": "Canyon",
@@ -1863,7 +2032,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AL"
   },
   {
     "brand": "Canyon",
@@ -1874,7 +2044,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AL"
   },
   {
     "brand": "Canyon",
@@ -1885,7 +2056,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AL"
   },
   {
     "brand": "Canyon",
@@ -1896,7 +2068,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AL"
   },
   {
     "brand": "Canyon",
@@ -1907,7 +2080,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AL"
   },
   {
     "brand": "Canyon",
@@ -1918,7 +2092,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CL"
   },
   {
     "brand": "Canyon",
@@ -1929,7 +2104,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CL"
   },
   {
     "brand": "Canyon",
@@ -1940,7 +2116,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202229CL"
   },
   {
     "brand": "Canyon",
@@ -1951,7 +2128,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CL"
   },
   {
     "brand": "Canyon",
@@ -1962,7 +2140,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CL"
   },
   {
     "brand": "Canyon",
@@ -1973,7 +2152,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXWORLDCUP202229CL"
   },
   {
     "brand": "Canyon",
@@ -1984,7 +2164,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUXWORLDCUP202229CL"
   },
   {
     "brand": "Canyon",
@@ -1995,7 +2176,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AL"
   },
   {
     "brand": "Canyon",
@@ -2006,7 +2188,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AL"
   },
   {
     "brand": "Canyon",
@@ -2017,7 +2200,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONNEURON202329AL"
   },
   {
     "brand": "Canyon",
@@ -2028,7 +2212,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONNEURON202329AL"
   },
   {
     "brand": "Canyon",
@@ -2039,7 +2224,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2050,7 +2236,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2061,7 +2248,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2072,7 +2260,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2083,7 +2272,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2094,7 +2284,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURONON202329CL"
   },
   {
     "brand": "Canyon",
@@ -2105,7 +2296,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSEN201727CL0"
   },
   {
     "brand": "Canyon",
@@ -2116,7 +2308,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER201827AL"
   },
   {
     "brand": "Canyon",
@@ -2127,7 +2320,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20212729CL"
   },
   {
     "brand": "Canyon",
@@ -2138,7 +2332,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSEN202129CL0"
   },
   {
     "brand": "Canyon",
@@ -2149,7 +2344,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER20252729CL"
   },
   {
     "brand": "Canyon",
@@ -2160,7 +2356,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL201827AL"
   },
   {
     "brand": "Canyon",
@@ -2171,7 +2368,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL201827AL"
   },
   {
     "brand": "Canyon",
@@ -2182,7 +2380,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CL"
   },
   {
     "brand": "Canyon",
@@ -2193,7 +2392,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CL"
   },
   {
     "brand": "Canyon",
@@ -2204,7 +2404,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CL"
   },
   {
     "brand": "Canyon",
@@ -2215,7 +2416,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202229AL"
   },
   {
     "brand": "Canyon",
@@ -2226,7 +2428,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CL"
   },
   {
     "brand": "Canyon",
@@ -2237,7 +2440,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CL"
   },
   {
     "brand": "Canyon",
@@ -2248,7 +2452,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20252729AL"
   },
   {
     "brand": "Canyon",
@@ -2259,7 +2464,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229AL"
   },
   {
     "brand": "Canyon",
@@ -2270,7 +2476,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229CL"
   },
   {
     "brand": "Canyon",
@@ -2281,7 +2488,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CL"
   },
   {
     "brand": "Canyon",
@@ -2292,7 +2500,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CL"
   },
   {
     "brand": "Canyon",
@@ -2303,7 +2512,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CL"
   },
   {
     "brand": "Canyon",
@@ -2314,7 +2524,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CL"
   },
   {
     "brand": "Canyon",
@@ -2324,7 +2535,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONSPECTRALONFLY20252729CL"
   },
   {
     "brand": "Canyon",
@@ -2335,7 +2547,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTITCHED202226AL"
   },
   {
     "brand": "Canyon",
@@ -2345,7 +2558,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTOIC202129AL"
   },
   {
     "brand": "Canyon",
@@ -2356,7 +2570,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSTR201929CL0"
   },
   {
     "brand": "Canyon",
@@ -2367,7 +2582,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSTR201929CL0"
   },
   {
     "brand": "Canyon",
@@ -2378,7 +2594,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CL"
   },
   {
     "brand": "Canyon",
@@ -2389,7 +2606,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CL"
   },
   {
     "brand": "Canyon",
@@ -2400,7 +2618,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2411,7 +2630,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2422,7 +2642,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2433,7 +2654,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE201827CL"
   },
   {
     "brand": "Canyon",
@@ -2444,7 +2666,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202127AL"
   },
   {
     "brand": "Canyon",
@@ -2455,7 +2678,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202227AL"
   },
   {
     "brand": "Canyon",
@@ -2466,7 +2690,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202227CL"
   },
   {
     "brand": "Canyon",
@@ -2477,7 +2702,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20222729CL"
   },
   {
     "brand": "Canyon",
@@ -2488,7 +2714,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229AL"
   },
   {
     "brand": "Canyon",
@@ -2499,7 +2726,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229CL"
   },
   {
     "brand": "Canyon",
@@ -2510,7 +2738,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AL"
   },
   {
     "brand": "Canyon",
@@ -2521,7 +2750,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AL"
   },
   {
     "brand": "Canyon",
@@ -2532,7 +2762,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AL"
   },
   {
     "brand": "Canyon",
@@ -2543,7 +2774,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AL"
   },
   {
     "brand": "Canyon",
@@ -2554,7 +2786,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AL"
   },
   {
     "brand": "Canyon",
@@ -2565,7 +2798,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2576,7 +2810,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2587,7 +2822,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CL"
   },
   {
     "brand": "Canyon",
@@ -2598,7 +2834,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AXL"
   },
   {
     "brand": "Canyon",
@@ -2609,7 +2846,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AXL"
   },
   {
     "brand": "Canyon",
@@ -2620,7 +2858,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AXL"
   },
   {
     "brand": "Canyon",
@@ -2631,7 +2870,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AXL"
   },
   {
     "brand": "Canyon",
@@ -2642,7 +2882,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONGRANDCANYONON202129AXL"
   },
   {
     "brand": "Canyon",
@@ -2653,7 +2894,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CXL"
   },
   {
     "brand": "Canyon",
@@ -2664,7 +2906,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONLUX202129CXL"
   },
   {
     "brand": "Canyon",
@@ -2675,7 +2918,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CXL"
   },
   {
     "brand": "Canyon",
@@ -2686,7 +2930,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONLUXTRAIL202429CXL"
   },
   {
     "brand": "Canyon",
@@ -2697,7 +2942,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AXL"
   },
   {
     "brand": "Canyon",
@@ -2708,7 +2954,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202029AXL"
   },
   {
     "brand": "Canyon",
@@ -2719,7 +2966,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANNEU202029CXL"
   },
   {
     "brand": "Canyon",
@@ -2730,7 +2978,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANNEU202029CXL"
   },
   {
     "brand": "Canyon",
@@ -2741,7 +2990,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANNEU202029CXL"
   },
   {
     "brand": "Canyon",
@@ -2752,7 +3002,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CXL"
   },
   {
     "brand": "Canyon",
@@ -2763,7 +3014,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CXL"
   },
   {
     "brand": "Canyon",
@@ -2774,7 +3026,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONNEURON202329CXL"
   },
   {
     "brand": "Canyon",
@@ -2785,7 +3038,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSEN201727CXL"
   },
   {
     "brand": "Canyon",
@@ -2796,7 +3050,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANYONSENDER201827AXL"
   },
   {
     "brand": "Canyon",
@@ -2807,7 +3062,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSENDER202129CXL"
   },
   {
     "brand": "Canyon",
@@ -2818,7 +3074,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CXL"
   },
   {
     "brand": "Canyon",
@@ -2829,7 +3086,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202129CXL"
   },
   {
     "brand": "Canyon",
@@ -2840,7 +3098,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL20222729CXL"
   },
   {
     "brand": "Canyon",
@@ -2851,7 +3110,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANSPE202229CXL"
   },
   {
     "brand": "Canyon",
@@ -2862,7 +3122,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL202229AXL"
   },
   {
     "brand": "Canyon",
@@ -2873,7 +3134,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CXL"
   },
   {
     "brand": "Canyon",
@@ -2884,7 +3146,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL2024MX29CXL"
   },
   {
     "brand": "Canyon",
@@ -2895,7 +3158,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRAL125202229CXL"
   },
   {
     "brand": "Canyon",
@@ -2906,7 +3170,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CXL"
   },
   {
     "brand": "Canyon",
@@ -2917,7 +3182,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20212729CXL"
   },
   {
     "brand": "Canyon",
@@ -2928,7 +3194,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CXL"
   },
   {
     "brand": "Canyon",
@@ -2939,7 +3206,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20222729CXL"
   },
   {
     "brand": "Canyon",
@@ -2949,7 +3217,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSPECTRALON20252729CXL"
   },
   {
     "brand": "Canyon",
@@ -2960,7 +3229,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE201929CXL"
   },
   {
     "brand": "Canyon",
@@ -2971,7 +3241,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE201929CXL"
   },
   {
     "brand": "Canyon",
@@ -2982,7 +3253,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CXL"
   },
   {
     "brand": "Canyon",
@@ -2993,7 +3265,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVE202229CXL"
   },
   {
     "brand": "Canyon",
@@ -3004,7 +3277,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CXL"
   },
   {
     "brand": "Canyon",
@@ -3015,7 +3289,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CXL"
   },
   {
     "brand": "Canyon",
@@ -3026,7 +3301,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONSTRIVEON20232729CXL"
   },
   {
     "brand": "Canyon",
@@ -3037,7 +3313,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20222729CXL"
   },
   {
     "brand": "Canyon",
@@ -3048,7 +3325,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229AXL"
   },
   {
     "brand": "Canyon",
@@ -3059,7 +3337,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE202229CXL"
   },
   {
     "brand": "Canyon",
@@ -3070,7 +3349,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AXL"
   },
   {
     "brand": "Canyon",
@@ -3081,7 +3361,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUE20232729AXL"
   },
   {
     "brand": "Canyon",
@@ -3092,7 +3373,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AXL"
   },
   {
     "brand": "Canyon",
@@ -3103,7 +3385,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AXL"
   },
   {
     "brand": "Canyon",
@@ -3114,7 +3397,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON202127AXL"
   },
   {
     "brand": "Canyon",
@@ -3125,7 +3409,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CXL"
   },
   {
     "brand": "Canyon",
@@ -3136,7 +3421,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CXL"
   },
   {
     "brand": "Canyon",
@@ -3147,6 +3433,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANYONTORQUEON20232729CXL"
   }
 ]

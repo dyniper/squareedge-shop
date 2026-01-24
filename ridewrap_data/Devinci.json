@@ -7,7 +7,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVDJA202029AXS"
   },
   {
     "brand": "Devinci",
@@ -17,7 +18,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20232729AS"
   },
   {
     "brand": "Devinci",
@@ -27,7 +29,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW202329AS"
   },
   {
     "brand": "Devinci",
@@ -37,7 +40,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20252729AS"
   },
   {
     "brand": "Devinci",
@@ -47,7 +51,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA202029AS0"
   },
   {
     "brand": "Devinci",
@@ -57,7 +62,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN202229AS"
   },
   {
     "brand": "Devinci",
@@ -68,7 +74,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY2022MX29AS"
   },
   {
     "brand": "Devinci",
@@ -79,7 +86,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20232729AS"
   },
   {
     "brand": "Devinci",
@@ -90,7 +98,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20242729AS"
   },
   {
     "brand": "Devinci",
@@ -100,7 +109,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIKOBAIN202129AS"
   },
   {
     "brand": "Devinci",
@@ -110,7 +120,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIMINUS202127AS"
   },
   {
     "brand": "Devinci",
@@ -120,7 +131,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCISPARTAN201927AS"
   },
   {
     "brand": "Devinci",
@@ -130,7 +142,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTAN201929AS"
   },
   {
     "brand": "Devinci",
@@ -140,7 +153,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTANHP202229CS"
   },
   {
     "brand": "Devinci",
@@ -150,7 +164,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CS0"
   },
   {
     "brand": "Devinci",
@@ -160,7 +175,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CS0"
   },
   {
     "brand": "Devinci",
@@ -170,7 +186,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROYALUMINUM202129AS"
   },
   {
     "brand": "Devinci",
@@ -180,7 +197,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CS0"
   },
   {
     "brand": "Devinci",
@@ -190,7 +208,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CS0"
   },
   {
     "brand": "Devinci",
@@ -200,7 +219,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY20252729AS"
   },
   {
     "brand": "Devinci",
@@ -210,7 +230,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIWILSON201929AS"
   },
   {
     "brand": "Devinci",
@@ -220,7 +241,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20232729AM"
   },
   {
     "brand": "Devinci",
@@ -230,7 +252,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW202329AM"
   },
   {
     "brand": "Devinci",
@@ -240,7 +263,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20252729AM"
   },
   {
     "brand": "Devinci",
@@ -250,7 +274,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDC201929AM0"
   },
   {
     "brand": "Devinci",
@@ -260,7 +285,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA202029CM0"
   },
   {
     "brand": "Devinci",
@@ -270,7 +296,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN202229AM"
   },
   {
     "brand": "Devinci",
@@ -281,7 +308,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN20252729AM"
   },
   {
     "brand": "Devinci",
@@ -292,7 +320,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY202229AM"
   },
   {
     "brand": "Devinci",
@@ -303,7 +332,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20232729AM"
   },
   {
     "brand": "Devinci",
@@ -314,7 +344,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20242729AM"
   },
   {
     "brand": "Devinci",
@@ -324,7 +355,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIKOBAIN202129AM"
   },
   {
     "brand": "Devinci",
@@ -334,7 +366,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIMINUS202127AM"
   },
   {
     "brand": "Devinci",
@@ -344,7 +377,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISABBATH202126AM"
   },
   {
     "brand": "Devinci",
@@ -354,7 +388,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201827CM0"
   },
   {
     "brand": "Devinci",
@@ -364,7 +399,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201829CM0"
   },
   {
     "brand": "Devinci",
@@ -374,7 +410,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTAN201929AM"
   },
   {
     "brand": "Devinci",
@@ -384,7 +421,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTANHP202229CM"
   },
   {
     "brand": "Devinci",
@@ -394,7 +432,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CM0"
   },
   {
     "brand": "Devinci",
@@ -404,7 +443,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CM0"
   },
   {
     "brand": "Devinci",
@@ -414,7 +454,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROYALUMINUM202129AM"
   },
   {
     "brand": "Devinci",
@@ -424,7 +465,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CM0"
   },
   {
     "brand": "Devinci",
@@ -434,7 +476,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CM0"
   },
   {
     "brand": "Devinci",
@@ -444,7 +487,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY20252729AM"
   },
   {
     "brand": "Devinci",
@@ -454,7 +498,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY20252729CM"
   },
   {
     "brand": "Devinci",
@@ -464,7 +509,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROYST202529AM"
   },
   {
     "brand": "Devinci",
@@ -474,7 +520,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201727AM0"
   },
   {
     "brand": "Devinci",
@@ -484,7 +531,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201727CM0"
   },
   {
     "brand": "Devinci",
@@ -494,7 +542,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201929AM0"
   },
   {
     "brand": "Devinci",
@@ -504,7 +553,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20232729AL"
   },
   {
     "brand": "Devinci",
@@ -514,7 +564,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW202329AL"
   },
   {
     "brand": "Devinci",
@@ -524,7 +575,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20252729AL"
   },
   {
     "brand": "Devinci",
@@ -534,7 +586,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA202029CL0"
   },
   {
     "brand": "Devinci",
@@ -544,7 +597,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN202229AL"
   },
   {
     "brand": "Devinci",
@@ -555,7 +609,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY202229AL"
   },
   {
     "brand": "Devinci",
@@ -566,7 +621,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20232729AL"
   },
   {
     "brand": "Devinci",
@@ -577,7 +633,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20242729AL"
   },
   {
     "brand": "Devinci",
@@ -587,7 +644,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVEP201929AL0"
   },
   {
     "brand": "Devinci",
@@ -597,7 +655,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIKOBAIN202129AL"
   },
   {
     "brand": "Devinci",
@@ -607,7 +666,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27+",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIMINUS202127AL"
   },
   {
     "brand": "Devinci",
@@ -617,7 +677,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201827CL0"
   },
   {
     "brand": "Devinci",
@@ -627,7 +688,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201829CL0"
   },
   {
     "brand": "Devinci",
@@ -637,7 +699,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTAN201929AL"
   },
   {
     "brand": "Devinci",
@@ -647,7 +710,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTANHP202229CL"
   },
   {
     "brand": "Devinci",
@@ -657,7 +721,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CL0"
   },
   {
     "brand": "Devinci",
@@ -667,7 +732,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CL0"
   },
   {
     "brand": "Devinci",
@@ -677,7 +743,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROYALUMINUM202129AL"
   },
   {
     "brand": "Devinci",
@@ -687,7 +754,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CL0"
   },
   {
     "brand": "Devinci",
@@ -697,7 +765,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CL0"
   },
   {
     "brand": "Devinci",
@@ -707,7 +776,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY20252729AL"
   },
   {
     "brand": "Devinci",
@@ -717,7 +787,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCITROYST202529AL"
   },
   {
     "brand": "Devinci",
@@ -727,7 +798,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201727CL0"
   },
   {
     "brand": "Devinci",
@@ -737,7 +809,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201929AL0"
   },
   {
     "brand": "Devinci",
@@ -747,7 +820,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20232729AXL"
   },
   {
     "brand": "Devinci",
@@ -757,7 +831,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW202329AXL"
   },
   {
     "brand": "Devinci",
@@ -767,7 +842,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCICHAINSAW20252729AXL"
   },
   {
     "brand": "Devinci",
@@ -777,7 +853,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA201729CXL"
   },
   {
     "brand": "Devinci",
@@ -787,7 +864,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA202029AXL"
   },
   {
     "brand": "Devinci",
@@ -797,7 +875,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVDJA202029CXL"
   },
   {
     "brand": "Devinci",
@@ -807,7 +886,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN202229AXL"
   },
   {
     "brand": "Devinci",
@@ -818,7 +898,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIESPARTAN20252729AXL"
   },
   {
     "brand": "Devinci",
@@ -829,7 +910,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY202229AXL"
   },
   {
     "brand": "Devinci",
@@ -840,7 +922,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20232729AXL"
   },
   {
     "brand": "Devinci",
@@ -851,7 +934,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCIETROY20242729AXL"
   },
   {
     "brand": "Devinci",
@@ -861,7 +945,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCIKOBAIN202129AXL"
   },
   {
     "brand": "Devinci",
@@ -871,7 +956,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201827CXL"
   },
   {
     "brand": "Devinci",
@@ -881,7 +967,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVSPA201829CXL"
   },
   {
     "brand": "Devinci",
@@ -891,7 +978,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTANHP202229CXL"
   },
   {
     "brand": "Devinci",
@@ -901,7 +989,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CXL"
   },
   {
     "brand": "Devinci",
@@ -911,7 +1000,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO201929CXL"
   },
   {
     "brand": "Devinci",
@@ -921,7 +1011,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROYALUMINUM202129AXL"
   },
   {
     "brand": "Devinci",
@@ -931,7 +1022,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CXL"
   },
   {
     "brand": "Devinci",
@@ -941,7 +1033,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202129CXL"
   },
   {
     "brand": "Devinci",
@@ -951,7 +1044,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY2025MX29AXL"
   },
   {
     "brand": "Devinci",
@@ -961,7 +1055,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY20252729CXL"
   },
   {
     "brand": "Devinci",
@@ -971,7 +1066,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVTRO202529AXL"
   },
   {
     "brand": "Devinci",
@@ -981,6 +1077,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVWIL201929AXL"
   }
 ]

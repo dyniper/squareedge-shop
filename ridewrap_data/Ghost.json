@@ -8,7 +8,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTNIRVANATOUR202027AXS"
   },
   {
     "brand": "Ghost",
@@ -19,7 +20,8 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTYOUTHPRO202227AXS"
   },
   {
     "brand": "Ghost",
@@ -30,7 +32,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX13020222729AS"
   },
   {
     "brand": "Ghost",
@@ -41,7 +44,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX13020222729AS"
   },
   {
     "brand": "Ghost",
@@ -52,7 +56,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX13020222729AS"
   },
   {
     "brand": "Ghost",
@@ -63,7 +68,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227AS"
   },
   {
     "brand": "Ghost",
@@ -74,7 +80,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227AS"
   },
   {
     "brand": "Ghost",
@@ -85,7 +92,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227AS"
   },
   {
     "brand": "Ghost",
@@ -96,7 +104,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227CS"
   },
   {
     "brand": "Ghost",
@@ -107,7 +116,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227CS"
   },
   {
     "brand": "Ghost",
@@ -118,7 +128,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227CS"
   },
   {
     "brand": "Ghost",
@@ -129,7 +140,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202227CS"
   },
   {
     "brand": "Ghost",
@@ -140,7 +152,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT202227CS"
   },
   {
     "brand": "Ghost",
@@ -151,7 +164,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CS"
   },
   {
     "brand": "Ghost",
@@ -162,7 +176,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CS"
   },
   {
     "brand": "Ghost",
@@ -173,7 +188,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CS"
   },
   {
     "brand": "Ghost",
@@ -184,7 +200,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AS"
   },
   {
     "brand": "Ghost",
@@ -195,7 +212,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AS"
   },
   {
     "brand": "Ghost",
@@ -206,7 +224,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AS"
   },
   {
     "brand": "Ghost",
@@ -217,7 +236,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CS"
   },
   {
     "brand": "Ghost",
@@ -228,7 +248,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CS"
   },
   {
     "brand": "Ghost",
@@ -239,7 +260,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CS"
   },
   {
     "brand": "Ghost",
@@ -250,7 +272,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CS"
   },
   {
     "brand": "Ghost",
@@ -261,7 +284,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CS"
   },
   {
     "brand": "Ghost",
@@ -272,7 +296,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CS"
   },
   {
     "brand": "Ghost",
@@ -283,7 +308,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CS"
   },
   {
     "brand": "Ghost",
@@ -294,7 +320,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CS"
   },
   {
     "brand": "Ghost",
@@ -305,7 +332,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CS"
   },
   {
     "brand": "Ghost",
@@ -316,7 +344,8 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTNIRVANATOUR202027AS"
   },
   {
     "brand": "Ghost",
@@ -327,7 +356,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CS"
   },
   {
     "brand": "Ghost",
@@ -338,7 +368,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CS"
   },
   {
     "brand": "Ghost",
@@ -349,7 +380,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CS"
   },
   {
     "brand": "Ghost",
@@ -360,7 +392,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CS"
   },
   {
     "brand": "Ghost",
@@ -371,7 +404,8 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CS"
   },
   {
     "brand": "Ghost",
@@ -382,7 +416,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTEASX13020222729AM"
   },
   {
     "brand": "Ghost",
@@ -393,7 +428,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTEASX13020222729AM"
   },
   {
     "brand": "Ghost",
@@ -404,7 +440,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTEASX13020222729AM"
   },
   {
     "brand": "Ghost",
@@ -415,7 +452,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTEASX20222927AM"
   },
   {
     "brand": "Ghost",
@@ -426,7 +464,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTEASX20222927AM"
   },
   {
     "brand": "Ghost",
@@ -437,7 +476,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229AM"
   },
   {
     "brand": "Ghost",
@@ -448,7 +488,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229AM"
   },
   {
     "brand": "Ghost",
@@ -459,7 +500,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229AM"
   },
   {
     "brand": "Ghost",
@@ -470,7 +512,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOTTRAIL202029CM"
   },
   {
     "brand": "Ghost",
@@ -481,7 +524,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202227AM"
   },
   {
     "brand": "Ghost",
@@ -492,7 +536,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202227AM"
   },
   {
     "brand": "Ghost",
@@ -503,7 +548,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202229AM"
   },
   {
     "brand": "Ghost",
@@ -514,7 +560,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -525,7 +572,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -536,7 +584,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -547,7 +596,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -558,7 +608,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -569,7 +620,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AM"
   },
   {
     "brand": "Ghost",
@@ -580,7 +632,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERUB202429AM"
   },
   {
     "brand": "Ghost",
@@ -591,7 +644,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERUB202429AM"
   },
   {
     "brand": "Ghost",
@@ -602,7 +656,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERUB202429AM"
   },
   {
     "brand": "Ghost",
@@ -613,7 +668,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERUB202429AM"
   },
   {
     "brand": "Ghost",
@@ -624,7 +680,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AM"
   },
   {
     "brand": "Ghost",
@@ -635,7 +692,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AM"
   },
   {
     "brand": "Ghost",
@@ -646,7 +704,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AM"
   },
   {
     "brand": "Ghost",
@@ -657,7 +716,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CM"
   },
   {
     "brand": "Ghost",
@@ -668,7 +728,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CM"
   },
   {
     "brand": "Ghost",
@@ -679,7 +740,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CM"
   },
   {
     "brand": "Ghost",
@@ -690,7 +752,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CM"
   },
   {
     "brand": "Ghost",
@@ -701,7 +764,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CM"
   },
   {
     "brand": "Ghost",
@@ -712,7 +776,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CM"
   },
   {
     "brand": "Ghost",
@@ -723,7 +788,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CM"
   },
   {
     "brand": "Ghost",
@@ -734,7 +800,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CM"
   },
   {
     "brand": "Ghost",
@@ -745,7 +812,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CM"
   },
   {
     "brand": "Ghost",
@@ -756,7 +824,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTNIRVANATOUR202029AM"
   },
   {
     "brand": "Ghost",
@@ -767,7 +836,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -778,7 +848,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -789,7 +860,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -800,7 +872,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -811,7 +884,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -822,7 +896,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AM"
   },
   {
     "brand": "Ghost",
@@ -833,7 +908,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AM"
   },
   {
     "brand": "Ghost",
@@ -844,7 +920,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AM"
   },
   {
     "brand": "Ghost",
@@ -855,7 +932,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AM"
   },
   {
     "brand": "Ghost",
@@ -866,7 +944,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AM"
   },
   {
     "brand": "Ghost",
@@ -877,7 +956,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AM"
   },
   {
     "brand": "Ghost",
@@ -888,7 +968,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -899,7 +980,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -910,7 +992,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -921,7 +1004,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOT202329CM"
   },
   {
     "brand": "Ghost",
@@ -932,7 +1016,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTSLAMR202129AM"
   },
   {
     "brand": "Ghost",
@@ -942,7 +1027,8 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSLA201929AM0"
   },
   {
     "brand": "Ghost",
@@ -953,7 +1039,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX202129AL"
   },
   {
     "brand": "Ghost",
@@ -964,7 +1051,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AL"
   },
   {
     "brand": "Ghost",
@@ -975,7 +1063,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AL"
   },
   {
     "brand": "Ghost",
@@ -986,7 +1075,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AL"
   },
   {
     "brand": "Ghost",
@@ -997,7 +1087,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222927AL"
   },
   {
     "brand": "Ghost",
@@ -1008,7 +1099,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222927AL"
   },
   {
     "brand": "Ghost",
@@ -1019,7 +1111,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOTTRAIL202029AL"
   },
   {
     "brand": "Ghost",
@@ -1030,7 +1123,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229CL"
   },
   {
     "brand": "Ghost",
@@ -1041,7 +1135,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229CL"
   },
   {
     "brand": "Ghost",
@@ -1052,7 +1147,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229CL"
   },
   {
     "brand": "Ghost",
@@ -1063,7 +1159,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTERIOT202229CL"
   },
   {
     "brand": "Ghost",
@@ -1074,7 +1171,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202229AL"
   },
   {
     "brand": "Ghost",
@@ -1085,7 +1183,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1096,7 +1195,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1107,7 +1207,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1118,7 +1219,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1129,7 +1231,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1140,7 +1243,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTETERU202329AL"
   },
   {
     "brand": "Ghost",
@@ -1151,7 +1255,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AL"
   },
   {
     "brand": "Ghost",
@@ -1162,7 +1267,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AL"
   },
   {
     "brand": "Ghost",
@@ -1173,7 +1279,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTKATOFS202229AL"
   },
   {
     "brand": "Ghost",
@@ -1184,7 +1291,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CL"
   },
   {
     "brand": "Ghost",
@@ -1195,7 +1303,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CL"
   },
   {
     "brand": "Ghost",
@@ -1206,7 +1315,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CL"
   },
   {
     "brand": "Ghost",
@@ -1217,7 +1327,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CL"
   },
   {
     "brand": "Ghost",
@@ -1228,7 +1339,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CL"
   },
   {
     "brand": "Ghost",
@@ -1239,7 +1351,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CL"
   },
   {
     "brand": "Ghost",
@@ -1250,7 +1363,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CL"
   },
   {
     "brand": "Ghost",
@@ -1261,7 +1375,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CL"
   },
   {
     "brand": "Ghost",
@@ -1272,7 +1387,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTLECTOR202129CL"
   },
   {
     "brand": "Ghost",
@@ -1283,7 +1399,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTNIRVANATOUR202029AL"
   },
   {
     "brand": "Ghost",
@@ -1294,7 +1411,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CL"
   },
   {
     "brand": "Ghost",
@@ -1305,7 +1423,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CL"
   },
   {
     "brand": "Ghost",
@@ -1316,7 +1435,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CL"
   },
   {
     "brand": "Ghost",
@@ -1327,7 +1447,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CL"
   },
   {
     "brand": "Ghost",
@@ -1338,7 +1459,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CL"
   },
   {
     "brand": "Ghost",
@@ -1349,7 +1471,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1360,7 +1483,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1371,7 +1495,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTEN20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1382,7 +1507,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1393,7 +1519,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1404,7 +1531,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AL"
   },
   {
     "brand": "Ghost",
@@ -1415,7 +1543,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTSLAMR202129AL"
   },
   {
     "brand": "Ghost",
@@ -1425,7 +1554,8 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSLA201929AL0"
   },
   {
     "brand": "Ghost",
@@ -1436,7 +1566,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AXL"
   },
   {
     "brand": "Ghost",
@@ -1447,7 +1578,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AXL"
   },
   {
     "brand": "Ghost",
@@ -1458,7 +1590,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTEASX20222729AXL"
   },
   {
     "brand": "Ghost",
@@ -1469,7 +1602,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CXL"
   },
   {
     "brand": "Ghost",
@@ -1480,7 +1614,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CXL"
   },
   {
     "brand": "Ghost",
@@ -1491,7 +1626,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CXL"
   },
   {
     "brand": "Ghost",
@@ -1502,7 +1638,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CXL"
   },
   {
     "brand": "Ghost",
@@ -1513,7 +1650,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORFS202129CXL"
   },
   {
     "brand": "Ghost",
@@ -1524,7 +1662,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CXL"
   },
   {
     "brand": "Ghost",
@@ -1535,7 +1674,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CXL"
   },
   {
     "brand": "Ghost",
@@ -1546,7 +1686,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CXL"
   },
   {
     "brand": "Ghost",
@@ -1557,7 +1698,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTLECTORSF202229CXL"
   },
   {
     "brand": "Ghost",
@@ -1568,7 +1710,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTNIRVANATOUR202029AXL"
   },
   {
     "brand": "Ghost",
@@ -1579,7 +1722,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CXL"
   },
   {
     "brand": "Ghost",
@@ -1590,7 +1734,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CXL"
   },
   {
     "brand": "Ghost",
@@ -1601,7 +1746,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CXL"
   },
   {
     "brand": "Ghost",
@@ -1612,7 +1758,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CXL"
   },
   {
     "brand": "Ghost",
@@ -1623,7 +1770,8 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSTPATHRIOT202329CXL"
   },
   {
     "brand": "Ghost",
@@ -1634,7 +1782,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTEN202129AXL"
   },
   {
     "brand": "Ghost",
@@ -1645,7 +1794,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTEN202129AXL"
   },
   {
     "brand": "Ghost",
@@ -1656,7 +1806,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTEN202129AXL"
   },
   {
     "brand": "Ghost",
@@ -1667,7 +1818,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AXL"
   },
   {
     "brand": "Ghost",
@@ -1678,7 +1830,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AXL"
   },
   {
     "brand": "Ghost",
@@ -1689,7 +1842,8 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured"
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTRIOTAM20212927AXL"
   },
   {
     "brand": "Ghost",
@@ -1699,6 +1853,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Designed"
+    "design_status": "Designed",
+    "kit_product_sku": "RWGHOSLA201929AXL"
   }
 ]
