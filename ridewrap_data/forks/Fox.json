@@ -4,7 +4,7 @@
     "model": "36 831",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWFOX36831201826",
     "design_status": "Designed"
   },
@@ -14,7 +14,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX32S201800000027",
     "design_status": "Designed"
   },
@@ -24,7 +24,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX32S201800000027",
     "design_status": "Designed"
   },
@@ -34,7 +34,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX32S201800000027",
     "design_status": "Designed"
   },
@@ -44,7 +44,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX34201800000027",
     "design_status": "Designed"
   },
@@ -54,7 +54,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX34201800000027",
     "design_status": "Designed"
   },
@@ -64,7 +64,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX34201800000027",
     "design_status": "Designed"
   },
@@ -74,7 +74,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36201827",
     "design_status": "Designed"
   },
@@ -84,7 +84,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36201827",
     "design_status": "Designed"
   },
@@ -94,7 +94,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36201827",
     "design_status": "Designed"
   },
@@ -104,7 +104,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202100000027",
     "design_status": "Designed"
   },
@@ -114,7 +114,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202100000027",
     "design_status": "Designed"
   },
@@ -124,7 +124,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202100000027",
     "design_status": "Designed"
   },
@@ -134,7 +134,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38202127",
     "design_status": "Designed"
   },
@@ -144,7 +144,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38202127",
     "design_status": "Designed"
   },
@@ -154,7 +154,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38202127",
     "design_status": "Designed"
   },
@@ -164,7 +164,7 @@
     "sub_model": "Rhythm",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38202127",
     "design_status": "Designed"
   },
@@ -174,7 +174,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40201800000027",
     "design_status": "Designed"
   },
@@ -184,7 +184,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40201800000027",
     "design_status": "Designed"
   },
@@ -194,7 +194,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40201800000027",
     "design_status": "Designed"
   },
@@ -204,7 +204,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40202100000027",
     "design_status": "Designed"
   },
@@ -214,7 +214,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40202100000027",
     "design_status": "Designed"
   },
@@ -224,7 +224,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX40202100000027",
     "design_status": "Designed"
   },
@@ -234,7 +234,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOXRHY201800000027",
     "design_status": "Designed"
   },
@@ -244,7 +244,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOXRHY201800000027",
     "design_status": "Designed"
   },
@@ -254,7 +254,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38E202127",
     "design_status": "Designed"
   },
@@ -264,7 +264,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38E202127",
     "design_status": "Designed"
   },
@@ -274,7 +274,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX38E202127",
     "design_status": "Designed"
   },
@@ -284,7 +284,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX32201827",
     "design_status": "Measured"
   },
@@ -294,7 +294,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202127",
     "design_status": "Designed"
   },
@@ -304,7 +304,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202127",
     "design_status": "Designed"
   },
@@ -314,7 +314,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202127",
     "design_status": "Designed"
   },
@@ -324,7 +324,7 @@
     "sub_model": "e-SUV",
     "year_from": 2022,
     "year_to": 2024,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOXAWL202227",
     "design_status": "Measured"
   },
@@ -334,7 +334,7 @@
     "sub_model": "Factory",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
   },
@@ -344,7 +344,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
   },
@@ -354,7 +354,7 @@
     "sub_model": "Performance",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
   },
@@ -364,7 +364,7 @@
     "sub_model": "Factory",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202327",
     "design_status": "Measured"
   },
@@ -374,7 +374,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202327",
     "design_status": "Measured"
   },
@@ -384,7 +384,7 @@
     "sub_model": "Performance",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36E202327",
     "design_status": "Measured"
   },
@@ -394,7 +394,7 @@
     "sub_model": "Rhythm",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWFOX36202427",
     "design_status": "Designed"
   },
@@ -404,7 +404,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32S201800000029",
     "design_status": "Designed"
   },
@@ -414,7 +414,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32S201800000029",
     "design_status": "Designed"
   },
@@ -424,7 +424,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32S201800000029",
     "design_status": "Designed"
   },
@@ -434,7 +434,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34201800000029",
     "design_status": "Designed"
   },
@@ -444,7 +444,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34201800000029",
     "design_status": "Designed"
   },
@@ -454,7 +454,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34201800000029",
     "design_status": "Designed"
   },
@@ -464,7 +464,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34S201800000029",
     "design_status": "Designed"
   },
@@ -474,7 +474,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34S201800000029",
     "design_status": "Designed"
   },
@@ -484,7 +484,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2021,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34S201800000029",
     "design_status": "Designed"
   },
@@ -494,7 +494,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36201800000029",
     "design_status": "Designed"
   },
@@ -504,7 +504,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36201800000029",
     "design_status": "Designed"
   },
@@ -514,7 +514,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36201800000029",
     "design_status": "Designed"
   },
@@ -524,7 +524,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202100000029",
     "design_status": "Designed"
   },
@@ -534,7 +534,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202100000029",
     "design_status": "Designed"
   },
@@ -544,7 +544,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202100000029",
     "design_status": "Designed"
   },
@@ -554,7 +554,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38202129",
     "design_status": "Designed"
   },
@@ -564,7 +564,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38202129",
     "design_status": "Designed"
   },
@@ -574,7 +574,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38202129",
     "design_status": "Designed"
   },
@@ -584,7 +584,7 @@
     "sub_model": "Rhythm",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38202129",
     "design_status": "Designed"
   },
@@ -594,7 +594,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX40202100000029",
     "design_status": "Designed"
   },
@@ -604,7 +604,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX40202100000029",
     "design_status": "Designed"
   },
@@ -614,7 +614,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX40202100000029",
     "design_status": "Designed"
   },
@@ -624,7 +624,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX49201800000029",
     "design_status": "Designed"
   },
@@ -634,7 +634,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX49201800000029",
     "design_status": "Designed"
   },
@@ -644,7 +644,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2020,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX49201800000029",
     "design_status": "Designed"
   },
@@ -654,7 +654,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXRHY201800000029",
     "design_status": "Designed"
   },
@@ -664,7 +664,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36201829",
     "design_status": "Designed"
   },
@@ -674,7 +674,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38E202129",
     "design_status": "Designed"
   },
@@ -684,7 +684,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38E202129",
     "design_status": "Designed"
   },
@@ -694,7 +694,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX38E202129",
     "design_status": "Designed"
   },
@@ -704,7 +704,7 @@
     "sub_model": "Factory",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34202229",
     "design_status": "Designed"
   },
@@ -714,7 +714,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34202229",
     "design_status": "Designed"
   },
@@ -724,7 +724,7 @@
     "sub_model": "Performance",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34202229",
     "design_status": "Designed"
   },
@@ -734,7 +734,7 @@
     "sub_model": "Factory",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34STEP202229",
     "design_status": "Designed"
   },
@@ -744,7 +744,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34STEP202229",
     "design_status": "Designed"
   },
@@ -754,7 +754,7 @@
     "sub_model": "Performance",
     "year_from": 2022,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34STEP202229",
     "design_status": "Designed"
   },
@@ -764,7 +764,7 @@
     "sub_model": "Rhythm",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32201829",
     "design_status": "Designed"
   },
@@ -774,7 +774,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32201829",
     "design_status": "Designed"
   },
@@ -784,7 +784,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32201829",
     "design_status": "Designed"
   },
@@ -794,7 +794,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32201829",
     "design_status": "Designed"
   },
@@ -804,7 +804,7 @@
     "sub_model": "Factory",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34E201829",
     "design_status": "Designed"
   },
@@ -814,7 +814,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34E201829",
     "design_status": "Designed"
   },
@@ -824,7 +824,7 @@
     "sub_model": "Performance",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34E201829",
     "design_status": "Designed"
   },
@@ -834,7 +834,7 @@
     "sub_model": "Factory",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202129",
     "design_status": "Designed"
   },
@@ -844,7 +844,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202129",
     "design_status": "Designed"
   },
@@ -854,7 +854,7 @@
     "sub_model": "Performance",
     "year_from": 2021,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202129",
     "design_status": "Designed"
   },
@@ -864,7 +864,7 @@
     "sub_model": "e-SUV",
     "year_from": 2022,
     "year_to": 2024,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXAWL202229",
     "design_status": "Designed"
   },
@@ -874,7 +874,7 @@
     "sub_model": "Factory",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
   },
@@ -884,7 +884,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
   },
@@ -894,7 +894,7 @@
     "sub_model": "Performance",
     "year_from": 2023,
     "year_to": 2025,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
   },
@@ -904,7 +904,7 @@
     "sub_model": "Factory",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202329",
     "design_status": "Designed"
   },
@@ -914,7 +914,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202329",
     "design_status": "Designed"
   },
@@ -924,7 +924,7 @@
     "sub_model": "Performance",
     "year_from": 2023,
     "year_to": 2024,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202329",
     "design_status": "Designed"
   },
@@ -934,7 +934,7 @@
     "sub_model": "Rhythm",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202429",
     "design_status": "Designed"
   },
@@ -944,7 +944,7 @@
     "sub_model": "Performance",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32STEP202429",
     "design_status": "Designed"
   },
@@ -954,7 +954,7 @@
     "sub_model": "Factory",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX32STEP202429",
     "design_status": "Designed"
   },
@@ -964,7 +964,7 @@
     "sub_model": "Rhythm",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34202429",
     "design_status": "Designed"
   },
@@ -974,7 +974,7 @@
     "sub_model": "e-SUV 36",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXAWL202529",
     "design_status": "Designed"
   },
@@ -984,7 +984,7 @@
     "sub_model": "HD Sport",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXAWL202529",
     "design_status": "Designed"
   },
@@ -994,7 +994,7 @@
     "sub_model": "Factory",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34SL202529",
     "design_status": "Designed"
   },
@@ -1004,7 +1004,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34SL202529",
     "design_status": "Designed"
   },
@@ -1014,7 +1014,7 @@
     "sub_model": "Performance",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX34SL202529",
     "design_status": "Designed"
   },
@@ -1024,7 +1024,7 @@
     "sub_model": "e-SUV 34",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXAWL202529",
     "design_status": "Designed"
   },
@@ -1034,7 +1034,7 @@
     "sub_model": "Factory",
     "year_from": 2026,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
   },
@@ -1044,7 +1044,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2026,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
   },
@@ -1054,7 +1054,7 @@
     "sub_model": "Performance",
     "year_from": 2026,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
   },
@@ -1064,7 +1064,7 @@
     "sub_model": "Factory",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36SL202529",
     "design_status": "Designed"
   },
@@ -1074,7 +1074,7 @@
     "sub_model": "Performance Elite",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36SL202529",
     "design_status": "Designed"
   },
@@ -1084,7 +1084,7 @@
     "sub_model": "Performance",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36SL202529",
     "design_status": "Designed"
   },
@@ -1094,7 +1094,7 @@
     "sub_model": "Factory",
     "year_from": 2026,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOXPODIUM202629",
     "design_status": "Designed"
   },
@@ -1104,7 +1104,7 @@
     "sub_model": "Factory",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202529",
     "design_status": "Designed"
   },
@@ -1113,7 +1113,7 @@
     "model": "36E",
     "year_from": 2026,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202629",
     "design_status": "Measured"
   },
@@ -1123,7 +1123,7 @@
     "sub_model": "Adventure Cross",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "700C",
+    "wheel_size": "700C",
     "kit_product_sku": "RWFOX32AX2018700C",
     "design_status": "Designed"
   }

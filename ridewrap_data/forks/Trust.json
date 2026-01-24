@@ -4,7 +4,7 @@
     "model": "Message",
     "year_from": 2019,
     "year_to": 2020,
-    "size": "2729",
+    "wheel_size": "2729",
     "kit_product_sku": "RWTRUMES2019000000272",
     "design_status": "Designed"
   },
@@ -13,7 +13,7 @@
     "model": "Shout",
     "year_from": 2019,
     "year_to": 2020,
-    "size": "2729",
+    "wheel_size": "2729",
     "kit_product_sku": "RWTRUSHO2019000000272",
     "design_status": "Designed"
   }

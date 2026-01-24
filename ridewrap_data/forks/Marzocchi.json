@@ -4,7 +4,7 @@
     "model": "Bomber DJ",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWMARZOCCHIBOMBERDJ201826",
     "design_status": "Designed"
   },
@@ -13,7 +13,7 @@
     "model": "Bomber 58",
     "year_from": 2019,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWMARBOM201900000027",
     "design_status": "Designed"
   },
@@ -22,7 +22,7 @@
     "model": "Bomber Z1",
     "year_from": 2019,
     "year_to": 2023,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWMARBOM201900000027",
     "design_status": "Designed"
   },
@@ -32,7 +32,7 @@
     "sub_model": "Coil",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ1202427",
     "design_status": "Designed"
   },
@@ -42,7 +42,7 @@
     "sub_model": "Air",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ1202427",
     "design_status": "Designed"
   },
@@ -51,7 +51,7 @@
     "model": "Bomber Z2",
     "year_from": 2019,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ2201927",
     "design_status": "Designed"
   },
@@ -60,7 +60,7 @@
     "model": "Bomber Z1",
     "year_from": 2019,
     "year_to": 2023,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWMARBOM201900000029",
     "design_status": "Designed"
   },
@@ -70,7 +70,7 @@
     "sub_model": "Coil",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ1202529",
     "design_status": "Designed"
   },
@@ -80,7 +80,7 @@
     "sub_model": "Air",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ1202529",
     "design_status": "Designed"
   },
@@ -89,7 +89,7 @@
     "model": "Bomber Z2",
     "year_from": 2019,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWMARZOCCHIBOMBERZ2201929",
     "design_status": "Designed"
   },
@@ -98,7 +98,7 @@
     "model": "Super Z",
     "year_from": 2024,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWMARZOCCHISUPERZ202429",
     "design_status": "Designed"
   }

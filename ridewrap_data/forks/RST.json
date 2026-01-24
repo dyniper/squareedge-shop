@@ -4,7 +4,7 @@
     "model": "Alpha",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWRSTALPHA202126",
     "design_status": "Measured"
   },
@@ -14,7 +14,7 @@
     "sub_model": "9mm QR",
     "year_from": 2020,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWRSTDIRT202026",
     "design_status": "Measured"
   },
@@ -23,7 +23,7 @@
     "model": "Stitch",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWRSTSTITCH201827",
     "design_status": "Measured"
   },
@@ -32,7 +32,7 @@
     "model": "Killah",
     "year_from": 2015,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWRSTKILLAH201527",
     "design_status": "Measured"
   },
@@ -41,7 +41,7 @@
     "model": "Alpha",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWRSTALPHA202127",
     "design_status": "Measured"
   },
@@ -50,7 +50,7 @@
     "model": "Alpha",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWRSTALPHA202129",
     "design_status": "Measured"
   }

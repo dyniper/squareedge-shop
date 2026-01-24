@@ -4,7 +4,7 @@
     "model": "Kingpin Deluxe",
     "year_from": 2019,
     "year_to": 2026,
-    "size": "27",
+    "wheel_size": "27",
     "kit_product_sku": "RWSALSAKINGPINDELUXE201927",
     "design_status": "Measured"
   },
@@ -13,7 +13,7 @@
     "model": "Firestarter 110 Deluxe",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "2729",
+    "wheel_size": "2729",
     "kit_product_sku": "RWSALSAFIRESTARTER110DELUXE20182729",
     "design_status": "Designed"
   }

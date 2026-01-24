@@ -5,7 +5,7 @@
     "sub_model": "RC",
     "year_from": 2016,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
   },
@@ -15,7 +15,7 @@
     "sub_model": "RCP",
     "year_from": 2016,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
   },
@@ -25,7 +25,7 @@
     "sub_model": "HLR",
     "year_from": 2016,
     "year_to": 2026,
-    "size": "26",
+    "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
   },
@@ -34,7 +34,7 @@
     "model": "RC32 Boost",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONRC32BOOST202129",
     "design_status": "Measured"
   },
@@ -44,7 +44,7 @@
     "sub_model": "HLR",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONTRACE36201829",
     "design_status": "Designed"
   },
@@ -54,7 +54,7 @@
     "sub_model": "RC",
     "year_from": 2018,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONTRACE36201829",
     "design_status": "Designed"
   }

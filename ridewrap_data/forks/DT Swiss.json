@@ -4,7 +4,7 @@
     "model": "F 232 ONE",
     "year_from": 2020,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWDTSWISSF232ONE202029",
     "design_status": "Designed"
   },
@@ -13,7 +13,7 @@
     "model": "F 535",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWDTSWISSF535202329",
     "design_status": "Measured"
   },
@@ -22,7 +22,7 @@
     "model": "F 535 ONE",
     "year_from": 2018,
     "year_to": 2022,
-    "size": "29",
+    "wheel_size": "29",
     "kit_product_sku": "RWDTSWISSF535ONE201829",
     "design_status": "Designed"
   }
