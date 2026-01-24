@@ -1,0 +1,112 @@
+[
+  {
+    "brand": "Ohlins",
+    "model": "RXF36",
+    "sub_model": "Evo",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWOHLINSRXF36201827",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF36",
+    "sub_model": "m. 2",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWOHLINSRXF36201827",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXC34",
+    "sub_model": "m. 1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXC34202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF34",
+    "sub_model": "m. 1",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXF34201829",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF34",
+    "sub_model": "m. 2",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXF34201829",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF36",
+    "sub_model": "Evo",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLRXF201800000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF36",
+    "sub_model": "m. 2",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLRXF201800000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF36",
+    "sub_model": "m. 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXF36202529",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF38",
+    "sub_model": "m. 2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXF38202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "RXF38",
+    "sub_model": "m. 3",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWOHLINSRXF38202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Ohlins",
+    "model": "DH38",
+    "sub_model": "m.1",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "2729",
+    "kit_product_sku": "RWOHLINSDH3820192729",
+    "design_status": "Designed"
+  }
+]

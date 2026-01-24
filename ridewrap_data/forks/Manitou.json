@@ -1,0 +1,445 @@
+[
+  {
+    "brand": "Manitou",
+    "model": "Machete Junit",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "24",
+    "kit_product_sku": "RWMANMAC201900000024",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Machete Junit",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "24",
+    "kit_product_sku": "RWMANMAC201900000024",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Machete Junit",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "20",
+    "kit_product_sku": "RWMANITOUMACHETEJUNIT201920",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Machete Junit",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "20",
+    "kit_product_sku": "RWMANITOUMACHETEJUNIT201920",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "20",
+    "kit_product_sku": "RWMANITOUJUNIT202320",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "24",
+    "kit_product_sku": "RWMANITOUJUNIT202324",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit 34",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "24",
+    "kit_product_sku": "RWMANITOUJUNIT34202224",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit 34",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "24",
+    "kit_product_sku": "RWMANITOUJUNIT34202224",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Circus",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUCIRCUS202026",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mastodon",
+    "sub_model": "Pro LE",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "26/27.5 Fat",
+    "kit_product_sku": "RWMANITOUMASTODON202326275FAT",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mastodon",
+    "sub_model": "Comp",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "26/27.5 Fat",
+    "kit_product_sku": "RWMANITOUMASTODON202326275FAT",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mastodon",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "26/27.5 Fat",
+    "kit_product_sku": "RWMANITOUMASTODON202326275FAT",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Markhor",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUMARKHOR202326",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit 34",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUJUNIT34202226",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Junit 34",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUJUNIT34202226",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Circus",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUCIRCUS201926",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Circus",
+    "sub_model": "Comp",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUCIRCUS202026",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Circus",
+    "sub_model": "Pro",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "26",
+    "kit_product_sku": "RWMANITOUCIRCUS202326",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mezzer",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANMEZ201900000027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mezzer",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANMEZ201900000027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMATTOC202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMATTOC202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMATTOC202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Markhor",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMARKHOR202327",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "R7",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUR7202027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Markhor",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMARKHOR202327",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUDORADO202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUDORADO202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUDORADO202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "R7",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUR7202027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Machete",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWMANITOUMACHETE202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mezzer",
+    "sub_model": "Expert",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMEZZER201929",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "R7",
+    "sub_model": "Pro",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUR7202029",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "R7",
+    "sub_model": "Expert",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUR7202029",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mezzer",
+    "sub_model": "Pro",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMEZZER201929",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "R8",
+    "sub_model": "Pro",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUR8202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Expert",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMATTOC202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Pro",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMATTOC202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Mattoc",
+    "sub_model": "Comp",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMATTOC202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Markhor",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMARKHOR202329",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Markhor",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMARKHOR202329",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Pro",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUDORADO202129",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Expert",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUDORADO202129",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Machete",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUMACHETE202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Manitou",
+    "model": "Dorado",
+    "sub_model": "Comp",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWMANITOUDORADO202129",
+    "design_status": "Designed"
+  }
+]

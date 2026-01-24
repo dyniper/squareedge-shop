@@ -1,0 +1,100 @@
+[
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "27",
+    "kit_product_sku": "RWFORMULASELVA201927",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "C",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWFORMULASELVA202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWFORMULASELVA202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "27",
+    "kit_product_sku": "RWFORMULASELVA202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Formula",
+    "model": "Nero",
+    "sub_model": "C",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWFORNER201900000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Nero",
+    "sub_model": "R",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWFORNER201900000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "year_from": 2019,
+    "year_to": 2021,
+    "size": "29",
+    "kit_product_sku": "RWFORSEL201900000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "C",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWFORMULASELVA202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "R",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWFORMULASELVA202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Formula",
+    "model": "Selva",
+    "sub_model": "S",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "29",
+    "kit_product_sku": "RWFORMULASELVA202229",
+    "design_status": "Designed"
+  }
+]
