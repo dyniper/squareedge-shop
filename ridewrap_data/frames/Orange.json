@@ -1580,7 +1580,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGESWITCH620242729AM"
   },
   {
@@ -1592,7 +1592,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGESWITCH620242729AM"
   },
   {
@@ -1604,7 +1604,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGESWITCH620242729AM"
   },
   {
@@ -1616,7 +1616,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGESWITCH620242729AM"
   },
   {
@@ -2248,7 +2248,7 @@
     "model": "P7",
     "sub_model": "R",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -2260,7 +2260,7 @@
     "model": "P7",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -2272,7 +2272,7 @@
     "model": "P7",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -2432,7 +2432,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGEPHASEEVO20242729AL"
   },
   {
@@ -2444,7 +2444,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGEPHASEEVO20242729AL"
   },
   {
@@ -2456,7 +2456,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWORANGEPHASEEVO20242729AL"
   },
   {
@@ -3328,7 +3328,7 @@
     "model": "P7",
     "sub_model": "R",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -3340,7 +3340,7 @@
     "model": "P7",
     "sub_model": "S",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -3352,7 +3352,7 @@
     "model": "P7",
     "sub_model": "Frame",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",

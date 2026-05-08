@@ -20,5 +20,16 @@
     "wheel_size": "20",
     "design_status": "Measured",
     "kit_product_sku": "RWPATROLC020202120CONESIZE"
+  },
+  {
+    "brand": "Patrol",
+    "model": "016",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "16",
+    "design_status": "Designed",
+    "kit_product_sku": "RWPATROL016202116AONESIZE"
   }
 ]

@@ -96,7 +96,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWARITIMPPEAK2025MX29CS"
   },
   {
@@ -196,7 +196,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWARISIGNALPEAK202529CM"
   },
   {
@@ -362,7 +362,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWARITIMPPEAK2025MX29CL"
   },
   {
@@ -462,7 +462,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWARISIGNALPEAK202529CXL"
   },
   {
@@ -473,7 +473,7 @@
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWARISUPERIORPEAK2024MX29AS3"
   },
   {

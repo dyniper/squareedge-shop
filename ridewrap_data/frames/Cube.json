@@ -177,6 +177,17 @@
   },
   {
     "brand": "Cube",
+    "model": "AMS Zero99 C:68X",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSZERO99C68X202229CS"
+  },
+  {
+    "brand": "Cube",
     "model": "Analog",
     "year_from": 2021,
     "year_to": 2024,
@@ -195,7 +206,7 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
@@ -207,7 +218,7 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
@@ -219,7 +230,7 @@
     "size": "S(16)",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEATTENTION202127AS16"
   },
   {
@@ -315,6 +326,138 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONHYBRID625202227A15"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AS"
   },
   {
     "brand": "Cube",
@@ -750,6 +893,18 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S(16)",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC202227CS16"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam",
     "year_from": 2020,
@@ -795,6 +950,18 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBESTEREOHYBRID160HPC202027CS16"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPA",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202527AS"
   },
   {
     "brand": "Cube",
@@ -1037,6 +1204,17 @@
   },
   {
     "brand": "Cube",
+    "model": "AMS Hybrid 177 C:62",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBEAMSHYBRID177C6220262729CM"
+  },
+  {
+    "brand": "Cube",
     "model": "AMS Hybrid One44 C:68X",
     "year_from": 2024,
     "year_to": 2026,
@@ -1266,7 +1444,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
@@ -1278,7 +1456,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
@@ -1290,7 +1468,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
@@ -1302,7 +1480,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CM"
   },
   {
@@ -1675,6 +1853,138 @@
     "frame_material": "Alloy",
     "wheel_size": "27/29",
     "design_status": "Designed",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLT 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "SLX 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Race 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600 Allroad",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 600",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "Pro 800",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Reaction Hybrid",
+    "sub_model": "One 600",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
     "kit_product_sku": "RWCUBEREACTIONHYBRID20252729AM"
   },
   {
@@ -2147,6 +2457,18 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M(18)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CM18"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "SLT 750",
     "year_from": 2022,
@@ -2234,12 +2556,24 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CM"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202629CM"
   },
   {
     "brand": "Cube",
@@ -2611,6 +2945,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBEAIM202129AL20"
+  },
+  {
+    "brand": "Cube",
+    "model": "AMS Hybrid 177 C:62",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBEAMSHYBRID177C6220262729CL"
   },
   {
     "brand": "Cube",
@@ -3712,6 +4057,18 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L(20)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CL20"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam",
     "year_from": 2020,
@@ -3832,6 +4189,17 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid One22",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE22202529AL"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo Hybrid One44",
     "sub_model": "HPA",
     "year_from": 2025,
@@ -3847,12 +4215,24 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CL"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202629CL"
   },
   {
     "brand": "Cube",
@@ -4314,7 +4694,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
@@ -4326,7 +4706,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
@@ -4338,7 +4718,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
@@ -4350,7 +4730,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCUBEREACTIONC62202529CXL"
   },
   {
@@ -5183,6 +5563,18 @@
   },
   {
     "brand": "Cube",
+    "model": "Stereo Hybrid 140 HPC",
+    "sub_model": "SL",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL(22)",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRID140HPC750202229CXL22"
+  },
+  {
+    "brand": "Cube",
     "model": "Stereo Hybrid 160 HPC",
     "sub_model": "Actionteam",
     "year_from": 2020,
@@ -5306,12 +5698,24 @@
     "model": "Stereo Hybrid One44",
     "sub_model": "HPC",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCUBESTEREOHYBRIDONE4420252729CXL"
+  },
+  {
+    "brand": "Cube",
+    "model": "Stereo Hybrid One44",
+    "sub_model": "HPC",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCUBESTEREOHYBRIDONE44202629CXL"
   },
   {
     "brand": "Cube",

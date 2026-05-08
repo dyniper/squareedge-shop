@@ -488,7 +488,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLIN202327AXS"
   },
   {
@@ -500,7 +500,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLIN202327AXS"
   },
   {
@@ -512,7 +512,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLIN202327AXS"
   },
   {
@@ -524,7 +524,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLIN202327AXS"
   },
   {
@@ -536,7 +536,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLIN202327AXS"
   },
   {
@@ -2488,7 +2488,7 @@
     "model": "Slash",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "S(15.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -2500,7 +2500,7 @@
     "model": "Slash",
     "sub_model": "9.8",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "S(15.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -2512,7 +2512,7 @@
     "model": "Slash",
     "sub_model": "9.9",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "S(15.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -2524,7 +2524,7 @@
     "model": "Slash",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "S(15.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -2794,6 +2794,54 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTREKTOPFUEL202229CS155"
+  },
+  {
+    "brand": "Trek",
+    "model": "Top Fuel",
+    "sub_model": "9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKTOPFUEL202427AS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Top Fuel",
+    "sub_model": "8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKTOPFUEL202427AS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Top Fuel",
+    "sub_model": "5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKTOPFUEL202427AS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Top Fuel",
+    "sub_model": "AL Frameset",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKTOPFUEL202427AS"
   },
   {
     "brand": "Trek",
@@ -4754,7 +4802,7 @@
     "model": "Slash",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "M(17.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -4766,7 +4814,7 @@
     "model": "Slash",
     "sub_model": "9.8",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "M(17.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -4778,7 +4826,7 @@
     "model": "Slash",
     "sub_model": "9.9",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "M(17.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -4790,7 +4838,7 @@
     "model": "Slash",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "M(17.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -6905,7 +6953,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AL"
   },
   {
@@ -6917,7 +6965,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AL"
   },
   {
@@ -7092,7 +7140,7 @@
     "model": "Slash",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "L(19.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -7104,7 +7152,7 @@
     "model": "Slash",
     "sub_model": "9.8",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "L(19.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -7116,7 +7164,7 @@
     "model": "Slash",
     "sub_model": "9.9",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "L(19.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -7128,7 +7176,7 @@
     "model": "Slash",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "L(19.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -7722,6 +7770,90 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWTREKFUEL2026MX29AXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "EX 9.9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "EX 9.8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "EX Frameset",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "LX 9.8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "LX 9.9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "MX 9.9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel",
+    "sub_model": "MX 9.8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
     "brand": "Trek",
@@ -8356,7 +8488,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKPOWERFLYFSPLUS202529AXL"
   },
   {
@@ -8368,7 +8500,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKPOWERFLYFSPLUS202529AXL"
   },
   {
@@ -8380,7 +8512,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKPOWERFLYFSPLUS202529AXL"
   },
   {
@@ -8392,7 +8524,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKPOWERFLYFSPLUS202529AXL"
   },
   {
@@ -9009,6 +9141,30 @@
   },
   {
     "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKROSCOE202629AXL"
+  },
+  {
+    "brand": "Trek",
+    "model": "Roscoe",
+    "sub_model": "8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKROSCOE202629AXL"
+  },
+  {
+    "brand": "Trek",
     "model": "Service",
     "year_from": 2022,
     "year_to": 2024,
@@ -9155,7 +9311,7 @@
     "model": "Slash",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -9167,7 +9323,7 @@
     "model": "Slash",
     "sub_model": "9.8",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -9179,7 +9335,7 @@
     "model": "Slash",
     "sub_model": "9.9",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -9191,7 +9347,7 @@
     "model": "Slash",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "XL(21.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -10587,7 +10743,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AML"
   },
   {
@@ -10599,7 +10755,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AML"
   },
   {
@@ -10643,7 +10799,7 @@
     "model": "Slash",
     "sub_model": "9.7",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -10655,7 +10811,7 @@
     "model": "Slash",
     "sub_model": "9.8",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -10667,7 +10823,7 @@
     "model": "Slash",
     "sub_model": "9.9",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -10679,7 +10835,7 @@
     "model": "Slash",
     "sub_model": "SE",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2025,
     "size": "ML(18.5)",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -11093,6 +11249,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTREKXCALIBER202029AML185"
+  },
+  {
+    "brand": "Trek",
+    "model": "Kickster",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "12",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTREKKICKSTER201812AONESIZE"
   },
   {
     "brand": "Trek",

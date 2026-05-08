@@ -464,7 +464,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202129AS"
   },
   {
@@ -476,7 +476,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202129AS"
   },
   {
@@ -488,7 +488,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202129AS"
   },
   {
@@ -500,7 +500,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202129AS"
   },
   {
@@ -512,7 +512,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202129AS"
   },
   {
@@ -915,6 +915,18 @@
     "brand": "MERIDA",
     "model": "eONE-SIXTY",
     "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMERIDAEONESIXTY2024MX29CS"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "Limited",
     "year_from": 2024,
     "year_to": 2026,
     "size": "S",
@@ -1352,7 +1364,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1364,7 +1376,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1376,7 +1388,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1388,7 +1400,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1400,7 +1412,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1412,7 +1424,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGNINE202429CM"
   },
   {
@@ -1892,7 +1904,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AM"
   },
   {
@@ -1904,7 +1916,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AM"
   },
   {
@@ -1916,7 +1928,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AM"
   },
   {
@@ -1928,7 +1940,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AM"
   },
   {
@@ -1940,7 +1952,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AM"
   },
   {
@@ -2163,6 +2175,18 @@
     "brand": "MERIDA",
     "model": "eONE-SIXTY",
     "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMERIDAEONESIXTY2024MX29CM"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "Limited",
     "year_from": 2024,
     "year_to": 2026,
     "size": "M",
@@ -2972,7 +2996,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202529AL"
   },
   {
@@ -2984,7 +3008,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202529AL"
   },
   {
@@ -2996,7 +3020,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDABIGTRAIL202529AL"
   },
   {
@@ -3008,7 +3032,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDADIRT202626AL"
   },
   {
@@ -3020,7 +3044,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDADIRT202626AL"
   },
   {
@@ -3615,6 +3639,18 @@
     "brand": "MERIDA",
     "model": "eONE-SIXTY",
     "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMERIDAEONESIXTY2024MX29CL"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "Limited",
     "year_from": 2024,
     "year_to": 2026,
     "size": "L",
@@ -4376,7 +4412,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AXL"
   },
   {
@@ -4388,7 +4424,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AXL"
   },
   {
@@ -4400,7 +4436,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AXL"
   },
   {
@@ -4412,7 +4448,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AXL"
   },
   {
@@ -4424,7 +4460,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMERIDAEONEFORTY2024MX29AXL"
   },
   {
@@ -4647,6 +4683,18 @@
     "brand": "MERIDA",
     "model": "eONE-SIXTY",
     "sub_model": "8000",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMERIDAEONESIXTY2024MX29CXL"
+  },
+  {
+    "brand": "MERIDA",
+    "model": "eONE-SIXTY",
+    "sub_model": "Limited",
     "year_from": 2024,
     "year_to": 2026,
     "size": "XL",

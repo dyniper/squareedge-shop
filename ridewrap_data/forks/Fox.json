@@ -333,7 +333,7 @@
     "model": "36",
     "sub_model": "Factory",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
@@ -343,7 +343,7 @@
     "model": "36",
     "sub_model": "Performance Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
@@ -353,7 +353,7 @@
     "model": "36",
     "sub_model": "Performance",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "27",
     "kit_product_sku": "RWFOX36202327",
     "design_status": "Designed"
@@ -873,7 +873,7 @@
     "model": "36",
     "sub_model": "Factory",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
@@ -883,7 +883,7 @@
     "model": "36",
     "sub_model": "Performance Elite",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
@@ -893,7 +893,7 @@
     "model": "36",
     "sub_model": "Performance",
     "year_from": 2023,
-    "year_to": 2025,
+    "year_to": 2026,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202329",
     "design_status": "Designed"
@@ -1032,8 +1032,8 @@
     "brand": "Fox",
     "model": "36",
     "sub_model": "Factory",
-    "year_from": 2026,
-    "year_to": 2026,
+    "year_from": 2027,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
@@ -1042,8 +1042,8 @@
     "brand": "Fox",
     "model": "36",
     "sub_model": "Performance Elite",
-    "year_from": 2026,
-    "year_to": 2026,
+    "year_from": 2027,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
@@ -1052,8 +1052,8 @@
     "brand": "Fox",
     "model": "36",
     "sub_model": "Performance",
-    "year_from": 2026,
-    "year_to": 2026,
+    "year_from": 2027,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36202629",
     "design_status": "Designed"
@@ -1116,6 +1116,26 @@
     "wheel_size": "29",
     "kit_product_sku": "RWFOX36E202629",
     "design_status": "Measured"
+  },
+  {
+    "brand": "Fox",
+    "model": "AWL HD",
+    "sub_model": "Rail",
+    "year_from": 2025,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWFOXAWLHD202529",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Fox",
+    "model": "40",
+    "sub_model": "Factory",
+    "year_from": 2027,
+    "year_to": 2027,
+    "wheel_size": "29",
+    "kit_product_sku": "RWFOX40202629",
+    "design_status": "Designed"
   },
   {
     "brand": "Fox",

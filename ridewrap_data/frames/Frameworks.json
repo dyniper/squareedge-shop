@@ -1,0 +1,24 @@
+[
+  {
+    "brand": "Frameworks",
+    "model": "DH Frame",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFRAMEWORKSDHFRAME20252729AM"
+  },
+  {
+    "brand": "Frameworks",
+    "model": "Enduro Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFRAMEWORKSENDUROFRAME20242729AXL"
+  }
+]

@@ -326,7 +326,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWKONAPROCESS1342024MX29AS"
   },
   {
@@ -338,7 +338,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWKONAPROCESS1342024MX29AS"
   },
   {
@@ -370,7 +370,7 @@
     "model": "Process 153",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -410,7 +410,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWKONAPROCESS1532024MX29AS"
   },
   {
@@ -422,7 +422,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWKONAPROCESS1532024MX29AS"
   },
   {
@@ -496,6 +496,40 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWKONREM202027AS0"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160",
+    "sub_model": "CR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTE1602026MX29CS"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160 DL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTE160DL202529AS"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTEX202529AS"
   },
   {
     "brand": "Kona",
@@ -1011,7 +1045,7 @@
     "model": "Process 153",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1046,6 +1080,18 @@
     "brand": "Kona",
     "model": "Process 153",
     "sub_model": "CR/DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAPROCESS153202429CM"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "CR",
     "year_from": 2024,
     "year_to": 2026,
     "size": "M",
@@ -1160,6 +1206,29 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWKONREM202027AM0"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160",
+    "sub_model": "CR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAREMOTE1602026MX29CM"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160 DL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAREMOTE160DL202529AM"
   },
   {
     "brand": "Kona",
@@ -1699,7 +1768,7 @@
     "model": "Process 153",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1734,6 +1803,18 @@
     "brand": "Kona",
     "model": "Process 153",
     "sub_model": "CR/DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAPROCESS153202429CL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "CR",
     "year_from": 2024,
     "year_to": 2026,
     "size": "L",
@@ -1851,6 +1932,29 @@
   },
   {
     "brand": "Kona",
+    "model": "Remote 160",
+    "sub_model": "CR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAREMOTE1602026MX29CL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160 DL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTE160DL202529AL"
+  },
+  {
+    "brand": "Kona",
     "model": "Remote X",
     "year_from": 2025,
     "year_to": 2026,
@@ -1870,6 +1974,30 @@
     "wheel_size": "26",
     "design_status": "Measured",
     "kit_product_sku": "RWKONASHONKY201526SL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAUNIT202029SL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit X",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAUNIT202029SL"
   },
   {
     "brand": "Kona",
@@ -1976,6 +2104,18 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWKONHEI202029CXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Hei Hei",
+    "sub_model": "CR",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAHEIHEI202529CXL"
   },
   {
     "brand": "Kona",
@@ -2121,6 +2261,30 @@
   },
   {
     "brand": "Kona",
+    "model": "Process 134",
+    "sub_model": "CR",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAPROCESS1342024MX29CXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 134",
+    "sub_model": "CR DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAPROCESS1342024MX29CXL"
+  },
+  {
+    "brand": "Kona",
     "model": "Process 153",
     "sub_model": "Base Model",
     "year_from": 2018,
@@ -2208,7 +2372,7 @@
     "model": "Process 153",
     "sub_model": "Base Model",
     "year_from": 2021,
-    "year_to": 2023,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -2243,6 +2407,18 @@
     "brand": "Kona",
     "model": "Process 153",
     "sub_model": "CR/DL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWKONAPROCESS153202429CXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process 153",
+    "sub_model": "CR",
     "year_from": 2024,
     "year_to": 2026,
     "size": "XL",
@@ -2301,6 +2477,30 @@
   },
   {
     "brand": "Kona",
+    "model": "Process X",
+    "sub_model": "DH",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAPROCESSX20232729AXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Process X",
+    "sub_model": "Base Model",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAPROCESSX20232729AXL"
+  },
+  {
+    "brand": "Kona",
     "model": "Remote",
     "year_from": 2021,
     "year_to": 2024,
@@ -2347,6 +2547,29 @@
   },
   {
     "brand": "Kona",
+    "model": "Remote 160",
+    "sub_model": "CR",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTE1602026MX29CXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Remote 160 DL",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAREMOTE160DL202529AXL"
+  },
+  {
+    "brand": "Kona",
     "model": "Unit",
     "sub_model": "Unit",
     "year_from": 2017,
@@ -2368,6 +2591,30 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWKONAUNIT202229SXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAUNIT202029SXL"
+  },
+  {
+    "brand": "Kona",
+    "model": "Unit",
+    "sub_model": "Unit X",
+    "year_from": 2020,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWKONAUNIT202029SXL"
   },
   {
     "brand": "Kona",

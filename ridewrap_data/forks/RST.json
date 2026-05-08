@@ -1,11 +1,38 @@
 [
   {
     "brand": "RST",
+    "model": "F1rst",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "24",
+    "kit_product_sku": "RWRSTF1RST202624",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "RST",
+    "model": "F1rst",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "20",
+    "kit_product_sku": "RWRSTF1RST202620",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "RST",
     "model": "Alpha",
     "year_from": 2021,
     "year_to": 2026,
     "wheel_size": "26",
     "kit_product_sku": "RWRSTALPHA202126",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "RST",
+    "model": "F1rst",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "26",
+    "kit_product_sku": "RWRSTF1RST202626",
     "design_status": "Measured"
   },
   {

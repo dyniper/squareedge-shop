@@ -1,6 +1,30 @@
 [
   {
     "brand": "Teewing",
+    "model": "Flux One",
+    "sub_model": "Pro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTEEWINGFLUXONE2026MX29CM"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Flux One",
+    "sub_model": "A",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTEEWINGFLUXONE2026MX29CM"
+  },
+  {
+    "brand": "Teewing",
     "model": "Turbo Force",
     "sub_model": "Pro",
     "year_from": 2025,
@@ -34,5 +58,101 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTEEWINGTURBOFORCE202529CM"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Flux One",
+    "sub_model": "Pro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGFLUXONE2026MX29CL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Flux One",
+    "sub_model": "A",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGFLUXONE2026MX29CL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "XT",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Pro",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CXL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "XT",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CXL"
+  },
+  {
+    "brand": "Teewing",
+    "model": "Turbo Force",
+    "sub_model": "Base Model",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTEEWINGTURBOFORCE202529CXL"
   }
 ]

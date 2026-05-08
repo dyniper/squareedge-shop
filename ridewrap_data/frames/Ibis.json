@@ -62,7 +62,7 @@
     "model": "HD6",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "1",
+    "size": "1 (SM)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
@@ -116,7 +116,7 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
@@ -177,6 +177,17 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWIBISRIPLEYAF202429AS"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Small",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPLEYAF2026MX29ASMALL"
   },
   {
     "brand": "Ibis",
@@ -257,6 +268,17 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Small",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPMOAF2026MX29ASMALL"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2019,
     "year_to": 2021,
@@ -318,7 +340,7 @@
     "model": "HD6",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "2",
+    "size": "2 (MD)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
@@ -372,7 +394,7 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
@@ -444,6 +466,28 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPLEYAF202429AM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Medium",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPLEYAF2026MX29AMEDIUM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISRIPLEYSL202629CM"
   },
   {
     "brand": "Ibis",
@@ -524,6 +568,17 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Medium",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISRIPMOAF2026MX29AMEDIUM"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2019,
     "year_to": 2021,
@@ -585,7 +640,7 @@
     "model": "HD6",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "3",
+    "size": "3 (XM)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
@@ -628,12 +683,23 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWIBISOSO202529CL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XM",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CXM"
   },
   {
     "brand": "Ibis",
@@ -700,6 +766,28 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPLEYAF202429AL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Large",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPLEYAF2026MX29ALARGE"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XM",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISRIPLEYSL202629CXM"
   },
   {
     "brand": "Ibis",
@@ -780,6 +868,17 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Large",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPMOAF2026MX29ALARGE"
+  },
+  {
+    "brand": "Ibis",
     "model": "DV9",
     "year_from": 2023,
     "year_to": 2026,
@@ -830,7 +929,7 @@
     "model": "HD6",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "4",
+    "size": "4 (LG)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
@@ -884,12 +983,23 @@
     "brand": "Ibis",
     "model": "Oso",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWIBISOSO202529CXL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CL"
   },
   {
     "brand": "Ibis",
@@ -956,6 +1066,28 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWIBISRIPLEYAF202429AXL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Extra Large",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPLEYAF2026MX29AEXTRALARGE"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley SL",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBIRIP202629CXL"
   },
   {
     "brand": "Ibis",
@@ -1036,10 +1168,21 @@
   },
   {
     "brand": "Ibis",
+    "model": "Ripmo AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Extra Large",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPMOAF2026MX29AEXTRALARGE"
+  },
+  {
+    "brand": "Ibis",
     "model": "HD6",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "5",
+    "size": "5 (XL)",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
@@ -1066,6 +1209,17 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPMO2024MX29C5XL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Ripley AF",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Extra Medium",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISRIPLEYAF2026MX29AEXTRAMEDIUM"
   },
   {
     "brand": "Ibis",

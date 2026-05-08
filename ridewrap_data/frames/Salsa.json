@@ -25,14 +25,15 @@
   },
   {
     "brand": "Salsa",
-    "model": "Tributary",
-    "year_from": 2024,
+    "model": "Timberjack",
+    "sub_model": "AL",
+    "year_from": 2020,
     "year_to": 2026,
     "size": "XS",
     "frame_material": "Alloy",
-    "wheel_size": "29",
+    "wheel_size": "29/27+",
     "design_status": "Measured",
-    "kit_product_sku": "RWSALSATRIBUTARY202429AXS"
+    "kit_product_sku": "RWSALSATIMBERJACK20202927AXS"
   },
   {
     "brand": "Salsa",
@@ -151,6 +152,17 @@
   },
   {
     "brand": "Salsa",
+    "model": "Moraine",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSALSAMORAINE202429AS"
+  },
+  {
+    "brand": "Salsa",
     "model": "Mukluk",
     "year_from": 2017,
     "year_to": 2026,
@@ -203,17 +215,6 @@
     "wheel_size": "29/27+",
     "design_status": "Designed",
     "kit_product_sku": "RWSALSASPEARFISH20202927CS"
-  },
-  {
-    "brand": "Salsa",
-    "model": "Tributary",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWSALSATRIBUTARY202429AS"
   },
   {
     "brand": "Salsa",
@@ -317,6 +318,17 @@
     "wheel_size": "29/27+",
     "design_status": "Designed",
     "kit_product_sku": "RWSALSAHORSETHIEF20202927CM"
+  },
+  {
+    "brand": "Salsa",
+    "model": "Moraine",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSALSAMORAINE202429AM"
   },
   {
     "brand": "Salsa",
@@ -556,17 +568,6 @@
     "wheel_size": "29/27+",
     "design_status": "Designed",
     "kit_product_sku": "RWSALSASPEARFISH20202927CL"
-  },
-  {
-    "brand": "Salsa",
-    "model": "Tributary",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSALSATRIBUTARY202529CL"
   },
   {
     "brand": "Salsa",

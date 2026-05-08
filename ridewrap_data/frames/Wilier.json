@@ -1,6 +1,17 @@
 [
   {
     "brand": "Wilier",
+    "model": "503X",
+    "year_from": 2019,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWILIER503X201929AL"
+  },
+  {
+    "brand": "Wilier",
     "model": "Urta",
     "sub_model": "Max SLR",
     "year_from": 2023,

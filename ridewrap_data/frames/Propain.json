@@ -103,6 +103,30 @@
   },
   {
     "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Trail",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AS"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Enduro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AS"
+  },
+  {
+    "brand": "Propain",
     "model": "Hugene",
     "year_from": 2021,
     "year_to": 2024,
@@ -120,7 +144,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINHUGENE202529CS"
   },
   {
@@ -186,7 +210,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINSRESHSL2026MX29CS"
   },
   {
@@ -312,6 +336,30 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWPROPAINEKANO2CF2024MX29CM"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Trail",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AM"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Enduro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AM"
   },
   {
     "brand": "Propain",
@@ -692,6 +740,30 @@
   },
   {
     "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Trail",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AL"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Enduro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AL"
+  },
+  {
+    "brand": "Propain",
     "model": "Hugene",
     "year_from": 2021,
     "year_to": 2024,
@@ -1036,6 +1108,30 @@
   },
   {
     "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Trail",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AXL"
+  },
+  {
+    "brand": "Propain",
+    "model": "Ekano 3 AL",
+    "sub_model": "Enduro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPROPAINEKANO32026MX29AXL"
+  },
+  {
+    "brand": "Propain",
     "model": "Hugene",
     "year_from": 2021,
     "year_to": 2024,
@@ -1053,7 +1149,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINHUGENE202529CXL"
   },
   {
@@ -1174,7 +1270,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINSRESHSL2026MX29CXL"
   },
   {
@@ -1309,7 +1405,7 @@
     "size": "LXL",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINTRICKSHOT202526ALXL"
   },
   {
@@ -1321,7 +1417,7 @@
     "size": "LXL",
     "frame_material": "Alloy",
     "wheel_size": "26",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWPROPAINTRICKSHOT202526ALXL"
   },
   {

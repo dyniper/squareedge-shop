@@ -23,6 +23,17 @@
   },
   {
     "brand": "Aventon",
+    "model": "Current EXP",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWAVENTONCURRENTEXP202629CM"
+  },
+  {
+    "brand": "Aventon",
     "model": "Ramblas",
     "year_from": 2024,
     "year_to": 2026,
@@ -31,6 +42,28 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWAVENTONRAMBLAS202429AL"
+  },
+  {
+    "brand": "Aventon",
+    "model": "Current EXP",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWAVENTONCURRENTEXP202629CL"
+  },
+  {
+    "brand": "Aventon",
+    "model": "Current ADV",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWAVENTONCURRENTADV202629AL"
   },
   {
     "brand": "Aventon",

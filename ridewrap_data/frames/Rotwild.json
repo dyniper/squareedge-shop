@@ -186,7 +186,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRE375202129CM"
   },
   {
@@ -198,7 +198,19 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWROTWILDRE375202129CM"
+  },
+  {
+    "brand": "Rotwild",
+    "model": "R.E375",
+    "sub_model": "Ultra",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRE375202129CM"
   },
   {
@@ -258,7 +270,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDREX20242729CM"
   },
   {
@@ -270,7 +282,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDREX20242729CM"
   },
   {
@@ -306,7 +318,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRG375202229CM"
   },
   {
@@ -533,7 +545,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRE375202129CL"
   },
   {
@@ -545,7 +557,19 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWROTWILDRE375202129CL"
+  },
+  {
+    "brand": "Rotwild",
+    "model": "R.E375",
+    "sub_model": "Ultra",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRE375202129CL"
   },
   {
@@ -677,7 +701,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRX100020242729CL"
   },
   {
@@ -689,7 +713,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDRX100020242729CL"
   },
   {
@@ -868,7 +892,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDREX20242729CXL"
   },
   {
@@ -880,7 +904,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROTWILDREX20242729CXL"
   },
   {

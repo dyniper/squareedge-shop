@@ -20,5 +20,16 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSKLARTALLTALE202429SL"
+  },
+  {
+    "brand": "Sklar",
+    "model": "PBJ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSKLARPBJ202229SL"
   }
 ]

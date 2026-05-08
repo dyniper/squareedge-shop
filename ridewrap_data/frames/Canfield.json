@@ -1,17 +1,6 @@
 [
   {
     "brand": "Canfield",
-    "model": "Nimble 9",
-    "year_from": 2020,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Steel",
-    "wheel_size": "29/27+",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDNIMBLE920202927SS"
-  },
-  {
-    "brand": "Canfield",
     "model": "Yelli Screamy",
     "year_from": 2021,
     "year_to": 2026,
@@ -20,6 +9,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCANFIELDYELLISCREAMY202129AS"
+  },
+  {
+    "brand": "Canfield",
+    "model": "Tilt",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDTILT202129AS"
   },
   {
     "brand": "Canfield",
@@ -34,14 +34,14 @@
   },
   {
     "brand": "Canfield",
-    "model": "Tilt",
-    "year_from": 2021,
-    "year_to": 2026,
+    "model": "Nimble 9",
+    "year_from": 2020,
+    "year_to": 2023,
     "size": "S",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDTILT202129AS"
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SS"
   },
   {
     "brand": "Canfield",
@@ -67,61 +67,6 @@
   },
   {
     "brand": "Canfield",
-    "model": "Nimble 9",
-    "year_from": 2020,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Steel",
-    "wheel_size": "29/27+",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDNIMBLE920202927SM"
-  },
-  {
-    "brand": "Canfield",
-    "model": "ONE.2",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "Size 2",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWCANFIELDONE2202129ASIZE2"
-  },
-  {
-    "brand": "Canfield",
-    "model": "LITHIUM",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDLITHIUM202129AM"
-  },
-  {
-    "brand": "Canfield",
-    "model": "Tilt",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDTILT202129AM"
-  },
-  {
-    "brand": "Canfield",
-    "model": "Jedi",
-    "year_from": 2022,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDJEDI202229AM"
-  },
-  {
-    "brand": "Canfield",
     "model": "Yelli Screamy",
     "year_from": 2021,
     "year_to": 2026,
@@ -136,11 +81,66 @@
     "model": "Tilt",
     "year_from": 2021,
     "year_to": 2026,
-    "size": "L",
+    "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDTILT202129AL"
+    "kit_product_sku": "RWCANFIELDTILT202129AM"
+  },
+  {
+    "brand": "Canfield",
+    "model": "ONE.2",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "Size 2",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANFIELDONE2202129ASIZE2"
+  },
+  {
+    "brand": "Canfield",
+    "model": "Nimble 9",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SM"
+  },
+  {
+    "brand": "Canfield",
+    "model": "LITHIUM",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AM"
+  },
+  {
+    "brand": "Canfield",
+    "model": "Jedi",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDJEDI202229AM"
+  },
+  {
+    "brand": "Canfield",
+    "model": "Nimble 9",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SL"
   },
   {
     "brand": "Canfield",
@@ -155,25 +155,25 @@
   },
   {
     "brand": "Canfield",
-    "model": "Nimble 9",
-    "year_from": 2020,
+    "model": "Balance",
+    "year_from": 2023,
     "year_to": 2026,
     "size": "L",
-    "frame_material": "Steel",
-    "wheel_size": "29/27+",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDNIMBLE920202927SL"
+    "kit_product_sku": "RWCANFIELDBALANCE202327AL"
   },
   {
     "brand": "Canfield",
-    "model": "LITHIUM",
+    "model": "Tilt",
     "year_from": 2021,
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDLITHIUM202129AL"
+    "kit_product_sku": "RWCANFIELDTILT202129AL"
   },
   {
     "brand": "Canfield",
@@ -188,36 +188,25 @@
   },
   {
     "brand": "Canfield",
-    "model": "Balance",
-    "year_from": 2023,
+    "model": "LITHIUM",
+    "year_from": 2021,
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "27",
+    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDBALANCE202327AL"
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AL"
   },
   {
     "brand": "Canfield",
     "model": "Nimble 9",
-    "year_from": 2020,
+    "year_from": 2024,
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29/27+",
     "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDNIMBLE920202927SXL"
-  },
-  {
-    "brand": "Canfield",
-    "model": "LITHIUM",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWCANFIELDLITHIUM202129AXL"
+    "kit_product_sku": "RWCANFIELDNIMBLE920242927SXL"
   },
   {
     "brand": "Canfield",
@@ -229,6 +218,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCANFIELDJEDI202229AXL"
+  },
+  {
+    "brand": "Canfield",
+    "model": "Nimble 9",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDNIMBLE920202927SXL"
   },
   {
     "brand": "Canfield",
@@ -251,6 +251,17 @@
     "wheel_size": "27",
     "design_status": "Measured",
     "kit_product_sku": "RWCANFIELDBALANCE202027AXL"
+  },
+  {
+    "brand": "Canfield",
+    "model": "LITHIUM",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANFIELDLITHIUM202129AXL"
   },
   {
     "brand": "Canfield",

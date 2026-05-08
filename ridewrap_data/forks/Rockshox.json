@@ -39,57 +39,11 @@
   },
   {
     "brand": "Rockshox",
-    "model": "35 Gold RL (Fender Mounts)",
-    "year_from": 2019,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOX35GOLDRLFENDERMOUNTS201927",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "35",
-    "year_from": 2019,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROC35201900000027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb eMTB",
-    "year_from": 2020,
-    "year_to": 2022,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXZEBEMTB202027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Domain",
-    "sub_model": "RC",
-    "year_from": 2021,
-    "year_to": 2024,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXDOMAIN202127",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
     "model": "Boxxer",
-    "year_from": 2024,
-    "year_to": 2026,
+    "year_from": 2015,
+    "year_to": 2018,
     "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXBOXXER202427",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Recon RL",
-    "year_from": 2021,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXRECONRL202127",
+    "kit_product_sku": "RWROCBOX201500000027",
     "design_status": "Designed"
   },
   {
@@ -103,114 +57,11 @@
   },
   {
     "brand": "Rockshox",
-    "model": "Boxxer",
-    "year_from": 2015,
-    "year_to": 2018,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCBOX201500000027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb Flight Attendant",
-    "year_from": 2022,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXZEBFLIGHTATTENDANT202227",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Lyrik Flight Attendant",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXLYRIKFLIGHTATTENDANT202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Pike Flight Attendant",
-    "year_from": 2022,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXPIKEFLIGHTATTENDANT202227",
-    "design_status": "Measured"
-  },
-  {
-    "brand": "Rockshox",
     "model": "Lyrik",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXLYRIK202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Pike",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXPIKE202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Select",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXZEB202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Select+",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXZEB202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Ultimate",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXZEB202327",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Psylo",
-    "sub_model": "Silver R",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXPSYLO202427",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Revelation",
     "year_from": 2018,
-    "year_to": 2026,
+    "year_to": 2022,
     "wheel_size": "27",
-    "kit_product_sku": "RWROCREV201800000027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Sektor",
-    "year_from": 2018,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXSEKTOR201827",
+    "kit_product_sku": "RWROCLYR201800000027",
     "design_status": "Designed"
   },
   {
@@ -224,21 +75,29 @@
   },
   {
     "brand": "Rockshox",
+    "model": "Sektor",
+    "year_from": 2018,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXSEKTOR201827",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Revelation",
+    "year_from": 2018,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCREV201800000027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
     "model": "Yari",
     "year_from": 2018,
     "year_to": 2026,
     "wheel_size": "27",
     "kit_product_sku": "RWROCYAR201800000027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Psylo",
-    "sub_model": "Silver RC",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCKSHOXPSYLO202427",
     "design_status": "Designed"
   },
   {
@@ -273,6 +132,157 @@
   },
   {
     "brand": "Rockshox",
+    "model": "35",
+    "year_from": 2019,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROC35201900000027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb eMTB",
+    "year_from": 2020,
+    "year_to": 2022,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEBEMTB202027",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Domain",
+    "sub_model": "RC",
+    "year_from": 2021,
+    "year_to": 2024,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXDOMAIN202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Recon RL",
+    "sub_model": "Silver",
+    "year_from": 2021,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXRECONRL202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Recon RL",
+    "sub_model": "Gold",
+    "year_from": 2021,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXRECONRL202127",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "35 Gold RL (Fender Mounts)",
+    "year_from": 2019,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOX35GOLDRLFENDERMOUNTS201927",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb Flight Attendant",
+    "year_from": 2022,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEBFLIGHTATTENDANT202227",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Lyrik Flight Attendant",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXLYRIKFLIGHTATTENDANT202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Pike Flight Attendant",
+    "year_from": 2022,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXPIKEFLIGHTATTENDANT202227",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Lyrik",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXLYRIK202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Pike",
+    "year_from": 2023,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXPIKE202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEB202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select+",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEB202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Ultimate",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEB202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Base",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEB202327",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Boxxer",
+    "year_from": 2024,
+    "year_to": 2025,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXBOXXER202427",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
     "model": "Psylo",
     "sub_model": "Gold RC",
     "year_from": 2024,
@@ -283,89 +293,12 @@
   },
   {
     "brand": "Rockshox",
-    "model": "Lyrik",
-    "year_from": 2018,
-    "year_to": 2022,
-    "wheel_size": "27",
-    "kit_product_sku": "RWROCLYR201800000027",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "35 Gold RL (Fender Mounts)",
-    "year_from": 2019,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOX35GOLDRLFENDERMOUNTS201929",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID SL",
-    "sub_model": "Ultimate Flight Attendant",
-    "year_from": 2026,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSIDSL202629",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Select+",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXZEB202329",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Ultimate",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXZEB202329",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Zeb",
-    "sub_model": "Select",
-    "year_from": 2023,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXZEB202329",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID SL",
-    "sub_model": "Ultimate",
-    "year_from": 2026,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSIDSL202629",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID",
-    "sub_model": "Ultimate Flight Attendant",
+    "model": "Psylo",
+    "sub_model": "Silver RC",
     "year_from": 2024,
     "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSID202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Reba RL",
-    "year_from": 2021,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXREBARL202129",
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXPSYLO202427",
     "design_status": "Designed"
   },
   {
@@ -374,97 +307,38 @@
     "sub_model": "Silver R",
     "year_from": 2024,
     "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXPSYLO202429",
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXPSYLO202427",
     "design_status": "Designed"
   },
   {
     "brand": "Rockshox",
-    "model": "SID",
+    "model": "Zeb",
     "sub_model": "Ultimate",
-    "year_from": 2019,
-    "year_to": 2020,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSID201929",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Psylo",
-    "sub_model": "Silver RC",
-    "year_from": 2024,
+    "year_from": 2026,
     "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXPSYLO202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Psylo",
-    "sub_model": "Gold RC",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXPSYLO202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "Boxxer",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCBOX202400000029",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID SL",
-    "sub_model": "Ultimate",
-    "year_from": 2024,
-    "year_to": 2025,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSIDSL202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID SL",
-    "sub_model": "Ultimate Flight Attendant",
-    "year_from": 2024,
-    "year_to": 2025,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSIDSL202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID",
-    "sub_model": "Select+",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSID202429",
-    "design_status": "Designed"
-  },
-  {
-    "brand": "Rockshox",
-    "model": "SID",
-    "sub_model": "Ultimate",
-    "year_from": 2024,
-    "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXSID202429",
-    "design_status": "Designed"
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXZEB202627",
+    "design_status": "Measured"
   },
   {
     "brand": "Rockshox",
     "model": "Lyrik",
-    "year_from": 2023,
+    "sub_model": "Ultimate",
+    "year_from": 2026,
     "year_to": 2026,
-    "wheel_size": "29",
-    "kit_product_sku": "RWROCKSHOXLYRIK202329",
-    "design_status": "Designed"
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXLYRIK202627",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Boxxer",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "27",
+    "kit_product_sku": "RWROCKSHOXBOXXER202627",
+    "design_status": "Measured"
   },
   {
     "brand": "Rockshox",
@@ -672,6 +546,7 @@
   {
     "brand": "Rockshox",
     "model": "Recon RL",
+    "sub_model": "Silver",
     "year_from": 2021,
     "year_to": 2026,
     "wheel_size": "29",
@@ -680,9 +555,28 @@
   },
   {
     "brand": "Rockshox",
+    "model": "Recon RL",
+    "sub_model": "Gold",
+    "year_from": 2021,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXRECONRL202129",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "35 Gold RL (Fender Mounts)",
+    "year_from": 2019,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOX35GOLDRLFENDERMOUNTS201929",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
     "model": "Zeb Flight Attendant",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXZEBFLIGHTATTENDANT202229",
     "design_status": "Designed"
@@ -691,7 +585,7 @@
     "brand": "Rockshox",
     "model": "Lyrik Flight Attendant",
     "year_from": 2023,
-    "year_to": 2026,
+    "year_to": 2025,
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXLYRIKFLIGHTATTENDANT202329",
     "design_status": "Designed"
@@ -717,11 +611,237 @@
   },
   {
     "brand": "Rockshox",
+    "model": "Lyrik",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXLYRIK202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
     "model": "Pike",
     "year_from": 2023,
     "year_to": 2026,
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXPIKE202229",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select+",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Ultimate",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Base",
+    "year_from": 2023,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202329",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Reba RL",
+    "year_from": 2021,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXREBARL202129",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID",
+    "sub_model": "Ultimate",
+    "year_from": 2019,
+    "year_to": 2020,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSID201929",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Boxxer",
+    "year_from": 2024,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCBOX202400000029",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID SL",
+    "sub_model": "Ultimate",
+    "year_from": 2024,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSIDSL202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID SL",
+    "sub_model": "Ultimate Flight Attendant",
+    "year_from": 2024,
+    "year_to": 2025,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSIDSL202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID",
+    "sub_model": "Ultimate",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSID202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID",
+    "sub_model": "Ultimate Flight Attendant",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSID202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID",
+    "sub_model": "Select+",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSID202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Psylo",
+    "sub_model": "Gold RC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXPSYLO202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Psylo",
+    "sub_model": "Silver RC",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXPSYLO202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Psylo",
+    "sub_model": "Silver R",
+    "year_from": 2024,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXPSYLO202429",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Domain",
+    "sub_model": "Gold RC",
+    "year_from": 2025,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXDOMAIN202529",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Domain",
+    "sub_model": "Gold R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXDOMAIN202529",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID SL",
+    "sub_model": "Ultimate Flight Attendant",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSIDSL202629",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "SID SL",
+    "sub_model": "Ultimate",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXSIDSL202629",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Ultimate",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202629",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Lyrik",
+    "sub_model": "Ultimate",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXLYRIK202629",
+    "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Boxxer",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXBOXXER202629",
     "design_status": "Designed"
   }
 ]

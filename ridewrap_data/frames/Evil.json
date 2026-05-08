@@ -142,6 +142,17 @@
   },
   {
     "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWEVILOFFERING202629CS"
+  },
+  {
+    "brand": "Evil",
     "model": "Calling",
     "year_from": 2017,
     "year_to": 2021,
@@ -186,6 +197,17 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWEVITHE201927CM0"
+  },
+  {
+    "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWEVILOFFERING202629CM"
   },
   {
     "brand": "Evil",
@@ -373,6 +395,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWEVILEPOCALYPSE202229CL"
+  },
+  {
+    "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWEVILOFFERING202629CL"
   },
   {
     "brand": "Evil",
@@ -573,6 +606,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWEVILWRECKONING202329CXL"
+  },
+  {
+    "brand": "Evil",
+    "model": "Offering",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWEVILOFFERING202629CXL"
   },
   {
     "brand": "Evil",

@@ -14,6 +14,42 @@
   {
     "brand": "Raaw",
     "model": "Madonna",
+    "sub_model": "V3.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2026MX29AS"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2026MX29AS"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AS"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
     "year_to": 2026,
@@ -61,30 +97,6 @@
   },
   {
     "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AS"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V1",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWJIBB202129AM"
-  },
-  {
-    "brand": "Raaw",
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
@@ -93,18 +105,6 @@
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWRAAWMADONNA2024MX29AM"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V3",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
     "kit_product_sku": "RWRAAWMADONNA2024MX29AM"
   },
   {
@@ -121,27 +121,39 @@
   },
   {
     "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AM"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
+    "model": "Madonna",
+    "sub_model": "V3",
     "year_from": 2024,
     "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
     "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AM"
+    "kit_product_sku": "RWRAAWMADONNA2024MX29AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V1",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWJIBB202129AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2026MX29AM"
   },
   {
     "brand": "Raaw",
@@ -157,15 +169,87 @@
   },
   {
     "brand": "Raaw",
-    "model": "Madonna",
+    "model": "Yalla",
+    "sub_model": "V2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWYALLA2025MX29AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
     "sub_model": "V2.2",
-    "year_from": 2021,
-    "year_to": 2023,
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2026MX29AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AM"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3",
+    "year_from": 2024,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWMADONNA202129AL"
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2024MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2026MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AL"
   },
   {
     "brand": "Raaw",
@@ -178,6 +262,78 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWRAAWMADONNA2024MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Yalla",
+    "sub_model": "V1",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWYALLA202329AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2026MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V2.2",
+    "year_from": 2021,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWMADONNA202129AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Yalla",
+    "sub_model": "V2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWYALLA2025MX29AL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V2",
+    "year_from": 2020,
+    "year_to": 2021,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWMADONNA202029AL"
   },
   {
     "brand": "Raaw",
@@ -194,74 +350,38 @@
   {
     "brand": "Raaw",
     "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
+    "sub_model": "V1",
+    "year_from": 2021,
     "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V3",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWMADONNA2024MX29AL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V2",
-    "year_from": 2020,
-    "year_to": 2021,
-    "size": "L",
+    "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWRAAWMADONNA202029AL"
+    "kit_product_sku": "RWRAAWJIBB202129AXL"
   },
   {
     "brand": "Raaw",
     "model": "Yalla",
-    "sub_model": "V1",
-    "year_from": 2023,
-    "year_to": 2024,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWYALLA202329AL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V3",
-    "year_from": 2024,
+    "sub_model": "V2",
+    "year_from": 2025,
     "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWMADONNA2024MX29AXL"
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWYALLA2025MX29AXL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2026MX29AXL"
   },
   {
     "brand": "Raaw",
@@ -277,6 +397,18 @@
   },
   {
     "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AXL"
+  },
+  {
+    "brand": "Raaw",
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
@@ -286,6 +418,30 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWRAAWMADONNA2024MX29AXL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRAAWMADONNA2024MX29AXL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2024MX29AXL"
   },
   {
     "brand": "Raaw",
@@ -313,6 +469,18 @@
   },
   {
     "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2026MX29AXL"
+  },
+  {
+    "brand": "Raaw",
     "model": "Madonna",
     "sub_model": "V1",
     "year_from": 2018,
@@ -325,54 +493,6 @@
   },
   {
     "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AXL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V2",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWJIBB2024MX29AXL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Jibb",
-    "sub_model": "V1",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWRAAWJIBB202129AXL"
-  },
-  {
-    "brand": "Raaw",
-    "model": "Madonna",
-    "sub_model": "V3",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "XXL",
-    "frame_material": "Alloy",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWRAAWMADONNA2024MX29AXXL"
-  },
-  {
-    "brand": "Raaw",
     "model": "Madonna",
     "sub_model": "V3",
     "year_from": 2024,
@@ -397,6 +517,30 @@
   },
   {
     "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2024MX29AXXL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Madonna",
+    "sub_model": "V3.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWMADONNA2026MX29AXXL"
+  },
+  {
+    "brand": "Raaw",
     "model": "Jibb",
     "sub_model": "V2",
     "year_from": 2024,
@@ -406,5 +550,17 @@
     "wheel_size": "MX/29",
     "design_status": "Measured",
     "kit_product_sku": "RWRAAWJIBB2024MX29AXXL"
+  },
+  {
+    "brand": "Raaw",
+    "model": "Jibb",
+    "sub_model": "V2.2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRAAWJIBB2026MX29AXXL"
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CS"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CS"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CM"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CM"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CL"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CL"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "X",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CXL"
+  },
+  {
+    "brand": "Velduro",
+    "model": "Rogue",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWVELDUROROGUE20252729CXL"
+  }
+]

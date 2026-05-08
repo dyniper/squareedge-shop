@@ -44,7 +44,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CS"
   },
   {
@@ -56,7 +56,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CS"
   },
   {
@@ -68,7 +68,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CS"
   },
   {
@@ -212,7 +212,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJAB202529CM"
   },
   {
@@ -224,7 +224,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJAB202529CM"
   },
   {
@@ -236,7 +236,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CM"
   },
   {
@@ -248,7 +248,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CM"
   },
   {
@@ -260,7 +260,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJABMX20242729CM"
   },
   {
@@ -524,7 +524,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJAB202529CL"
   },
   {
@@ -536,7 +536,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONJAB202529CL"
   },
   {
@@ -764,7 +764,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONDEFT202529CXL"
   },
   {
@@ -776,7 +776,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONDEFT202529CXL"
   },
   {
@@ -788,7 +788,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONDEFT202529CXL"
   },
   {
@@ -1004,7 +1004,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONSWOOP202029CXL"
   },
   {
@@ -1016,7 +1016,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONSWOOP202029CXL"
   },
   {
@@ -1028,7 +1028,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWRADONSWOOP202029CXL"
   }
 ]

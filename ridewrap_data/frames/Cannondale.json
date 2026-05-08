@@ -337,6 +337,66 @@
   },
   {
     "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon LT 1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CS"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "LT LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CS"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CS"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon 1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CS"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon 2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CS"
+  },
+  {
+    "brand": "Cannondale",
     "model": "Habit Neo",
     "sub_model": "1",
     "year_from": 2020,
@@ -632,7 +692,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALEMOTERRASL2024MX29CS"
   },
   {
@@ -1246,6 +1306,17 @@
     "wheel_size": "27",
     "design_status": "Measured",
     "kit_product_sku": "RWCANNONDALETRAIL202427AS"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Bad Habit",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEBADHABIT2026MX29CM"
   },
   {
     "brand": "Cannondale",
@@ -1934,13 +2005,25 @@
   {
     "brand": "Cannondale",
     "model": "Moterra LT",
-    "sub_model": "Carbon 1",
+    "sub_model": "1",
     "year_from": 2025,
     "year_to": 2026,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANNONDALEMOTERRALT20252729CM"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Moterra LT",
+    "sub_model": "2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALEMOTERRALT20252729CM"
   },
   {
@@ -3110,7 +3193,19 @@
   {
     "brand": "Cannondale",
     "model": "Moterra LT",
-    "sub_model": "Carbon 1",
+    "sub_model": "1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWCANNONDALEMOTERRALT20252729CL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Moterra LT",
+    "sub_model": "2",
     "year_from": 2025,
     "year_to": 2026,
     "size": "L",
@@ -3704,7 +3799,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALETRAIL202029AL"
   },
   {
@@ -3716,7 +3811,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALETRAIL202029AL"
   },
   {
@@ -3728,7 +3823,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALETRAIL202029AL"
   },
   {
@@ -3740,7 +3835,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALETRAIL202029AL"
   },
   {
@@ -3766,6 +3861,17 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWCANNONDALETRAIL202429AL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Bad Habit",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEBADHABIT2026MX29CXL"
   },
   {
     "brand": "Cannondale",
@@ -3958,6 +4064,66 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWCANNONDALEHABIT202329AXL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon LT 1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CXL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "LT LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CXL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CXL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon 1",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CXL"
+  },
+  {
+    "brand": "Cannondale",
+    "model": "Habit",
+    "sub_model": "Carbon 2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWCANNONDALEHABIT202329CXL"
   },
   {
     "brand": "Cannondale",

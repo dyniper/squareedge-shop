@@ -1070,6 +1070,78 @@
   {
     "brand": "BMC",
     "model": "Fourstroke",
+    "sub_model": "01 LTD",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 FRS",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 One",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Two",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Frameset",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
+    "sub_model": "01 Team",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBMCFOURSTROKE202329CXL"
+  },
+  {
+    "brand": "BMC",
+    "model": "Fourstroke",
     "sub_model": "LT LTD",
     "year_from": 2023,
     "year_to": 2026,
@@ -1160,7 +1232,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWBMCFOURSTROKEAMP202329CXL"
   },
   {
@@ -1172,7 +1244,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWBMCFOURSTROKEAMP202329CXL"
   },
   {
@@ -1184,7 +1256,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWBMCFOURSTROKEAMP202329CXL"
   },
   {
@@ -1196,7 +1268,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWBMCFOURSTROKEAMP202329CXL"
   },
   {

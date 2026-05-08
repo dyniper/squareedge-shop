@@ -84,8 +84,19 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSENTINEL202527CXS"
+  },
+  {
+    "brand": "Transition",
+    "model": "Bottlerocket",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONBOTTLEROCKET202627AS"
   },
   {
     "brand": "Transition",
@@ -141,6 +152,17 @@
     "wheel_size": "26",
     "design_status": "Designed",
     "kit_product_sku": "RWTRAPJB201926AS0"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Youth",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONPBJ202624AYOUTH"
   },
   {
     "brand": "Transition",
@@ -400,8 +422,9 @@
   {
     "brand": "Transition",
     "model": "Spur",
+    "sub_model": "Non-UDH",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -413,12 +436,23 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSPUR202429CS"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202629CS"
   },
   {
     "brand": "Transition",
@@ -441,6 +475,28 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONTR1120232729AS"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR112025MX29AS"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONTR1120262729AS"
   },
   {
     "brand": "Transition",
@@ -518,6 +574,17 @@
     "wheel_size": "26",
     "design_status": "Designed",
     "kit_product_sku": "RWTRAPJB201926AM0"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Short",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPBJ202626ASHORT"
   },
   {
     "brand": "Transition",
@@ -760,7 +827,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSMUGGLER202429AM"
   },
   {
@@ -788,8 +855,9 @@
   {
     "brand": "Transition",
     "model": "Spur",
+    "sub_model": "Non-UDH",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -801,12 +869,23 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSPUR202429CM"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202629CM"
   },
   {
     "brand": "Transition",
@@ -834,12 +913,23 @@
     "brand": "Transition",
     "model": "TR11",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONTR112025MX29AM"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120262729AM"
   },
   {
     "brand": "Transition",
@@ -851,6 +941,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONTRANSAM202429SM"
+  },
+  {
+    "brand": "Transition",
+    "model": "Bottlerocket",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONBOTTLEROCKET202627AL"
   },
   {
     "brand": "Transition",
@@ -917,6 +1018,17 @@
     "wheel_size": "26",
     "design_status": "Designed",
     "kit_product_sku": "RWTRAPJB201926AL0"
+  },
+  {
+    "brand": "Transition",
+    "model": "PBJ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "Standard",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONPBJ202626ASTANDARD"
   },
   {
     "brand": "Transition",
@@ -1165,8 +1277,9 @@
   {
     "brand": "Transition",
     "model": "Spur",
+    "sub_model": "Non-UDH",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -1178,12 +1291,23 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSPUR202429CL"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202629CL"
   },
   {
     "brand": "Transition",
@@ -1209,6 +1333,28 @@
   },
   {
     "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR112025MX29AL"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120262729AL"
+  },
+  {
+    "brand": "Transition",
     "model": "TransAM",
     "year_from": 2024,
     "year_to": 2026,
@@ -1228,6 +1374,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRAVAN201829CL0"
+  },
+  {
+    "brand": "Transition",
+    "model": "Bottlerocket",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONBOTTLEROCKET202627AXL"
   },
   {
     "brand": "Transition",
@@ -1509,8 +1666,9 @@
   {
     "brand": "Transition",
     "model": "Spur",
+    "sub_model": "Non-UDH",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -1522,12 +1680,23 @@
     "model": "Spur",
     "sub_model": "UDH",
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONSPUR202429CXL"
+  },
+  {
+    "brand": "Transition",
+    "model": "Spur",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONSPUR202629CXL"
   },
   {
     "brand": "Transition",
@@ -1550,6 +1719,28 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWTRANSITIONTR1120232729AXL"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2025,
+    "year_to": 2025,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTRANSITIONTR112025MX29AXL"
+  },
+  {
+    "brand": "Transition",
+    "model": "TR11",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWTRANSITIONTR1120262729AXL"
   },
   {
     "brand": "Transition",

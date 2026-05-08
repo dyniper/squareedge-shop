@@ -113,6 +113,17 @@
   },
   {
     "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFREACTOR202629CS"
+  },
+  {
+    "brand": "Nukeproof",
     "model": "Cub Scout",
     "year_from": 2021,
     "year_to": 2026,
@@ -266,6 +277,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWNUKEPROOFREACTOR202029CM"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFREACTOR202629CM"
   },
   {
     "brand": "Nukeproof",
@@ -461,10 +483,32 @@
     "year_from": 2021,
     "year_to": 2026,
     "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFMEGA20212729AL"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWNUKEPROOFMEGA20212729CL"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Mega",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFMEGA202129AL"
   },
   {
     "brand": "Nukeproof",
@@ -533,6 +577,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWNUKEPROOFREACTOR202029CL"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFREACTOR202629CL"
   },
   {
     "brand": "Nukeproof",
@@ -767,6 +822,17 @@
   },
   {
     "brand": "Nukeproof",
+    "model": "Reactor",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNUKEPROOFREACTOR202629CXL"
+  },
+  {
+    "brand": "Nukeproof",
     "model": "Scout",
     "sub_model": "Pro",
     "year_from": 2019,
@@ -866,10 +932,34 @@
     "sub_model": "297",
     "year_from": 2023,
     "year_to": 2026,
-    "size": "ML",
+    "size": "NP1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNUKDIS20232729CSM"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Dissent",
+    "sub_model": "297",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "NP2",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWNUKEPROOFDISSENT20232729CML"
+  },
+  {
+    "brand": "Nukeproof",
+    "model": "Dissent",
+    "sub_model": "297",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "NP3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNUKEPROOFDISSENT20232729CNP3"
   }
 ]

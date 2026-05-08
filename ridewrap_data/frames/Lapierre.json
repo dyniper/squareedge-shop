@@ -91,7 +91,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWLAPIERREPRORACECF202329CS"
   },
   {
@@ -379,7 +379,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWLAPIERREOVERVOLTTR2025MX29AM"
   },
   {
@@ -391,7 +391,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWLAPIERREOVERVOLTTR2025MX29AM"
   },
   {
@@ -719,6 +719,66 @@
   },
   {
     "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "9.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREOVERVOLTAM20252729AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "7.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREOVERVOLTAM20252729AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "10.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREOVERVOLTAM20252729AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "4.6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREOVERVOLTAM20252729AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Overvolt AM",
+    "sub_model": "5.8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREOVERVOLTAM20252729AL"
+  },
+  {
+    "brand": "Lapierre",
     "model": "Overvolt Tr",
     "sub_model": "4.5",
     "year_from": 2021,
@@ -740,6 +800,42 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWLAPIERREOVERVOLTTR202127AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Prorace",
+    "sub_model": "5.9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREPRORACE202429AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Prorace",
+    "sub_model": "4.9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREPRORACE202429AL"
+  },
+  {
+    "brand": "Lapierre",
+    "model": "Prorace",
+    "sub_model": "3.9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWLAPIERREPRORACE202429AL"
   },
   {
     "brand": "Lapierre",

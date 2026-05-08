@@ -7,8 +7,41 @@
     "size": "XS",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNINERAIR9RDO201829CXS"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNINERAIR920182927AS"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO e9",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERWFOE920212729AS"
+  },
+  {
+    "brand": "Niner",
+    "model": "JET 9 RDO",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERJET9RDO202129CS"
   },
   {
     "brand": "Niner",
@@ -45,91 +78,14 @@
   },
   {
     "brand": "Niner",
-    "model": "WFO e9",
+    "model": "RIP e9",
     "year_from": 2021,
-    "year_to": 2024,
-    "size": "S",
+    "year_to": 2026,
+    "size": "M",
     "frame_material": "Alloy",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERWFOE920212729AS"
-  },
-  {
-    "brand": "Niner",
-    "model": "AIR 9",
-    "year_from": 2018,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Alloy",
-    "wheel_size": "29/27+",
-    "design_status": "Measured",
-    "kit_product_sku": "RWNINERAIR920182927AS"
-  },
-  {
-    "brand": "Niner",
-    "model": "JET 9 RDO",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWNINERJET9RDO202129CS"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIP9RDO201927CM"
-  },
-  {
-    "brand": "Niner",
-    "model": "AIR 9 RDO",
-    "year_from": 2018,
-    "year_to": 2023,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERAIR9RDO201829CM"
-  },
-  {
-    "brand": "Niner",
-    "model": "SIR 9",
-    "year_from": 2018,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Steel",
-    "wheel_size": "29/27+",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERSIR920182927SM"
-  },
-  {
-    "brand": "Niner",
-    "model": "JET 9 RDO",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERJET9RDO202129CM"
-  },
-  {
-    "brand": "Niner",
-    "model": "WFO 9 RDO",
-    "year_from": 2022,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERWFO9RDO202229CM"
+    "kit_product_sku": "RWNINERRIPE9202129AM"
   },
   {
     "brand": "Niner",
@@ -144,14 +100,25 @@
   },
   {
     "brand": "Niner",
-    "model": "RIP e9",
-    "year_from": 2021,
+    "model": "SIR 9",
+    "year_from": 2018,
     "year_to": 2026,
     "size": "M",
-    "frame_material": "Alloy",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERSIR920182927SM"
+  },
+  {
+    "brand": "Niner",
+    "model": "WFO 9 RDO",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIPE9202129AM"
+    "kit_product_sku": "RWNINERWFO9RDO202229CM"
   },
   {
     "brand": "Niner",
@@ -177,6 +144,28 @@
   },
   {
     "brand": "Niner",
+    "model": "AIR 9 RDO",
+    "year_from": 2018,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERAIR9RDO201829CM"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERRIP9RDO201927CM"
+  },
+  {
+    "brand": "Niner",
     "model": "AIR 9",
     "year_from": 2018,
     "year_to": 2026,
@@ -188,36 +177,14 @@
   },
   {
     "brand": "Niner",
-    "model": "AIR 9",
-    "year_from": 2018,
+    "model": "JET 9 RDO",
+    "year_from": 2021,
     "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29/27+",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERAIR920182927AL"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "L",
+    "size": "M",
     "frame_material": "Carbon",
-    "wheel_size": "27",
+    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIP9RDO201927CL"
-  },
-  {
-    "brand": "Niner",
-    "model": "SIR 9",
-    "year_from": 2018,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Steel",
-    "wheel_size": "29/27+",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERSIR920182927SL"
+    "kit_product_sku": "RWNINERJET9RDO202129CM"
   },
   {
     "brand": "Niner",
@@ -254,6 +221,28 @@
   },
   {
     "brand": "Niner",
+    "model": "SIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERSIR920182927SL"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERRIP9RDO201927CL"
+  },
+  {
+    "brand": "Niner",
     "model": "RIP 9 RDO",
     "year_from": 2019,
     "year_to": 2023,
@@ -262,39 +251,6 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWNINERRIP9RDO201929CL"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP 9 RDO",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIP9RDO202429CL"
-  },
-  {
-    "brand": "Niner",
-    "model": "RIP e9",
-    "year_from": 2021,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIPE9202129AL"
-  },
-  {
-    "brand": "Niner",
-    "model": "RKT 9 RDO",
-    "year_from": 2018,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWNINERRKT9RDO201829CL"
   },
   {
     "brand": "Niner",
@@ -310,13 +266,57 @@
   {
     "brand": "Niner",
     "model": "RIP 9 RDO",
-    "year_from": 2019,
-    "year_to": 2023,
-    "size": "XL",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWNINERRIP9RDO201929CXL"
+    "kit_product_sku": "RWNINERRIP9RDO202429CL"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERAIR920182927AL"
+  },
+  {
+    "brand": "Niner",
+    "model": "RKT 9 RDO",
+    "year_from": 2018,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERRKT9RDO201829CL"
+  },
+  {
+    "brand": "Niner",
+    "model": "RIP e9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERRIPE9202129AL"
+  },
+  {
+    "brand": "Niner",
+    "model": "AIR 9",
+    "year_from": 2018,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNINERAIR920182927AXL"
   },
   {
     "brand": "Niner",
@@ -331,13 +331,13 @@
   },
   {
     "brand": "Niner",
-    "model": "AIR 9",
-    "year_from": 2018,
-    "year_to": 2026,
+    "model": "RIP 9 RDO",
+    "year_from": 2019,
+    "year_to": 2023,
     "size": "XL",
-    "frame_material": "Alloy",
-    "wheel_size": "29/27+",
-    "design_status": "Measured",
-    "kit_product_sku": "RWNINERAIR920182927AXL"
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNINERRIP9RDO201929CXL"
   }
 ]

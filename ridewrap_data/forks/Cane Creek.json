@@ -25,5 +25,15 @@
     "wheel_size": "29",
     "kit_product_sku": "RWCANHEL201800000029",
     "design_status": "Designed"
+  },
+  {
+    "brand": "Cane Creek",
+    "model": "Invert",
+    "sub_model": "Enduro",
+    "year_from": 2026,
+    "year_to": 2026,
+    "wheel_size": "29",
+    "kit_product_sku": "RWCANECREEKINVERT202629",
+    "design_status": "Measured"
   }
 ]

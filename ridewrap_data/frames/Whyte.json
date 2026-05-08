@@ -7,7 +7,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWWHYTET14027202627AXS"
   },
   {
@@ -264,6 +264,30 @@
   },
   {
     "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RS",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CS"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RSX",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CS"
+  },
+  {
+    "brand": "Whyte",
     "model": "Secta",
     "sub_model": "S",
     "year_from": 2025,
@@ -288,8 +312,32 @@
   },
   {
     "brand": "Whyte",
+    "model": "Secta",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTESECTA202529AS"
+  },
+  {
+    "brand": "Whyte",
     "model": "T-140",
     "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTET140202429AS"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-140",
+    "sub_model": "RS",
     "year_from": 2024,
     "year_to": 2026,
     "size": "S",
@@ -762,7 +810,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWWHYTEG18020252927AM"
   },
   {
@@ -774,7 +822,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29/27+",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWWHYTEG18020252927AM"
   },
   {
@@ -827,6 +875,30 @@
   },
   {
     "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RS",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CM"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RSX",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CM"
+  },
+  {
+    "brand": "Whyte",
     "model": "Secta",
     "sub_model": "S",
     "year_from": 2025,
@@ -851,8 +923,32 @@
   },
   {
     "brand": "Whyte",
+    "model": "Secta",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTESECTA202529AM"
+  },
+  {
+    "brand": "Whyte",
     "model": "T-140",
     "sub_model": "S",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTET140202429AM"
+  },
+  {
+    "brand": "Whyte",
+    "model": "T-140",
+    "sub_model": "RS",
     "year_from": 2024,
     "year_to": 2026,
     "size": "M",
@@ -1595,6 +1691,30 @@
   },
   {
     "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RS",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CL"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RSX",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CL"
+  },
+  {
+    "brand": "Whyte",
     "model": "Secta",
     "sub_model": "S",
     "year_from": 2025,
@@ -1602,7 +1722,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWWHYTESECTA202529AL"
   },
   {
@@ -1614,7 +1734,19 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWWHYTESECTA202529AL"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Secta",
+    "sub_model": "R",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
     "kit_product_sku": "RWWHYTESECTA202529AL"
   },
   {
@@ -2118,8 +2250,32 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWWHYTEKADORS202529CXL"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RS",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CXL"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Karve",
+    "sub_model": "EVO RSX",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWWHYTEKARVE2026MX29CXL"
   },
   {
     "brand": "Whyte",
@@ -2137,6 +2293,18 @@
     "brand": "Whyte",
     "model": "Secta",
     "sub_model": "RS",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWWHYTESECTA202529AXL"
+  },
+  {
+    "brand": "Whyte",
+    "model": "Secta",
+    "sub_model": "R",
     "year_from": 2025,
     "year_to": 2026,
     "size": "XL",

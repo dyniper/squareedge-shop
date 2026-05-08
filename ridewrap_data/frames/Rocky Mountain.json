@@ -1076,7 +1076,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROCKYMOUNTAINGROWLER202129AS"
   },
   {
@@ -1088,7 +1088,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROCKYMOUNTAINGROWLER202129AS"
   },
   {
@@ -1100,7 +1100,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWROCKYMOUNTAINGROWLER202129AS"
   },
   {
@@ -8182,7 +8182,7 @@
     "brand": "Rocky Mountain",
     "model": "Reaper",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24/26",

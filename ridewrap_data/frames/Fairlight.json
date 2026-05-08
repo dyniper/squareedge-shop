@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "Fairlight",
+    "model": "Holt",
+    "sub_model": "2.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFAIRLIGHTHOLT202529SL"
+  },
+  {
+    "brand": "Fairlight",
+    "model": "Holt",
+    "sub_model": "2.0",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFAIRLIGHTHOLT202529SXL"
+  }
+]

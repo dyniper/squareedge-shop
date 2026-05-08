@@ -149,12 +149,23 @@
     "brand": "Devinci",
     "model": "Spartan",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTANHP202229CS"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Spartan",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCISPARTAN2026MX29AS"
   },
   {
     "brand": "Devinci",
@@ -221,6 +232,17 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCITROY20252729AS"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Troy",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCITROY2025MX29CS"
   },
   {
     "brand": "Devinci",
@@ -417,12 +439,23 @@
     "brand": "Devinci",
     "model": "Spartan",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTANHP202229CM"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Spartan",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCISPARTAN2026MX29AM"
   },
   {
     "brand": "Devinci",
@@ -706,12 +739,23 @@
     "brand": "Devinci",
     "model": "Spartan",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTANHP202229CL"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Spartan",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWDEVINCISPARTAN2026MX29AL"
   },
   {
     "brand": "Devinci",
@@ -778,6 +822,17 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCITROY20252729AL"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Troy",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCITROY2025MX29CL"
   },
   {
     "brand": "Devinci",
@@ -974,12 +1029,23 @@
     "brand": "Devinci",
     "model": "Spartan",
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTANHP202229CXL"
+  },
+  {
+    "brand": "Devinci",
+    "model": "Spartan",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWDEVINCISPARTAN2026MX29AXL"
   },
   {
     "brand": "Devinci",

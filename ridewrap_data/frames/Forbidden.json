@@ -6,44 +6,9 @@
     "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS1"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid E",
-    "sub_model": "Core",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "S1",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS1"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid E",
-    "sub_model": "Lite",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "S1",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS1"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "S1",
-    "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202429CS1"
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS1"
   },
   {
     "brand": "Forbidden",
@@ -58,17 +23,6 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "S1",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDREADNOUGHT20242729CS1"
-  },
-  {
-    "brand": "Forbidden",
     "model": "Druid",
     "year_from": 2023,
     "year_to": 2026,
@@ -77,17 +31,6 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWFORBIDDENDRUID20232729CS1"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202329CS"
   },
   {
     "brand": "Forbidden",
@@ -102,25 +45,15 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
+    "model": "Dreadnought E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Option",
+    "year_from": 2026,
     "year_to": 2026,
     "size": "S1",
     "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS1"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORDRE202129CS0"
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHTE2026MX29CS1"
   },
   {
     "brand": "Forbidden",
@@ -135,14 +68,105 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
+    "model": "Dreadnought E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2026,
     "year_to": 2026,
-    "size": "S2",
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDREADNAUGHTE2026MX29CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Pieces Option",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDRUIDE20262729CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUID202329CS2"
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202429CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHT20242729CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORDRE202129CS0"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Reya",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENREYA202629CS1"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202329CS"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Supernought",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS1"
   },
   {
     "brand": "Forbidden",
@@ -157,6 +181,17 @@
   },
   {
     "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORDRE202129CM0"
+  },
+  {
+    "brand": "Forbidden",
     "model": "Druid",
     "year_from": 2023,
     "year_to": 2023,
@@ -168,8 +203,41 @@
   },
   {
     "brand": "Forbidden",
+    "model": "Supernought",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS2"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUID202329CS2"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Supernought",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS2"
+  },
+  {
+    "brand": "Forbidden",
     "model": "Druid E",
-    "sub_model": "Core",
+    "sub_model": "Remove Factory Protection Option",
     "year_from": 2025,
     "year_to": 2026,
     "size": "S2",
@@ -181,14 +249,36 @@
   {
     "brand": "Forbidden",
     "model": "Druid E",
-    "sub_model": "Lite",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Pieces Option",
     "year_from": 2025,
     "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS2"
+    "kit_product_sku": "RWFORBIDDENDRUIDE20262729CS2"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Reya",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENREYA202629CS2"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHT20242729CS2"
   },
   {
     "brand": "Forbidden",
@@ -214,25 +304,15 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
+    "model": "Dreadnought E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Option",
+    "year_from": 2026,
     "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS2"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2024,
-    "year_to": 2026,
-    "size": "S2",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDREADNOUGHT20242729CS2"
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHTE2026MX29CS2"
   },
   {
     "brand": "Forbidden",
@@ -247,137 +327,26 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
+    "model": "Dreadnought E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2026,
     "year_to": 2026,
     "size": "S2",
     "frame_material": "Carbon",
-    "wheel_size": "29",
+    "wheel_size": "MX/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS2"
+    "kit_product_sku": "RWFORBIDDENDREADNAUGHTE2026MX29CS2"
   },
   {
     "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORDRE202129CM0"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS3"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Supernought",
-    "year_from": 2023,
+    "model": "Reya",
+    "year_from": 2026,
     "year_to": 2026,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS3"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid E",
-    "sub_model": "Lite",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS3"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid E",
-    "sub_model": "Core",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS3"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUID202329CL"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2021,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORDRE202129CL0"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Dreadnought",
-    "year_from": 2023,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202329CL"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUID20232729CS3"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2019,
-    "year_to": 2022,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORDRU201929CL0"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUID202329CS3"
+    "kit_product_sku": "RWFORBIDDENREYA202629CS3"
   },
   {
     "brand": "Forbidden",
@@ -403,15 +372,139 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid E",
-    "sub_model": "Core",
-    "year_from": 2025,
+    "model": "Supernought",
+    "year_from": 2023,
     "year_to": 2026,
-    "size": "S4",
+    "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS4"
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNAUGHTE2026MX29CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Pieces Option",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUIDE20262729CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHT202329CL"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Option",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHTE2026MX29CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUID202329CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Supernought",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS3"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORDRU201929CL0"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUID202329CL"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought",
+    "year_from": 2021,
+    "year_to": 2022,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORDRE202129CL0"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUID20232729CS3"
   },
   {
     "brand": "Forbidden",
@@ -420,9 +513,20 @@
     "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
-    "wheel_size": "29",
+    "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS4"
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS4"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Reya",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENREYA202629CS4"
   },
   {
     "brand": "Forbidden",
@@ -453,9 +557,9 @@
     "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
-    "wheel_size": "27/29",
+    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT20232729CS4"
+    "kit_product_sku": "RWFORBIDDENSUPERNOUGHT202329CS4"
   },
   {
     "brand": "Forbidden",
@@ -471,14 +575,14 @@
   {
     "brand": "Forbidden",
     "model": "Druid E",
-    "sub_model": "Lite",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Pieces Option",
     "year_from": 2025,
     "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS4"
+    "kit_product_sku": "RWFORBIDDENDRUIDE20262729CS4"
   },
   {
     "brand": "Forbidden",
@@ -493,25 +597,27 @@
   },
   {
     "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2019,
-    "year_to": 2022,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORDRU201929CXL"
-  },
-  {
-    "brand": "Forbidden",
-    "model": "Druid",
-    "year_from": 2023,
+    "model": "Druid E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2025,
     "year_to": 2026,
     "size": "S4",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORBIDDENDRUID20232729CS4"
+    "kit_product_sku": "RWFORBIDDENDRUIDE20252729CS4"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought E",
+    "sub_model": "Remove Factory Protection Option",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDREADNAUGHTE2026MX29CS4"
   },
   {
     "brand": "Forbidden",
@@ -534,5 +640,39 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWFORBIDDENDRUID202329CXL"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Dreadnought E",
+    "sub_model": "Factory Protection Integrated - Dont Remove Factory Protection Option",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORBIDDENDREADNOUGHTE2026MX29CS4"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORBIDDENDRUID20232729CS4"
+  },
+  {
+    "brand": "Forbidden",
+    "model": "Druid",
+    "year_from": 2019,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORDRU201929CXL"
   }
 ]

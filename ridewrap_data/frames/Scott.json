@@ -769,7 +769,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 SL",
     "year_from": 2023,
     "year_to": 2026,
@@ -781,7 +781,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900",
     "year_from": 2023,
     "year_to": 2026,
@@ -793,43 +793,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "910",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "Contessa 900",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "900 SL TR",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 TR",
     "year_from": 2023,
     "year_to": 2026,
@@ -841,7 +805,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "905",
     "year_from": 2023,
     "year_to": 2026,
@@ -853,8 +817,8 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "920",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900 SL",
     "year_from": 2023,
     "year_to": 2026,
     "size": "S",
@@ -862,6 +826,78 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "920",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CS"
   },
   {
     "brand": "Scott",
@@ -1472,7 +1508,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALE202329AS"
   },
   {
@@ -1484,7 +1520,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALE202329AS"
   },
   {
@@ -1496,7 +1532,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALE202329AS"
   },
   {
@@ -1700,7 +1736,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALEGRAVEL202429AS"
   },
   {
@@ -2114,6 +2150,18 @@
   {
     "brand": "Scott",
     "model": "Spark",
+    "sub_model": "900 Evo",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSPARK202229CS"
+  },
+  {
+    "brand": "Scott",
+    "model": "Spark",
     "sub_model": "920",
     "year_from": 2022,
     "year_to": 2026,
@@ -2360,7 +2408,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSTRIKEERIDE202329CS"
   },
   {
@@ -2905,6 +2953,42 @@
   },
   {
     "brand": "Scott",
+    "model": "Contrail",
+    "sub_model": "10",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSCOTTCONTRAIL202629AM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Contrail",
+    "sub_model": "20",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSCOTTCONTRAIL202629AM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Contrail",
+    "sub_model": "30",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSCOTTCONTRAIL202629AM"
+  },
+  {
+    "brand": "Scott",
     "model": "Gambler",
     "sub_model": "920",
     "year_from": 2019,
@@ -2979,6 +3063,18 @@
     "brand": "Scott",
     "model": "Gambler",
     "sub_model": "10",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTGAMBLER2026MX29CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Gambler",
+    "sub_model": "RC",
     "year_from": 2026,
     "year_to": 2026,
     "size": "M",
@@ -3457,7 +3553,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 SL",
     "year_from": 2023,
     "year_to": 2026,
@@ -3469,7 +3565,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900",
     "year_from": 2023,
     "year_to": 2026,
@@ -3481,43 +3577,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "910",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "Contessa 900",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "900 SL TR",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 TR",
     "year_from": 2023,
     "year_to": 2026,
@@ -3529,7 +3589,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "905",
     "year_from": 2023,
     "year_to": 2026,
@@ -3541,8 +3601,8 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "920",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900 SL",
     "year_from": 2023,
     "year_to": 2026,
     "size": "M",
@@ -3550,6 +3610,78 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "920",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CM"
   },
   {
     "brand": "Scott",
@@ -3710,7 +3842,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "920",
+    "sub_model": "930",
     "year_from": 2025,
     "year_to": 2026,
     "size": "M",
@@ -3722,7 +3854,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "ST 910",
+    "sub_model": "920",
     "year_from": 2025,
     "year_to": 2026,
     "size": "M",
@@ -3747,6 +3879,30 @@
     "brand": "Scott",
     "model": "Patron eRIDE",
     "sub_model": "910",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "920",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "900 Ultimate",
     "year_from": 2025,
     "year_to": 2026,
     "size": "M",
@@ -4934,6 +5090,18 @@
   {
     "brand": "Scott",
     "model": "Spark",
+    "sub_model": "900 Evo",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSPARK202229CM"
+  },
+  {
+    "brand": "Scott",
+    "model": "Spark",
     "sub_model": "920",
     "year_from": 2022,
     "year_to": 2026,
@@ -5797,6 +5965,18 @@
   },
   {
     "brand": "Scott",
+    "model": "Gambler",
+    "sub_model": "RC",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSCOTTGAMBLER2026MX29CL"
+  },
+  {
+    "brand": "Scott",
     "model": "Genius",
     "sub_model": "950",
     "year_from": 2018,
@@ -6265,7 +6445,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 SL",
     "year_from": 2023,
     "year_to": 2026,
@@ -6277,7 +6457,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900",
     "year_from": 2023,
     "year_to": 2026,
@@ -6289,43 +6469,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "910",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "Contessa 900",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "900 SL TR",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 TR",
     "year_from": 2023,
     "year_to": 2026,
@@ -6337,7 +6481,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "905",
     "year_from": 2023,
     "year_to": 2026,
@@ -6349,8 +6493,8 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "920",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900 SL",
     "year_from": 2023,
     "year_to": 2026,
     "size": "L",
@@ -6358,6 +6502,78 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "920",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CL"
   },
   {
     "brand": "Scott",
@@ -6518,7 +6734,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "920",
+    "sub_model": "930",
     "year_from": 2025,
     "year_to": 2026,
     "size": "L",
@@ -6530,7 +6746,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "ST 910",
+    "sub_model": "920",
     "year_from": 2025,
     "year_to": 2026,
     "size": "L",
@@ -6555,6 +6771,30 @@
     "brand": "Scott",
     "model": "Patron eRIDE",
     "sub_model": "910",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "920",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "900 Ultimate",
     "year_from": 2025,
     "year_to": 2026,
     "size": "L",
@@ -7256,7 +7496,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALEGRAVEL202429CL"
   },
   {
@@ -7268,7 +7508,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALEGRAVEL202429CL"
   },
   {
@@ -7742,6 +7982,18 @@
   {
     "brand": "Scott",
     "model": "Spark",
+    "sub_model": "900 Evo",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSPARK202229CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Spark",
     "sub_model": "920",
     "year_from": 2022,
     "year_to": 2026,
@@ -8002,6 +8254,30 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSTRIKEERIDE202329CL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Strike eRIDE",
+    "sub_model": "930",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSTRIKEERIDE20242729AL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Strike eRIDE",
+    "sub_model": "Contessa 920",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSTRIKEERIDE20242729AL"
   },
   {
     "brand": "Scott",
@@ -8737,7 +9013,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 SL",
     "year_from": 2023,
     "year_to": 2026,
@@ -8749,7 +9025,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900",
     "year_from": 2023,
     "year_to": 2026,
@@ -8761,43 +9037,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "910",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "Contessa 900",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "900 SL TR",
-    "year_from": 2023,
-    "year_to": 2026,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
-  },
-  {
-    "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "900 TR",
     "year_from": 2023,
     "year_to": 2026,
@@ -8809,7 +9049,7 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
+    "model": "Lumen",
     "sub_model": "905",
     "year_from": 2023,
     "year_to": 2026,
@@ -8821,8 +9061,8 @@
   },
   {
     "brand": "Scott",
-    "model": "Lumen eRide",
-    "sub_model": "920",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900 SL",
     "year_from": 2023,
     "year_to": 2026,
     "size": "XL",
@@ -8830,6 +9070,78 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMENERIDE202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 910",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "920",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Lumen",
+    "sub_model": "Contessa eRIDE 900",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTLUMEN202329CXL"
   },
   {
     "brand": "Scott",
@@ -8990,7 +9302,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "920",
+    "sub_model": "930",
     "year_from": 2025,
     "year_to": 2026,
     "size": "XL",
@@ -9002,7 +9314,7 @@
   {
     "brand": "Scott",
     "model": "Patron eRIDE",
-    "sub_model": "ST 910",
+    "sub_model": "920",
     "year_from": 2025,
     "year_to": 2026,
     "size": "XL",
@@ -9027,6 +9339,30 @@
     "brand": "Scott",
     "model": "Patron eRIDE",
     "sub_model": "910",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "920",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTPATRONERIDE202529CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Patron eRIDE",
+    "sub_model": "900 Ultimate",
     "year_from": 2025,
     "year_to": 2026,
     "size": "XL",
@@ -10118,6 +10454,18 @@
   {
     "brand": "Scott",
     "model": "Spark",
+    "sub_model": "900 Evo",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSPARK202229CXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Spark",
     "sub_model": "920",
     "year_from": 2022,
     "year_to": 2026,
@@ -10369,6 +10717,30 @@
   },
   {
     "brand": "Scott",
+    "model": "Strike eRIDE",
+    "sub_model": "930",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSTRIKEERIDE20242729AXL"
+  },
+  {
+    "brand": "Scott",
+    "model": "Strike eRIDE",
+    "sub_model": "Contessa 920",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTSTRIKEERIDE20242729AXL"
+  },
+  {
+    "brand": "Scott",
     "model": "Contessa",
     "sub_model": "24",
     "year_from": 2022,
@@ -10430,6 +10802,18 @@
   {
     "brand": "Scott",
     "model": "Roxter",
+    "sub_model": "24",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSCOTTROXTER202224AONESIZE"
+  },
+  {
+    "brand": "Scott",
+    "model": "Roxter",
     "sub_model": "26",
     "year_from": 2022,
     "year_to": 2026,
@@ -10474,6 +10858,18 @@
     "wheel_size": "24",
     "design_status": "Designed",
     "kit_product_sku": "RWSCOTTSCALE202224AONESIZE"
+  },
+  {
+    "brand": "Scott",
+    "model": "Spark",
+    "sub_model": "RC 700",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSCOTTSPARK202527CS"
   },
   {
     "brand": "Scott",

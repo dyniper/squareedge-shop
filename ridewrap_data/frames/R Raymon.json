@@ -1,6 +1,54 @@
 [
   {
     "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "7.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CS"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "8.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CS"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "9.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CS"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "10.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CS"
+  },
+  {
+    "brand": "R Raymon",
     "model": "Fullray 150E",
     "sub_model": "9.0",
     "year_from": 2022,
@@ -22,6 +70,54 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWRRAYMONFULLRAY150E202229AS"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "7.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CM"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "8.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CM"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "9.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CM"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Fullray 150",
+    "sub_model": "10.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWRRAYMONFULLRAY150202229CM"
   },
   {
     "brand": "R Raymon",
@@ -58,5 +154,41 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWRRAYMONHARDRAYNINE202129CL"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Trailray E160",
+    "sub_model": "9.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRRAYMONTRAILRAYE160202229AXL"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Trailray E160",
+    "sub_model": "10.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRRAYMONTRAILRAYE160202229AXL"
+  },
+  {
+    "brand": "R Raymon",
+    "model": "Trailray E160",
+    "sub_model": "11.0",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRRAYMONTRAILRAYE160202229AXL"
   }
 ]

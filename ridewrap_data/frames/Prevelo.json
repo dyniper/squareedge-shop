@@ -1,0 +1,145 @@
+[
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Zero (12'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSAZERO12"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "One (14'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSAONE14"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Zulu",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "One (14'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOZULU2022KIDSAONE14"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Two (16'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSATWO16"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Zulu",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Two (16'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOZULU2022KIDSATWO16"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Three (20'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSATHREE20"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Bravo",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Three (20'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOBRAVO2023KIDSATHREE20"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Zulu",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Three (20'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOZULU2022KIDSATHREE20"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Four (24'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSAFOUR24"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Bravo",
+    "year_from": 2023,
+    "year_to": 2026,
+    "size": "Four (24'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOBRAVO2023KIDSAFOUR24"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Zulu",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Four (24'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOZULU2022KIDSAFOUR24"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Alpha",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Five (26'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOALPHA2022KIDSAFIVE26"
+  },
+  {
+    "brand": "Prevelo",
+    "model": "Zulu",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "Five (26'')",
+    "frame_material": "Alloy",
+    "wheel_size": "Kids",
+    "design_status": "Measured",
+    "kit_product_sku": "RWPREVELOZULU2022KIDSAFIVE26"
+  }
+]

@@ -254,6 +254,17 @@
   },
   {
     "brand": "Banshee",
+    "model": "Phantom V3.2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "29/27+",
+    "design_status": "Measured",
+    "kit_product_sku": "RWBANSHEEPHANTOMV3220222927AXL"
+  },
+  {
+    "brand": "Banshee",
     "model": "Prime V3",
     "year_from": 2019,
     "year_to": 2021,

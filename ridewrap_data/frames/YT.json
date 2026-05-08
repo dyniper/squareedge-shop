@@ -6701,5 +6701,77 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWYTTUE201927CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 4",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES202429CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 4",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES202429CXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES202429CXXL"
   }
 ]

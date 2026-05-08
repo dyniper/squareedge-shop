@@ -110,18 +110,6 @@
   {
     "brand": "Moustache",
     "model": "Clutch",
-    "sub_model": "SUV 150.7 EQ",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWMOUSTACHECLUTCH20252729AM"
-  },
-  {
-    "brand": "Moustache",
-    "model": "Clutch",
     "sub_model": "160.7",
     "year_from": 2025,
     "year_to": 2026,
@@ -434,25 +422,13 @@
   {
     "brand": "Moustache",
     "model": "Clutch",
-    "sub_model": "SUV 150.7 EQ",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "L",
-    "frame_material": "Alloy",
-    "wheel_size": "27/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWMOUSTACHECLUTCH20252729AL"
-  },
-  {
-    "brand": "Moustache",
-    "model": "Clutch",
     "sub_model": "160.7",
     "year_from": 2025,
     "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHECLUTCH20252729AL"
   },
   {
@@ -464,7 +440,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHECLUTCH20252729AL"
   },
   {
@@ -476,7 +452,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHECLUTCH20252729AL"
   },
   {
@@ -793,6 +769,114 @@
   },
   {
     "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 11",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 3",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail LTD",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 150.2",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
+    "model": "Samedi 29",
+    "sub_model": "Trail 150.4",
+    "year_from": 2022,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMOUSTACHESAMEDI29202229AL"
+  },
+  {
+    "brand": "Moustache",
     "model": "Game",
     "sub_model": "150.6",
     "year_from": 2025,
@@ -800,7 +884,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -812,7 +896,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -824,7 +908,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -836,7 +920,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -848,7 +932,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -860,7 +944,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {
@@ -872,7 +956,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMOUSTACHEGAME202529AXL"
   },
   {

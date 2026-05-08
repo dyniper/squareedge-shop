@@ -128,7 +128,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -140,7 +140,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -152,7 +152,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -164,7 +164,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -176,7 +176,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -188,7 +188,7 @@
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS1"
   },
   {
@@ -226,6 +226,42 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWNORSIG201727CXS"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS1"
   },
   {
     "brand": "Norco",
@@ -587,6 +623,54 @@
   },
   {
     "brand": "Norco",
+    "model": "Rampage",
+    "sub_model": "1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCORAMPAGE202526AS"
+  },
+  {
+    "brand": "Norco",
+    "model": "Rampage",
+    "sub_model": "2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCORAMPAGE202526AS"
+  },
+  {
+    "brand": "Norco",
+    "model": "Rampage",
+    "sub_model": "Team",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCORAMPAGE202526AS"
+  },
+  {
+    "brand": "Norco",
+    "model": "Rampage",
+    "sub_model": "Frameset",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCORAMPAGE202526AS"
+  },
+  {
+    "brand": "Norco",
     "model": "Range",
     "sub_model": "C7.1",
     "year_from": 2017,
@@ -788,6 +872,30 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWNORCORANGEVLT2024MX29CS1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C2"
   },
   {
     "brand": "Norco",
@@ -1308,6 +1416,18 @@
   {
     "brand": "Norco",
     "model": "Sight",
+    "sub_model": "A Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHT2024MX29AS1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight",
     "sub_model": "C SE",
     "year_from": 2024,
     "year_to": 2026,
@@ -1571,6 +1691,42 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS2"
+  },
+  {
+    "brand": "Norco",
     "model": "Sight VLT CX",
     "sub_model": "C1",
     "year_from": 2025,
@@ -1607,10 +1763,46 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C1"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "1",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C1"
+  },
+  {
+    "brand": "Norco",
     "model": "Storm",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1622,7 +1814,7 @@
     "model": "Storm",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1634,7 +1826,7 @@
     "model": "Storm",
     "sub_model": "3",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1646,7 +1838,7 @@
     "model": "Storm",
     "sub_model": "4",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1658,7 +1850,7 @@
     "model": "Storm",
     "sub_model": "5",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -1736,6 +1928,30 @@
     "wheel_size": "26",
     "design_status": "Measured",
     "kit_product_sku": "RWNORCOBIGFOOTVLT201926AM"
+  },
+  {
+    "brand": "Norco",
+    "model": "Charger",
+    "sub_model": "A1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOCHARGER202529AM"
+  },
+  {
+    "brand": "Norco",
+    "model": "Charger",
+    "sub_model": "A2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOCHARGER202529AM"
   },
   {
     "brand": "Norco",
@@ -2672,6 +2888,30 @@
   },
   {
     "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C3"
+  },
+  {
+    "brand": "Norco",
     "model": "Revolver",
     "sub_model": "120 SE",
     "year_from": 2026,
@@ -3297,6 +3537,18 @@
   {
     "brand": "Norco",
     "model": "Sight",
+    "sub_model": "A Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHT2024MX29AS2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight",
     "sub_model": "C SE",
     "year_from": 2024,
     "year_to": 2026,
@@ -3560,6 +3812,42 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
+  },
+  {
+    "brand": "Norco",
     "model": "Sight VLT CX",
     "sub_model": "C1",
     "year_from": 2025,
@@ -3596,10 +3884,46 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C2"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C2"
+  },
+  {
+    "brand": "Norco",
     "model": "Storm",
     "sub_model": "1",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3611,7 +3935,7 @@
     "model": "Storm",
     "sub_model": "2",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3623,7 +3947,7 @@
     "model": "Storm",
     "sub_model": "3",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3635,7 +3959,7 @@
     "model": "Storm",
     "sub_model": "4",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3647,7 +3971,7 @@
     "model": "Storm",
     "sub_model": "5",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2024,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3761,6 +4085,30 @@
     "wheel_size": "26",
     "design_status": "Designed",
     "kit_product_sku": "RWNORCOBIGFOOTVLT201926AL"
+  },
+  {
+    "brand": "Norco",
+    "model": "Charger",
+    "sub_model": "A1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOCHARGER202529AL"
+  },
+  {
+    "brand": "Norco",
+    "model": "Charger",
+    "sub_model": "A2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOCHARGER202529AL"
   },
   {
     "brand": "Norco",
@@ -4686,6 +5034,30 @@
   },
   {
     "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C4"
+  },
+  {
+    "brand": "Norco",
     "model": "Revolver",
     "sub_model": "120 SE",
     "year_from": 2026,
@@ -5311,6 +5683,18 @@
   {
     "brand": "Norco",
     "model": "Sight",
+    "sub_model": "A Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHT2024MX29AS3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight",
     "sub_model": "C SE",
     "year_from": 2024,
     "year_to": 2026,
@@ -5574,6 +5958,42 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
+  },
+  {
+    "brand": "Norco",
     "model": "Sight VLT CX",
     "sub_model": "C1",
     "year_from": 2025,
@@ -5607,6 +6027,42 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTCX20252729C4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C3"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C3"
   },
   {
     "brand": "Norco",
@@ -5673,7 +6129,7 @@
     "model": "Bigfoot VLT",
     "sub_model": "1",
     "year_from": 2023,
-    "year_to": 2024,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -5685,7 +6141,7 @@
     "model": "Bigfoot VLT",
     "sub_model": "2",
     "year_from": 2023,
-    "year_to": 2024,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "27",
@@ -6388,6 +6844,30 @@
   },
   {
     "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Range VLT CX",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCORANGEVLTCX2026MX29C5"
+  },
+  {
+    "brand": "Norco",
     "model": "Revolver",
     "sub_model": "120 SE",
     "year_from": 2026,
@@ -6395,7 +6875,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6407,7 +6887,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6419,7 +6899,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6431,7 +6911,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6443,7 +6923,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6455,7 +6935,7 @@
     "size": "S5",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOREVOLVER202629CS5"
   },
   {
@@ -6941,6 +7421,18 @@
   {
     "brand": "Norco",
     "model": "Sight",
+    "sub_model": "A Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S4",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHT2024MX29AS4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight",
     "sub_model": "C SE",
     "year_from": 2024,
     "year_to": 2026,
@@ -7168,6 +7660,42 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT A",
+    "sub_model": "A3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
+  },
+  {
+    "brand": "Norco",
     "model": "Sight VLT CX",
     "sub_model": "C1",
     "year_from": 2025,
@@ -7201,6 +7729,42 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTCX20252729C5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C4"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C4"
   },
   {
     "brand": "Norco",
@@ -7432,6 +7996,18 @@
   {
     "brand": "Norco",
     "model": "Sight",
+    "sub_model": "A Frame",
+    "year_from": 2024,
+    "year_to": 2026,
+    "size": "S5",
+    "frame_material": "Alloy",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHT2024MX29AS5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight",
     "sub_model": "C SE",
     "year_from": 2024,
     "year_to": 2026,
@@ -7551,6 +8127,42 @@
   },
   {
     "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C5"
+  },
+  {
+    "brand": "Norco",
+    "model": "Sight VLT TQ",
+    "sub_model": "C3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOSIGHTVLTTQ20262729C5"
+  },
+  {
+    "brand": "Norco",
     "model": "Aurum HSP",
     "sub_model": "C1",
     "year_from": 2019,
@@ -7671,10 +8283,21 @@
   },
   {
     "brand": "Norco",
+    "model": "Charger Youth",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "24",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOCHARGERYOUTH202524AONESIZE"
+  },
+  {
+    "brand": "Norco",
     "model": "Fluid FS Youth",
     "sub_model": "1",
     "year_from": 2019,
-    "year_to": 2026,
+    "year_to": 2021,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20",
@@ -7686,7 +8309,7 @@
     "model": "Fluid FS Youth",
     "sub_model": "2",
     "year_from": 2019,
-    "year_to": 2026,
+    "year_to": 2021,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "20",
@@ -7716,6 +8339,28 @@
     "wheel_size": "24",
     "design_status": "Designed",
     "kit_product_sku": "RWNORCOFLUIDFSYOUTH202024AONESIZE"
+  },
+  {
+    "brand": "Norco",
+    "model": "Fluid FS Youth",
+    "year_from": 2023,
+    "year_to": 2025,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOFLUIDFSYOUTH202327AONESIZE"
+  },
+  {
+    "brand": "Norco",
+    "model": "Fluid FS Youth",
+    "year_from": 2026,
+    "year_to": 2026,
+    "size": "ONESIZE",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOFLUIDFSYOUTH202627AONESIZE"
   },
   {
     "brand": "Norco",
