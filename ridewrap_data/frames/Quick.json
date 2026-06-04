@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "Quick",
+    "model": "DEFT",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWQUICKDRFTXC202629CM"
+  },
+  {
+    "brand": "Quick",
+    "model": "Gravity DH",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWQUICKGRAVITYDH202629CM"
+  },
+  {
+    "brand": "Quick",
+    "model": "Force Enduro",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWQUICKFORCEENDURO202629CL"
+  }
+]

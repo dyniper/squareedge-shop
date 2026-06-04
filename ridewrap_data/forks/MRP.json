@@ -3,7 +3,7 @@
     "brand": "MRP",
     "model": "Raven",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWMRPRAVEN201727",
     "design_status": "Measured"
@@ -13,7 +13,7 @@
     "model": "Ribbon",
     "sub_model": "SL",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWMRPRIB201700000027",
     "design_status": "Designed"
@@ -23,7 +23,7 @@
     "model": "Ribbon",
     "sub_model": "(Air)",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWMRPRIB201700000027",
     "design_status": "Designed"
@@ -33,7 +33,7 @@
     "model": "Ribbon",
     "sub_model": "(Coil)",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWMRPRIB201700000027",
     "design_status": "Designed"
@@ -43,7 +43,7 @@
     "model": "Ribbon",
     "sub_model": "SL",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWMRPRIBBON201729",
     "design_status": "Designed"
@@ -53,7 +53,7 @@
     "model": "Ribbon",
     "sub_model": "(Air)",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWMRPRIBBON201729",
     "design_status": "Designed"
@@ -63,7 +63,7 @@
     "model": "Ribbon",
     "sub_model": "(Coil)",
     "year_from": 2017,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWMRPRIBBON201729",
     "design_status": "Designed"

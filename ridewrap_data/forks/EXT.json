@@ -4,7 +4,7 @@
     "model": "ERA",
     "sub_model": "V1",
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWEXTERA202029",
     "design_status": "Designed"
@@ -14,7 +14,7 @@
     "model": "ERA",
     "sub_model": "V2",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWEXTERA202129",
     "design_status": "Designed"
@@ -24,7 +24,7 @@
     "model": "ERA",
     "sub_model": "V2 LT",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWEXTERA202129",
     "design_status": "Designed"
@@ -34,7 +34,7 @@
     "model": "ERA",
     "sub_model": "V2.1",
     "year_from": 2023,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWEXTERA202329",
     "design_status": "Designed"
@@ -43,7 +43,7 @@
     "brand": "EXT",
     "model": "Vaia",
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWEXTVAIA202429",
     "design_status": "Designed"

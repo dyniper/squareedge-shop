@@ -1,13 +1,57 @@
 [
   {
     "brand": "Neuhaus",
+    "model": "Solstice",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNEUHAUSSOLSTICE202629SM"
+  },
+  {
+    "brand": "Neuhaus",
     "model": "Hummingbird Core",
     "year_from": 2026,
-    "year_to": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNEUHAUSHUMMINGBIRDCORE202629SL"
+  },
+  {
+    "brand": "Neuhaus",
+    "model": "Hummingbird Core",
+    "year_from": 2026,
+    "year_to": 2027,
     "size": "XL",
     "frame_material": "Steel",
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWNEUHAUSHUMMINGBIRDCORE202629SXL"
+  },
+  {
+    "brand": "Neuhaus",
+    "model": "Hummingbird Core",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "ML",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNEUHAUSHUMMINGBIRDCORE202629SML"
+  },
+  {
+    "brand": "Neuhaus",
+    "model": "Solstice",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "ML",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNEUHAUSSOLSTICE202629SML"
   }
 ]

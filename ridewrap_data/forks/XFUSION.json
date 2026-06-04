@@ -4,7 +4,7 @@
     "model": "Slant",
     "sub_model": "RC",
     "year_from": 2016,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
@@ -14,7 +14,7 @@
     "model": "Slant",
     "sub_model": "RCP",
     "year_from": 2016,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
@@ -24,7 +24,7 @@
     "model": "Slant",
     "sub_model": "HLR",
     "year_from": 2016,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "26",
     "kit_product_sku": "RWXFUSIONSLANT201626",
     "design_status": "Designed"
@@ -34,7 +34,7 @@
     "model": "Slide Boost",
     "sub_model": "HLR",
     "year_from": 2019,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONSLIDEBOOST201929",
     "design_status": "Measured"
@@ -44,7 +44,7 @@
     "model": "Vengeance38",
     "sub_model": "HLR",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONVENGEANCE38202529",
     "design_status": "Measured"
@@ -54,7 +54,7 @@
     "model": "Trace36",
     "sub_model": "RC",
     "year_from": 2018,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONTRACE36201829",
     "design_status": "Designed"
@@ -64,7 +64,7 @@
     "model": "Trace36",
     "sub_model": "HLR",
     "year_from": 2018,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONTRACE36201829",
     "design_status": "Designed"
@@ -74,7 +74,7 @@
     "model": "Slide Boost",
     "sub_model": "RC",
     "year_from": 2019,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONSLIDEBOOST201929",
     "design_status": "Measured"
@@ -84,7 +84,7 @@
     "model": "Slide Boost",
     "sub_model": "RCP",
     "year_from": 2019,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONSLIDEBOOST201929",
     "design_status": "Measured"
@@ -94,7 +94,7 @@
     "model": "REZZA",
     "sub_model": "Finecut RLR",
     "year_from": 2026,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONREZZA202629",
     "design_status": "Measured"
@@ -103,7 +103,7 @@
     "brand": "XFUSION",
     "model": "RV1 38 DH",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONRV138DH202529",
     "design_status": "Measured"
@@ -112,7 +112,7 @@
     "brand": "XFUSION",
     "model": "RC32 Boost",
     "year_from": 2021,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONRC32BOOST202129",
     "design_status": "Measured"
@@ -122,7 +122,7 @@
     "model": "REZZA",
     "sub_model": "Finecut RCP",
     "year_from": 2026,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONREZZA202629",
     "design_status": "Measured"
@@ -132,7 +132,7 @@
     "model": "REZZA",
     "sub_model": "Finecut RL2",
     "year_from": 2026,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONREZZA202629",
     "design_status": "Measured"
@@ -142,7 +142,7 @@
     "model": "REZZA",
     "sub_model": "Finecut RCPR",
     "year_from": 2026,
-    "year_to": 2026,
+    "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWXFUSIONREZZA202629",
     "design_status": "Measured"

@@ -3,7 +3,7 @@
     "brand": "Zink",
     "model": "Vacay",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2027,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
@@ -14,7 +14,7 @@
     "brand": "Zink",
     "model": "Vacay",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2027,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
@@ -23,13 +23,35 @@
   },
   {
     "brand": "Zink",
+    "model": "Zader DH",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWZINKZADERDH20262729AM"
+  },
+  {
+    "brand": "Zink",
     "model": "Vacay",
     "year_from": 2025,
-    "year_to": 2026,
+    "year_to": 2027,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWZINKVACAY20252729AL"
+  },
+  {
+    "brand": "Zink",
+    "model": "Zader DH",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWZINDH20262729AL0"
   }
 ]
