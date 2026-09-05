@@ -14,14 +14,14 @@
   {
     "brand": "Unno",
     "model": "MITH",
-    "sub_model": "Race",
+    "sub_model": "Pro",
     "year_from": 2025,
     "year_to": 2027,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWUNNOMITH2025MX29CS1"
+    "design_status": "Measured",
+    "kit_product_sku": "RWUNNOMITH20252729CS1"
   },
   {
     "brand": "Unno",
@@ -121,14 +121,14 @@
   {
     "brand": "Unno",
     "model": "MITH",
-    "sub_model": "Pro",
+    "sub_model": "Race",
     "year_from": 2025,
     "year_to": 2027,
     "size": "S1",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWUNNOMITH2025MX29CS1"
+    "design_status": "Measured",
+    "kit_product_sku": "RWUNNOMITH20252729CS1"
   },
   {
     "brand": "Unno",
@@ -205,25 +205,25 @@
   {
     "brand": "Unno",
     "model": "MITH",
-    "sub_model": "Race",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "S2",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWUNNOMITH20252729CS2"
-  },
-  {
-    "brand": "Unno",
-    "model": "MITH",
     "sub_model": "Pro",
     "year_from": 2025,
     "year_to": 2027,
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
+    "kit_product_sku": "RWUNNOMITH20252729CS2"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Race",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
     "kit_product_sku": "RWUNNOMITH20252729CS2"
   },
   {
@@ -342,7 +342,7 @@
     "size": "S2",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWUNNOHORN202629CS2"
   },
   {
@@ -408,25 +408,25 @@
   {
     "brand": "Unno",
     "model": "MITH",
-    "sub_model": "Race",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "S3",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWUNNOMITH20252729CS3"
-  },
-  {
-    "brand": "Unno",
-    "model": "MITH",
     "sub_model": "Pro",
     "year_from": 2025,
     "year_to": 2027,
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
+    "kit_product_sku": "RWUNNOMITH20252729CS3"
+  },
+  {
+    "brand": "Unno",
+    "model": "MITH",
+    "sub_model": "Race",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
     "kit_product_sku": "RWUNNOMITH20252729CS3"
   },
   {
@@ -485,7 +485,7 @@
     "size": "S3",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWUNNOHORN202629CS3"
   },
   {

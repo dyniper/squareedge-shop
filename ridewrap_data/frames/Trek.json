@@ -548,7 +548,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLINPLUS202327AXS"
   },
   {
@@ -560,7 +560,7 @@
     "size": "XS",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKMARLINPLUS202327AXS"
   },
   {
@@ -1474,6 +1474,90 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWTREKFUELEXE202329CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "LX 9.9",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "LX 9.8",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "MX 9.9",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "MX 9.8",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "EX  9.9",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "EX 9.8",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
+  },
+  {
+    "brand": "Trek",
+    "model": "Fuel+",
+    "sub_model": "EX 9.7",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWTREKFUELPLUS2026MX29CS"
   },
   {
     "brand": "Trek",
@@ -3187,7 +3271,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3199,7 +3283,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3211,7 +3295,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3223,7 +3307,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3235,7 +3319,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3247,7 +3331,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -3259,7 +3343,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CM"
   },
   {
@@ -4603,7 +4687,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AM"
   },
   {
@@ -4615,7 +4699,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AM"
   },
   {
@@ -5537,7 +5621,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5549,7 +5633,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5561,7 +5645,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5573,7 +5657,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5585,7 +5669,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5597,7 +5681,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -5609,7 +5693,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CL"
   },
   {
@@ -7025,7 +7109,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR2"
+    "kit_product_sku": "RWTREKSESSION202229AR2"
   },
   {
     "brand": "Trek",
@@ -7037,7 +7121,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR2"
+    "kit_product_sku": "RWTREKSESSION202229AR2"
   },
   {
     "brand": "Trek",
@@ -7049,7 +7133,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR2"
+    "kit_product_sku": "RWTREKSESSION202229AR2"
   },
   {
     "brand": "Trek",
@@ -7780,7 +7864,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7792,7 +7876,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7804,7 +7888,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7816,7 +7900,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7828,7 +7912,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7840,7 +7924,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -7852,7 +7936,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Designed",
+    "design_status": "Measured",
     "kit_product_sku": "RWTREKFUEL2026MX29CXL"
   },
   {
@@ -9148,7 +9232,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AXL"
   },
   {
@@ -9160,7 +9244,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWTREKROSCOE202629AXL"
   },
   {
@@ -9196,7 +9280,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR3"
+    "kit_product_sku": "RWTREKSESSION202229AR3"
   },
   {
     "brand": "Trek",
@@ -9208,7 +9292,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR3"
+    "kit_product_sku": "RWTREKSESSION202229AR3"
   },
   {
     "brand": "Trek",
@@ -9220,7 +9304,7 @@
     "frame_material": "Alloy",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWTREKSESSION202129AR3"
+    "kit_product_sku": "RWTREKSESSION202229AR3"
   },
   {
     "brand": "Trek",

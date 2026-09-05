@@ -1853,7 +1853,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPIC9202629CS"
   },
   {
@@ -1865,7 +1865,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPIC9202629CS"
   },
   {
@@ -1877,7 +1877,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPIC9202629CS"
   },
   {
@@ -1889,7 +1889,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPIC9202629CS"
   },
   {
@@ -3465,6 +3465,54 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS2"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS2"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo R",
+    "sub_model": "Comp",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629AS2"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo R",
+    "sub_model": "Comp",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629AS2"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo R",
     "sub_model": "S-Works",
     "year_from": 2026,
@@ -4212,7 +4260,7 @@
     "model": "Turbo Vado",
     "sub_model": "5.0 IGH",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4224,7 +4272,7 @@
     "model": "Turbo Vado",
     "sub_model": "5.0 IGH",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4236,7 +4284,7 @@
     "model": "Turbo Vado",
     "sub_model": "3.0 IGH",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4248,7 +4296,7 @@
     "model": "Turbo Vado",
     "sub_model": "3.0 IGH",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4260,7 +4308,7 @@
     "model": "Turbo Vado",
     "sub_model": "5.0 IGH Step-Through",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4272,7 +4320,7 @@
     "model": "Turbo Vado",
     "sub_model": "5.0 IGH Step-Through",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4284,7 +4332,7 @@
     "model": "Turbo Vado",
     "sub_model": "3.0 IGH Step-Through",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
@@ -4296,12 +4344,84 @@
     "model": "Turbo Vado",
     "sub_model": "3.0 IGH Step-Through",
     "year_from": 2022,
-    "year_to": 2024,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "650",
     "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOVADO2022650AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AS"
   },
   {
     "brand": "Specialized",
@@ -5126,7 +5246,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPICHARDTAIL202529CM"
   },
   {
@@ -5138,7 +5258,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPICHARDTAIL202529CM"
   },
   {
@@ -5150,7 +5270,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPICHARDTAIL202529CM"
   },
   {
@@ -5162,7 +5282,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPICHARDTAIL202529CM"
   },
   {
@@ -5174,7 +5294,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDEPICHARDTAIL202529CM"
   },
   {
@@ -7111,6 +7231,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS3"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S3",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS3"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo R",
     "sub_model": "Comp",
     "year_from": 2026,
@@ -7876,6 +8020,78 @@
     "wheel_size": "650",
     "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOVADO2022650AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AM"
   },
   {
     "brand": "Specialized",
@@ -10649,6 +10865,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS4"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S4",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS4"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo R",
     "sub_model": "Comp",
     "year_from": 2026,
@@ -10656,7 +10896,7 @@
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629AS4"
   },
   {
@@ -10668,7 +10908,7 @@
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629AS4"
   },
   {
@@ -11414,6 +11654,78 @@
     "wheel_size": "650",
     "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOVADO2022650AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AL"
   },
   {
     "brand": "Specialized",
@@ -14019,6 +14331,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS5"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S5",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO2024MX29CS5"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo R",
     "sub_model": "Comp",
     "year_from": 2026,
@@ -14784,6 +15120,174 @@
     "wheel_size": "650",
     "design_status": "Measured",
     "kit_product_sku": "RWSPECIALIZEDTURBOVADO2022650AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 5.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "EVO 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "X 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "X 6.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "X 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado 3",
+    "sub_model": "X 4.0",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADO3202627AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0 EQ Step-Through",
+    "year_from": 2022,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADOSL2022700AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "4.0 EQ Step-Through",
+    "year_from": 2022,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADOSL2022700AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0 EQ Step-Through",
+    "year_from": 2022,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADOSL2022700AXL"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Vado SL",
+    "sub_model": "5.0 EQ Step-Through",
+    "year_from": 2022,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "700",
+    "design_status": "Measured",
+    "kit_product_sku": "RWSPECIALIZEDTURBOVADOSL2022700AXL"
   },
   {
     "brand": "Specialized",
@@ -16347,6 +16851,30 @@
   },
   {
     "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO20252729CS6"
+  },
+  {
+    "brand": "Specialized",
+    "model": "Turbo Levo",
+    "sub_model": "S-Works X",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S6",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSPECIALIZEDTURBOLEVO20252729CS6"
+  },
+  {
+    "brand": "Specialized",
     "model": "Turbo Levo R",
     "sub_model": "Comp",
     "year_from": 2026,
@@ -16378,7 +16906,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {
@@ -16390,7 +16918,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {
@@ -16402,7 +16930,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {
@@ -16414,7 +16942,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {
@@ -16426,7 +16954,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {
@@ -16438,7 +16966,7 @@
     "size": "S6",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWSPECIALIZEDTURBOLEVOR202629CS6"
   },
   {

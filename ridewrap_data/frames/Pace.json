@@ -56,14 +56,14 @@
   },
   {
     "brand": "Pace",
-    "model": "RC295",
-    "year_from": 2021,
+    "model": "RC529",
+    "year_from": 2024,
     "year_to": 2027,
     "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29/27+",
+    "frame_material": "Steel",
+    "wheel_size": "29",
     "design_status": "Measured",
-    "kit_product_sku": "RWPACERC29520212927CXL"
+    "kit_product_sku": "RWPACERC529202429SXL"
   },
   {
     "brand": "Pace",
@@ -78,13 +78,13 @@
   },
   {
     "brand": "Pace",
-    "model": "RC529",
-    "year_from": 2024,
+    "model": "RC295",
+    "year_from": 2021,
     "year_to": 2027,
     "size": "XL",
-    "frame_material": "Steel",
-    "wheel_size": "29",
+    "frame_material": "Carbon",
+    "wheel_size": "29/27+",
     "design_status": "Measured",
-    "kit_product_sku": "RWPACERC529202429SXL"
+    "kit_product_sku": "RWPACERC29520212927CXL"
   }
 ]

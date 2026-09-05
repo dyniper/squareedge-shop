@@ -18,19 +18,8 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWICAN29ERENDUROBIKEP9201829CM"
-  },
-  {
-    "brand": "Ican",
-    "model": "P9",
-    "year_from": 2018,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWICAN29ERENDUROBIKEP9201829CL"
+    "kit_product_sku": "RWICAN29ERENDUROBIKEP9201829CM"
   },
   {
     "brand": "Ican",
@@ -42,5 +31,16 @@
     "wheel_size": "26/27",
     "design_status": "Designed",
     "kit_product_sku": "RWICANSNO420202627C20"
+  },
+  {
+    "brand": "Ican",
+    "model": "P9",
+    "year_from": 2018,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWICAN29ERENDUROBIKEP9201829CL"
   }
 ]

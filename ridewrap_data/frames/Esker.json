@@ -3,7 +3,7 @@
     "brand": "Esker",
     "model": "Japhy",
     "year_from": 2021,
-    "year_to": 2027,
+    "year_to": 2024,
     "size": "S2",
     "frame_material": "Steel",
     "wheel_size": "29",
@@ -35,6 +35,17 @@
   },
   {
     "brand": "Esker",
+    "model": "Japhy",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S3",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWESKERJAPHY202129SS3"
+  },
+  {
+    "brand": "Esker",
     "model": "Smokey",
     "year_from": 2024,
     "year_to": 2027,
@@ -43,17 +54,6 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWESKERSMOKEY202429SS2"
-  },
-  {
-    "brand": "Esker",
-    "model": "Japhy",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "S3",
-    "frame_material": "Steel",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWESKERJAPHY202129SS3"
   },
   {
     "brand": "Esker",
@@ -69,6 +69,17 @@
   },
   {
     "brand": "Esker",
+    "model": "Japhy",
+    "year_from": 2021,
+    "year_to": 2024,
+    "size": "S5",
+    "frame_material": "Steel",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWESKERJAPHY202129SS5"
+  },
+  {
+    "brand": "Esker",
     "model": "Rowl",
     "year_from": 2021,
     "year_to": 2027,
@@ -77,16 +88,5 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWESKERROWL202129CS4"
-  },
-  {
-    "brand": "Esker",
-    "model": "Japhy",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "S5",
-    "frame_material": "Steel",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWESKERJAPHY202129SS5"
   }
 ]

@@ -1,6 +1,17 @@
 [
   {
     "brand": "Allied",
+    "model": "Fitz",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDFITZ202629CS"
+  },
+  {
+    "brand": "Allied",
     "model": "BC40",
     "year_from": 2022,
     "year_to": 2024,
@@ -9,6 +20,28 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWALLIEDBC40202229CS"
+  },
+  {
+    "brand": "Allied",
+    "model": "BC40",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDBC40202529CS"
+  },
+  {
+    "brand": "Allied",
+    "model": "BC40",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWALLIEDBC40202529CM"
   },
   {
     "brand": "Allied",
@@ -40,7 +73,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWALLIEDBC40202529CL"
   },
   {
@@ -51,7 +84,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWALLIEDFITZ202629CL"
   },
   {
@@ -73,7 +106,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWALLIEDBC40202529CXL"
   },
   {

@@ -507,7 +507,7 @@
     "size": "24",
     "frame_material": "Alloy",
     "wheel_size": "Kids",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERFTRICK2026KIDSA24"
   },
   {
@@ -1091,7 +1091,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CS"
   },
   {
@@ -1103,7 +1103,7 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CS"
   },
   {
@@ -1115,8 +1115,32 @@
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CS"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AM"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AM"
   },
   {
     "brand": "Mondraker",
@@ -2026,6 +2050,17 @@
   },
   {
     "brand": "Mondraker",
+    "model": "Koaz",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMONDRAKERKOAZ202626AM"
+  },
+  {
+    "brand": "Mondraker",
     "model": "Level",
     "sub_model": "R",
     "year_from": 2021,
@@ -2740,6 +2775,30 @@
     "wheel_size": "MX/29",
     "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CM"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AL"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AL"
   },
   {
     "brand": "Mondraker",
@@ -3544,6 +3603,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERFOXYCARBON202229CL"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Koaz",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "26",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMONDRAKERKOAZ202626AL"
   },
   {
     "brand": "Mondraker",
@@ -5239,7 +5309,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CXL"
   },
   {
@@ -5251,7 +5321,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CXL"
   },
   {
@@ -5263,8 +5333,32 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERZENDIT2026MX29CXL"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "R",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AML"
+  },
+  {
+    "brand": "Mondraker",
+    "model": "Anark",
+    "sub_model": "XR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "ML",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWMONDRAKERANARK20262729AML"
   },
   {
     "brand": "Mondraker",
@@ -5443,7 +5537,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERSCREE202629AML"
   },
   {
@@ -5455,7 +5549,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERSCREE202629AML"
   },
   {
@@ -5467,7 +5561,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERSCREE202629AML"
   },
   {
@@ -5479,7 +5573,7 @@
     "size": "ML",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWMONDRAKERSCREE202629AML"
   },
   {

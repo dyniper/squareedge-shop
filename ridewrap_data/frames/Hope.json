@@ -12,17 +12,6 @@
   },
   {
     "brand": "Hope",
-    "model": "HB.130",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWHOPEHB13020212729CM"
-  },
-  {
-    "brand": "Hope",
     "model": "HB.916",
     "year_from": 2022,
     "year_to": 2027,
@@ -45,6 +34,17 @@
   },
   {
     "brand": "Hope",
+    "model": "HB.130",
+    "year_from": 2021,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWHOPEHB13020212729CM"
+  },
+  {
+    "brand": "Hope",
     "model": "HB.916",
     "year_from": 2022,
     "year_to": 2027,
@@ -61,9 +61,9 @@
     "year_to": 2027,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "29",
+    "wheel_size": "27/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWHOPEHB130202129CL"
+    "kit_product_sku": "RWHOPEHB13020212729CL"
   },
   {
     "brand": "Hope",
@@ -72,9 +72,9 @@
     "year_to": 2027,
     "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29",
+    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWHOPEHB13020212729CL"
+    "kit_product_sku": "RWHOPEHB130202129CL"
   },
   {
     "brand": "Hope",

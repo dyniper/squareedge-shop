@@ -332,7 +332,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGHOSTNIRVANATOUR202027AS"
   },
   {
@@ -430,6 +430,42 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWGHOSTERIOTTRAIL202029CM"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF Pro",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CM"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF Full Party",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CM"
+  },
+  {
+    "brand": "Ghost",
+    "model": "e-Riot",
+    "sub_model": "CF LTD",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWGHOSTERIOT20252729CM"
   },
   {
     "brand": "Ghost",

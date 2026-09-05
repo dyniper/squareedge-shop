@@ -357,6 +357,18 @@
   },
   {
     "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "279",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWINTENSETAZER20272729CS"
+  },
+  {
+    "brand": "Intense",
     "model": "Tracer",
     "sub_model": "Factory",
     "year_from": 2017,
@@ -936,7 +948,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20262729CM"
   },
   {
@@ -948,7 +960,7 @@
     "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER202729CM"
   },
   {
@@ -1520,7 +1532,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20232729AL"
   },
   {
@@ -1532,7 +1544,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20232729AL"
   },
   {
@@ -1544,7 +1556,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20232729AL"
   },
   {
@@ -1556,7 +1568,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20262729CL"
   },
   {
@@ -1568,7 +1580,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER202729CL"
   },
   {
@@ -2155,6 +2167,18 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWINTENSETAZER20192729CXL"
+  },
+  {
+    "brand": "Intense",
+    "model": "Tazer",
+    "sub_model": "279",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWINTENSETAZER20272729CXL"
   },
   {
     "brand": "Intense",

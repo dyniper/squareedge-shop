@@ -265,9 +265,20 @@
   },
   {
     "brand": "Norco",
+    "model": "Torrent DH",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "SZ1",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWNORCOTORRENTDH20272729ASZ1"
+  },
+  {
+    "brand": "Norco",
     "model": "Fluid FS",
     "year_from": 2023,
-    "year_to": 2027,
+    "year_to": 2026,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -1883,6 +1894,17 @@
   },
   {
     "brand": "Norco",
+    "model": "Torrent DH",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "SZ2",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWNORCOTORRENTDH20272729ASZ2"
+  },
+  {
+    "brand": "Norco",
     "model": "Aurum",
     "sub_model": "A1",
     "year_from": 2019,
@@ -2016,7 +2038,7 @@
     "brand": "Norco",
     "model": "Fluid FS",
     "year_from": 2023,
-    "year_to": 2027,
+    "year_to": 2026,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3819,7 +3841,7 @@
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
   },
   {
@@ -3831,7 +3853,7 @@
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
   },
   {
@@ -3843,7 +3865,7 @@
     "size": "S3",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS3"
   },
   {
@@ -4162,7 +4184,7 @@
     "brand": "Norco",
     "model": "Fluid FS",
     "year_from": 2023,
-    "year_to": 2027,
+    "year_to": 2026,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -5965,7 +5987,7 @@
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
   },
   {
@@ -5977,7 +5999,7 @@
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
   },
   {
@@ -5989,7 +6011,7 @@
     "size": "S4",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS4"
   },
   {
@@ -6109,7 +6131,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOTORRENT202129AL"
   },
   {
@@ -6121,7 +6143,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOTORRENT202129AL"
   },
   {
@@ -6152,7 +6174,7 @@
     "brand": "Norco",
     "model": "Fluid FS",
     "year_from": 2023,
-    "year_to": 2027,
+    "year_to": 2026,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -7667,7 +7689,7 @@
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
   },
   {
@@ -7679,7 +7701,7 @@
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
   },
   {
@@ -7691,7 +7713,7 @@
     "size": "S5",
     "frame_material": "Alloy",
     "wheel_size": "27/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOSIGHTVLTA20262729AS5"
   },
   {
@@ -7830,7 +7852,7 @@
     "brand": "Norco",
     "model": "Fluid FS",
     "year_from": 2023,
-    "year_to": 2027,
+    "year_to": 2026,
     "size": "XXL",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -8322,7 +8344,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOFLUIDFSYOUTH202327AONESIZE"
   },
   {
@@ -8333,7 +8355,7 @@
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "27",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWNORCOFLUIDFSYOUTH202627AONESIZE"
   },
   {

@@ -44,5 +44,17 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWSOMAJUICEV1201229S175"
+  },
+  {
+    "brand": "Soma",
+    "model": "Wolverine",
+    "sub_model": "Type A V4",
+    "year_from": 2020,
+    "year_to": 2027,
+    "size": "56",
+    "frame_material": "Steel",
+    "wheel_size": "700/650",
+    "design_status": "Designed",
+    "kit_product_sku": "RWSOMWOL20227006SML"
   }
 ]

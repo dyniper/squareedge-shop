@@ -1,14 +1,14 @@
 [
   {
     "brand": "Revel",
-    "model": "Rascal",
+    "model": "Rail",
     "year_from": 2020,
-    "year_to": 2023,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
-    "wheel_size": "29",
+    "wheel_size": "27",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVRAS202029CS0"
+    "kit_product_sku": "RWREVELRAIL202027CS"
   },
   {
     "brand": "Revel",
@@ -23,9 +23,64 @@
   },
   {
     "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAN202029CS0"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRANGER202329CS"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2025,
+    "year_to": 2026,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRANGER202529CS"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRANGER202629CS"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAS202029CS0"
+  },
+  {
+    "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2027,
+    "year_to": 2024,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -34,7 +89,7 @@
   },
   {
     "brand": "Revel",
-    "model": "Rascal SL",
+    "model": "Rascal",
     "year_from": 2025,
     "year_to": 2027,
     "size": "S",
@@ -45,25 +100,14 @@
   },
   {
     "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2020,
-    "year_to": 2024,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "27",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRAIL202027CS"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2020,
-    "year_to": 2022,
+    "model": "Rascal",
+    "year_from": 2026,
+    "year_to": 2027,
     "size": "S",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVRAN202029CS0"
+    "kit_product_sku": "RWREVRAS202629CS0"
   },
   {
     "brand": "Revel",
@@ -89,105 +133,6 @@
   },
   {
     "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRANGER202529CS"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2024,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRANGER202329CS"
-  },
-  {
-    "brand": "Revel",
-    "model": "ReRun",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRERUN20252729CM"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2020,
-    "year_to": 2023,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVRAS202029CM0"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2025,
-    "year_to": 2026,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRANGER202529CM"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2024,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRASCAL202429CM"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal SL",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRASCALSL202529CM"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ritual",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRITUAL20252729CM"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2023,
-    "year_to": 2024,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRANGER202329CM"
-  },
-  {
-    "brand": "Revel",
     "model": "Rail",
     "year_from": 2020,
     "year_to": 2024,
@@ -196,17 +141,6 @@
     "wheel_size": "27",
     "design_status": "Designed",
     "kit_product_sku": "RWREVRAI202027CM0"
-  },
-  {
-    "brand": "Revel",
-    "model": "Ranger",
-    "year_from": 2020,
-    "year_to": 2022,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVRAN202029CM0"
   },
   {
     "brand": "Revel",
@@ -221,25 +155,113 @@
   },
   {
     "brand": "Revel",
-    "model": "Ritual",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVELRITUAL202529CL"
+    "kit_product_sku": "RWREVRAN202029CM0"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2023,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRANGER202329CM"
   },
   {
     "brand": "Revel",
     "model": "Ranger",
     "year_from": 2025,
     "year_to": 2026,
-    "size": "L",
+    "size": "M",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVELRANGER202529CL"
+    "kit_product_sku": "RWREVELRANGER202529CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRANGER202629CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAS202029CM0"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCAL202429CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCALSL202529CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCALSL202629CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRERUN20252729CM"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRITUAL20252729CM"
   },
   {
     "brand": "Revel",
@@ -254,17 +276,6 @@
   },
   {
     "brand": "Revel",
-    "model": "ReRun",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "27/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRERUN20252729CL"
-  },
-  {
-    "brand": "Revel",
     "model": "Rail",
     "year_from": 2022,
     "year_to": 2027,
@@ -273,28 +284,6 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWREVELRAIL202229CL"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal SL",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRASCALSL202529CL"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2024,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRASCAL202429CL"
   },
   {
     "brand": "Revel",
@@ -309,17 +298,6 @@
   },
   {
     "brand": "Revel",
-    "model": "Rascal",
-    "year_from": 2020,
-    "year_to": 2023,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVRAS202029CL0"
-  },
-  {
-    "brand": "Revel",
     "model": "Ranger",
     "year_from": 2023,
     "year_to": 2024,
@@ -331,25 +309,124 @@
   },
   {
     "brand": "Revel",
-    "model": "ReRun",
+    "model": "Ranger",
     "year_from": 2025,
-    "year_to": 2027,
-    "size": "XL",
+    "year_to": 2026,
+    "size": "L",
     "frame_material": "Carbon",
-    "wheel_size": "27/29",
+    "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVELRERUN20252729CXL"
+    "kit_product_sku": "RWREVELRANGER202529CL"
   },
   {
     "brand": "Revel",
-    "model": "Wayward",
-    "year_from": 2023,
+    "model": "Ranger",
+    "year_from": 2026,
     "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Titanium",
+    "size": "L",
+    "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVELWAYWARD202329TIXL"
+    "kit_product_sku": "RWREVELRANGER202629CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2020,
+    "year_to": 2023,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAS202029CL0"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2024,
+    "year_to": 2024,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCAL202429CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCALSL202529CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRASCALSL202629CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRERUN20252729CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ritual",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRITUAL202529CL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2020,
+    "year_to": 2024,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAI202027CXL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rail",
+    "year_from": 2022,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRAIL202229CXL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Ranger",
+    "year_from": 2020,
+    "year_to": 2022,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAN202029CXL"
   },
   {
     "brand": "Revel",
@@ -376,13 +453,13 @@
   {
     "brand": "Revel",
     "model": "Ranger",
-    "year_from": 2020,
-    "year_to": 2022,
+    "year_from": 2026,
+    "year_to": 2027,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWREVRAN202029CXL"
+    "kit_product_sku": "RWREVELRANGER202629CXL"
   },
   {
     "brand": "Revel",
@@ -397,20 +474,9 @@
   },
   {
     "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2022,
-    "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVELRAIL202229CXL"
-  },
-  {
-    "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2027,
+    "year_to": 2024,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -419,18 +485,7 @@
   },
   {
     "brand": "Revel",
-    "model": "Rail",
-    "year_from": 2020,
-    "year_to": 2024,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "27",
-    "design_status": "Designed",
-    "kit_product_sku": "RWREVRAI202027CXL"
-  },
-  {
-    "brand": "Revel",
-    "model": "Rascal SL",
+    "model": "Rascal",
     "year_from": 2025,
     "year_to": 2027,
     "size": "XL",
@@ -438,6 +493,28 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWREVELRASCALSL202529CXL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAS202629CXL"
+  },
+  {
+    "brand": "Revel",
+    "model": "ReRun",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELRERUN20252729CXL"
   },
   {
     "brand": "Revel",
@@ -452,9 +529,20 @@
   },
   {
     "brand": "Revel",
+    "model": "Wayward",
+    "year_from": 2023,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Titanium",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVELWAYWARD202329TIXL"
+  },
+  {
+    "brand": "Revel",
     "model": "Rascal",
     "year_from": 2024,
-    "year_to": 2027,
+    "year_to": 2024,
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
@@ -463,7 +551,7 @@
   },
   {
     "brand": "Revel",
-    "model": "Rascal SL",
+    "model": "Rascal",
     "year_from": 2025,
     "year_to": 2027,
     "size": "XXL",
@@ -471,6 +559,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWREVELRASCALSL202529CXXL"
+  },
+  {
+    "brand": "Revel",
+    "model": "Rascal",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWREVRAS202629CXXL"
   },
   {
     "brand": "Revel",

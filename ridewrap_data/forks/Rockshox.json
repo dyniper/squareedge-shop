@@ -340,7 +340,7 @@
     "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWROCKSHOXZEB202627",
-    "design_status": "Measured"
+    "design_status": "Designed"
   },
   {
     "brand": "Rockshox",
@@ -350,7 +350,7 @@
     "year_to": 2027,
     "wheel_size": "27",
     "kit_product_sku": "RWROCKSHOXLYRIK202627",
-    "design_status": "Measured"
+    "design_status": "Designed"
   },
   {
     "brand": "Rockshox",
@@ -825,7 +825,7 @@
     "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXDOMAIN202529",
-    "design_status": "Measured"
+    "design_status": "Designed"
   },
   {
     "brand": "Rockshox",
@@ -835,7 +835,7 @@
     "year_to": 2027,
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXDOMAIN202529",
-    "design_status": "Measured"
+    "design_status": "Designed"
   },
   {
     "brand": "Rockshox",
@@ -885,5 +885,25 @@
     "wheel_size": "29",
     "kit_product_sku": "RWROCKSHOXBOXXER202629",
     "design_status": "Designed"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select",
+    "year_from": 2026,
+    "year_to": 2027,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202629",
+    "design_status": "Measured"
+  },
+  {
+    "brand": "Rockshox",
+    "model": "Zeb",
+    "sub_model": "Select+",
+    "year_from": 2026,
+    "year_to": 2027,
+    "wheel_size": "29",
+    "kit_product_sku": "RWROCKSHOXZEB202629",
+    "design_status": "Measured"
   }
 ]

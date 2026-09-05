@@ -25,6 +25,30 @@
   },
   {
     "brand": "Amflow",
+    "model": "PR",
+    "sub_model": "Carbon",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPR2026MX29CM"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PR",
+    "sub_model": "Carbon Pro",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPR2026MX29CM"
+  },
+  {
+    "brand": "Amflow",
     "model": "PX",
     "sub_model": "Carbon Pro",
     "year_from": 2026,
@@ -49,30 +73,6 @@
   },
   {
     "brand": "Amflow",
-    "model": "PR",
-    "sub_model": "Carbon",
-    "year_from": 2026,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWAMFLOWPR2026MX29CM"
-  },
-  {
-    "brand": "Amflow",
-    "model": "PR",
-    "sub_model": "Carbon Pro",
-    "year_from": 2026,
-    "year_to": 2027,
-    "size": "M",
-    "frame_material": "Carbon",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWAMFLOWPR2026MX29CM"
-  },
-  {
-    "brand": "Amflow",
     "model": "PL",
     "sub_model": "Carbon Pro",
     "year_from": 2025,
@@ -85,6 +85,29 @@
   },
   {
     "brand": "Amflow",
+    "model": "PL",
+    "sub_model": "Carbon",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPL2025MX29CL"
+  },
+  {
+    "brand": "Amflow",
+    "model": "TL",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "S&M",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWAMFLOWTL20272729CSM"
+  },
+  {
+    "brand": "Amflow",
     "model": "PR",
     "sub_model": "Carbon",
     "year_from": 2026,
@@ -92,7 +115,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWAMFLOWPR2026MX29CL"
   },
   {
@@ -104,20 +127,8 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWAMFLOWPR2026MX29CL"
-  },
-  {
-    "brand": "Amflow",
-    "model": "PL",
-    "sub_model": "Carbon",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "MX/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWAMFLOWPL2025MX29CL"
+    "kit_product_sku": "RWAMFLOWPR2026MX29CL"
   },
   {
     "brand": "Amflow",
@@ -145,31 +156,43 @@
   },
   {
     "brand": "Amflow",
-    "model": "PR",
+    "model": "PX",
+    "sub_model": "Carbon Pro",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPX2026MX29CXL"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PX",
     "sub_model": "Carbon",
     "year_from": 2026,
     "year_to": 2027,
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWAMFLOWPX2026MX29CXL"
+  },
+  {
+    "brand": "Amflow",
+    "model": "PR",
+    "sub_model": "Carbon Pro",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
     "kit_product_sku": "RWAMFLOWPR2026MX29CXL"
   },
   {
     "brand": "Amflow",
-    "model": "PX",
-    "sub_model": "Carbon Pro",
-    "year_from": 2026,
-    "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "MX/29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWAMFLOWPX2026MX29CXL"
-  },
-  {
-    "brand": "Amflow",
-    "model": "PX",
+    "model": "PR",
     "sub_model": "Carbon",
     "year_from": 2026,
     "year_to": 2027,
@@ -177,18 +200,6 @@
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
     "design_status": "Designed",
-    "kit_product_sku": "RWAMFLOWPX2026MX29CXL"
-  },
-  {
-    "brand": "Amflow",
-    "model": "PR",
-    "sub_model": "Carbon Pro",
-    "year_from": 2026,
-    "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "MX/29",
-    "design_status": "Measured",
     "kit_product_sku": "RWAMFLOWPR2026MX29CXL"
   },
   {

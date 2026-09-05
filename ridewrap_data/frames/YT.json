@@ -1092,6 +1092,42 @@
   },
   {
     "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 2",
+    "year_from": 2024,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CS"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 4",
+    "year_from": 2024,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CS"
+  },
+  {
+    "brand": "YT",
+    "model": "Tues",
+    "sub_model": "Core 3",
+    "year_from": 2024,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTTUES20242729CS"
+  },
+  {
+    "brand": "YT",
     "model": "Capra",
     "sub_model": "Base",
     "year_from": 2018,
@@ -1857,6 +1893,66 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWYTDECOYSN20242729CM"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Launch Edition",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AM"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 4",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AM"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 3",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AM"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 2",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AM"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 1",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AM"
   },
   {
     "brand": "YT",
@@ -3380,6 +3476,66 @@
     "wheel_size": "27/29",
     "design_status": "Designed",
     "kit_product_sku": "RWYTDECOYSN20242729CL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Launch Edition",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 4",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 3",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 2",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 1",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AL"
   },
   {
     "brand": "YT",
@@ -4929,6 +5085,66 @@
   },
   {
     "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Launch Edition",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 4",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 3",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 2",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 1",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXL"
+  },
+  {
+    "brand": "YT",
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
@@ -6189,6 +6405,66 @@
   },
   {
     "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Launch Edition",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 4",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 3",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 2",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXXL"
+  },
+  {
+    "brand": "YT",
+    "model": "Decoy X",
+    "sub_model": "Core 1",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XXL",
+    "frame_material": "Alloy",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWYTDECOYX20262729AXXL"
+  },
+  {
+    "brand": "YT",
     "model": "Izzo",
     "sub_model": "Launch",
     "year_from": 2020,
@@ -6747,7 +7023,7 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWYTTUES202429CXXL"
   },
   {
@@ -6759,7 +7035,7 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWYTTUES202429CXXL"
   },
   {
@@ -6771,7 +7047,7 @@
     "size": "XXL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWYTTUES202429CXXL"
   }
 ]

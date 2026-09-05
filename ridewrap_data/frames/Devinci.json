@@ -164,7 +164,7 @@
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTAN2026MX29AS"
   },
   {
@@ -454,7 +454,7 @@
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTAN2026MX29AM"
   },
   {
@@ -831,7 +831,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWDEVINCITROY2025MX29CL"
   },
   {
@@ -842,7 +842,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWDEVINCITROYST202529AL"
   },
   {
@@ -1044,7 +1044,7 @@
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWDEVINCISPARTAN2026MX29AXL"
   },
   {

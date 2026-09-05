@@ -1,0 +1,35 @@
+[
+  {
+    "brand": "RMU",
+    "model": "Nighttrain",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S1",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRMUNIGHTTRAIN202629AS1"
+  },
+  {
+    "brand": "RMU",
+    "model": "Nighttrain",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S2",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRMUNIGHTTRAIN202629AS2"
+  },
+  {
+    "brand": "RMU",
+    "model": "Nighttrain",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S3",
+    "frame_material": "Alloy",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWRMUNIGHTTRAIN202629AS3"
+  }
+]

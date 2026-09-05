@@ -23,15 +23,14 @@
   },
   {
     "brand": "MMR",
-    "model": "Rakish",
-    "sub_model": "SL",
-    "year_from": 2021,
+    "model": "Kaizen",
+    "year_from": 2024,
     "year_to": 2027,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWMMRRAKISH202129CL"
+    "design_status": "Designed",
+    "kit_product_sku": "RWMMRKAIZEN202429CL"
   },
   {
     "brand": "MMR",
@@ -47,13 +46,14 @@
   },
   {
     "brand": "MMR",
-    "model": "Kaizen",
-    "year_from": 2024,
+    "model": "Rakish",
+    "sub_model": "SL",
+    "year_from": 2021,
     "year_to": 2027,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWMMRKAIZEN202429CL"
+    "design_status": "Measured",
+    "kit_product_sku": "RWMMRRAKISH202129CL"
   }
 ]

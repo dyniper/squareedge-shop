@@ -981,7 +981,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -993,7 +993,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "S",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -2585,7 +2585,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -2597,7 +2597,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "M",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -3423,7 +3423,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTANTHEMXADVANCEDSL202629CL"
   },
   {
@@ -3435,7 +3435,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTANTHEMXADVANCEDSL202629CL"
   },
   {
@@ -3447,7 +3447,7 @@
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTANTHEMXADVANCEDSL202629CL"
   },
   {
@@ -4230,7 +4230,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTSTANCEEPLUS202629AL"
   },
   {
@@ -4242,7 +4242,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTSTANCEEPLUS202629AL"
   },
   {
@@ -4254,7 +4254,7 @@
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWGIANTSTANCEEPLUS202629AL"
   },
   {
@@ -4500,7 +4500,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -4512,7 +4512,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "L",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -5893,7 +5893,7 @@
     "model": "Trance",
     "sub_model": "1",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -5905,7 +5905,7 @@
     "model": "Trance",
     "sub_model": "2",
     "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "XL",
     "frame_material": "Alloy",
     "wheel_size": "29",
@@ -6313,21 +6313,9 @@
   {
     "brand": "Giant",
     "model": "Talon E+",
-    "sub_model": "24",
+    "sub_model": "Kids",
     "year_from": 2022,
-    "year_to": 2027,
-    "size": "ONESIZE",
-    "frame_material": "Alloy",
-    "wheel_size": "24/26",
-    "design_status": "Measured",
-    "kit_product_sku": "RWGIANTTALONEPLUS20222426AONESIZE"
-  },
-  {
-    "brand": "Giant",
-    "model": "Talon E+",
-    "sub_model": "26",
-    "year_from": 2022,
-    "year_to": 2027,
+    "year_to": 2025,
     "size": "ONESIZE",
     "frame_material": "Alloy",
     "wheel_size": "24/26",

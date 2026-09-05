@@ -13,17 +13,6 @@
   },
   {
     "brand": "Forestal",
-    "model": "Hydra",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "S",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWFORESTALHYDRA202129CS"
-  },
-  {
-    "brand": "Forestal",
     "model": "Cyon",
     "year_from": 2021,
     "year_to": 2027,
@@ -32,6 +21,17 @@
     "wheel_size": "29",
     "design_status": "Measured",
     "kit_product_sku": "RWFORESTALCYON202129CS"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Hydra",
+    "year_from": 2021,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALHYDRA202129CS"
   },
   {
     "brand": "Forestal",
@@ -68,6 +68,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWFORESTALSIRYON202029CM"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Nova",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "F2 (M)",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALNOVA2027MX29CF2M"
   },
   {
     "brand": "Forestal",
@@ -130,26 +141,72 @@
   {
     "brand": "Forestal",
     "model": "E-Siryon",
-    "sub_model": "Halo",
-    "year_from": 2026,
-    "year_to": 2027,
-    "size": "F3 (L)",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWFORESTALESIRYON202629CF3L"
-  },
-  {
-    "brand": "Forestal",
-    "model": "E-Siryon",
     "sub_model": "Diode",
     "year_from": 2026,
     "year_to": 2027,
     "size": "F3 (L)",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWFORESTALESIRYON202629CF3L"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cygnus",
+    "sub_model": "Non-assisted",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALCYGNUS202429CL"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Non-assisted",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALSIRYON202429CL"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cyon",
+    "year_from": 2021,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALCYON202129AL"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Siryon",
+    "sub_model": "Pedal Assisted",
+    "year_from": 2020,
+    "year_to": 2025,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWFORESTALSIRYON202029CL"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Nova",
+    "year_from": 2027,
+    "year_to": 2027,
+    "size": "F3 (L)",
+    "frame_material": "Carbon",
+    "wheel_size": "27/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALNOVA2027MX29CF3L"
   },
   {
     "brand": "Forestal",
@@ -176,73 +233,15 @@
   },
   {
     "brand": "Forestal",
-    "model": "Siryon",
-    "sub_model": "Pedal Assisted",
-    "year_from": 2020,
-    "year_to": 2025,
-    "size": "L",
+    "model": "E-Siryon",
+    "sub_model": "Halo",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "F3 (L)",
     "frame_material": "Carbon",
     "wheel_size": "29",
     "design_status": "Designed",
-    "kit_product_sku": "RWFORESTALSIRYON202029CL"
-  },
-  {
-    "brand": "Forestal",
-    "model": "Cyon",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORESTALCYON202129AL"
-  },
-  {
-    "brand": "Forestal",
-    "model": "Siryon",
-    "sub_model": "Non-assisted",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWFORESTALSIRYON202429CL"
-  },
-  {
-    "brand": "Forestal",
-    "model": "Cygnus",
-    "sub_model": "Non-assisted",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "L",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Designed",
-    "kit_product_sku": "RWFORESTALCYGNUS202429CL"
-  },
-  {
-    "brand": "Forestal",
-    "model": "E-Cygnus",
-    "sub_model": "Pedal Assisted",
-    "year_from": 2025,
-    "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWFORESTALECYGNUIS202429CXL"
-  },
-  {
-    "brand": "Forestal",
-    "model": "Cyon",
-    "year_from": 2021,
-    "year_to": 2027,
-    "size": "XL",
-    "frame_material": "Carbon",
-    "wheel_size": "29",
-    "design_status": "Measured",
-    "kit_product_sku": "RWFORESTALCYON202129CXL"
+    "kit_product_sku": "RWFORESTALESIRYON202629CF3L"
   },
   {
     "brand": "Forestal",
@@ -254,6 +253,17 @@
     "wheel_size": "29",
     "design_status": "Designed",
     "kit_product_sku": "RWFORESTALHYDRA202129CXL"
+  },
+  {
+    "brand": "Forestal",
+    "model": "Cyon",
+    "year_from": 2021,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALCYON202129CXL"
   },
   {
     "brand": "Forestal",
@@ -281,6 +291,18 @@
   },
   {
     "brand": "Forestal",
+    "model": "E-Cygnus",
+    "sub_model": "Pedal Assisted",
+    "year_from": 2025,
+    "year_to": 2027,
+    "size": "XL",
+    "frame_material": "Carbon",
+    "wheel_size": "29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWFORESTALECYGNUIS202429CXL"
+  },
+  {
+    "brand": "Forestal",
     "model": "Siryon",
     "sub_model": "Non-assisted",
     "year_from": 2025,
@@ -288,7 +310,7 @@
     "size": "XL",
     "frame_material": "Carbon",
     "wheel_size": "29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWFORESTALSIRYON202429CXL"
   }
 ]

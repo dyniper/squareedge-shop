@@ -125,6 +125,42 @@
   },
   {
     "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "HD",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CS"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "TR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CS"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "S",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CS"
+  },
+  {
+    "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2019,
     "year_to": 2022,
@@ -274,7 +310,7 @@
     "size": "Small",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPMOAF2026MX29ASMALL"
   },
   {
@@ -403,6 +439,42 @@
   },
   {
     "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "HD",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "TR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "M",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Measured",
+    "kit_product_sku": "RWIBISOSO2026MX29CM"
+  },
+  {
+    "brand": "Ibis",
     "model": "Ripley",
     "year_from": 2019,
     "year_to": 2022,
@@ -475,7 +547,7 @@
     "size": "Medium",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPLEYAF2026MX29AMEDIUM"
   },
   {
@@ -693,12 +765,37 @@
   {
     "brand": "Ibis",
     "model": "Oso",
+    "sub_model": "HD",
     "year_from": 2026,
     "year_to": 2027,
     "size": "XM",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISOSO2026MX29CXM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "TR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XM",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISOSO2026MX29CXM"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "XM",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISOSO2026MX29CXM"
   },
   {
@@ -775,7 +872,7 @@
     "size": "Large",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPLEYAF2026MX29ALARGE"
   },
   {
@@ -993,12 +1090,37 @@
   {
     "brand": "Ibis",
     "model": "Oso",
+    "sub_model": "HD",
     "year_from": 2026,
     "year_to": 2027,
     "size": "L",
     "frame_material": "Carbon",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISOSO2026MX29CL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "TR",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
+    "kit_product_sku": "RWIBISOSO2026MX29CL"
+  },
+  {
+    "brand": "Ibis",
+    "model": "Oso",
+    "sub_model": "S",
+    "year_from": 2026,
+    "year_to": 2027,
+    "size": "L",
+    "frame_material": "Carbon",
+    "wheel_size": "MX/29",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISOSO2026MX29CL"
   },
   {
@@ -1218,7 +1340,7 @@
     "size": "Extra Medium",
     "frame_material": "Alloy",
     "wheel_size": "MX/29",
-    "design_status": "Measured",
+    "design_status": "Designed",
     "kit_product_sku": "RWIBISRIPLEYAF2026MX29AEXTRAMEDIUM"
   },
   {
